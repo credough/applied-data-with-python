@@ -8,6 +8,7 @@ df = pd.read_csv("01_etl_basics/employees.csv")
 #transform
 
 df["salary_monthly"] = df["salary"] / 12
+df["salary_every_15"] = df["salary"] / 24
 df["hire_date"] = pd.to_datetime(df["hire_date"])
 df = df[df["salary"] > 60000]
 
