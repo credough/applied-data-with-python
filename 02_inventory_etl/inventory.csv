@@ -1,0 +1,13 @@
+product_id,product_name,category,stock_quantity,unit_price,reorder_level,supplier,date_added
+1,Wireless Mouse,Electronics,120,899.00,30,TechSupply PH,2023-01-10
+2,Mechanical Keyboard,Electronics,45,2499.00,20,TechSupply PH,2023-01-15
+3,Ballpen Box,Office Supplies,500,120.00,100,OfficeWorld,2023-02-01
+4,Notebook A5,Office Supplies,300,85.00,50,OfficeWorld,2023-02-05
+5,USB-C Hub,Electronics,15,1299.00,25,TechSupply PH,2023-03-10
+6,Whiteboard Marker,Office Supplies,80,45.00,150,OfficeWorld,2023-03-15
+7,Laptop Stand,Electronics,60,1899.00,20,TechSupply PH,2023-04-01
+8,Stapler,Office Supplies,25,199.00,30,OfficeWorld,2023-04-10
+9,Webcam HD,Electronics,10,2899.00,15,TechSupply PH,2023-05-05
+10,Sticky Notes Pack,Office Supplies,400,55.00,100,OfficeWorld,2023-05-20
+11,Monitor 24in,Electronics,8,12999.00,10,TechSupply PH,2023-06-01
+12,Desk Organizer,Office Supplies,55,349.00,25,OfficeWorld,2023-06-15
