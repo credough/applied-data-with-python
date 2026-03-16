@@ -16,14 +16,15 @@
 - Filtered out any out-of-stock products
 
 **How to run:**
-\`\`\`
+```bash
 pip install pandas sqlalchemy
 python pipeline.py
-\`\`\`
+```
 
 **Key concept learned:**
 In pandas, filtering rows replaces if/else. Instead of checking one value,
 you check an entire column at once and keep only the rows that match the condition.
-\`\`\`python
+
+```bash
 df[df["needs_reorder"] == True]
-\`\`\`
+```
