@@ -1,0 +1,6 @@
+supplier_id,supplier_name,city,email,phone,specialty
+1,TechSupply PH,Manila,tech@techsupply.ph,02-8888-1111,Electronics
+2,OfficeWorld Inc.,Quezon City,sales@officeworld.ph,02-8888-2222,Office Supplies
+3,FurniturePlus,Cebu City,info@furnitureplus.ph,032-888-3333,Furniture
+4,PrintMaster PH,Makati,orders@printmaster.ph,02-8888-4444,Office Supplies
+5,GadgetHub PH,Pasig,hello@gadgethub.ph,02-8888-5555,Electronics

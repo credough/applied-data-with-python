@@ -1,0 +1,1001 @@
+product_id,product_name,category,supplier_id,unit_price,stock_quantity,reorder_level,date_added
+1,Wireless Mouse,Electronics,1,943,46,22,2022-06-03
+2,Mechanical Keyboard,Electronics,1,2487,154,15,2022-07-08
+3,USB-C Hub,Electronics,1,1309,45,32,2023-11-10
+4,Webcam HD,Electronics,1,2913,276,34,2023-02-02
+5,Monitor 24in,Electronics,1,13017,207,30,2023-03-16
+6,HDMI Cable,Electronics,5,429,395,50,2022-02-11
+7,Ethernet Cable,Electronics,5,314,131,12,2022-08-25
+8,Ballpen Box,Office Supplies,2,129,361,10,2023-08-08
+9,Notebook A5,Office Supplies,2,83,429,24,2022-02-23
+10,Whiteboard Marker,Office Supplies,2,77,118,15,2023-05-30
+11,Stapler,Office Supplies,2,178,382,37,2022-07-19
+12,Sticky Notes Pack,Office Supplies,2,26,391,23,2023-02-25
+13,Folder Set,Office Supplies,4,113,156,31,2022-01-09
+14,Paper Ream,Office Supplies,4,271,422,36,2022-11-14
+15,Toner Cartridge,Office Supplies,4,1879,185,49,2022-07-27
+16,Ink Cartridge,Office Supplies,4,777,239,21,2022-06-18
+17,Office Chair,Furniture,3,9005,158,45,2022-06-15
+18,Standing Desk,Furniture,3,15965,107,29,2023-10-14
+19,Filing Cabinet,Furniture,3,5023,423,36,2023-04-26
+20,Bookshelf,Furniture,3,3533,308,16,2023-02-13
+21,Laptop Stand,Electronics,5,1856,456,15,2022-09-18
+22,Phone Holder,Electronics,5,389,417,26,2022-11-02
+23,LED Desk Lamp,Electronics,5,1325,138,18,2022-03-27
+24,USB Fan,Electronics,5,611,212,38,2023-05-24
+25,Screen Cleaner Kit,Electronics,5,219,35,40,2022-09-26
+26,Wireless Mouse,Electronics,1,877,181,17,2022-10-15
+27,Mechanical Keyboard,Electronics,1,2509,200,45,2023-03-10
+28,USB-C Hub,Electronics,1,1284,302,21,2023-10-13
+29,Webcam HD,Electronics,1,2942,29,25,2023-10-15
+30,Monitor 24in,Electronics,1,13039,181,36,2022-11-27
+31,HDMI Cable,Electronics,5,349,180,45,2023-10-18
+32,Ethernet Cable,Electronics,5,274,18,32,2023-11-15
+33,Ballpen Box,Office Supplies,2,137,250,30,2023-04-26
+34,Notebook A5,Office Supplies,2,69,149,43,2023-02-20
+35,Whiteboard Marker,Office Supplies,2,79,330,41,2022-08-02
+36,Stapler,Office Supplies,2,218,481,25,2022-07-08
+37,Sticky Notes Pack,Office Supplies,2,79,106,32,2023-04-02
+38,Folder Set,Office Supplies,4,189,331,41,2022-01-11
+39,Paper Ream,Office Supplies,4,306,24,45,2022-04-11
+40,Toner Cartridge,Office Supplies,4,1910,258,26,2022-07-06
+41,Ink Cartridge,Office Supplies,4,803,108,36,2022-05-05
+42,Office Chair,Furniture,3,9014,100,28,2022-07-30
+43,Standing Desk,Furniture,3,16009,14,50,2022-08-15
+44,Filing Cabinet,Furniture,3,5027,413,46,2023-05-03
+45,Bookshelf,Furniture,3,3452,484,23,2023-03-12
+46,Laptop Stand,Electronics,5,1860,185,38,2022-10-07
+47,Phone Holder,Electronics,5,419,218,32,2023-03-14
+48,LED Desk Lamp,Electronics,5,1256,201,30,2022-03-20
+49,USB Fan,Electronics,5,567,429,18,2023-03-21
+50,Screen Cleaner Kit,Electronics,5,241,12,15,2023-07-03
+51,Wireless Mouse,Electronics,1,855,28,27,2023-01-08
+52,Mechanical Keyboard,Electronics,1,2457,439,50,2023-07-22
+53,USB-C Hub,Electronics,1,1341,215,44,2022-09-05
+54,Webcam HD,Electronics,1,2859,11,42,2023-04-02
+55,Monitor 24in,Electronics,1,13036,19,32,2023-03-15
+56,HDMI Cable,Electronics,5,413,418,10,2023-02-23
+57,Ethernet Cable,Electronics,5,268,469,24,2022-09-24
+58,Ballpen Box,Office Supplies,2,159,69,46,2023-09-22
+59,Notebook A5,Office Supplies,2,121,146,44,2023-06-13
+60,Whiteboard Marker,Office Supplies,2,83,256,27,2023-07-10
+61,Stapler,Office Supplies,2,219,32,35,2023-05-01
+62,Sticky Notes Pack,Office Supplies,2,71,11,30,2022-05-05
+63,Folder Set,Office Supplies,4,176,307,16,2023-11-29
+64,Paper Ream,Office Supplies,4,239,20,50,2022-11-06
+65,Toner Cartridge,Office Supplies,4,1860,119,21,2023-10-29
+66,Ink Cartridge,Office Supplies,4,752,246,38,2022-09-18
+67,Office Chair,Furniture,3,9019,40,34,2022-03-06
+68,Standing Desk,Furniture,3,15953,73,41,2023-02-10
+69,Filing Cabinet,Furniture,3,4958,170,36,2022-04-27
+70,Bookshelf,Furniture,3,3526,31,14,2023-08-01
+71,Laptop Stand,Electronics,5,1862,419,47,2023-08-10
+72,Phone Holder,Electronics,5,376,242,29,2022-10-26
+73,LED Desk Lamp,Electronics,5,1342,393,49,2023-02-09
+74,USB Fan,Electronics,5,592,14,21,2022-05-25
+75,Screen Cleaner Kit,Electronics,5,152,247,32,2023-05-05
+76,Wireless Mouse,Electronics,1,941,393,18,2022-09-28
+77,Mechanical Keyboard,Electronics,1,2541,241,47,2023-06-27
+78,USB-C Hub,Electronics,1,1255,170,16,2023-10-03
+79,Webcam HD,Electronics,1,2933,289,49,2022-11-29
+80,Monitor 24in,Electronics,1,12983,479,39,2022-11-04
+81,HDMI Cable,Electronics,5,361,300,26,2023-05-05
+82,Ethernet Cable,Electronics,5,263,338,32,2022-08-25
+83,Ballpen Box,Office Supplies,2,87,369,49,2022-04-09
+84,Notebook A5,Office Supplies,2,83,167,10,2023-04-05
+85,Whiteboard Marker,Office Supplies,2,75,267,45,2022-06-25
+86,Stapler,Office Supplies,2,248,208,16,2022-09-20
+87,Sticky Notes Pack,Office Supplies,2,34,400,15,2023-06-15
+88,Folder Set,Office Supplies,4,183,340,11,2022-02-26
+89,Paper Ream,Office Supplies,4,305,191,10,2023-02-22
+90,Toner Cartridge,Office Supplies,4,1891,377,40,2022-03-05
+91,Ink Cartridge,Office Supplies,4,819,105,25,2022-09-04
+92,Office Chair,Furniture,3,9019,102,33,2023-04-30
+93,Standing Desk,Furniture,3,15957,262,31,2023-06-03
+94,Filing Cabinet,Furniture,3,5044,283,11,2023-01-01
+95,Bookshelf,Furniture,3,3528,494,35,2023-06-07
+96,Laptop Stand,Electronics,5,1887,127,10,2022-11-16
+97,Phone Holder,Electronics,5,400,500,29,2022-01-01
+98,LED Desk Lamp,Electronics,5,1339,141,15,2023-09-28
+99,USB Fan,Electronics,5,647,299,50,2023-10-14
+100,Screen Cleaner Kit,Electronics,5,186,73,28,2022-12-19
+101,Wireless Mouse,Electronics,1,886,162,19,2022-03-18
+102,Mechanical Keyboard,Electronics,1,2515,10,16,2023-04-05
+103,USB-C Hub,Electronics,1,1343,68,34,2022-11-12
+104,Webcam HD,Electronics,1,2886,68,32,2023-04-02
+105,Monitor 24in,Electronics,1,12998,114,36,2023-10-05
+106,HDMI Cable,Electronics,5,409,271,26,2022-10-05
+107,Ethernet Cable,Electronics,5,281,392,37,2022-02-09
+108,Ballpen Box,Office Supplies,2,153,207,17,2023-06-09
+109,Notebook A5,Office Supplies,2,123,152,26,2022-04-09
+110,Whiteboard Marker,Office Supplies,2,22,300,31,2023-06-25
+111,Stapler,Office Supplies,2,234,369,32,2022-06-20
+112,Sticky Notes Pack,Office Supplies,2,100,498,28,2022-11-01
+113,Folder Set,Office Supplies,4,197,175,25,2022-07-20
+114,Paper Ream,Office Supplies,4,238,159,32,2023-06-21
+115,Toner Cartridge,Office Supplies,4,1946,450,45,2022-03-18
+116,Ink Cartridge,Office Supplies,4,766,388,23,2023-02-25
+117,Office Chair,Furniture,3,9040,128,41,2023-08-21
+118,Standing Desk,Furniture,3,16002,139,30,2023-08-30
+119,Filing Cabinet,Furniture,3,5003,409,39,2022-12-31
+120,Bookshelf,Furniture,3,3497,203,48,2022-10-24
+121,Laptop Stand,Electronics,5,1858,417,48,2022-11-19
+122,Phone Holder,Electronics,5,402,348,43,2022-08-10
+123,LED Desk Lamp,Electronics,5,1286,224,12,2023-04-13
+124,USB Fan,Electronics,5,622,231,40,2023-08-30
+125,Screen Cleaner Kit,Electronics,5,164,25,49,2022-08-26
+126,Wireless Mouse,Electronics,1,927,188,22,2022-04-11
+127,Mechanical Keyboard,Electronics,1,2481,326,14,2022-06-23
+128,USB-C Hub,Electronics,1,1315,355,23,2022-12-06
+129,Webcam HD,Electronics,1,2922,352,44,2022-05-16
+130,Monitor 24in,Electronics,1,13033,309,43,2022-09-23
+131,HDMI Cable,Electronics,5,393,359,23,2023-02-16
+132,Ethernet Cable,Electronics,5,324,158,16,2022-10-19
+133,Ballpen Box,Office Supplies,2,111,91,25,2022-12-10
+134,Notebook A5,Office Supplies,2,134,288,30,2022-09-05
+135,Whiteboard Marker,Office Supplies,2,26,298,31,2022-06-24
+136,Stapler,Office Supplies,2,219,497,50,2023-03-12
+137,Sticky Notes Pack,Office Supplies,2,49,6,22,2023-10-15
+138,Folder Set,Office Supplies,4,200,326,21,2023-10-17
+139,Paper Ream,Office Supplies,4,272,210,27,2023-01-27
+140,Toner Cartridge,Office Supplies,4,1944,141,22,2023-10-30
+141,Ink Cartridge,Office Supplies,4,837,200,29,2022-06-12
+142,Office Chair,Furniture,3,8991,258,16,2023-01-15
+143,Standing Desk,Furniture,3,15953,311,32,2023-05-20
+144,Filing Cabinet,Furniture,3,5018,90,28,2023-04-03
+145,Bookshelf,Furniture,3,3459,199,44,2022-09-13
+146,Laptop Stand,Electronics,5,1944,280,34,2022-07-22
+147,Phone Holder,Electronics,5,366,165,50,2022-11-08
+148,LED Desk Lamp,Electronics,5,1326,131,10,2022-06-29
+149,USB Fan,Electronics,5,578,290,23,2022-06-08
+150,Screen Cleaner Kit,Electronics,5,163,141,50,2022-07-09
+151,Wireless Mouse,Electronics,1,876,445,35,2023-06-12
+152,Mechanical Keyboard,Electronics,1,2525,54,12,2023-04-02
+153,USB-C Hub,Electronics,1,1327,467,25,2023-10-05
+154,Webcam HD,Electronics,1,2884,397,12,2022-07-01
+155,Monitor 24in,Electronics,1,12996,111,47,2023-09-10
+156,HDMI Cable,Electronics,5,411,243,39,2022-04-02
+157,Ethernet Cable,Electronics,5,271,394,17,2022-08-28
+158,Ballpen Box,Office Supplies,2,133,224,15,2022-04-12
+159,Notebook A5,Office Supplies,2,45,179,20,2022-09-08
+160,Whiteboard Marker,Office Supplies,2,-2,402,23,2022-06-25
+161,Stapler,Office Supplies,2,221,343,47,2022-02-23
+162,Sticky Notes Pack,Office Supplies,2,33,495,27,2023-10-11
+163,Folder Set,Office Supplies,4,139,363,22,2022-02-14
+164,Paper Ream,Office Supplies,4,307,45,42,2023-09-20
+165,Toner Cartridge,Office Supplies,4,1907,454,21,2022-11-18
+166,Ink Cartridge,Office Supplies,4,773,178,10,2023-05-08
+167,Office Chair,Furniture,3,9009,156,37,2022-05-18
+168,Standing Desk,Furniture,3,16006,80,36,2022-02-13
+169,Filing Cabinet,Furniture,3,5048,385,15,2022-02-03
+170,Bookshelf,Furniture,3,3486,394,44,2023-07-27
+171,Laptop Stand,Electronics,5,1911,117,44,2023-11-30
+172,Phone Holder,Electronics,5,382,418,23,2022-08-22
+173,LED Desk Lamp,Electronics,5,1297,222,16,2023-11-25
+174,USB Fan,Electronics,5,612,183,14,2022-03-27
+175,Screen Cleaner Kit,Electronics,5,193,12,40,2023-03-25
+176,Wireless Mouse,Electronics,1,862,52,24,2023-03-23
+177,Mechanical Keyboard,Electronics,1,2544,359,34,2022-10-28
+178,USB-C Hub,Electronics,1,1297,49,35,2022-05-24
+179,Webcam HD,Electronics,1,2894,461,24,2022-09-25
+180,Monitor 24in,Electronics,1,13030,282,44,2022-07-24
+181,HDMI Cable,Electronics,5,403,167,20,2022-08-04
+182,Ethernet Cable,Electronics,5,290,445,30,2022-11-11
+183,Ballpen Box,Office Supplies,2,164,53,46,2022-06-01
+184,Notebook A5,Office Supplies,2,35,260,22,2022-03-03
+185,Whiteboard Marker,Office Supplies,2,68,237,37,2022-02-25
+186,Stapler,Office Supplies,2,149,87,32,2023-04-28
+187,Sticky Notes Pack,Office Supplies,2,75,460,32,2023-06-02
+188,Folder Set,Office Supplies,4,131,433,26,2022-07-19
+189,Paper Ream,Office Supplies,4,304,163,10,2023-01-19
+190,Toner Cartridge,Office Supplies,4,1901,10,39,2022-05-03
+191,Ink Cartridge,Office Supplies,4,799,283,33,2022-07-29
+192,Office Chair,Furniture,3,9040,120,44,2023-04-16
+193,Standing Desk,Furniture,3,15979,14,43,2022-04-19
+194,Filing Cabinet,Furniture,3,5046,468,31,2022-03-05
+195,Bookshelf,Furniture,3,3474,478,40,2023-06-08
+196,Laptop Stand,Electronics,5,1904,301,31,2023-07-17
+197,Phone Holder,Electronics,5,362,357,43,2023-06-20
+198,LED Desk Lamp,Electronics,5,1289,355,30,2022-11-28
+199,USB Fan,Electronics,5,622,400,13,2023-08-09
+200,Screen Cleaner Kit,Electronics,5,241,277,10,2023-11-29
+201,Wireless Mouse,Electronics,1,931,368,22,2022-06-07
+202,Mechanical Keyboard,Electronics,1,2501,130,22,2023-05-02
+203,USB-C Hub,Electronics,1,1276,484,36,2022-09-23
+204,Webcam HD,Electronics,1,2884,377,46,2023-04-11
+205,Monitor 24in,Electronics,1,12973,428,42,2023-05-29
+206,HDMI Cable,Electronics,5,392,80,29,2023-11-03
+207,Ethernet Cable,Electronics,5,337,308,47,2022-07-18
+208,Ballpen Box,Office Supplies,2,105,133,39,2022-01-12
+209,Notebook A5,Office Supplies,2,52,305,21,2022-08-07
+210,Whiteboard Marker,Office Supplies,2,8,335,34,2022-10-27
+211,Stapler,Office Supplies,2,183,62,44,2022-02-13
+212,Sticky Notes Pack,Office Supplies,2,59,99,45,2022-06-24
+213,Folder Set,Office Supplies,4,145,48,24,2022-01-27
+214,Paper Ream,Office Supplies,4,277,109,24,2023-11-10
+215,Toner Cartridge,Office Supplies,4,1905,86,14,2022-09-14
+216,Ink Cartridge,Office Supplies,4,799,80,48,2022-03-28
+217,Office Chair,Furniture,3,9014,356,14,2022-08-11
+218,Standing Desk,Furniture,3,15990,156,23,2023-06-06
+219,Filing Cabinet,Furniture,3,5014,374,45,2023-05-15
+220,Bookshelf,Furniture,3,3522,316,24,2023-08-08
+221,Laptop Stand,Electronics,5,1882,358,24,2022-07-31
+222,Phone Holder,Electronics,5,416,258,36,2022-02-17
+223,LED Desk Lamp,Electronics,5,1258,187,26,2023-03-01
+224,USB Fan,Electronics,5,641,42,47,2023-08-23
+225,Screen Cleaner Kit,Electronics,5,166,290,34,2023-09-12
+226,Wireless Mouse,Electronics,1,892,480,13,2022-04-10
+227,Mechanical Keyboard,Electronics,1,2540,166,32,2023-04-27
+228,USB-C Hub,Electronics,1,1311,318,46,2022-03-29
+229,Webcam HD,Electronics,1,2929,106,26,2022-07-20
+230,Monitor 24in,Electronics,1,12976,444,36,2022-03-02
+231,HDMI Cable,Electronics,5,372,268,24,2022-08-30
+232,Ethernet Cable,Electronics,5,271,123,34,2022-10-05
+233,Ballpen Box,Office Supplies,2,72,189,36,2022-03-11
+234,Notebook A5,Office Supplies,2,123,222,33,2022-07-19
+235,Whiteboard Marker,Office Supplies,2,95,280,25,2022-07-26
+236,Stapler,Office Supplies,2,183,228,48,2022-08-18
+237,Sticky Notes Pack,Office Supplies,2,40,208,17,2023-09-27
+238,Folder Set,Office Supplies,4,197,288,42,2022-02-24
+239,Paper Ream,Office Supplies,4,282,467,24,2023-07-19
+240,Toner Cartridge,Office Supplies,4,1917,217,22,2023-08-29
+241,Ink Cartridge,Office Supplies,4,830,252,24,2023-10-11
+242,Office Chair,Furniture,3,8955,428,26,2023-03-19
+243,Standing Desk,Furniture,3,16045,310,18,2022-04-28
+244,Filing Cabinet,Furniture,3,5035,92,36,2023-10-04
+245,Bookshelf,Furniture,3,3492,254,37,2022-05-08
+246,Laptop Stand,Electronics,5,1914,118,44,2023-03-15
+247,Phone Holder,Electronics,5,361,113,39,2023-05-06
+248,LED Desk Lamp,Electronics,5,1348,431,23,2022-12-13
+249,USB Fan,Electronics,5,556,311,18,2022-02-22
+250,Screen Cleaner Kit,Electronics,5,216,254,25,2023-03-24
+251,Wireless Mouse,Electronics,1,872,450,13,2023-02-02
+252,Mechanical Keyboard,Electronics,1,2536,454,17,2022-08-05
+253,USB-C Hub,Electronics,1,1313,199,14,2023-10-14
+254,Webcam HD,Electronics,1,2888,481,25,2023-05-06
+255,Monitor 24in,Electronics,1,12969,252,19,2022-05-29
+256,HDMI Cable,Electronics,5,422,118,49,2023-02-15
+257,Ethernet Cable,Electronics,5,337,244,27,2023-06-03
+258,Ballpen Box,Office Supplies,2,79,311,33,2023-10-02
+259,Notebook A5,Office Supplies,2,128,418,46,2023-09-20
+260,Whiteboard Marker,Office Supplies,2,86,304,33,2022-07-05
+261,Stapler,Office Supplies,2,232,452,40,2022-04-10
+262,Sticky Notes Pack,Office Supplies,2,41,207,46,2023-03-07
+263,Folder Set,Office Supplies,4,166,356,19,2022-05-01
+264,Paper Ream,Office Supplies,4,291,27,29,2023-07-06
+265,Toner Cartridge,Office Supplies,4,1945,267,31,2022-01-10
+266,Ink Cartridge,Office Supplies,4,759,279,25,2022-11-03
+267,Office Chair,Furniture,3,9043,336,36,2022-01-07
+268,Standing Desk,Furniture,3,16032,186,49,2022-04-07
+269,Filing Cabinet,Furniture,3,4973,253,22,2022-02-07
+270,Bookshelf,Furniture,3,3472,247,12,2022-06-29
+271,Laptop Stand,Electronics,5,1917,259,39,2023-05-11
+272,Phone Holder,Electronics,5,389,427,14,2022-02-18
+273,LED Desk Lamp,Electronics,5,1271,186,34,2023-04-23
+274,USB Fan,Electronics,5,587,460,42,2022-04-08
+275,Screen Cleaner Kit,Electronics,5,153,339,43,2023-05-31
+276,Wireless Mouse,Electronics,1,939,462,25,2022-09-16
+277,Mechanical Keyboard,Electronics,1,2511,58,39,2022-02-12
+278,USB-C Hub,Electronics,1,1261,411,23,2023-04-12
+279,Webcam HD,Electronics,1,2855,330,20,2022-01-15
+280,Monitor 24in,Electronics,1,12975,115,40,2023-03-01
+281,HDMI Cable,Electronics,5,419,364,33,2022-02-24
+282,Ethernet Cable,Electronics,5,276,339,38,2022-04-11
+283,Ballpen Box,Office Supplies,2,145,412,36,2023-05-08
+284,Notebook A5,Office Supplies,2,89,433,38,2023-09-03
+285,Whiteboard Marker,Office Supplies,2,27,35,32,2022-08-12
+286,Stapler,Office Supplies,2,244,349,28,2022-06-23
+287,Sticky Notes Pack,Office Supplies,2,56,181,19,2022-11-23
+288,Folder Set,Office Supplies,4,163,129,16,2023-05-28
+289,Paper Ream,Office Supplies,4,258,169,19,2023-08-09
+290,Toner Cartridge,Office Supplies,4,1906,150,39,2022-01-03
+291,Ink Cartridge,Office Supplies,4,766,237,46,2022-04-18
+292,Office Chair,Furniture,3,8955,16,22,2022-04-14
+293,Standing Desk,Furniture,3,15949,479,32,2022-07-10
+294,Filing Cabinet,Furniture,3,5036,197,25,2023-09-25
+295,Bookshelf,Furniture,3,3511,447,34,2022-04-25
+296,Laptop Stand,Electronics,5,1920,263,46,2022-02-27
+297,Phone Holder,Electronics,5,349,145,39,2023-08-23
+298,LED Desk Lamp,Electronics,5,1263,16,17,2023-08-18
+299,USB Fan,Electronics,5,643,448,37,2022-08-08
+300,Screen Cleaner Kit,Electronics,5,177,487,23,2023-02-16
+301,Wireless Mouse,Electronics,1,863,362,10,2023-11-10
+302,Mechanical Keyboard,Electronics,1,2486,176,18,2022-11-06
+303,USB-C Hub,Electronics,1,1310,379,28,2022-06-20
+304,Webcam HD,Electronics,1,2910,346,45,2023-05-15
+305,Monitor 24in,Electronics,1,12991,193,32,2023-09-28
+306,HDMI Cable,Electronics,5,361,105,40,2023-03-29
+307,Ethernet Cable,Electronics,5,254,388,29,2023-03-17
+308,Ballpen Box,Office Supplies,2,101,416,22,2023-01-23
+309,Notebook A5,Office Supplies,2,117,470,50,2023-07-31
+310,Whiteboard Marker,Office Supplies,2,89,289,43,2022-02-21
+311,Stapler,Office Supplies,2,188,170,10,2023-05-04
+312,Sticky Notes Pack,Office Supplies,2,79,159,35,2023-02-19
+313,Folder Set,Office Supplies,4,130,335,34,2022-02-11
+314,Paper Ream,Office Supplies,4,257,432,13,2022-04-18
+315,Toner Cartridge,Office Supplies,4,1876,218,27,2022-12-19
+316,Ink Cartridge,Office Supplies,4,789,335,35,2022-01-06
+317,Office Chair,Furniture,3,8966,267,13,2022-05-09
+318,Standing Desk,Furniture,3,15983,385,21,2022-07-30
+319,Filing Cabinet,Furniture,3,5028,361,23,2022-09-22
+320,Bookshelf,Furniture,3,3453,119,33,2023-06-01
+321,Laptop Stand,Electronics,5,1937,451,10,2023-01-22
+322,Phone Holder,Electronics,5,428,357,25,2022-10-20
+323,LED Desk Lamp,Electronics,5,1331,196,41,2022-04-05
+324,USB Fan,Electronics,5,641,255,44,2023-05-26
+325,Screen Cleaner Kit,Electronics,5,153,254,25,2022-07-06
+326,Wireless Mouse,Electronics,1,941,452,49,2023-05-22
+327,Mechanical Keyboard,Electronics,1,2536,38,22,2023-06-01
+328,USB-C Hub,Electronics,1,1332,249,25,2022-10-12
+329,Webcam HD,Electronics,1,2907,219,34,2023-11-08
+330,Monitor 24in,Electronics,1,13033,306,49,2023-04-01
+331,HDMI Cable,Electronics,5,422,372,22,2023-04-15
+332,Ethernet Cable,Electronics,5,261,271,47,2022-08-06
+333,Ballpen Box,Office Supplies,2,103,81,10,2023-04-11
+334,Notebook A5,Office Supplies,2,81,149,41,2023-05-25
+335,Whiteboard Marker,Office Supplies,2,37,139,10,2022-08-03
+336,Stapler,Office Supplies,2,164,292,28,2023-01-01
+337,Sticky Notes Pack,Office Supplies,2,61,286,49,2022-04-25
+338,Folder Set,Office Supplies,4,182,408,29,2022-08-27
+339,Paper Ream,Office Supplies,4,264,488,14,2022-11-18
+340,Toner Cartridge,Office Supplies,4,1884,201,14,2023-05-06
+341,Ink Cartridge,Office Supplies,4,751,20,49,2023-01-12
+342,Office Chair,Furniture,3,8996,147,22,2022-06-01
+343,Standing Desk,Furniture,3,16010,156,43,2022-12-28
+344,Filing Cabinet,Furniture,3,4979,315,27,2022-02-27
+345,Bookshelf,Furniture,3,3501,274,27,2022-06-12
+346,Laptop Stand,Electronics,5,1900,384,27,2022-10-03
+347,Phone Holder,Electronics,5,357,83,28,2023-08-05
+348,LED Desk Lamp,Electronics,5,1343,134,34,2022-11-29
+349,USB Fan,Electronics,5,625,0,11,2023-10-30
+350,Screen Cleaner Kit,Electronics,5,175,42,14,2023-04-11
+351,Wireless Mouse,Electronics,1,901,390,43,2023-08-23
+352,Mechanical Keyboard,Electronics,1,2522,95,30,2023-10-14
+353,USB-C Hub,Electronics,1,1297,289,38,2023-02-01
+354,Webcam HD,Electronics,1,2862,363,14,2022-06-04
+355,Monitor 24in,Electronics,1,13025,287,25,2022-07-01
+356,HDMI Cable,Electronics,5,444,153,21,2022-12-16
+357,Ethernet Cable,Electronics,5,293,483,23,2022-06-11
+358,Ballpen Box,Office Supplies,2,153,33,35,2022-04-01
+359,Notebook A5,Office Supplies,2,113,467,32,2023-05-30
+360,Whiteboard Marker,Office Supplies,2,89,200,31,2022-03-02
+361,Stapler,Office Supplies,2,200,13,10,2022-03-26
+362,Sticky Notes Pack,Office Supplies,2,95,342,21,2022-02-25
+363,Folder Set,Office Supplies,4,120,421,13,2022-04-13
+364,Paper Ream,Office Supplies,4,277,84,46,2023-10-25
+365,Toner Cartridge,Office Supplies,4,1889,348,32,2022-05-18
+366,Ink Cartridge,Office Supplies,4,781,134,15,2023-06-12
+367,Office Chair,Furniture,3,9045,64,23,2022-02-01
+368,Standing Desk,Furniture,3,16014,300,15,2022-12-29
+369,Filing Cabinet,Furniture,3,5008,224,22,2022-10-04
+370,Bookshelf,Furniture,3,3458,206,33,2023-01-29
+371,Laptop Stand,Electronics,5,1867,482,21,2022-09-23
+372,Phone Holder,Electronics,5,424,330,39,2022-08-19
+373,LED Desk Lamp,Electronics,5,1256,151,50,2022-10-03
+374,USB Fan,Electronics,5,582,77,42,2022-08-06
+375,Screen Cleaner Kit,Electronics,5,227,401,45,2023-10-20
+376,Wireless Mouse,Electronics,1,936,307,43,2022-10-19
+377,Mechanical Keyboard,Electronics,1,2486,444,47,2023-11-08
+378,USB-C Hub,Electronics,1,1285,372,19,2022-09-30
+379,Webcam HD,Electronics,1,2875,424,39,2022-11-09
+380,Monitor 24in,Electronics,1,13042,256,26,2022-12-05
+381,HDMI Cable,Electronics,5,375,64,33,2023-06-18
+382,Ethernet Cable,Electronics,5,327,285,38,2022-07-08
+383,Ballpen Box,Office Supplies,2,169,219,28,2022-04-13
+384,Notebook A5,Office Supplies,2,110,435,43,2023-07-05
+385,Whiteboard Marker,Office Supplies,2,1,204,12,2022-06-02
+386,Stapler,Office Supplies,2,149,117,47,2022-02-26
+387,Sticky Notes Pack,Office Supplies,2,20,186,20,2022-09-18
+388,Folder Set,Office Supplies,4,107,298,33,2023-06-16
+389,Paper Ream,Office Supplies,4,276,169,17,2023-10-11
+390,Toner Cartridge,Office Supplies,4,1893,291,18,2023-06-20
+391,Ink Cartridge,Office Supplies,4,795,370,37,2023-01-19
+392,Office Chair,Furniture,3,9036,498,32,2022-09-12
+393,Standing Desk,Furniture,3,15955,329,24,2023-03-22
+394,Filing Cabinet,Furniture,3,5012,260,15,2022-01-30
+395,Bookshelf,Furniture,3,3548,472,36,2023-08-18
+396,Laptop Stand,Electronics,5,1941,471,24,2023-03-29
+397,Phone Holder,Electronics,5,404,431,39,2022-10-28
+398,LED Desk Lamp,Electronics,5,1275,218,44,2023-03-19
+399,USB Fan,Electronics,5,590,9,42,2023-06-03
+400,Screen Cleaner Kit,Electronics,5,245,190,10,2022-05-19
+401,Wireless Mouse,Electronics,1,877,408,20,2022-02-27
+402,Mechanical Keyboard,Electronics,1,2526,192,39,2023-11-26
+403,USB-C Hub,Electronics,1,1251,453,10,2023-01-19
+404,Webcam HD,Electronics,1,2927,354,31,2023-10-05
+405,Monitor 24in,Electronics,1,12961,17,24,2022-01-13
+406,HDMI Cable,Electronics,5,352,450,32,2022-05-14
+407,Ethernet Cable,Electronics,5,349,440,21,2023-08-29
+408,Ballpen Box,Office Supplies,2,83,461,14,2022-10-13
+409,Notebook A5,Office Supplies,2,55,490,31,2023-08-31
+410,Whiteboard Marker,Office Supplies,2,78,64,40,2023-10-27
+411,Stapler,Office Supplies,2,206,484,21,2022-07-23
+412,Sticky Notes Pack,Office Supplies,2,30,476,27,2023-10-05
+413,Folder Set,Office Supplies,4,126,471,37,2023-05-02
+414,Paper Ream,Office Supplies,4,312,101,29,2023-09-13
+415,Toner Cartridge,Office Supplies,4,1892,359,23,2022-10-03
+416,Ink Cartridge,Office Supplies,4,790,94,20,2022-03-31
+417,Office Chair,Furniture,3,9014,178,24,2023-09-23
+418,Standing Desk,Furniture,3,16001,420,22,2022-11-19
+419,Filing Cabinet,Furniture,3,4962,342,46,2022-09-02
+420,Bookshelf,Furniture,3,3492,82,13,2023-03-30
+421,Laptop Stand,Electronics,5,1947,307,18,2023-06-19
+422,Phone Holder,Electronics,5,419,95,36,2022-10-28
+423,LED Desk Lamp,Electronics,5,1308,162,31,2022-08-30
+424,USB Fan,Electronics,5,549,371,35,2022-06-08
+425,Screen Cleaner Kit,Electronics,5,191,308,41,2022-04-23
+426,Wireless Mouse,Electronics,1,870,335,14,2022-02-18
+427,Mechanical Keyboard,Electronics,1,2516,321,48,2023-06-21
+428,USB-C Hub,Electronics,1,1346,476,14,2023-05-12
+429,Webcam HD,Electronics,1,2877,186,42,2022-08-30
+430,Monitor 24in,Electronics,1,13014,106,27,2023-05-03
+431,HDMI Cable,Electronics,5,406,453,11,2023-04-23
+432,Ethernet Cable,Electronics,5,330,155,13,2023-02-19
+433,Ballpen Box,Office Supplies,2,91,331,47,2023-06-15
+434,Notebook A5,Office Supplies,2,82,337,37,2023-08-22
+435,Whiteboard Marker,Office Supplies,2,52,45,36,2023-08-08
+436,Stapler,Office Supplies,2,201,470,25,2023-07-15
+437,Sticky Notes Pack,Office Supplies,2,61,141,42,2022-04-03
+438,Folder Set,Office Supplies,4,163,335,38,2022-10-17
+439,Paper Ream,Office Supplies,4,292,156,22,2022-12-04
+440,Toner Cartridge,Office Supplies,4,1939,163,16,2023-06-25
+441,Ink Cartridge,Office Supplies,4,799,257,14,2023-08-07
+442,Office Chair,Furniture,3,8953,330,15,2023-06-02
+443,Standing Desk,Furniture,3,16016,204,46,2022-11-16
+444,Filing Cabinet,Furniture,3,5024,87,43,2022-01-22
+445,Bookshelf,Furniture,3,3455,258,31,2022-01-27
+446,Laptop Stand,Electronics,5,1914,451,47,2022-03-19
+447,Phone Holder,Electronics,5,411,383,42,2023-02-25
+448,LED Desk Lamp,Electronics,5,1327,267,36,2022-12-31
+449,USB Fan,Electronics,5,606,486,25,2022-12-23
+450,Screen Cleaner Kit,Electronics,5,206,327,37,2022-07-21
+451,Wireless Mouse,Electronics,1,894,395,20,2023-07-27
+452,Mechanical Keyboard,Electronics,1,2468,331,48,2022-12-03
+453,USB-C Hub,Electronics,1,1329,236,26,2022-05-01
+454,Webcam HD,Electronics,1,2893,268,49,2022-06-07
+455,Monitor 24in,Electronics,1,12980,314,42,2022-07-16
+456,HDMI Cable,Electronics,5,364,138,32,2022-12-05
+457,Ethernet Cable,Electronics,5,276,209,23,2023-04-14
+458,Ballpen Box,Office Supplies,2,144,468,43,2023-05-09
+459,Notebook A5,Office Supplies,2,112,288,49,2022-03-04
+460,Whiteboard Marker,Office Supplies,2,22,105,34,2023-08-21
+461,Stapler,Office Supplies,2,165,112,46,2022-04-11
+462,Sticky Notes Pack,Office Supplies,2,47,371,35,2022-04-13
+463,Folder Set,Office Supplies,4,106,241,47,2023-05-23
+464,Paper Ream,Office Supplies,4,289,143,40,2022-11-02
+465,Toner Cartridge,Office Supplies,4,1913,117,41,2023-03-03
+466,Ink Cartridge,Office Supplies,4,843,378,26,2023-02-15
+467,Office Chair,Furniture,3,8954,6,47,2022-08-14
+468,Standing Desk,Furniture,3,15951,438,21,2023-11-25
+469,Filing Cabinet,Furniture,3,4976,62,50,2023-08-04
+470,Bookshelf,Furniture,3,3545,358,16,2023-09-27
+471,Laptop Stand,Electronics,5,1876,273,46,2023-06-07
+472,Phone Holder,Electronics,5,372,35,44,2023-07-30
+473,LED Desk Lamp,Electronics,5,1269,64,18,2023-02-01
+474,USB Fan,Electronics,5,595,329,36,2023-11-13
+475,Screen Cleaner Kit,Electronics,5,152,141,48,2022-03-28
+476,Wireless Mouse,Electronics,1,924,492,17,2023-05-27
+477,Mechanical Keyboard,Electronics,1,2514,413,30,2023-02-09
+478,USB-C Hub,Electronics,1,1295,272,37,2023-05-18
+479,Webcam HD,Electronics,1,2889,439,38,2023-08-15
+480,Monitor 24in,Electronics,1,12993,89,43,2023-01-27
+481,HDMI Cable,Electronics,5,431,111,11,2023-07-26
+482,Ethernet Cable,Electronics,5,343,477,16,2023-02-14
+483,Ballpen Box,Office Supplies,2,102,247,47,2022-07-02
+484,Notebook A5,Office Supplies,2,84,409,39,2022-10-30
+485,Whiteboard Marker,Office Supplies,2,24,385,45,2022-06-27
+486,Stapler,Office Supplies,2,207,412,46,2023-04-10
+487,Sticky Notes Pack,Office Supplies,2,30,418,30,2023-10-24
+488,Folder Set,Office Supplies,4,136,339,45,2022-09-30
+489,Paper Ream,Office Supplies,4,309,154,15,2023-04-13
+490,Toner Cartridge,Office Supplies,4,1949,391,26,2023-02-05
+491,Ink Cartridge,Office Supplies,4,817,351,18,2022-05-25
+492,Office Chair,Furniture,3,8963,340,28,2023-04-15
+493,Standing Desk,Furniture,3,15952,231,21,2023-04-19
+494,Filing Cabinet,Furniture,3,4985,395,10,2022-08-31
+495,Bookshelf,Furniture,3,3533,377,40,2023-11-23
+496,Laptop Stand,Electronics,5,1897,74,15,2022-06-13
+497,Phone Holder,Electronics,5,427,424,44,2023-11-21
+498,LED Desk Lamp,Electronics,5,1318,275,24,2023-03-05
+499,USB Fan,Electronics,5,579,278,26,2022-08-05
+500,Screen Cleaner Kit,Electronics,5,248,195,37,2022-01-13
+501,Wireless Mouse,Electronics,1,898,5,26,2023-03-25
+502,Mechanical Keyboard,Electronics,1,2492,306,48,2023-10-05
+503,USB-C Hub,Electronics,1,1304,162,18,2022-01-23
+504,Webcam HD,Electronics,1,2941,336,24,2023-09-29
+505,Monitor 24in,Electronics,1,13029,298,13,2022-03-23
+506,HDMI Cable,Electronics,5,389,313,34,2022-03-03
+507,Ethernet Cable,Electronics,5,314,214,13,2022-10-28
+508,Ballpen Box,Office Supplies,2,92,209,13,2023-09-19
+509,Notebook A5,Office Supplies,2,85,325,17,2022-10-24
+510,Whiteboard Marker,Office Supplies,2,62,386,27,2022-07-23
+511,Stapler,Office Supplies,2,200,431,35,2023-03-07
+512,Sticky Notes Pack,Office Supplies,2,5,359,21,2022-10-25
+513,Folder Set,Office Supplies,4,184,118,24,2022-08-12
+514,Paper Ream,Office Supplies,4,255,453,24,2022-08-11
+515,Toner Cartridge,Office Supplies,4,1928,339,46,2022-01-20
+516,Ink Cartridge,Office Supplies,4,768,454,11,2023-07-19
+517,Office Chair,Furniture,3,9011,373,28,2022-09-19
+518,Standing Desk,Furniture,3,15972,457,31,2023-06-25
+519,Filing Cabinet,Furniture,3,5007,208,38,2023-01-07
+520,Bookshelf,Furniture,3,3534,338,16,2022-06-16
+521,Laptop Stand,Electronics,5,1897,15,17,2023-09-04
+522,Phone Holder,Electronics,5,374,91,10,2022-02-25
+523,LED Desk Lamp,Electronics,5,1276,57,31,2022-09-19
+524,USB Fan,Electronics,5,647,208,48,2022-11-29
+525,Screen Cleaner Kit,Electronics,5,206,480,16,2023-07-16
+526,Wireless Mouse,Electronics,1,923,22,41,2023-01-10
+527,Mechanical Keyboard,Electronics,1,2459,47,47,2022-09-22
+528,USB-C Hub,Electronics,1,1312,238,46,2022-09-19
+529,Webcam HD,Electronics,1,2912,5,40,2022-03-18
+530,Monitor 24in,Electronics,1,13025,117,16,2022-10-10
+531,HDMI Cable,Electronics,5,412,364,17,2023-01-22
+532,Ethernet Cable,Electronics,5,265,424,35,2023-02-10
+533,Ballpen Box,Office Supplies,2,100,50,47,2023-02-01
+534,Notebook A5,Office Supplies,2,53,296,14,2022-09-08
+535,Whiteboard Marker,Office Supplies,2,26,443,20,2023-06-05
+536,Stapler,Office Supplies,2,166,143,28,2022-03-14
+537,Sticky Notes Pack,Office Supplies,2,91,338,40,2023-02-11
+538,Folder Set,Office Supplies,4,131,184,34,2023-05-29
+539,Paper Ream,Office Supplies,4,246,395,21,2023-05-25
+540,Toner Cartridge,Office Supplies,4,1890,172,39,2022-04-18
+541,Ink Cartridge,Office Supplies,4,841,159,21,2023-01-27
+542,Office Chair,Furniture,3,8999,475,36,2023-01-26
+543,Standing Desk,Furniture,3,16046,307,23,2022-04-13
+544,Filing Cabinet,Furniture,3,5031,498,38,2023-03-19
+545,Bookshelf,Furniture,3,3521,244,13,2022-02-23
+546,Laptop Stand,Electronics,5,1926,51,44,2023-09-24
+547,Phone Holder,Electronics,5,380,283,31,2022-12-04
+548,LED Desk Lamp,Electronics,5,1330,299,18,2023-06-26
+549,USB Fan,Electronics,5,597,211,27,2022-09-20
+550,Screen Cleaner Kit,Electronics,5,246,381,12,2023-01-30
+551,Wireless Mouse,Electronics,1,923,34,12,2022-07-02
+552,Mechanical Keyboard,Electronics,1,2484,332,24,2023-06-25
+553,USB-C Hub,Electronics,1,1287,466,35,2023-11-10
+554,Webcam HD,Electronics,1,2941,493,38,2022-12-11
+555,Monitor 24in,Electronics,1,13033,431,44,2023-02-03
+556,HDMI Cable,Electronics,5,420,54,39,2023-11-11
+557,Ethernet Cable,Electronics,5,272,34,42,2022-12-31
+558,Ballpen Box,Office Supplies,2,144,54,19,2022-12-02
+559,Notebook A5,Office Supplies,2,117,136,21,2023-09-11
+560,Whiteboard Marker,Office Supplies,2,12,45,44,2023-04-01
+561,Stapler,Office Supplies,2,219,49,12,2023-03-09
+562,Sticky Notes Pack,Office Supplies,2,48,58,41,2023-08-29
+563,Folder Set,Office Supplies,4,194,280,29,2023-03-18
+564,Paper Ream,Office Supplies,4,317,41,41,2022-07-26
+565,Toner Cartridge,Office Supplies,4,1948,449,32,2022-02-15
+566,Ink Cartridge,Office Supplies,4,780,121,43,2022-05-10
+567,Office Chair,Furniture,3,8972,275,36,2023-08-05
+568,Standing Desk,Furniture,3,15988,176,15,2023-09-07
+569,Filing Cabinet,Furniture,3,5043,496,45,2023-09-24
+570,Bookshelf,Furniture,3,3458,396,48,2023-11-10
+571,Laptop Stand,Electronics,5,1912,216,37,2022-12-22
+572,Phone Holder,Electronics,5,430,246,10,2022-02-10
+573,LED Desk Lamp,Electronics,5,1293,356,17,2023-10-26
+574,USB Fan,Electronics,5,554,389,30,2022-06-12
+575,Screen Cleaner Kit,Electronics,5,227,487,41,2023-10-30
+576,Wireless Mouse,Electronics,1,927,228,17,2023-10-08
+577,Mechanical Keyboard,Electronics,1,2487,289,34,2022-02-03
+578,USB-C Hub,Electronics,1,1302,358,43,2023-02-01
+579,Webcam HD,Electronics,1,2927,457,21,2023-07-06
+580,Monitor 24in,Electronics,1,12974,97,11,2022-08-14
+581,HDMI Cable,Electronics,5,435,97,25,2022-01-09
+582,Ethernet Cable,Electronics,5,334,188,13,2023-07-24
+583,Ballpen Box,Office Supplies,2,87,489,27,2022-08-01
+584,Notebook A5,Office Supplies,2,133,234,40,2022-07-15
+585,Whiteboard Marker,Office Supplies,2,17,471,17,2022-08-18
+586,Stapler,Office Supplies,2,176,307,33,2022-09-15
+587,Sticky Notes Pack,Office Supplies,2,37,155,33,2022-07-01
+588,Folder Set,Office Supplies,4,187,152,16,2023-10-18
+589,Paper Ream,Office Supplies,4,276,221,42,2022-10-11
+590,Toner Cartridge,Office Supplies,4,1864,335,13,2022-01-17
+591,Ink Cartridge,Office Supplies,4,754,180,31,2023-04-22
+592,Office Chair,Furniture,3,8991,264,29,2023-01-05
+593,Standing Desk,Furniture,3,16036,436,39,2023-05-26
+594,Filing Cabinet,Furniture,3,4993,136,29,2023-04-21
+595,Bookshelf,Furniture,3,3456,204,22,2022-05-24
+596,Laptop Stand,Electronics,5,1860,466,42,2023-03-24
+597,Phone Holder,Electronics,5,424,339,29,2022-05-05
+598,LED Desk Lamp,Electronics,5,1267,385,21,2022-09-30
+599,USB Fan,Electronics,5,574,75,29,2023-03-29
+600,Screen Cleaner Kit,Electronics,5,217,245,33,2022-03-18
+601,Wireless Mouse,Electronics,1,883,479,42,2022-12-09
+602,Mechanical Keyboard,Electronics,1,2492,408,42,2022-01-12
+603,USB-C Hub,Electronics,1,1349,95,14,2023-06-26
+604,Webcam HD,Electronics,1,2877,93,39,2023-08-08
+605,Monitor 24in,Electronics,1,13015,384,43,2023-01-04
+606,HDMI Cable,Electronics,5,409,365,40,2022-06-14
+607,Ethernet Cable,Electronics,5,282,440,15,2023-05-22
+608,Ballpen Box,Office Supplies,2,81,134,45,2022-05-26
+609,Notebook A5,Office Supplies,2,61,306,16,2022-05-30
+610,Whiteboard Marker,Office Supplies,2,74,23,47,2023-04-09
+611,Stapler,Office Supplies,2,199,233,44,2023-11-05
+612,Sticky Notes Pack,Office Supplies,2,5,227,36,2023-01-03
+613,Folder Set,Office Supplies,4,185,53,43,2022-09-02
+614,Paper Ream,Office Supplies,4,297,240,22,2022-06-18
+615,Toner Cartridge,Office Supplies,4,1870,397,20,2023-06-12
+616,Ink Cartridge,Office Supplies,4,832,211,45,2023-10-27
+617,Office Chair,Furniture,3,8986,498,44,2022-01-29
+618,Standing Desk,Furniture,3,15979,397,23,2022-10-20
+619,Filing Cabinet,Furniture,3,4986,397,16,2023-09-22
+620,Bookshelf,Furniture,3,3523,470,50,2023-05-25
+621,Laptop Stand,Electronics,5,1927,173,20,2022-11-29
+622,Phone Holder,Electronics,5,369,433,43,2023-11-18
+623,LED Desk Lamp,Electronics,5,1345,285,41,2022-07-31
+624,USB Fan,Electronics,5,643,22,44,2023-09-04
+625,Screen Cleaner Kit,Electronics,5,222,468,23,2022-05-27
+626,Wireless Mouse,Electronics,1,922,41,41,2022-08-23
+627,Mechanical Keyboard,Electronics,1,2522,350,33,2022-09-21
+628,USB-C Hub,Electronics,1,1336,436,33,2022-07-22
+629,Webcam HD,Electronics,1,2897,239,30,2023-08-29
+630,Monitor 24in,Electronics,1,13045,143,34,2022-07-23
+631,HDMI Cable,Electronics,5,380,463,16,2022-10-08
+632,Ethernet Cable,Electronics,5,270,15,49,2023-04-10
+633,Ballpen Box,Office Supplies,2,148,454,36,2022-01-15
+634,Notebook A5,Office Supplies,2,46,76,43,2023-07-20
+635,Whiteboard Marker,Office Supplies,2,52,37,33,2022-05-27
+636,Stapler,Office Supplies,2,179,102,13,2022-11-01
+637,Sticky Notes Pack,Office Supplies,2,59,85,10,2022-10-10
+638,Folder Set,Office Supplies,4,173,25,32,2022-04-05
+639,Paper Ream,Office Supplies,4,245,298,15,2022-09-22
+640,Toner Cartridge,Office Supplies,4,1884,126,33,2022-01-26
+641,Ink Cartridge,Office Supplies,4,783,421,34,2022-09-26
+642,Office Chair,Furniture,3,9010,293,30,2022-07-30
+643,Standing Desk,Furniture,3,16010,331,43,2022-01-08
+644,Filing Cabinet,Furniture,3,5024,331,42,2022-04-21
+645,Bookshelf,Furniture,3,3511,394,11,2022-08-25
+646,Laptop Stand,Electronics,5,1931,180,23,2022-04-25
+647,Phone Holder,Electronics,5,350,310,48,2022-03-28
+648,LED Desk Lamp,Electronics,5,1298,451,46,2023-03-21
+649,USB Fan,Electronics,5,587,176,39,2022-08-12
+650,Screen Cleaner Kit,Electronics,5,165,127,48,2023-10-16
+651,Wireless Mouse,Electronics,1,860,145,11,2022-03-26
+652,Mechanical Keyboard,Electronics,1,2484,116,13,2023-10-19
+653,USB-C Hub,Electronics,1,1280,277,35,2023-10-14
+654,Webcam HD,Electronics,1,2937,371,31,2022-03-09
+655,Monitor 24in,Electronics,1,13029,340,34,2023-05-10
+656,HDMI Cable,Electronics,5,352,127,45,2023-06-25
+657,Ethernet Cable,Electronics,5,273,296,32,2022-02-13
+658,Ballpen Box,Office Supplies,2,150,295,14,2023-07-10
+659,Notebook A5,Office Supplies,2,127,311,45,2022-12-19
+660,Whiteboard Marker,Office Supplies,2,15,357,17,2022-05-15
+661,Stapler,Office Supplies,2,162,222,39,2023-03-10
+662,Sticky Notes Pack,Office Supplies,2,31,68,40,2022-11-30
+663,Folder Set,Office Supplies,4,192,238,47,2023-05-24
+664,Paper Ream,Office Supplies,4,303,465,25,2022-06-28
+665,Toner Cartridge,Office Supplies,4,1911,81,34,2023-11-02
+666,Ink Cartridge,Office Supplies,4,848,94,42,2023-09-12
+667,Office Chair,Furniture,3,8988,496,17,2023-05-16
+668,Standing Desk,Furniture,3,16019,368,46,2022-05-05
+669,Filing Cabinet,Furniture,3,4953,60,26,2022-04-20
+670,Bookshelf,Furniture,3,3520,18,34,2023-07-27
+671,Laptop Stand,Electronics,5,1922,480,45,2022-08-12
+672,Phone Holder,Electronics,5,401,165,21,2022-05-27
+673,LED Desk Lamp,Electronics,5,1308,335,27,2022-06-12
+674,USB Fan,Electronics,5,562,161,41,2023-02-09
+675,Screen Cleaner Kit,Electronics,5,245,399,12,2022-10-19
+676,Wireless Mouse,Electronics,1,917,210,12,2022-12-12
+677,Mechanical Keyboard,Electronics,1,2478,82,42,2023-11-07
+678,USB-C Hub,Electronics,1,1340,395,32,2023-10-16
+679,Webcam HD,Electronics,1,2859,441,47,2023-05-04
+680,Monitor 24in,Electronics,1,13008,297,12,2023-04-12
+681,HDMI Cable,Electronics,5,444,174,30,2022-07-06
+682,Ethernet Cable,Electronics,5,263,474,14,2022-02-04
+683,Ballpen Box,Office Supplies,2,162,81,22,2022-01-30
+684,Notebook A5,Office Supplies,2,68,120,12,2022-07-09
+685,Whiteboard Marker,Office Supplies,2,51,2,44,2023-01-07
+686,Stapler,Office Supplies,2,232,187,46,2022-02-06
+687,Sticky Notes Pack,Office Supplies,2,38,261,14,2022-06-06
+688,Folder Set,Office Supplies,4,134,33,29,2022-09-08
+689,Paper Ream,Office Supplies,4,230,212,29,2023-04-12
+690,Toner Cartridge,Office Supplies,4,1935,334,24,2023-07-04
+691,Ink Cartridge,Office Supplies,4,818,218,40,2022-04-30
+692,Office Chair,Furniture,3,9015,329,38,2022-12-13
+693,Standing Desk,Furniture,3,16009,171,47,2022-10-28
+694,Filing Cabinet,Furniture,3,5040,248,45,2023-05-14
+695,Bookshelf,Furniture,3,3528,186,37,2023-11-20
+696,Laptop Stand,Electronics,5,1880,62,44,2022-01-18
+697,Phone Holder,Electronics,5,380,486,44,2022-10-23
+698,LED Desk Lamp,Electronics,5,1296,292,40,2022-03-11
+699,USB Fan,Electronics,5,645,77,12,2023-07-25
+700,Screen Cleaner Kit,Electronics,5,245,426,45,2023-11-26
+701,Wireless Mouse,Electronics,1,854,420,17,2022-12-17
+702,Mechanical Keyboard,Electronics,1,2510,56,38,2022-04-22
+703,USB-C Hub,Electronics,1,1317,285,26,2023-04-24
+704,Webcam HD,Electronics,1,2908,178,31,2023-04-10
+705,Monitor 24in,Electronics,1,13013,444,46,2023-10-05
+706,HDMI Cable,Electronics,5,407,53,12,2023-05-21
+707,Ethernet Cable,Electronics,5,338,152,13,2023-09-06
+708,Ballpen Box,Office Supplies,2,99,139,41,2022-11-05
+709,Notebook A5,Office Supplies,2,90,456,22,2022-09-27
+710,Whiteboard Marker,Office Supplies,2,16,422,24,2023-09-07
+711,Stapler,Office Supplies,2,197,409,26,2023-03-11
+712,Sticky Notes Pack,Office Supplies,2,41,16,12,2022-03-16
+713,Folder Set,Office Supplies,4,143,2,45,2022-07-23
+714,Paper Ream,Office Supplies,4,250,5,40,2022-03-09
+715,Toner Cartridge,Office Supplies,4,1937,173,33,2022-04-09
+716,Ink Cartridge,Office Supplies,4,845,377,24,2023-06-21
+717,Office Chair,Furniture,3,9023,118,23,2022-04-30
+718,Standing Desk,Furniture,3,16023,298,34,2023-01-15
+719,Filing Cabinet,Furniture,3,5045,333,41,2023-06-19
+720,Bookshelf,Furniture,3,3547,434,22,2023-03-12
+721,Laptop Stand,Electronics,5,1874,127,10,2022-10-10
+722,Phone Holder,Electronics,5,426,341,19,2023-01-31
+723,LED Desk Lamp,Electronics,5,1323,230,19,2023-02-09
+724,USB Fan,Electronics,5,620,500,43,2022-12-31
+725,Screen Cleaner Kit,Electronics,5,220,478,24,2023-06-08
+726,Wireless Mouse,Electronics,1,873,435,44,2023-10-21
+727,Mechanical Keyboard,Electronics,1,2535,139,12,2023-01-27
+728,USB-C Hub,Electronics,1,1348,202,17,2022-07-26
+729,Webcam HD,Electronics,1,2879,49,40,2023-05-10
+730,Monitor 24in,Electronics,1,13020,112,15,2022-08-27
+731,HDMI Cable,Electronics,5,410,38,11,2023-02-14
+732,Ethernet Cable,Electronics,5,272,264,43,2022-07-25
+733,Ballpen Box,Office Supplies,2,134,28,34,2022-06-15
+734,Notebook A5,Office Supplies,2,73,462,44,2023-11-04
+735,Whiteboard Marker,Office Supplies,2,18,150,19,2022-08-21
+736,Stapler,Office Supplies,2,170,470,17,2022-05-18
+737,Sticky Notes Pack,Office Supplies,2,93,429,44,2023-08-23
+738,Folder Set,Office Supplies,4,146,452,35,2023-02-07
+739,Paper Ream,Office Supplies,4,304,384,32,2023-02-20
+740,Toner Cartridge,Office Supplies,4,1860,170,29,2023-01-07
+741,Ink Cartridge,Office Supplies,4,805,139,17,2022-09-29
+742,Office Chair,Furniture,3,9019,165,40,2023-01-11
+743,Standing Desk,Furniture,3,16002,277,28,2022-10-23
+744,Filing Cabinet,Furniture,3,5040,125,32,2022-05-03
+745,Bookshelf,Furniture,3,3516,369,34,2023-07-03
+746,Laptop Stand,Electronics,5,1924,67,25,2022-07-13
+747,Phone Holder,Electronics,5,363,156,29,2022-05-18
+748,LED Desk Lamp,Electronics,5,1328,323,23,2023-09-27
+749,USB Fan,Electronics,5,621,98,12,2023-09-21
+750,Screen Cleaner Kit,Electronics,5,202,140,34,2022-07-17
+751,Wireless Mouse,Electronics,1,891,422,25,2023-05-04
+752,Mechanical Keyboard,Electronics,1,2454,371,25,2022-09-05
+753,USB-C Hub,Electronics,1,1311,447,34,2023-01-31
+754,Webcam HD,Electronics,1,2941,346,44,2022-10-09
+755,Monitor 24in,Electronics,1,13044,393,28,2022-11-28
+756,HDMI Cable,Electronics,5,410,105,42,2023-09-03
+757,Ethernet Cable,Electronics,5,309,198,18,2022-05-18
+758,Ballpen Box,Office Supplies,2,92,400,19,2022-08-18
+759,Notebook A5,Office Supplies,2,79,133,34,2023-09-14
+760,Whiteboard Marker,Office Supplies,2,70,56,26,2022-07-29
+761,Stapler,Office Supplies,2,202,197,10,2022-10-19
+762,Sticky Notes Pack,Office Supplies,2,31,314,35,2023-09-04
+763,Folder Set,Office Supplies,4,149,476,42,2022-04-19
+764,Paper Ream,Office Supplies,4,320,111,19,2023-03-17
+765,Toner Cartridge,Office Supplies,4,1904,393,20,2022-07-01
+766,Ink Cartridge,Office Supplies,4,848,109,15,2023-05-23
+767,Office Chair,Furniture,3,8950,15,46,2022-11-09
+768,Standing Desk,Furniture,3,15955,29,49,2023-06-07
+769,Filing Cabinet,Furniture,3,5013,65,42,2022-07-10
+770,Bookshelf,Furniture,3,3510,440,46,2023-09-15
+771,Laptop Stand,Electronics,5,1898,159,14,2022-06-01
+772,Phone Holder,Electronics,5,425,442,45,2023-05-30
+773,LED Desk Lamp,Electronics,5,1292,216,26,2023-11-19
+774,USB Fan,Electronics,5,555,402,46,2022-01-29
+775,Screen Cleaner Kit,Electronics,5,180,35,20,2022-08-03
+776,Wireless Mouse,Electronics,1,929,260,45,2022-05-11
+777,Mechanical Keyboard,Electronics,1,2465,379,48,2023-04-11
+778,USB-C Hub,Electronics,1,1273,227,41,2022-10-23
+779,Webcam HD,Electronics,1,2864,399,32,2023-04-15
+780,Monitor 24in,Electronics,1,12977,479,20,2022-06-01
+781,HDMI Cable,Electronics,5,360,40,13,2023-03-28
+782,Ethernet Cable,Electronics,5,326,490,19,2022-08-02
+783,Ballpen Box,Office Supplies,2,91,12,47,2022-05-20
+784,Notebook A5,Office Supplies,2,67,426,31,2023-04-14
+785,Whiteboard Marker,Office Supplies,2,93,57,40,2023-11-15
+786,Stapler,Office Supplies,2,158,179,10,2023-10-18
+787,Sticky Notes Pack,Office Supplies,2,32,129,42,2022-01-24
+788,Folder Set,Office Supplies,4,120,489,43,2022-05-12
+789,Paper Ream,Office Supplies,4,283,228,24,2022-08-03
+790,Toner Cartridge,Office Supplies,4,1877,51,22,2023-06-19
+791,Ink Cartridge,Office Supplies,4,823,147,41,2023-03-19
+792,Office Chair,Furniture,3,8989,377,16,2022-07-30
+793,Standing Desk,Furniture,3,15949,270,23,2023-04-24
+794,Filing Cabinet,Furniture,3,5014,397,40,2023-03-27
+795,Bookshelf,Furniture,3,3460,246,10,2022-09-07
+796,Laptop Stand,Electronics,5,1863,491,22,2022-06-23
+797,Phone Holder,Electronics,5,426,154,31,2023-06-03
+798,LED Desk Lamp,Electronics,5,1344,436,26,2022-06-21
+799,USB Fan,Electronics,5,581,352,27,2023-01-30
+800,Screen Cleaner Kit,Electronics,5,149,233,43,2023-03-13
+801,Wireless Mouse,Electronics,1,882,19,20,2023-06-29
+802,Mechanical Keyboard,Electronics,1,2488,477,25,2023-09-13
+803,USB-C Hub,Electronics,1,1267,5,48,2023-02-01
+804,Webcam HD,Electronics,1,2944,364,38,2023-04-25
+805,Monitor 24in,Electronics,1,13010,269,38,2023-01-07
+806,HDMI Cable,Electronics,5,375,101,26,2022-01-08
+807,Ethernet Cable,Electronics,5,285,35,18,2022-07-03
+808,Ballpen Box,Office Supplies,2,163,165,39,2023-05-07
+809,Notebook A5,Office Supplies,2,135,236,24,2023-02-22
+810,Whiteboard Marker,Office Supplies,2,72,318,19,2022-03-08
+811,Stapler,Office Supplies,2,245,199,35,2022-08-29
+812,Sticky Notes Pack,Office Supplies,2,104,15,29,2023-05-15
+813,Folder Set,Office Supplies,4,144,350,11,2022-09-17
+814,Paper Ream,Office Supplies,4,272,200,12,2023-02-19
+815,Toner Cartridge,Office Supplies,4,1908,300,30,2022-07-28
+816,Ink Cartridge,Office Supplies,4,792,290,44,2022-03-21
+817,Office Chair,Furniture,3,9033,138,42,2022-01-15
+818,Standing Desk,Furniture,3,16046,26,29,2022-05-09
+819,Filing Cabinet,Furniture,3,5045,176,30,2022-09-26
+820,Bookshelf,Furniture,3,3536,257,28,2022-04-09
+821,Laptop Stand,Electronics,5,1887,492,37,2023-08-28
+822,Phone Holder,Electronics,5,446,113,25,2022-08-22
+823,LED Desk Lamp,Electronics,5,1319,323,37,2022-05-15
+824,USB Fan,Electronics,5,647,334,44,2022-06-02
+825,Screen Cleaner Kit,Electronics,5,222,496,13,2023-04-11
+826,Wireless Mouse,Electronics,1,860,330,34,2022-05-09
+827,Mechanical Keyboard,Electronics,1,2521,409,32,2023-02-06
+828,USB-C Hub,Electronics,1,1273,209,34,2023-10-18
+829,Webcam HD,Electronics,1,2893,81,19,2022-07-01
+830,Monitor 24in,Electronics,1,13015,178,20,2022-04-16
+831,HDMI Cable,Electronics,5,393,160,47,2023-04-07
+832,Ethernet Cable,Electronics,5,349,467,48,2022-01-31
+833,Ballpen Box,Office Supplies,2,78,207,26,2023-06-05
+834,Notebook A5,Office Supplies,2,39,359,45,2022-06-16
+835,Whiteboard Marker,Office Supplies,2,4,274,14,2023-05-04
+836,Stapler,Office Supplies,2,214,345,45,2023-05-10
+837,Sticky Notes Pack,Office Supplies,2,16,345,35,2023-01-26
+838,Folder Set,Office Supplies,4,163,423,46,2023-08-06
+839,Paper Ream,Office Supplies,4,291,148,10,2023-04-12
+840,Toner Cartridge,Office Supplies,4,1923,431,47,2022-09-03
+841,Ink Cartridge,Office Supplies,4,835,386,34,2023-05-26
+842,Office Chair,Furniture,3,8975,458,28,2023-03-16
+843,Standing Desk,Furniture,3,16015,292,12,2022-11-16
+844,Filing Cabinet,Furniture,3,5035,107,10,2022-02-24
+845,Bookshelf,Furniture,3,3541,113,48,2022-02-22
+846,Laptop Stand,Electronics,5,1881,205,28,2023-08-17
+847,Phone Holder,Electronics,5,439,298,37,2023-02-11
+848,LED Desk Lamp,Electronics,5,1341,406,23,2023-02-07
+849,USB Fan,Electronics,5,560,287,23,2023-06-06
+850,Screen Cleaner Kit,Electronics,5,215,390,21,2022-09-16
+851,Wireless Mouse,Electronics,1,888,387,27,2023-07-10
+852,Mechanical Keyboard,Electronics,1,2503,320,38,2023-10-02
+853,USB-C Hub,Electronics,1,1347,43,46,2023-06-06
+854,Webcam HD,Electronics,1,2894,328,43,2022-04-26
+855,Monitor 24in,Electronics,1,12990,184,35,2023-08-12
+856,HDMI Cable,Electronics,5,389,243,26,2023-01-04
+857,Ethernet Cable,Electronics,5,282,39,35,2022-12-19
+858,Ballpen Box,Office Supplies,2,103,312,44,2023-04-28
+859,Notebook A5,Office Supplies,2,99,82,20,2022-08-15
+860,Whiteboard Marker,Office Supplies,2,77,181,47,2023-09-05
+861,Stapler,Office Supplies,2,182,480,46,2023-07-07
+862,Sticky Notes Pack,Office Supplies,2,86,192,47,2022-07-31
+863,Folder Set,Office Supplies,4,136,353,27,2022-06-02
+864,Paper Ream,Office Supplies,4,287,404,32,2022-12-26
+865,Toner Cartridge,Office Supplies,4,1902,80,37,2022-05-18
+866,Ink Cartridge,Office Supplies,4,804,0,28,2022-01-15
+867,Office Chair,Furniture,3,8980,154,15,2022-10-03
+868,Standing Desk,Furniture,3,15979,462,47,2022-11-26
+869,Filing Cabinet,Furniture,3,5022,242,27,2023-11-19
+870,Bookshelf,Furniture,3,3513,26,28,2022-09-28
+871,Laptop Stand,Electronics,5,1924,446,25,2023-07-30
+872,Phone Holder,Electronics,5,376,483,37,2022-08-15
+873,LED Desk Lamp,Electronics,5,1308,326,36,2023-03-18
+874,USB Fan,Electronics,5,552,354,32,2022-05-19
+875,Screen Cleaner Kit,Electronics,5,220,431,46,2023-11-27
+876,Wireless Mouse,Electronics,1,890,380,15,2023-05-09
+877,Mechanical Keyboard,Electronics,1,2534,438,11,2023-11-17
+878,USB-C Hub,Electronics,1,1330,492,39,2022-10-21
+879,Webcam HD,Electronics,1,2892,113,30,2022-01-24
+880,Monitor 24in,Electronics,1,12991,53,20,2022-04-02
+881,HDMI Cable,Electronics,5,377,36,12,2023-09-08
+882,Ethernet Cable,Electronics,5,348,255,47,2022-03-25
+883,Ballpen Box,Office Supplies,2,84,290,21,2022-11-27
+884,Notebook A5,Office Supplies,2,94,267,36,2022-06-02
+885,Whiteboard Marker,Office Supplies,2,31,107,29,2023-05-29
+886,Stapler,Office Supplies,2,228,39,32,2023-09-17
+887,Sticky Notes Pack,Office Supplies,2,18,442,15,2022-11-29
+888,Folder Set,Office Supplies,4,142,354,32,2023-01-26
+889,Paper Ream,Office Supplies,4,271,107,24,2023-02-12
+890,Toner Cartridge,Office Supplies,4,1912,332,40,2022-06-28
+891,Ink Cartridge,Office Supplies,4,756,325,46,2022-07-03
+892,Office Chair,Furniture,3,9044,396,15,2022-11-07
+893,Standing Desk,Furniture,3,16007,132,28,2023-01-12
+894,Filing Cabinet,Furniture,3,5030,179,34,2022-10-10
+895,Bookshelf,Furniture,3,3492,222,31,2022-09-06
+896,Laptop Stand,Electronics,5,1923,398,39,2022-07-04
+897,Phone Holder,Electronics,5,388,352,25,2022-06-03
+898,LED Desk Lamp,Electronics,5,1333,40,46,2023-05-13
+899,USB Fan,Electronics,5,549,467,36,2022-09-18
+900,Screen Cleaner Kit,Electronics,5,229,206,12,2022-07-17
+901,Wireless Mouse,Electronics,1,890,402,48,2022-05-14
+902,Mechanical Keyboard,Electronics,1,2511,293,33,2023-10-05
+903,USB-C Hub,Electronics,1,1320,337,39,2022-05-13
+904,Webcam HD,Electronics,1,2888,141,42,2022-09-29
+905,Monitor 24in,Electronics,1,12987,90,34,2022-02-19
+906,HDMI Cable,Electronics,5,357,110,26,2022-01-26
+907,Ethernet Cable,Electronics,5,261,234,27,2023-05-19
+908,Ballpen Box,Office Supplies,2,135,71,50,2023-03-31
+909,Notebook A5,Office Supplies,2,46,259,26,2022-01-04
+910,Whiteboard Marker,Office Supplies,2,62,67,32,2023-03-11
+911,Stapler,Office Supplies,2,151,239,15,2022-10-18
+912,Sticky Notes Pack,Office Supplies,2,49,377,39,2023-06-20
+913,Folder Set,Office Supplies,4,124,55,20,2022-04-18
+914,Paper Ream,Office Supplies,4,296,12,13,2022-12-26
+915,Toner Cartridge,Office Supplies,4,1932,438,49,2022-06-09
+916,Ink Cartridge,Office Supplies,4,840,182,13,2022-06-09
+917,Office Chair,Furniture,3,8966,218,23,2023-08-16
+918,Standing Desk,Furniture,3,15956,285,17,2023-04-14
+919,Filing Cabinet,Furniture,3,5039,67,49,2022-02-11
+920,Bookshelf,Furniture,3,3468,54,46,2022-03-28
+921,Laptop Stand,Electronics,5,1849,45,49,2022-04-06
+922,Phone Holder,Electronics,5,395,378,14,2023-10-21
+923,LED Desk Lamp,Electronics,5,1270,32,23,2022-10-25
+924,USB Fan,Electronics,5,610,393,29,2022-09-01
+925,Screen Cleaner Kit,Electronics,5,199,329,18,2022-11-02
+926,Wireless Mouse,Electronics,1,859,128,40,2023-11-17
+927,Mechanical Keyboard,Electronics,1,2480,46,23,2023-04-20
+928,USB-C Hub,Electronics,1,1279,458,16,2022-12-12
+929,Webcam HD,Electronics,1,2922,311,12,2023-06-01
+930,Monitor 24in,Electronics,1,13016,26,27,2022-10-24
+931,HDMI Cable,Electronics,5,448,481,38,2023-02-26
+932,Ethernet Cable,Electronics,5,275,71,48,2022-12-17
+933,Ballpen Box,Office Supplies,2,85,472,48,2022-09-16
+934,Notebook A5,Office Supplies,2,54,211,41,2022-09-14
+935,Whiteboard Marker,Office Supplies,2,70,339,18,2022-03-21
+936,Stapler,Office Supplies,2,184,371,22,2022-01-22
+937,Sticky Notes Pack,Office Supplies,2,22,267,36,2022-08-19
+938,Folder Set,Office Supplies,4,190,123,22,2022-05-28
+939,Paper Ream,Office Supplies,4,292,117,47,2022-05-13
+940,Toner Cartridge,Office Supplies,4,1943,315,10,2023-01-16
+941,Ink Cartridge,Office Supplies,4,789,210,39,2023-09-22
+942,Office Chair,Furniture,3,9017,74,32,2023-07-17
+943,Standing Desk,Furniture,3,16020,481,50,2023-07-13
+944,Filing Cabinet,Furniture,3,5017,70,34,2023-03-20
+945,Bookshelf,Furniture,3,3485,335,32,2023-11-21
+946,Laptop Stand,Electronics,5,1875,437,29,2023-05-25
+947,Phone Holder,Electronics,5,365,214,45,2022-02-19
+948,LED Desk Lamp,Electronics,5,1305,345,29,2022-02-15
+949,USB Fan,Electronics,5,630,136,22,2023-06-07
+950,Screen Cleaner Kit,Electronics,5,167,235,31,2023-01-18
+951,Wireless Mouse,Electronics,1,906,268,35,2023-06-18
+952,Mechanical Keyboard,Electronics,1,2470,475,41,2023-03-14
+953,USB-C Hub,Electronics,1,1297,25,29,2023-07-13
+954,Webcam HD,Electronics,1,2882,120,18,2022-08-19
+955,Monitor 24in,Electronics,1,12963,59,17,2022-02-23
+956,HDMI Cable,Electronics,5,391,50,26,2022-01-02
+957,Ethernet Cable,Electronics,5,323,402,50,2023-02-11
+958,Ballpen Box,Office Supplies,2,169,212,19,2022-09-06
+959,Notebook A5,Office Supplies,2,37,314,44,2022-07-08
+960,Whiteboard Marker,Office Supplies,2,29,130,37,2023-09-06
+961,Stapler,Office Supplies,2,151,105,34,2022-10-11
+962,Sticky Notes Pack,Office Supplies,2,72,449,26,2022-03-21
+963,Folder Set,Office Supplies,4,183,102,25,2022-06-25
+964,Paper Ream,Office Supplies,4,311,82,17,2022-08-22
+965,Toner Cartridge,Office Supplies,4,1860,44,17,2023-07-15
+966,Ink Cartridge,Office Supplies,4,792,189,39,2023-10-06
+967,Office Chair,Furniture,3,8967,274,37,2022-01-03
+968,Standing Desk,Furniture,3,15957,358,42,2023-02-10
+969,Filing Cabinet,Furniture,3,5018,391,28,2022-07-03
+970,Bookshelf,Furniture,3,3488,405,26,2022-04-19
+971,Laptop Stand,Electronics,5,1884,261,14,2022-06-04
+972,Phone Holder,Electronics,5,352,390,19,2022-12-28
+973,LED Desk Lamp,Electronics,5,1269,142,38,2023-02-19
+974,USB Fan,Electronics,5,636,224,50,2022-09-19
+975,Screen Cleaner Kit,Electronics,5,167,123,20,2022-07-04
+976,Wireless Mouse,Electronics,1,924,69,17,2023-06-29
+977,Mechanical Keyboard,Electronics,1,2470,295,40,2022-07-20
+978,USB-C Hub,Electronics,1,1335,428,11,2023-03-05
+979,Webcam HD,Electronics,1,2919,227,34,2023-05-06
+980,Monitor 24in,Electronics,1,12961,102,26,2023-04-04
+981,HDMI Cable,Electronics,5,351,248,32,2022-02-20
+982,Ethernet Cable,Electronics,5,324,421,30,2022-11-19
+983,Ballpen Box,Office Supplies,2,81,217,15,2023-09-10
+984,Notebook A5,Office Supplies,2,113,19,29,2022-07-28
+985,Whiteboard Marker,Office Supplies,2,9,31,29,2022-09-28
+986,Stapler,Office Supplies,2,178,420,15,2022-11-29
+987,Sticky Notes Pack,Office Supplies,2,65,166,25,2022-08-09
+988,Folder Set,Office Supplies,4,156,252,31,2023-03-01
+989,Paper Ream,Office Supplies,4,284,160,13,2023-07-26
+990,Toner Cartridge,Office Supplies,4,1868,9,49,2022-08-03
+991,Ink Cartridge,Office Supplies,4,825,230,50,2023-01-05
+992,Office Chair,Furniture,3,9037,179,22,2022-11-07
+993,Standing Desk,Furniture,3,16030,346,40,2022-12-19
+994,Filing Cabinet,Furniture,3,5034,169,15,2022-05-12
+995,Bookshelf,Furniture,3,3455,58,12,2022-09-22
+996,Laptop Stand,Electronics,5,1873,104,50,2022-10-15
+997,Phone Holder,Electronics,5,407,263,29,2023-10-31
+998,LED Desk Lamp,Electronics,5,1301,401,45,2023-02-20
+999,USB Fan,Electronics,5,562,180,41,2023-02-11
+1000,Screen Cleaner Kit,Electronics,5,196,359,23,2023-08-09
