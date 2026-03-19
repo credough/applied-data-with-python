@@ -1,0 +1,101 @@
+customer_id,customer_code,full_name,email,region,membership,registration_date
+1,CUST-1001,Diego Aquino,diego.aquino@email.com,Region III,regular,2021-10-09
+2,CUST-1002,Lucia Ramos,lucia.ramos@email.com,Region X,regular,2022-07-19
+3,CUST-1003,Sofia Morales,sofia.morales@email.com,Region X,silver,2020-11-24
+4,CUST-1004,Antonio Go,antonio.go@email.com,NCR,regular,2022-08-24
+5,CUST-1005,Carmen Go,carmen.go@email.com,Region VII,regular,2021-06-14
+6,CUST-1006,Sofia Rivera,sofia.rivera@email.com,Region IV-A,regular,2022-04-14
+7,CUST-1007,Elena Garcia,elena.garcia@email.com,NCR,regular,2020-04-30
+8,CUST-1008,Lisa Tan,lisa.tan@email.com,NCR,gold,2022-07-07
+9,CUST-1009,Rosa Lim,rosa.lim@email.com,Region IV-A,regular,2021-10-31
+10,CUST-1010,Rafael Villanueva,rafael.villanueva@email.com,NCR,regular,2020-11-23
+11,CUST-1011,Rafael Go,rafael.go@email.com,Region VII,silver,2021-07-22
+12,CUST-1012,Nina Lim,nina.lim@email.com,NCR,regular,2022-06-19
+13,CUST-1013,Elena Lim,elena.lim@email.com,Region III,regular,2020-03-05
+14,CUST-1014,Ana Mendoza,ana.mendoza@email.com,NCR,silver,2020-01-04
+15,CUST-1015,Mark Torres,mark.torres@email.com,Region III,gold,2020-07-26
+16,CUST-1016,Miguel Gomez,miguel.gomez@email.com,Region VII,regular,2021-09-04
+17,CUST-1017,Diego Ramos,diego.ramos@email.com,Region IV-A,silver,2021-04-10
+18,CUST-1018,Carlo dela Cruz,carlo.delacruz@email.com,Region VII,silver,2021-05-07
+19,CUST-1019,Rosa Lim,rosa.lim@email.com,Region III,regular,2021-11-14
+20,CUST-1020,Elena Gomez,elena.gomez@email.com,Region IV-A,gold,2022-01-10
+21,CUST-1021,Nina Diaz,nina.diaz@email.com,Region X,silver,2022-01-16
+22,CUST-1022,Maria Reyes,maria.reyes@email.com,Region X,gold,2022-06-25
+23,CUST-1023,Lisa Gomez,lisa.gomez@email.com,Region VII,silver,2020-10-13
+24,CUST-1024,Carmen Villanueva,carmen.villanueva@email.com,Region X,silver,2021-04-28
+25,CUST-1025,Miguel dela Cruz,miguel.delacruz@email.com,Region VII,regular,2022-02-16
+26,CUST-1026,Jose Aquino,jose.aquino@email.com,Region III,gold,2020-04-18
+27,CUST-1027,Jose Castro,jose.castro@email.com,Region IV-A,silver,2022-09-02
+28,CUST-1028,Nina Torres,nina.torres@email.com,Region VII,silver,2022-05-01
+29,CUST-1029,Jose Torres,jose.torres@email.com,Region X,gold,2022-02-07
+30,CUST-1030,Rafael Santos,rafael.santos@email.com,NCR,regular,2022-05-20
+31,CUST-1031,Lucia Reyes,lucia.reyes@email.com,Region IV-A,silver,2022-03-27
+32,CUST-1032,Carlo Ortiz,carlo.ortiz@email.com,Region III,regular,2020-04-30
+33,CUST-1033,Kevin Castro,kevin.castro@email.com,NCR,gold,2020-03-14
+34,CUST-1034,Juan Ortiz,juan.ortiz@email.com,Region X,gold,2021-03-21
+35,CUST-1035,Rosa dela Cruz,rosa.delacruz@email.com,Region III,silver,2022-05-29
+36,CUST-1036,Juan Reyes,juan.reyes@email.com,Region III,silver,2022-04-13
+37,CUST-1037,Maria dela Cruz,maria.delacruz@email.com,Region III,silver,2021-08-25
+38,CUST-1038,Rachel Lim,rachel.lim@email.com,Region IV-A,regular,2020-12-08
+39,CUST-1039,Lucia Go,lucia.go@email.com,NCR,gold,2022-09-18
+40,CUST-1040,Juan dela Cruz,juan.delacruz@email.com,Region IV-A,silver,2021-05-24
+41,CUST-1041,Jose Mendoza,jose.mendoza@email.com,Region III,gold,2021-06-21
+42,CUST-1042,Jose Lim,jose.lim@email.com,Region VII,silver,2020-12-13
+43,CUST-1043,Antonio Villanueva,antonio.villanueva@email.com,NCR,silver,2020-07-26
+44,CUST-1044,Kevin Bautista,kevin.bautista@email.com,NCR,regular,2020-09-21
+45,CUST-1045,Carmen Morales,carmen.morales@email.com,Region III,silver,2020-05-13
+46,CUST-1046,Elena Gomez,elena.gomez@email.com,Region IV-A,gold,2021-04-16
+47,CUST-1047,Rachel dela Cruz,rachel.delacruz@email.com,NCR,regular,2020-01-24
+48,CUST-1048,Paolo Mendoza,paolo.mendoza@email.com,Region IV-A,gold,2020-07-09
+49,CUST-1049,Mark Garcia,mark.garcia@email.com,Region X,regular,2020-11-09
+50,CUST-1050,Lucia Gomez,lucia.gomez@email.com,Region VII,silver,2021-09-05
+51,CUST-1051,Lisa Villanueva,lisa.villanueva@email.com,NCR,regular,2020-08-17
+52,CUST-1052,Nina Flores,nina.flores@email.com,Region IV-A,regular,2020-01-28
+53,CUST-1053,Ana Tan,ana.tan@email.com,Region VII,regular,2021-10-22
+54,CUST-1054,Rachel Flores,rachel.flores@email.com,Region III,gold,2020-02-12
+55,CUST-1055,Paolo Morales,paolo.morales@email.com,Region VII,silver,2020-06-13
+56,CUST-1056,Carlo Castro,carlo.castro@email.com,Region III,regular,2021-05-24
+57,CUST-1057,Carmen Go,carmen.go@email.com,Region VII,regular,2020-10-15
+58,CUST-1058,Carmen Garcia,carmen.garcia@email.com,Region VII,silver,2021-08-24
+59,CUST-1059,Antonio Flores,antonio.flores@email.com,NCR,regular,2022-09-14
+60,CUST-1060,Antonio Aquino,antonio.aquino@email.com,Region III,regular,2020-10-13
+61,CUST-1061,Ana Aquino,ana.aquino@email.com,Region VII,regular,2020-07-10
+62,CUST-1062,Lucia Aquino,lucia.aquino@email.com,Region VII,regular,2022-05-04
+63,CUST-1063,Rachel Lim,rachel.lim@email.com,Region III,silver,2022-03-27
+64,CUST-1064,Carmen Bautista,carmen.bautista@email.com,Region X,silver,2022-07-28
+65,CUST-1065,Carlo Flores,carlo.flores@email.com,Region X,silver,2020-04-06
+66,CUST-1066,Antonio Flores,antonio.flores@email.com,Region X,regular,2020-01-04
+67,CUST-1067,Antonio Diaz,antonio.diaz@email.com,Region X,regular,2020-08-04
+68,CUST-1068,Nina Ramos,nina.ramos@email.com,Region VII,regular,2021-07-10
+69,CUST-1069,Sofia Gomez,sofia.gomez@email.com,Region III,silver,2022-07-30
+70,CUST-1070,Mark dela Cruz,mark.delacruz@email.com,Region III,silver,2020-11-07
+71,CUST-1071,Lisa dela Cruz,lisa.delacruz@email.com,Region IV-A,regular,2022-08-09
+72,CUST-1072,Kevin Go,kevin.go@email.com,NCR,regular,2021-04-06
+73,CUST-1073,Mark Castro,mark.castro@email.com,Region X,regular,2021-03-20
+74,CUST-1074,Rosa Lim,rosa.lim@email.com,NCR,silver,2020-07-21
+75,CUST-1075,Jose Garcia,jose.garcia@email.com,Region IV-A,gold,2021-07-14
+76,CUST-1076,Sofia Ortiz,sofia.ortiz@email.com,Region IV-A,regular,2020-12-02
+77,CUST-1077,Juan Go,juan.go@email.com,NCR,regular,2022-02-16
+78,CUST-1078,Rafael Tan,rafael.tan@email.com,Region IV-A,regular,2020-02-01
+79,CUST-1079,Carmen Morales,carmen.morales@email.com,Region IV-A,regular,2020-11-20
+80,CUST-1080,Carmen Morales,carmen.morales@email.com,Region IV-A,regular,2021-11-11
+81,CUST-1081,Rosa Garcia,rosa.garcia@email.com,NCR,silver,2022-09-11
+82,CUST-1082,Juan Ramos,juan.ramos@email.com,Region VII,gold,2021-07-17
+83,CUST-1083,Carlo Villanueva,carlo.villanueva@email.com,Region IV-A,regular,2021-04-04
+84,CUST-1084,Jose Rivera,jose.rivera@email.com,Region IV-A,gold,2021-09-15
+85,CUST-1085,Nina Flores,nina.flores@email.com,Region III,gold,2022-09-11
+86,CUST-1086,Lisa Bautista,lisa.bautista@email.com,Region III,silver,2022-01-04
+87,CUST-1087,Rosa Torres,rosa.torres@email.com,Region IV-A,regular,2020-11-04
+88,CUST-1088,Jose Ortiz,jose.ortiz@email.com,Region IV-A,regular,2020-01-02
+89,CUST-1089,Diego Reyes,diego.reyes@email.com,Region X,gold,2021-03-01
+90,CUST-1090,Diego Mendoza,diego.mendoza@email.com,Region III,silver,2020-07-06
+91,CUST-1091,Paolo Rivera,paolo.rivera@email.com,Region III,gold,2020-09-02
+92,CUST-1092,Lisa Ortiz,lisa.ortiz@email.com,Region VII,silver,2020-06-17
+93,CUST-1093,Kevin Diaz,kevin.diaz@email.com,NCR,regular,2022-02-16
+94,CUST-1094,Sofia Castro,sofia.castro@email.com,Region III,regular,2020-07-15
+95,CUST-1095,Elena Villanueva,elena.villanueva@email.com,Region X,regular,2022-09-15
+96,CUST-1096,Lucia Torres,lucia.torres@email.com,Region IV-A,regular,2020-06-24
+97,CUST-1097,Carlo Lim,carlo.lim@email.com,NCR,gold,2021-07-27
+98,CUST-1098,Juan Aquino,juan.aquino@email.com,Region III,silver,2022-02-22
+99,CUST-1099,Miguel Ramos,miguel.ramos@email.com,NCR,gold,2021-10-07
+100,CUST-1100,Lucia Castro,lucia.castro@email.com,NCR,gold,2020-07-24

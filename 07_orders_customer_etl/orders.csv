@@ -1,0 +1,1001 @@
+order_id,order_code,customer_id,product_name,quantity,unit_price,discount_pct,total_amount,status,payment_method,order_date
+1,ORD-10001,49,LED Desk Lamp,10,1299,10,11691.0,delivered,Bank Transfer,2023-08-09
+2,ORD-10002,25,Office Chair,1,8999,5,8549.05,delivered,Maya,2023-02-15
+3,ORD-10003,46,Ballpen Box,5,120,15,510.0,returned,Maya,2023-06-14
+4,ORD-10004,18,Stapler,3,199,0,597.0,delivered,GCash,2023-10-19
+5,ORD-10005,6,Office Chair,9,8999,0,80991.0,delivered,Maya,2023-03-10
+6,ORD-10006,64,Webcam HD,9,2899,5,24786.45,delivered,Bank Transfer,2023-08-23
+7,ORD-10007,67,Office Chair,5,8999,5,42745.25,cancelled,GCash,2023-06-22
+8,ORD-10008,85,Mechanical Keyboard,4,2499,0,9996.0,delivered,Maya,2023-03-20
+9,ORD-10009,47,Webcam HD,2,2899,0,5798.0,pending,Maya,2023-11-30
+10,ORD-10010,79,Stapler,1,199,10,179.1,returned,GCash,2023-12-04
+11,ORD-10011,44,Wireless Mouse,7,899,10,5663.7,delivered,Credit Card,2023-07-20
+12,ORD-10012,15,Notebook A5,6,85,0,510.0,cancelled,Credit Card,2023-09-16
+13,ORD-10013,90,Notebook A5,3,85,0,255.0,delivered,Bank Transfer,2023-01-12
+14,ORD-10014,23,Monitor 24in,1,12999,15,11049.15,cancelled,Cash on Delivery,2023-09-29
+15,ORD-10015,64,Notebook A5,8,85,5,646.0,returned,GCash,2023-05-21
+16,ORD-10016,56,Webcam HD,7,2899,10,18263.7,pending,Maya,2023-09-27
+17,ORD-10017,69,HDMI Cable,6,399,0,2394.0,delivered,Credit Card,2023-03-31
+18,ORD-10018,16,Notebook A5,6,85,10,459.0,delivered,Credit Card,2023-06-04
+19,ORD-10019,97,Office Chair,6,8999,0,53994.0,returned,Credit Card,2023-04-05
+20,ORD-10020,29,LED Desk Lamp,1,1299,5,1234.05,delivered,Bank Transfer,2023-09-21
+21,ORD-10021,70,Laptop Stand,9,1899,0,17091.0,delivered,Bank Transfer,2023-04-23
+22,ORD-10022,98,Stapler,9,199,0,1791.0,delivered,Bank Transfer,2023-12-04
+23,ORD-10023,51,Webcam HD,3,2899,0,8697.0,cancelled,Credit Card,2023-11-27
+24,ORD-10024,55,Notebook A5,10,85,0,850.0,delivered,GCash,2023-11-14
+25,ORD-10025,18,Laptop Stand,1,1899,5,1804.05,delivered,GCash,2023-10-22
+26,ORD-10026,57,Office Chair,4,8999,15,30596.6,cancelled,Credit Card,2023-03-31
+27,ORD-10027,43,Wireless Mouse,10,899,0,8990.0,returned,Credit Card,2023-09-07
+28,ORD-10028,92,USB-C Hub,5,1299,10,5845.5,delivered,Cash on Delivery,2023-07-01
+29,ORD-10029,96,Notebook A5,3,85,0,255.0,delivered,Credit Card,2023-09-13
+30,ORD-10030,62,HDMI Cable,3,399,0,1197.0,delivered,GCash,2023-02-02
+31,ORD-10031,11,Webcam HD,10,2899,0,28990.0,delivered,Cash on Delivery,2023-03-25
+32,ORD-10032,23,HDMI Cable,2,399,15,678.3,returned,Credit Card,2023-06-19
+33,ORD-10033,77,Wireless Mouse,8,899,0,7192.0,returned,GCash,2023-08-24
+34,ORD-10034,18,Wireless Mouse,3,899,10,2427.3,returned,Bank Transfer,2023-12-11
+35,ORD-10035,22,HDMI Cable,7,399,15,2374.05,cancelled,GCash,2023-10-30
+36,ORD-10036,100,Monitor 24in,9,12999,5,111141.45,pending,Cash on Delivery,2023-03-24
+37,ORD-10037,72,LED Desk Lamp,7,1299,15,7729.05,pending,Cash on Delivery,2023-07-08
+38,ORD-10038,17,Laptop Stand,2,1899,15,3228.3,cancelled,Maya,2023-08-25
+39,ORD-10039,90,Notebook A5,6,85,0,510.0,pending,Maya,2023-09-22
+40,ORD-10040,84,Stapler,3,199,0,597.0,delivered,GCash,2023-10-07
+41,ORD-10041,1,Notebook A5,6,85,10,459.0,delivered,Credit Card,2023-01-06
+42,ORD-10042,49,Mechanical Keyboard,5,2499,0,12495.0,cancelled,Cash on Delivery,2023-07-30
+43,ORD-10043,48,Monitor 24in,6,12999,0,77994.0,delivered,Credit Card,2023-01-25
+44,ORD-10044,44,Mechanical Keyboard,4,2499,15,8496.6,pending,GCash,2023-07-24
+45,ORD-10045,15,Notebook A5,2,85,0,170.0,delivered,Cash on Delivery,2023-06-15
+46,ORD-10046,86,USB-C Hub,1,1299,0,1299.0,delivered,Credit Card,2023-11-01
+47,ORD-10047,100,USB-C Hub,3,1299,15,3312.45,cancelled,Cash on Delivery,2023-08-08
+48,ORD-10048,97,Stapler,1,199,0,199.0,pending,Maya,2023-11-18
+49,ORD-10049,35,Wireless Mouse,7,899,0,6293.0,returned,Cash on Delivery,2023-06-30
+50,ORD-10050,24,Webcam HD,6,2899,15,14784.9,delivered,Cash on Delivery,2023-11-05
+51,ORD-10051,25,Wireless Mouse,6,899,5,5124.3,delivered,Bank Transfer,2023-07-11
+52,ORD-10052,33,Stapler,4,199,5,756.2,delivered,Credit Card,2023-05-26
+53,ORD-10053,32,Office Chair,7,8999,0,62993.0,delivered,Bank Transfer,2023-07-31
+54,ORD-10054,60,Webcam HD,4,2899,0,11596.0,delivered,Credit Card,2023-02-19
+55,ORD-10055,16,Mechanical Keyboard,3,2499,10,6747.3,cancelled,Maya,2023-09-04
+56,ORD-10056,48,Laptop Stand,4,1899,15,6456.6,delivered,Maya,2023-12-10
+57,ORD-10057,39,HDMI Cable,1,399,0,399.0,delivered,Bank Transfer,2023-06-16
+58,ORD-10058,100,Notebook A5,9,85,5,726.75,delivered,Maya,2023-02-05
+59,ORD-10059,97,Wireless Mouse,9,899,0,8091.0,delivered,Cash on Delivery,2023-10-22
+60,ORD-10060,59,Monitor 24in,2,12999,15,22098.3,pending,GCash,2023-02-21
+61,ORD-10061,84,Wireless Mouse,7,899,0,6293.0,delivered,Maya,2023-08-06
+62,ORD-10062,58,Ballpen Box,7,120,5,798.0,delivered,Maya,2023-06-23
+63,ORD-10063,8,Monitor 24in,5,12999,0,64995.0,cancelled,Credit Card,2023-03-24
+64,ORD-10064,12,Webcam HD,4,2899,15,9856.6,delivered,Cash on Delivery,2023-05-02
+65,ORD-10065,22,Laptop Stand,1,1899,15,1614.15,pending,Maya,2023-11-07
+66,ORD-10066,20,LED Desk Lamp,4,1299,0,5196.0,pending,Bank Transfer,2023-08-26
+67,ORD-10067,5,USB-C Hub,8,1299,0,10392.0,returned,Cash on Delivery,2023-01-20
+68,ORD-10068,96,USB-C Hub,7,1299,15,7729.05,delivered,Credit Card,2023-04-22
+69,ORD-10069,41,LED Desk Lamp,6,1299,0,7794.0,delivered,Credit Card,2023-05-17
+70,ORD-10070,96,Ballpen Box,1,120,15,102.0,delivered,Maya,2023-03-18
+71,ORD-10071,99,Wireless Mouse,2,899,15,1528.3,returned,Cash on Delivery,2023-06-20
+72,ORD-10072,76,Notebook A5,1,85,0,85.0,delivered,Maya,2023-10-21
+73,ORD-10073,27,Webcam HD,6,2899,10,15654.6,delivered,Maya,2023-10-02
+74,ORD-10074,89,Stapler,5,199,15,845.75,cancelled,Maya,2023-05-14
+75,ORD-10075,78,Mechanical Keyboard,10,2499,15,21241.5,pending,GCash,2023-07-29
+76,ORD-10076,51,Mechanical Keyboard,7,2499,0,17493.0,returned,Credit Card,2023-11-19
+77,ORD-10077,76,Laptop Stand,6,1899,5,10824.3,pending,Cash on Delivery,2023-07-07
+78,ORD-10078,71,Stapler,10,199,0,1990.0,pending,Credit Card,2023-11-26
+79,ORD-10079,35,USB-C Hub,7,1299,5,8638.35,pending,GCash,2023-12-10
+80,ORD-10080,1,Webcam HD,9,2899,10,23481.9,delivered,Bank Transfer,2023-06-26
+81,ORD-10081,74,Laptop Stand,8,1899,15,12913.2,cancelled,GCash,2023-11-12
+82,ORD-10082,4,Monitor 24in,9,12999,15,99442.35,delivered,Maya,2023-08-19
+83,ORD-10083,84,USB-C Hub,8,1299,5,9872.4,pending,Maya,2023-05-31
+84,ORD-10084,39,USB-C Hub,3,1299,0,3897.0,returned,Cash on Delivery,2023-09-21
+85,ORD-10085,96,Ballpen Box,6,120,15,612.0,delivered,GCash,2023-06-05
+86,ORD-10086,89,Notebook A5,8,85,0,680.0,delivered,Bank Transfer,2023-01-09
+87,ORD-10087,48,Webcam HD,1,2899,15,2464.15,cancelled,Bank Transfer,2023-10-03
+88,ORD-10088,33,Office Chair,3,8999,15,22947.45,delivered,GCash,2023-05-27
+89,ORD-10089,2,USB-C Hub,1,1299,10,1169.1,delivered,Cash on Delivery,2023-06-24
+90,ORD-10090,89,Stapler,10,199,5,1890.5,returned,Maya,2023-09-20
+91,ORD-10091,68,HDMI Cable,4,399,15,1356.6,cancelled,Credit Card,2023-09-08
+92,ORD-10092,35,Stapler,7,199,0,1393.0,delivered,Maya,2023-12-04
+93,ORD-10093,59,Stapler,5,199,0,995.0,cancelled,Maya,2023-11-15
+94,ORD-10094,45,LED Desk Lamp,6,1299,0,7794.0,pending,Credit Card,2023-04-10
+95,ORD-10095,30,Mechanical Keyboard,5,2499,0,12495.0,returned,GCash,2023-03-17
+96,ORD-10096,48,USB-C Hub,10,1299,0,12990.0,returned,Cash on Delivery,2023-09-02
+97,ORD-10097,88,Office Chair,5,8999,10,40495.5,pending,Credit Card,2023-06-20
+98,ORD-10098,96,LED Desk Lamp,4,1299,0,5196.0,delivered,GCash,2023-10-18
+99,ORD-10099,73,Ballpen Box,5,120,0,600.0,pending,Bank Transfer,2023-09-16
+100,ORD-10100,40,Office Chair,9,8999,0,80991.0,pending,Bank Transfer,2023-11-22
+101,ORD-10101,45,LED Desk Lamp,1,1299,10,1169.1,pending,GCash,2023-10-30
+102,ORD-10102,10,Stapler,10,199,0,1990.0,delivered,GCash,2023-05-02
+103,ORD-10103,75,USB-C Hub,10,1299,10,11691.0,delivered,Bank Transfer,2023-08-21
+104,ORD-10104,48,Stapler,10,199,10,1791.0,delivered,Maya,2023-07-04
+105,ORD-10105,37,Office Chair,3,8999,10,24297.3,delivered,Credit Card,2023-03-14
+106,ORD-10106,35,Laptop Stand,4,1899,0,7596.0,cancelled,Credit Card,2023-08-09
+107,ORD-10107,78,Laptop Stand,6,1899,10,10254.6,delivered,Credit Card,2023-07-24
+108,ORD-10108,44,Webcam HD,9,2899,10,23481.9,delivered,Maya,2023-03-19
+109,ORD-10109,42,Stapler,4,199,0,796.0,delivered,Bank Transfer,2023-12-25
+110,ORD-10110,79,Notebook A5,7,85,5,565.25,returned,Maya,2023-02-27
+111,ORD-10111,24,Monitor 24in,3,12999,0,38997.0,cancelled,Bank Transfer,2023-05-16
+112,ORD-10112,77,Laptop Stand,1,1899,10,1709.1,delivered,GCash,2023-03-23
+113,ORD-10113,70,Webcam HD,2,2899,5,5508.1,delivered,GCash,2023-01-15
+114,ORD-10114,80,Wireless Mouse,4,899,0,3596.0,delivered,Maya,2023-06-30
+115,ORD-10115,4,Ballpen Box,2,120,0,240.0,cancelled,Bank Transfer,2023-04-03
+116,ORD-10116,16,Laptop Stand,8,1899,0,15192.0,returned,GCash,2023-09-17
+117,ORD-10117,14,Office Chair,10,8999,0,89990.0,pending,Maya,2023-02-15
+118,ORD-10118,37,Wireless Mouse,10,899,15,7641.5,cancelled,Credit Card,2023-12-24
+119,ORD-10119,28,Monitor 24in,2,12999,15,22098.3,returned,Cash on Delivery,2023-03-18
+120,ORD-10120,2,Stapler,2,199,15,338.3,delivered,Maya,2023-02-09
+121,ORD-10121,48,Webcam HD,9,2899,15,22177.35,delivered,Cash on Delivery,2023-04-28
+122,ORD-10122,38,Notebook A5,9,85,15,650.25,cancelled,GCash,2023-05-25
+123,ORD-10123,16,Monitor 24in,3,12999,15,33147.45,delivered,Cash on Delivery,2023-09-10
+124,ORD-10124,4,Stapler,1,199,0,199.0,returned,Bank Transfer,2023-05-04
+125,ORD-10125,32,HDMI Cable,4,399,0,1596.0,delivered,Cash on Delivery,2023-01-22
+126,ORD-10126,94,Office Chair,8,8999,0,71992.0,cancelled,GCash,2023-09-02
+127,ORD-10127,56,Laptop Stand,9,1899,15,14527.35,pending,GCash,2023-03-19
+128,ORD-10128,96,Laptop Stand,1,1899,0,1899.0,delivered,GCash,2023-02-15
+129,ORD-10129,90,Ballpen Box,9,120,10,972.0,delivered,Cash on Delivery,2023-07-09
+130,ORD-10130,66,Ballpen Box,3,120,0,360.0,delivered,Bank Transfer,2023-06-14
+131,ORD-10131,60,Mechanical Keyboard,3,2499,0,7497.0,delivered,Maya,2023-04-30
+132,ORD-10132,3,Wireless Mouse,2,899,0,1798.0,delivered,GCash,2023-07-20
+133,ORD-10133,62,Ballpen Box,10,120,0,1200.0,delivered,GCash,2023-09-21
+134,ORD-10134,26,Stapler,3,199,0,597.0,returned,Credit Card,2023-04-11
+135,ORD-10135,100,Laptop Stand,2,1899,15,3228.3,returned,Maya,2023-10-03
+136,ORD-10136,74,Mechanical Keyboard,2,2499,10,4498.2,returned,GCash,2023-05-13
+137,ORD-10137,32,Monitor 24in,2,12999,0,25998.0,pending,Maya,2023-11-02
+138,ORD-10138,88,Stapler,3,199,0,597.0,pending,Cash on Delivery,2023-05-20
+139,ORD-10139,86,Notebook A5,6,85,15,433.5,pending,GCash,2023-10-17
+140,ORD-10140,55,Monitor 24in,8,12999,0,103992.0,pending,Cash on Delivery,2023-07-16
+141,ORD-10141,35,Webcam HD,6,2899,10,15654.6,delivered,Cash on Delivery,2023-01-16
+142,ORD-10142,82,Notebook A5,5,85,5,403.75,delivered,Cash on Delivery,2023-01-30
+143,ORD-10143,95,Mechanical Keyboard,10,2499,15,21241.5,delivered,Bank Transfer,2023-06-25
+144,ORD-10144,86,Notebook A5,8,85,10,612.0,returned,Maya,2023-01-18
+145,ORD-10145,7,Mechanical Keyboard,8,2499,0,19992.0,pending,Bank Transfer,2023-03-27
+146,ORD-10146,85,Wireless Mouse,1,899,5,854.05,cancelled,Bank Transfer,2023-06-03
+147,ORD-10147,98,Ballpen Box,7,120,0,840.0,cancelled,Bank Transfer,2023-08-27
+148,ORD-10148,43,Ballpen Box,5,120,10,540.0,delivered,Bank Transfer,2023-08-07
+149,ORD-10149,81,Office Chair,3,8999,0,26997.0,pending,GCash,2023-06-26
+150,ORD-10150,73,Office Chair,3,8999,0,26997.0,delivered,Maya,2023-12-27
+151,ORD-10151,74,Laptop Stand,7,1899,10,11963.7,delivered,Cash on Delivery,2023-07-30
+152,ORD-10152,89,Monitor 24in,7,12999,0,90993.0,returned,Cash on Delivery,2023-02-01
+153,ORD-10153,17,Monitor 24in,8,12999,0,103992.0,pending,Cash on Delivery,2023-06-24
+154,ORD-10154,40,Webcam HD,10,2899,0,28990.0,cancelled,Maya,2023-06-23
+155,ORD-10155,15,Ballpen Box,4,120,5,456.0,pending,Bank Transfer,2023-04-29
+156,ORD-10156,53,Ballpen Box,10,120,5,1140.0,returned,Credit Card,2023-05-28
+157,ORD-10157,27,Office Chair,5,8999,5,42745.25,delivered,Credit Card,2023-07-19
+158,ORD-10158,94,USB-C Hub,6,1299,15,6624.9,returned,GCash,2023-03-08
+159,ORD-10159,99,Ballpen Box,7,120,0,840.0,returned,Bank Transfer,2023-11-30
+160,ORD-10160,18,Wireless Mouse,8,899,15,6113.2,delivered,GCash,2023-04-20
+161,ORD-10161,8,Office Chair,7,8999,10,56693.7,delivered,Credit Card,2023-04-10
+162,ORD-10162,89,Notebook A5,8,85,15,578.0,cancelled,Maya,2023-01-18
+163,ORD-10163,21,Ballpen Box,6,120,5,684.0,delivered,Maya,2023-08-06
+164,ORD-10164,57,LED Desk Lamp,2,1299,15,2208.3,cancelled,Cash on Delivery,2023-02-18
+165,ORD-10165,19,Office Chair,8,8999,0,71992.0,cancelled,Cash on Delivery,2023-07-24
+166,ORD-10166,61,Office Chair,7,8999,5,59843.35,pending,Cash on Delivery,2023-12-12
+167,ORD-10167,65,Ballpen Box,8,120,0,960.0,pending,Cash on Delivery,2023-06-03
+168,ORD-10168,28,Webcam HD,6,2899,0,17394.0,cancelled,GCash,2023-02-14
+169,ORD-10169,20,LED Desk Lamp,4,1299,5,4936.2,returned,GCash,2023-06-13
+170,ORD-10170,32,Office Chair,3,8999,0,26997.0,delivered,GCash,2023-08-18
+171,ORD-10171,42,Webcam HD,10,2899,0,28990.0,pending,Maya,2023-03-21
+172,ORD-10172,49,Mechanical Keyboard,10,2499,0,24990.0,delivered,Cash on Delivery,2023-06-21
+173,ORD-10173,52,Stapler,9,199,0,1791.0,delivered,Maya,2023-04-15
+174,ORD-10174,82,Stapler,1,199,0,199.0,delivered,Bank Transfer,2023-07-29
+175,ORD-10175,82,Office Chair,9,8999,0,80991.0,delivered,Cash on Delivery,2023-07-11
+176,ORD-10176,6,Notebook A5,2,85,15,144.5,delivered,Maya,2023-09-07
+177,ORD-10177,42,Stapler,3,199,0,597.0,pending,Bank Transfer,2023-06-15
+178,ORD-10178,2,LED Desk Lamp,7,1299,5,8638.35,returned,Bank Transfer,2023-12-05
+179,ORD-10179,16,HDMI Cable,7,399,0,2793.0,delivered,GCash,2023-11-30
+180,ORD-10180,49,Office Chair,3,8999,0,26997.0,pending,Credit Card,2023-02-27
+181,ORD-10181,68,Office Chair,9,8999,0,80991.0,pending,Bank Transfer,2023-01-17
+182,ORD-10182,80,Monitor 24in,8,12999,0,103992.0,pending,Bank Transfer,2023-08-16
+183,ORD-10183,53,Mechanical Keyboard,3,2499,15,6372.45,delivered,Maya,2023-07-23
+184,ORD-10184,79,Wireless Mouse,6,899,15,4584.9,delivered,GCash,2023-09-14
+185,ORD-10185,36,Webcam HD,2,2899,0,5798.0,delivered,Maya,2023-04-04
+186,ORD-10186,33,Ballpen Box,6,120,15,612.0,delivered,Credit Card,2023-08-05
+187,ORD-10187,46,LED Desk Lamp,5,1299,5,6170.25,delivered,Credit Card,2023-10-01
+188,ORD-10188,58,Mechanical Keyboard,2,2499,0,4998.0,delivered,Bank Transfer,2023-11-21
+189,ORD-10189,69,Mechanical Keyboard,5,2499,0,12495.0,delivered,GCash,2023-03-13
+190,ORD-10190,9,Office Chair,9,8999,0,80991.0,cancelled,Cash on Delivery,2023-02-02
+191,ORD-10191,10,Mechanical Keyboard,4,2499,0,9996.0,returned,Bank Transfer,2023-07-05
+192,ORD-10192,74,Mechanical Keyboard,4,2499,10,8996.4,cancelled,Maya,2023-06-17
+193,ORD-10193,5,Notebook A5,5,85,5,403.75,returned,Credit Card,2023-02-17
+194,ORD-10194,9,Wireless Mouse,4,899,0,3596.0,delivered,GCash,2023-07-14
+195,ORD-10195,61,HDMI Cable,10,399,0,3990.0,delivered,Bank Transfer,2023-03-04
+196,ORD-10196,8,Monitor 24in,10,12999,15,110491.5,delivered,Bank Transfer,2023-08-21
+197,ORD-10197,1,USB-C Hub,9,1299,0,11691.0,pending,GCash,2023-05-16
+198,ORD-10198,60,USB-C Hub,4,1299,0,5196.0,delivered,Maya,2023-04-01
+199,ORD-10199,31,Mechanical Keyboard,2,2499,15,4248.3,cancelled,GCash,2023-07-16
+200,ORD-10200,17,Laptop Stand,4,1899,0,7596.0,delivered,Maya,2023-07-04
+201,ORD-10201,67,Stapler,10,199,0,1990.0,cancelled,Cash on Delivery,2023-10-18
+202,ORD-10202,20,Laptop Stand,6,1899,15,9684.9,delivered,GCash,2023-06-01
+203,ORD-10203,60,Ballpen Box,6,120,5,684.0,delivered,Cash on Delivery,2023-07-16
+204,ORD-10204,1,Wireless Mouse,9,899,0,8091.0,delivered,Credit Card,2023-12-18
+205,ORD-10205,62,Webcam HD,10,2899,0,28990.0,cancelled,Maya,2023-08-12
+206,ORD-10206,83,Wireless Mouse,8,899,15,6113.2,delivered,GCash,2023-09-28
+207,ORD-10207,25,Mechanical Keyboard,6,2499,5,14244.3,delivered,Maya,2023-10-28
+208,ORD-10208,89,LED Desk Lamp,9,1299,15,9937.35,delivered,Bank Transfer,2023-03-09
+209,ORD-10209,75,Wireless Mouse,9,899,0,8091.0,pending,Credit Card,2023-05-22
+210,ORD-10210,1,USB-C Hub,5,1299,10,5845.5,cancelled,Maya,2023-06-16
+211,ORD-10211,91,Office Chair,3,8999,0,26997.0,delivered,Credit Card,2023-01-31
+212,ORD-10212,18,Laptop Stand,3,1899,10,5127.3,returned,Maya,2023-08-22
+213,ORD-10213,41,Wireless Mouse,6,899,15,4584.9,delivered,Credit Card,2023-03-02
+214,ORD-10214,78,Monitor 24in,2,12999,0,25998.0,delivered,Credit Card,2023-11-19
+215,ORD-10215,10,Monitor 24in,7,12999,0,90993.0,pending,Cash on Delivery,2023-04-11
+216,ORD-10216,96,Stapler,4,199,10,716.4,cancelled,Cash on Delivery,2023-03-11
+217,ORD-10217,100,Laptop Stand,6,1899,10,10254.6,delivered,Maya,2023-02-19
+218,ORD-10218,9,Notebook A5,7,85,15,505.75,delivered,Credit Card,2023-08-16
+219,ORD-10219,43,Laptop Stand,6,1899,0,11394.0,delivered,Credit Card,2023-05-17
+220,ORD-10220,48,LED Desk Lamp,4,1299,0,5196.0,pending,Bank Transfer,2023-05-28
+221,ORD-10221,50,Wireless Mouse,6,899,10,4854.6,returned,GCash,2023-10-16
+222,ORD-10222,10,Stapler,8,199,0,1592.0,delivered,GCash,2023-10-26
+223,ORD-10223,52,HDMI Cable,7,399,0,2793.0,returned,Credit Card,2023-05-02
+224,ORD-10224,14,Stapler,9,199,10,1611.9,returned,Credit Card,2023-08-11
+225,ORD-10225,82,Office Chair,9,8999,0,80991.0,pending,Cash on Delivery,2023-03-29
+226,ORD-10226,50,Office Chair,3,8999,5,25647.15,pending,Credit Card,2023-07-10
+227,ORD-10227,18,Laptop Stand,7,1899,10,11963.7,returned,Credit Card,2023-10-16
+228,ORD-10228,66,Office Chair,3,8999,0,26997.0,delivered,Cash on Delivery,2023-04-08
+229,ORD-10229,36,Ballpen Box,8,120,0,960.0,pending,Cash on Delivery,2023-06-19
+230,ORD-10230,44,HDMI Cable,4,399,0,1596.0,cancelled,Bank Transfer,2023-11-19
+231,ORD-10231,18,Webcam HD,5,2899,5,13770.25,pending,Bank Transfer,2023-02-13
+232,ORD-10232,27,Mechanical Keyboard,7,2499,0,17493.0,cancelled,Maya,2023-10-11
+233,ORD-10233,76,Monitor 24in,10,12999,15,110491.5,pending,GCash,2023-12-01
+234,ORD-10234,13,Ballpen Box,4,120,5,456.0,returned,Cash on Delivery,2023-05-26
+235,ORD-10235,41,Stapler,10,199,0,1990.0,delivered,Cash on Delivery,2023-09-11
+236,ORD-10236,60,Webcam HD,9,2899,0,26091.0,pending,Cash on Delivery,2023-02-14
+237,ORD-10237,90,Webcam HD,3,2899,0,8697.0,delivered,Credit Card,2023-12-05
+238,ORD-10238,28,Webcam HD,10,2899,15,24641.5,delivered,Cash on Delivery,2023-09-02
+239,ORD-10239,25,Mechanical Keyboard,1,2499,0,2499.0,cancelled,GCash,2023-06-25
+240,ORD-10240,92,Webcam HD,1,2899,0,2899.0,pending,Bank Transfer,2023-06-19
+241,ORD-10241,61,Wireless Mouse,10,899,0,8990.0,delivered,Maya,2023-09-04
+242,ORD-10242,84,Office Chair,5,8999,15,38245.75,delivered,Maya,2023-02-18
+243,ORD-10243,21,USB-C Hub,1,1299,15,1104.15,delivered,Maya,2023-12-07
+244,ORD-10244,97,Mechanical Keyboard,6,2499,10,13494.6,delivered,GCash,2023-08-04
+245,ORD-10245,58,Webcam HD,5,2899,0,14495.0,returned,GCash,2023-10-25
+246,ORD-10246,59,Ballpen Box,5,120,0,600.0,returned,GCash,2023-11-08
+247,ORD-10247,10,LED Desk Lamp,6,1299,10,7014.6,pending,GCash,2023-10-02
+248,ORD-10248,33,HDMI Cable,1,399,10,359.1,returned,Credit Card,2023-04-29
+249,ORD-10249,31,LED Desk Lamp,9,1299,5,11106.45,delivered,Maya,2023-08-20
+250,ORD-10250,68,Wireless Mouse,4,899,0,3596.0,pending,Bank Transfer,2023-03-22
+251,ORD-10251,78,USB-C Hub,2,1299,0,2598.0,cancelled,Cash on Delivery,2023-09-20
+252,ORD-10252,74,Notebook A5,6,85,0,510.0,delivered,Bank Transfer,2023-05-18
+253,ORD-10253,55,Office Chair,2,8999,10,16198.2,returned,GCash,2023-06-24
+254,ORD-10254,68,LED Desk Lamp,5,1299,0,6495.0,pending,Cash on Delivery,2023-11-15
+255,ORD-10255,46,Wireless Mouse,2,899,0,1798.0,returned,GCash,2023-10-04
+256,ORD-10256,28,Monitor 24in,2,12999,5,24698.1,cancelled,GCash,2023-02-03
+257,ORD-10257,61,Office Chair,5,8999,15,38245.75,pending,Cash on Delivery,2023-07-01
+258,ORD-10258,2,Mechanical Keyboard,8,2499,5,18992.4,delivered,GCash,2023-04-24
+259,ORD-10259,24,Mechanical Keyboard,8,2499,0,19992.0,delivered,Credit Card,2023-09-28
+260,ORD-10260,90,Mechanical Keyboard,10,2499,10,22491.0,delivered,Cash on Delivery,2023-05-30
+261,ORD-10261,15,Stapler,8,199,15,1353.2,pending,Credit Card,2023-04-01
+262,ORD-10262,26,Laptop Stand,9,1899,0,17091.0,cancelled,Credit Card,2023-05-28
+263,ORD-10263,41,Notebook A5,6,85,0,510.0,returned,Maya,2023-09-12
+264,ORD-10264,46,Wireless Mouse,10,899,15,7641.5,pending,Credit Card,2023-09-08
+265,ORD-10265,42,Mechanical Keyboard,6,2499,0,14994.0,pending,Credit Card,2023-03-11
+266,ORD-10266,7,Office Chair,6,8999,0,53994.0,cancelled,Cash on Delivery,2023-01-27
+267,ORD-10267,41,Office Chair,9,8999,0,80991.0,returned,GCash,2023-09-07
+268,ORD-10268,20,LED Desk Lamp,2,1299,5,2468.1,delivered,Bank Transfer,2023-04-11
+269,ORD-10269,27,Monitor 24in,5,12999,0,64995.0,delivered,Cash on Delivery,2023-05-09
+270,ORD-10270,94,USB-C Hub,10,1299,5,12340.5,returned,Credit Card,2023-06-10
+271,ORD-10271,84,Wireless Mouse,6,899,15,4584.9,returned,Credit Card,2023-08-01
+272,ORD-10272,84,Notebook A5,9,85,0,765.0,delivered,Cash on Delivery,2023-02-13
+273,ORD-10273,87,Monitor 24in,2,12999,15,22098.3,delivered,Cash on Delivery,2023-12-27
+274,ORD-10274,5,Stapler,4,199,0,796.0,returned,Maya,2023-01-10
+275,ORD-10275,46,Notebook A5,1,85,0,85.0,returned,GCash,2023-06-16
+276,ORD-10276,10,HDMI Cable,8,399,0,3192.0,pending,Credit Card,2023-06-19
+277,ORD-10277,90,HDMI Cable,10,399,0,3990.0,delivered,GCash,2023-05-23
+278,ORD-10278,66,Ballpen Box,4,120,0,480.0,cancelled,GCash,2023-04-14
+279,ORD-10279,79,Monitor 24in,9,12999,0,116991.0,delivered,GCash,2023-04-05
+280,ORD-10280,99,Webcam HD,8,2899,0,23192.0,pending,Credit Card,2023-05-08
+281,ORD-10281,37,Ballpen Box,9,120,15,918.0,delivered,GCash,2023-11-29
+282,ORD-10282,31,Mechanical Keyboard,7,2499,15,14869.05,pending,Credit Card,2023-02-02
+283,ORD-10283,56,Wireless Mouse,2,899,5,1708.1,returned,Cash on Delivery,2023-10-15
+284,ORD-10284,76,Wireless Mouse,1,899,15,764.15,cancelled,Cash on Delivery,2023-12-09
+285,ORD-10285,78,Office Chair,4,8999,0,35996.0,delivered,Credit Card,2023-12-30
+286,ORD-10286,47,Ballpen Box,7,120,0,840.0,delivered,Bank Transfer,2023-12-05
+287,ORD-10287,93,Office Chair,3,8999,0,26997.0,delivered,Cash on Delivery,2023-07-12
+288,ORD-10288,23,Ballpen Box,3,120,5,342.0,pending,GCash,2023-11-17
+289,ORD-10289,69,Monitor 24in,8,12999,0,103992.0,cancelled,Cash on Delivery,2023-12-15
+290,ORD-10290,30,Ballpen Box,8,120,0,960.0,delivered,Cash on Delivery,2023-01-05
+291,ORD-10291,60,Ballpen Box,6,120,0,720.0,delivered,Credit Card,2023-01-13
+292,ORD-10292,88,Stapler,10,199,0,1990.0,returned,GCash,2023-08-22
+293,ORD-10293,36,Monitor 24in,4,12999,0,51996.0,delivered,Cash on Delivery,2023-09-09
+294,ORD-10294,37,Monitor 24in,6,12999,15,66294.9,delivered,Credit Card,2023-10-18
+295,ORD-10295,24,Webcam HD,6,2899,0,17394.0,delivered,Maya,2023-02-14
+296,ORD-10296,34,Mechanical Keyboard,5,2499,15,10620.75,delivered,Cash on Delivery,2023-12-20
+297,ORD-10297,93,Mechanical Keyboard,8,2499,0,19992.0,delivered,Maya,2023-11-01
+298,ORD-10298,73,USB-C Hub,9,1299,5,11106.45,delivered,Credit Card,2023-06-02
+299,ORD-10299,5,Ballpen Box,3,120,10,324.0,delivered,GCash,2023-06-21
+300,ORD-10300,80,Notebook A5,7,85,10,535.5,cancelled,Credit Card,2023-07-26
+301,ORD-10301,45,Mechanical Keyboard,3,2499,0,7497.0,delivered,Bank Transfer,2023-09-03
+302,ORD-10302,58,Ballpen Box,8,120,0,960.0,pending,Maya,2023-02-11
+303,ORD-10303,38,Laptop Stand,7,1899,15,11299.05,pending,Credit Card,2023-12-17
+304,ORD-10304,75,Ballpen Box,2,120,0,240.0,delivered,Bank Transfer,2023-07-26
+305,ORD-10305,53,Laptop Stand,8,1899,5,14432.4,returned,Bank Transfer,2023-04-27
+306,ORD-10306,73,LED Desk Lamp,8,1299,15,8833.2,delivered,Bank Transfer,2023-11-09
+307,ORD-10307,60,Office Chair,2,8999,5,17098.1,cancelled,Credit Card,2023-11-20
+308,ORD-10308,91,Notebook A5,8,85,5,646.0,delivered,Cash on Delivery,2023-05-18
+309,ORD-10309,36,Notebook A5,8,85,0,680.0,pending,Bank Transfer,2023-10-29
+310,ORD-10310,95,HDMI Cable,5,399,10,1795.5,delivered,GCash,2023-07-04
+311,ORD-10311,13,Notebook A5,4,85,10,306.0,delivered,Credit Card,2023-09-27
+312,ORD-10312,39,Monitor 24in,2,12999,0,25998.0,cancelled,Maya,2023-04-23
+313,ORD-10313,1,Ballpen Box,4,120,10,432.0,delivered,Maya,2023-03-24
+314,ORD-10314,33,Office Chair,4,8999,5,34196.2,returned,Maya,2023-02-19
+315,ORD-10315,57,Monitor 24in,10,12999,10,116991.0,pending,Credit Card,2023-10-03
+316,ORD-10316,3,Office Chair,8,8999,0,71992.0,delivered,Bank Transfer,2023-01-23
+317,ORD-10317,39,Monitor 24in,7,12999,15,77344.05,delivered,Bank Transfer,2023-07-12
+318,ORD-10318,49,Mechanical Keyboard,5,2499,10,11245.5,cancelled,GCash,2023-08-23
+319,ORD-10319,54,Office Chair,4,8999,0,35996.0,cancelled,Maya,2023-12-11
+320,ORD-10320,71,USB-C Hub,6,1299,15,6624.9,delivered,GCash,2023-10-23
+321,ORD-10321,8,Laptop Stand,3,1899,10,5127.3,delivered,GCash,2023-03-04
+322,ORD-10322,17,Monitor 24in,7,12999,10,81893.7,delivered,GCash,2023-04-27
+323,ORD-10323,51,Mechanical Keyboard,10,2499,0,24990.0,delivered,Bank Transfer,2023-06-16
+324,ORD-10324,25,HDMI Cable,9,399,0,3591.0,delivered,Credit Card,2023-09-08
+325,ORD-10325,67,Mechanical Keyboard,1,2499,10,2249.1,returned,Bank Transfer,2023-01-16
+326,ORD-10326,32,Ballpen Box,10,120,10,1080.0,delivered,Maya,2023-01-19
+327,ORD-10327,69,Monitor 24in,2,12999,0,25998.0,cancelled,Bank Transfer,2023-11-20
+328,ORD-10328,6,HDMI Cable,3,399,5,1137.15,pending,Maya,2023-03-04
+329,ORD-10329,52,Wireless Mouse,6,899,10,4854.6,returned,Credit Card,2023-09-17
+330,ORD-10330,86,Ballpen Box,1,120,10,108.0,cancelled,Bank Transfer,2023-11-06
+331,ORD-10331,50,USB-C Hub,1,1299,0,1299.0,delivered,Cash on Delivery,2023-04-08
+332,ORD-10332,56,Stapler,3,199,15,507.45,delivered,Bank Transfer,2023-02-17
+333,ORD-10333,91,USB-C Hub,4,1299,10,4676.4,pending,Maya,2023-02-01
+334,ORD-10334,35,Laptop Stand,9,1899,5,16236.45,delivered,Credit Card,2023-10-24
+335,ORD-10335,96,Mechanical Keyboard,7,2499,0,17493.0,delivered,Maya,2023-09-23
+336,ORD-10336,44,Webcam HD,2,2899,5,5508.1,pending,Maya,2023-11-09
+337,ORD-10337,11,USB-C Hub,7,1299,5,8638.35,delivered,GCash,2023-08-25
+338,ORD-10338,98,Office Chair,3,8999,10,24297.3,delivered,Maya,2023-04-19
+339,ORD-10339,37,HDMI Cable,10,399,5,3790.5,delivered,Credit Card,2023-12-07
+340,ORD-10340,92,Stapler,7,199,5,1323.35,returned,Cash on Delivery,2023-05-12
+341,ORD-10341,81,Mechanical Keyboard,2,2499,5,4748.1,delivered,Maya,2023-11-26
+342,ORD-10342,100,Laptop Stand,9,1899,15,14527.35,delivered,Maya,2023-05-24
+343,ORD-10343,3,Webcam HD,4,2899,5,11016.2,delivered,Credit Card,2023-02-11
+344,ORD-10344,92,HDMI Cable,8,399,0,3192.0,delivered,Bank Transfer,2023-06-22
+345,ORD-10345,65,Stapler,4,199,10,716.4,delivered,Bank Transfer,2023-10-13
+346,ORD-10346,67,Laptop Stand,8,1899,10,13672.8,returned,Credit Card,2023-11-14
+347,ORD-10347,35,HDMI Cable,1,399,5,379.05,delivered,Bank Transfer,2023-12-26
+348,ORD-10348,55,Mechanical Keyboard,2,2499,15,4248.3,delivered,GCash,2023-01-19
+349,ORD-10349,1,Webcam HD,2,2899,15,4928.3,pending,Cash on Delivery,2023-01-08
+350,ORD-10350,88,Monitor 24in,9,12999,0,116991.0,returned,Credit Card,2023-01-03
+351,ORD-10351,12,HDMI Cable,9,399,0,3591.0,delivered,GCash,2023-06-25
+352,ORD-10352,17,Stapler,10,199,0,1990.0,delivered,GCash,2023-02-02
+353,ORD-10353,95,Monitor 24in,9,12999,5,111141.45,pending,Cash on Delivery,2023-07-01
+354,ORD-10354,51,Mechanical Keyboard,7,2499,0,17493.0,delivered,Bank Transfer,2023-11-04
+355,ORD-10355,63,HDMI Cable,8,399,5,3032.4,delivered,Bank Transfer,2023-05-11
+356,ORD-10356,63,LED Desk Lamp,10,1299,5,12340.5,cancelled,Maya,2023-12-06
+357,ORD-10357,48,Webcam HD,6,2899,0,17394.0,cancelled,Maya,2023-11-28
+358,ORD-10358,52,USB-C Hub,8,1299,5,9872.4,cancelled,Cash on Delivery,2023-12-08
+359,ORD-10359,82,Webcam HD,10,2899,10,26091.0,pending,GCash,2023-10-31
+360,ORD-10360,79,Wireless Mouse,2,899,5,1708.1,delivered,Bank Transfer,2023-06-26
+361,ORD-10361,94,Webcam HD,3,2899,15,7392.45,returned,Cash on Delivery,2023-07-22
+362,ORD-10362,85,Mechanical Keyboard,6,2499,5,14244.3,pending,GCash,2023-11-12
+363,ORD-10363,9,Monitor 24in,10,12999,5,123490.5,pending,GCash,2023-04-06
+364,ORD-10364,14,Webcam HD,3,2899,5,8262.15,returned,Credit Card,2023-09-27
+365,ORD-10365,17,Notebook A5,6,85,0,510.0,delivered,Maya,2023-05-04
+366,ORD-10366,6,Laptop Stand,10,1899,0,18990.0,pending,Credit Card,2023-06-02
+367,ORD-10367,8,Wireless Mouse,1,899,0,899.0,delivered,Maya,2023-10-23
+368,ORD-10368,72,Mechanical Keyboard,8,2499,0,19992.0,cancelled,Bank Transfer,2023-05-21
+369,ORD-10369,88,Office Chair,10,8999,15,76491.5,cancelled,Bank Transfer,2023-02-09
+370,ORD-10370,8,LED Desk Lamp,8,1299,5,9872.4,delivered,Credit Card,2023-12-09
+371,ORD-10371,52,Notebook A5,4,85,0,340.0,delivered,Credit Card,2023-06-19
+372,ORD-10372,89,Wireless Mouse,9,899,10,7281.9,pending,Credit Card,2023-07-12
+373,ORD-10373,36,HDMI Cable,7,399,0,2793.0,delivered,GCash,2023-01-07
+374,ORD-10374,78,USB-C Hub,7,1299,0,9093.0,cancelled,GCash,2023-10-16
+375,ORD-10375,96,Notebook A5,1,85,10,76.5,cancelled,Maya,2023-01-15
+376,ORD-10376,21,HDMI Cable,7,399,15,2374.05,pending,Maya,2023-11-11
+377,ORD-10377,83,Stapler,10,199,0,1990.0,returned,Credit Card,2023-02-17
+378,ORD-10378,22,Office Chair,2,8999,10,16198.2,cancelled,GCash,2023-05-03
+379,ORD-10379,41,Webcam HD,4,2899,10,10436.4,pending,Bank Transfer,2023-02-28
+380,ORD-10380,88,USB-C Hub,10,1299,0,12990.0,delivered,Bank Transfer,2023-05-20
+381,ORD-10381,61,Notebook A5,10,85,15,722.5,returned,Bank Transfer,2023-05-28
+382,ORD-10382,14,Mechanical Keyboard,10,2499,15,21241.5,delivered,Credit Card,2023-12-07
+383,ORD-10383,74,Mechanical Keyboard,8,2499,5,18992.4,delivered,GCash,2023-10-21
+384,ORD-10384,44,Notebook A5,5,85,5,403.75,delivered,Credit Card,2023-07-12
+385,ORD-10385,18,Mechanical Keyboard,7,2499,0,17493.0,delivered,Credit Card,2023-02-23
+386,ORD-10386,72,Mechanical Keyboard,9,2499,10,20241.9,returned,Cash on Delivery,2023-09-22
+387,ORD-10387,26,Mechanical Keyboard,3,2499,15,6372.45,delivered,Bank Transfer,2023-10-02
+388,ORD-10388,9,Webcam HD,6,2899,5,16524.3,pending,Bank Transfer,2023-08-04
+389,ORD-10389,51,Office Chair,3,8999,0,26997.0,delivered,GCash,2023-06-13
+390,ORD-10390,81,LED Desk Lamp,3,1299,5,3702.15,pending,Cash on Delivery,2023-12-01
+391,ORD-10391,51,Laptop Stand,10,1899,15,16141.5,pending,Cash on Delivery,2023-02-13
+392,ORD-10392,16,Mechanical Keyboard,3,2499,0,7497.0,returned,Bank Transfer,2023-06-14
+393,ORD-10393,76,USB-C Hub,10,1299,5,12340.5,pending,Cash on Delivery,2023-02-14
+394,ORD-10394,34,Wireless Mouse,5,899,0,4495.0,delivered,GCash,2023-05-30
+395,ORD-10395,75,Ballpen Box,8,120,10,864.0,delivered,Cash on Delivery,2023-12-13
+396,ORD-10396,18,Office Chair,10,8999,0,89990.0,returned,Credit Card,2023-10-05
+397,ORD-10397,64,Laptop Stand,1,1899,0,1899.0,pending,Credit Card,2023-01-20
+398,ORD-10398,31,Monitor 24in,9,12999,0,116991.0,cancelled,Cash on Delivery,2023-04-17
+399,ORD-10399,71,Ballpen Box,9,120,5,1026.0,delivered,Maya,2023-12-05
+400,ORD-10400,79,HDMI Cable,4,399,0,1596.0,delivered,Credit Card,2023-12-27
+401,ORD-10401,66,HDMI Cable,9,399,10,3231.9,cancelled,GCash,2023-08-28
+402,ORD-10402,33,Webcam HD,6,2899,10,15654.6,delivered,GCash,2023-12-08
+403,ORD-10403,52,HDMI Cable,9,399,10,3231.9,delivered,Bank Transfer,2023-02-12
+404,ORD-10404,25,USB-C Hub,3,1299,0,3897.0,delivered,Cash on Delivery,2023-02-08
+405,ORD-10405,25,Ballpen Box,1,120,0,120.0,pending,Maya,2023-12-30
+406,ORD-10406,63,Office Chair,3,8999,0,26997.0,delivered,Credit Card,2023-12-12
+407,ORD-10407,66,USB-C Hub,3,1299,10,3507.3,cancelled,GCash,2023-02-26
+408,ORD-10408,6,Webcam HD,6,2899,10,15654.6,delivered,Maya,2023-09-30
+409,ORD-10409,78,Wireless Mouse,6,899,0,5394.0,delivered,Credit Card,2023-05-26
+410,ORD-10410,67,HDMI Cable,6,399,10,2154.6,pending,Maya,2023-01-02
+411,ORD-10411,46,LED Desk Lamp,2,1299,5,2468.1,delivered,Cash on Delivery,2023-10-04
+412,ORD-10412,15,Stapler,10,199,0,1990.0,delivered,Credit Card,2023-07-01
+413,ORD-10413,82,Ballpen Box,3,120,5,342.0,delivered,Credit Card,2023-12-16
+414,ORD-10414,99,Mechanical Keyboard,2,2499,5,4748.1,delivered,Bank Transfer,2023-06-30
+415,ORD-10415,15,Notebook A5,7,85,10,535.5,delivered,Cash on Delivery,2023-09-06
+416,ORD-10416,23,Office Chair,4,8999,0,35996.0,pending,Bank Transfer,2023-04-13
+417,ORD-10417,98,LED Desk Lamp,7,1299,5,8638.35,pending,GCash,2023-11-07
+418,ORD-10418,33,Laptop Stand,9,1899,0,17091.0,returned,Credit Card,2023-05-20
+419,ORD-10419,97,LED Desk Lamp,7,1299,10,8183.7,returned,Maya,2023-10-25
+420,ORD-10420,84,Notebook A5,9,85,15,650.25,delivered,Cash on Delivery,2023-11-24
+421,ORD-10421,58,Webcam HD,1,2899,0,2899.0,delivered,Maya,2023-01-16
+422,ORD-10422,49,Notebook A5,6,85,0,510.0,delivered,Maya,2023-11-15
+423,ORD-10423,56,Office Chair,1,8999,0,8999.0,cancelled,GCash,2023-05-17
+424,ORD-10424,97,Notebook A5,1,85,5,80.75,delivered,Cash on Delivery,2023-04-23
+425,ORD-10425,13,Mechanical Keyboard,10,2499,5,23740.5,cancelled,Cash on Delivery,2023-04-11
+426,ORD-10426,36,Wireless Mouse,6,899,0,5394.0,returned,Bank Transfer,2023-06-02
+427,ORD-10427,26,Office Chair,5,8999,5,42745.25,delivered,GCash,2023-06-04
+428,ORD-10428,11,LED Desk Lamp,10,1299,0,12990.0,cancelled,Cash on Delivery,2023-07-04
+429,ORD-10429,24,HDMI Cable,6,399,5,2274.3,delivered,Maya,2023-08-20
+430,ORD-10430,9,HDMI Cable,6,399,0,2394.0,delivered,Bank Transfer,2023-08-21
+431,ORD-10431,66,LED Desk Lamp,1,1299,5,1234.05,cancelled,Bank Transfer,2023-02-15
+432,ORD-10432,34,Laptop Stand,10,1899,10,17091.0,delivered,GCash,2023-02-28
+433,ORD-10433,62,Ballpen Box,6,120,0,720.0,delivered,Bank Transfer,2023-07-16
+434,ORD-10434,99,Stapler,9,199,10,1611.9,delivered,Maya,2023-11-14
+435,ORD-10435,60,Office Chair,5,8999,0,44995.0,delivered,Maya,2023-02-13
+436,ORD-10436,36,Ballpen Box,1,120,0,120.0,delivered,Cash on Delivery,2023-12-08
+437,ORD-10437,22,HDMI Cable,5,399,10,1795.5,delivered,Maya,2023-02-11
+438,ORD-10438,87,Ballpen Box,4,120,0,480.0,cancelled,GCash,2023-10-07
+439,ORD-10439,28,Webcam HD,2,2899,10,5218.2,delivered,Cash on Delivery,2023-06-06
+440,ORD-10440,20,Stapler,4,199,15,676.6,pending,Maya,2023-07-01
+441,ORD-10441,46,LED Desk Lamp,2,1299,0,2598.0,delivered,Cash on Delivery,2023-12-04
+442,ORD-10442,83,Office Chair,9,8999,5,76941.45,cancelled,Bank Transfer,2023-11-05
+443,ORD-10443,74,Stapler,1,199,15,169.15,delivered,Maya,2023-03-21
+444,ORD-10444,11,Stapler,2,199,0,398.0,pending,Maya,2023-10-29
+445,ORD-10445,80,Office Chair,2,8999,0,17998.0,delivered,Bank Transfer,2023-08-15
+446,ORD-10446,86,Ballpen Box,1,120,0,120.0,cancelled,Credit Card,2023-08-24
+447,ORD-10447,43,LED Desk Lamp,3,1299,15,3312.45,delivered,GCash,2023-06-27
+448,ORD-10448,73,Office Chair,7,8999,5,59843.35,pending,Bank Transfer,2023-06-18
+449,ORD-10449,54,Webcam HD,2,2899,0,5798.0,delivered,Credit Card,2023-06-30
+450,ORD-10450,90,Office Chair,6,8999,5,51294.3,pending,GCash,2023-07-11
+451,ORD-10451,5,Webcam HD,6,2899,5,16524.3,cancelled,Bank Transfer,2023-08-14
+452,ORD-10452,17,USB-C Hub,9,1299,0,11691.0,delivered,Maya,2023-07-08
+453,ORD-10453,73,Ballpen Box,7,120,10,756.0,pending,Credit Card,2023-11-19
+454,ORD-10454,1,Stapler,6,199,5,1134.3,delivered,Maya,2023-05-06
+455,ORD-10455,80,Webcam HD,6,2899,0,17394.0,returned,GCash,2023-12-15
+456,ORD-10456,41,LED Desk Lamp,3,1299,0,3897.0,delivered,Bank Transfer,2023-06-04
+457,ORD-10457,78,Laptop Stand,4,1899,10,6836.4,pending,Bank Transfer,2023-05-16
+458,ORD-10458,97,HDMI Cable,6,399,15,2034.9,delivered,Bank Transfer,2023-06-14
+459,ORD-10459,70,Wireless Mouse,6,899,15,4584.9,delivered,Cash on Delivery,2023-04-24
+460,ORD-10460,84,Webcam HD,1,2899,0,2899.0,pending,Maya,2023-09-08
+461,ORD-10461,3,Office Chair,7,8999,15,53544.05,delivered,Cash on Delivery,2023-06-07
+462,ORD-10462,85,LED Desk Lamp,4,1299,0,5196.0,returned,Bank Transfer,2023-04-27
+463,ORD-10463,61,Webcam HD,9,2899,10,23481.9,cancelled,Bank Transfer,2023-12-28
+464,ORD-10464,100,Ballpen Box,8,120,0,960.0,pending,Cash on Delivery,2023-06-12
+465,ORD-10465,1,Mechanical Keyboard,10,2499,0,24990.0,returned,Credit Card,2023-03-27
+466,ORD-10466,15,LED Desk Lamp,1,1299,0,1299.0,returned,GCash,2023-11-09
+467,ORD-10467,27,Ballpen Box,1,120,5,114.0,delivered,Cash on Delivery,2023-10-29
+468,ORD-10468,81,HDMI Cable,6,399,0,2394.0,pending,Credit Card,2023-07-10
+469,ORD-10469,42,Mechanical Keyboard,1,2499,5,2374.05,returned,Maya,2023-12-02
+470,ORD-10470,78,Stapler,1,199,0,199.0,returned,GCash,2023-03-22
+471,ORD-10471,84,Mechanical Keyboard,7,2499,0,17493.0,delivered,Bank Transfer,2023-02-18
+472,ORD-10472,97,Office Chair,4,8999,5,34196.2,returned,GCash,2023-10-09
+473,ORD-10473,57,USB-C Hub,7,1299,15,7729.05,returned,Credit Card,2023-10-16
+474,ORD-10474,79,Webcam HD,10,2899,15,24641.5,delivered,Credit Card,2023-07-16
+475,ORD-10475,42,Ballpen Box,7,120,0,840.0,delivered,Maya,2023-02-26
+476,ORD-10476,12,Wireless Mouse,9,899,0,8091.0,delivered,Cash on Delivery,2023-10-10
+477,ORD-10477,92,HDMI Cable,6,399,0,2394.0,pending,Maya,2023-09-23
+478,ORD-10478,3,Notebook A5,3,85,15,216.75,pending,GCash,2023-12-06
+479,ORD-10479,3,Wireless Mouse,4,899,0,3596.0,returned,Bank Transfer,2023-07-08
+480,ORD-10480,41,Stapler,4,199,0,796.0,delivered,Bank Transfer,2023-04-11
+481,ORD-10481,90,Office Chair,4,8999,10,32396.4,delivered,Cash on Delivery,2023-07-20
+482,ORD-10482,90,LED Desk Lamp,3,1299,10,3507.3,pending,GCash,2023-10-25
+483,ORD-10483,29,Laptop Stand,7,1899,0,13293.0,cancelled,Credit Card,2023-05-18
+484,ORD-10484,61,Webcam HD,10,2899,15,24641.5,delivered,Cash on Delivery,2023-05-18
+485,ORD-10485,58,HDMI Cable,4,399,10,1436.4,delivered,Cash on Delivery,2023-06-15
+486,ORD-10486,91,Monitor 24in,5,12999,15,55245.75,delivered,Credit Card,2023-03-13
+487,ORD-10487,64,LED Desk Lamp,8,1299,0,10392.0,cancelled,Bank Transfer,2023-07-16
+488,ORD-10488,49,Office Chair,7,8999,15,53544.05,pending,GCash,2023-06-05
+489,ORD-10489,51,Notebook A5,5,85,0,425.0,delivered,Credit Card,2023-02-01
+490,ORD-10490,72,HDMI Cable,5,399,10,1795.5,returned,Credit Card,2023-09-28
+491,ORD-10491,3,Mechanical Keyboard,9,2499,0,22491.0,delivered,Credit Card,2023-04-20
+492,ORD-10492,59,LED Desk Lamp,7,1299,15,7729.05,delivered,GCash,2023-06-11
+493,ORD-10493,89,Monitor 24in,6,12999,0,77994.0,delivered,Cash on Delivery,2023-05-13
+494,ORD-10494,10,Ballpen Box,7,120,5,798.0,cancelled,Credit Card,2023-02-03
+495,ORD-10495,31,Webcam HD,7,2899,10,18263.7,returned,Maya,2023-09-12
+496,ORD-10496,85,Wireless Mouse,3,899,0,2697.0,cancelled,Bank Transfer,2023-10-31
+497,ORD-10497,82,Mechanical Keyboard,5,2499,5,11870.25,returned,Cash on Delivery,2023-04-16
+498,ORD-10498,93,Laptop Stand,10,1899,0,18990.0,pending,Credit Card,2023-03-19
+499,ORD-10499,79,LED Desk Lamp,7,1299,0,9093.0,delivered,Bank Transfer,2023-08-06
+500,ORD-10500,95,Laptop Stand,1,1899,0,1899.0,delivered,Cash on Delivery,2023-06-05
+501,ORD-10501,82,Notebook A5,3,85,10,229.5,pending,GCash,2023-09-08
+502,ORD-10502,79,Wireless Mouse,8,899,0,7192.0,delivered,Bank Transfer,2023-06-01
+503,ORD-10503,93,Wireless Mouse,2,899,15,1528.3,returned,Cash on Delivery,2023-01-08
+504,ORD-10504,62,Laptop Stand,1,1899,0,1899.0,returned,Credit Card,2023-04-18
+505,ORD-10505,42,USB-C Hub,3,1299,15,3312.45,delivered,Credit Card,2023-09-28
+506,ORD-10506,86,LED Desk Lamp,4,1299,0,5196.0,returned,Maya,2023-11-19
+507,ORD-10507,92,Notebook A5,6,85,0,510.0,cancelled,Maya,2023-01-04
+508,ORD-10508,78,LED Desk Lamp,6,1299,0,7794.0,pending,Bank Transfer,2023-03-26
+509,ORD-10509,48,Ballpen Box,1,120,0,120.0,delivered,Maya,2023-05-05
+510,ORD-10510,94,Wireless Mouse,8,899,15,6113.2,delivered,Credit Card,2023-10-07
+511,ORD-10511,69,Ballpen Box,9,120,0,1080.0,cancelled,Bank Transfer,2023-12-19
+512,ORD-10512,46,USB-C Hub,6,1299,10,7014.6,delivered,GCash,2023-03-31
+513,ORD-10513,97,USB-C Hub,10,1299,0,12990.0,delivered,Cash on Delivery,2023-08-03
+514,ORD-10514,6,USB-C Hub,8,1299,0,10392.0,returned,GCash,2023-05-11
+515,ORD-10515,46,Mechanical Keyboard,1,2499,10,2249.1,cancelled,Cash on Delivery,2023-02-21
+516,ORD-10516,31,USB-C Hub,9,1299,0,11691.0,cancelled,Cash on Delivery,2023-12-01
+517,ORD-10517,91,Office Chair,7,8999,0,62993.0,returned,Credit Card,2023-10-13
+518,ORD-10518,27,USB-C Hub,2,1299,0,2598.0,delivered,Cash on Delivery,2023-06-11
+519,ORD-10519,28,LED Desk Lamp,8,1299,0,10392.0,pending,Cash on Delivery,2023-10-10
+520,ORD-10520,99,Mechanical Keyboard,3,2499,0,7497.0,cancelled,Credit Card,2023-08-16
+521,ORD-10521,45,Monitor 24in,5,12999,15,55245.75,delivered,GCash,2023-05-11
+522,ORD-10522,2,Monitor 24in,7,12999,15,77344.05,delivered,Cash on Delivery,2023-11-06
+523,ORD-10523,34,LED Desk Lamp,2,1299,0,2598.0,delivered,GCash,2023-03-07
+524,ORD-10524,32,Laptop Stand,4,1899,0,7596.0,pending,Maya,2023-07-29
+525,ORD-10525,28,Mechanical Keyboard,4,2499,5,9496.2,pending,Credit Card,2023-04-06
+526,ORD-10526,22,Mechanical Keyboard,6,2499,0,14994.0,returned,Credit Card,2023-05-20
+527,ORD-10527,34,Stapler,5,199,0,995.0,delivered,GCash,2023-11-13
+528,ORD-10528,61,LED Desk Lamp,6,1299,0,7794.0,cancelled,Bank Transfer,2023-09-07
+529,ORD-10529,3,Laptop Stand,1,1899,10,1709.1,delivered,GCash,2023-03-23
+530,ORD-10530,98,HDMI Cable,7,399,0,2793.0,delivered,Cash on Delivery,2023-02-15
+531,ORD-10531,40,Laptop Stand,1,1899,5,1804.05,returned,Maya,2023-04-15
+532,ORD-10532,35,Office Chair,10,8999,5,85490.5,returned,Credit Card,2023-06-15
+533,ORD-10533,11,Laptop Stand,9,1899,5,16236.45,delivered,GCash,2023-06-12
+534,ORD-10534,33,Webcam HD,7,2899,5,19278.35,delivered,Credit Card,2023-12-26
+535,ORD-10535,12,Laptop Stand,8,1899,0,15192.0,cancelled,GCash,2023-03-18
+536,ORD-10536,30,Monitor 24in,6,12999,0,77994.0,pending,Maya,2023-10-23
+537,ORD-10537,91,Ballpen Box,9,120,0,1080.0,delivered,Bank Transfer,2023-02-13
+538,ORD-10538,78,Stapler,6,199,0,1194.0,delivered,Bank Transfer,2023-03-07
+539,ORD-10539,63,USB-C Hub,8,1299,15,8833.2,cancelled,Maya,2023-10-11
+540,ORD-10540,71,Webcam HD,1,2899,0,2899.0,cancelled,Bank Transfer,2023-07-16
+541,ORD-10541,95,Stapler,4,199,10,716.4,pending,Cash on Delivery,2023-06-01
+542,ORD-10542,75,Ballpen Box,3,120,0,360.0,pending,Bank Transfer,2023-01-31
+543,ORD-10543,22,Ballpen Box,1,120,0,120.0,delivered,Cash on Delivery,2023-04-01
+544,ORD-10544,28,Stapler,9,199,0,1791.0,cancelled,Maya,2023-03-28
+545,ORD-10545,54,Wireless Mouse,1,899,10,809.1,delivered,Cash on Delivery,2023-07-14
+546,ORD-10546,42,LED Desk Lamp,10,1299,0,12990.0,delivered,Bank Transfer,2023-04-12
+547,ORD-10547,77,Monitor 24in,10,12999,5,123490.5,pending,Maya,2023-04-10
+548,ORD-10548,71,Ballpen Box,1,120,5,114.0,delivered,Maya,2023-12-23
+549,ORD-10549,87,Office Chair,5,8999,15,38245.75,cancelled,Credit Card,2023-03-13
+550,ORD-10550,27,Laptop Stand,10,1899,0,18990.0,delivered,GCash,2023-05-22
+551,ORD-10551,61,Mechanical Keyboard,9,2499,15,19117.35,cancelled,Bank Transfer,2023-11-02
+552,ORD-10552,90,Wireless Mouse,10,899,0,8990.0,delivered,Maya,2023-12-23
+553,ORD-10553,55,Stapler,10,199,5,1890.5,delivered,Cash on Delivery,2023-07-07
+554,ORD-10554,2,Stapler,10,199,0,1990.0,delivered,Cash on Delivery,2023-11-24
+555,ORD-10555,30,Office Chair,4,8999,10,32396.4,pending,Maya,2023-02-25
+556,ORD-10556,18,USB-C Hub,7,1299,0,9093.0,delivered,Credit Card,2023-07-14
+557,ORD-10557,33,LED Desk Lamp,9,1299,10,10521.9,delivered,Maya,2023-05-19
+558,ORD-10558,65,USB-C Hub,1,1299,0,1299.0,pending,Credit Card,2023-12-06
+559,ORD-10559,55,Stapler,9,199,0,1791.0,delivered,Bank Transfer,2023-03-30
+560,ORD-10560,79,Ballpen Box,1,120,15,102.0,pending,Bank Transfer,2023-01-19
+561,ORD-10561,71,Office Chair,5,8999,5,42745.25,delivered,Cash on Delivery,2023-11-21
+562,ORD-10562,42,Stapler,3,199,0,597.0,pending,Maya,2023-05-03
+563,ORD-10563,54,Wireless Mouse,9,899,0,8091.0,delivered,Cash on Delivery,2023-01-27
+564,ORD-10564,39,Wireless Mouse,3,899,10,2427.3,pending,Bank Transfer,2023-01-19
+565,ORD-10565,85,Office Chair,7,8999,0,62993.0,pending,Cash on Delivery,2023-11-08
+566,ORD-10566,23,Ballpen Box,5,120,0,600.0,cancelled,GCash,2023-03-20
+567,ORD-10567,17,USB-C Hub,3,1299,0,3897.0,pending,Cash on Delivery,2023-03-03
+568,ORD-10568,78,Stapler,5,199,5,945.25,pending,Cash on Delivery,2023-04-12
+569,ORD-10569,12,Mechanical Keyboard,1,2499,15,2124.15,returned,GCash,2023-08-08
+570,ORD-10570,35,USB-C Hub,8,1299,5,9872.4,returned,Credit Card,2023-02-25
+571,ORD-10571,21,Webcam HD,1,2899,10,2609.1,cancelled,Maya,2023-02-08
+572,ORD-10572,51,Ballpen Box,3,120,10,324.0,delivered,Credit Card,2023-06-25
+573,ORD-10573,56,Notebook A5,9,85,0,765.0,returned,Maya,2023-02-25
+574,ORD-10574,86,Notebook A5,2,85,0,170.0,delivered,GCash,2023-08-01
+575,ORD-10575,87,Mechanical Keyboard,9,2499,5,21366.45,delivered,Maya,2023-11-23
+576,ORD-10576,45,Wireless Mouse,4,899,10,3236.4,pending,Maya,2023-11-23
+577,ORD-10577,43,Notebook A5,7,85,0,595.0,pending,Bank Transfer,2023-08-13
+578,ORD-10578,34,HDMI Cable,8,399,10,2872.8,delivered,Bank Transfer,2023-08-06
+579,ORD-10579,31,Ballpen Box,3,120,0,360.0,delivered,Cash on Delivery,2023-06-22
+580,ORD-10580,27,Ballpen Box,2,120,0,240.0,delivered,GCash,2023-09-25
+581,ORD-10581,64,Wireless Mouse,10,899,0,8990.0,delivered,Credit Card,2023-03-30
+582,ORD-10582,30,Wireless Mouse,7,899,0,6293.0,delivered,Maya,2023-10-21
+583,ORD-10583,31,Notebook A5,8,85,0,680.0,cancelled,Maya,2023-11-26
+584,ORD-10584,9,Stapler,3,199,10,537.3,cancelled,Cash on Delivery,2023-07-27
+585,ORD-10585,30,Notebook A5,9,85,0,765.0,delivered,Maya,2023-02-27
+586,ORD-10586,34,LED Desk Lamp,7,1299,15,7729.05,pending,GCash,2023-02-16
+587,ORD-10587,6,Office Chair,6,8999,0,53994.0,returned,Cash on Delivery,2023-12-04
+588,ORD-10588,74,USB-C Hub,10,1299,0,12990.0,delivered,GCash,2023-06-16
+589,ORD-10589,73,USB-C Hub,4,1299,10,4676.4,returned,Bank Transfer,2023-05-27
+590,ORD-10590,19,Webcam HD,8,2899,0,23192.0,cancelled,Bank Transfer,2023-10-30
+591,ORD-10591,98,Monitor 24in,7,12999,0,90993.0,cancelled,Bank Transfer,2023-10-02
+592,ORD-10592,37,Ballpen Box,1,120,0,120.0,returned,Cash on Delivery,2023-11-21
+593,ORD-10593,4,HDMI Cable,10,399,10,3591.0,cancelled,Maya,2023-10-03
+594,ORD-10594,58,HDMI Cable,3,399,15,1017.45,delivered,Maya,2023-04-16
+595,ORD-10595,98,HDMI Cable,10,399,0,3990.0,pending,Credit Card,2023-07-03
+596,ORD-10596,21,Office Chair,7,8999,15,53544.05,delivered,Bank Transfer,2023-06-04
+597,ORD-10597,37,Mechanical Keyboard,10,2499,10,22491.0,delivered,Cash on Delivery,2023-04-10
+598,ORD-10598,62,Ballpen Box,9,120,5,1026.0,delivered,Credit Card,2023-06-15
+599,ORD-10599,78,Laptop Stand,7,1899,0,13293.0,cancelled,Credit Card,2023-09-18
+600,ORD-10600,30,LED Desk Lamp,2,1299,10,2338.2,delivered,Cash on Delivery,2023-11-16
+601,ORD-10601,18,Office Chair,8,8999,10,64792.8,delivered,Bank Transfer,2023-07-15
+602,ORD-10602,36,Notebook A5,8,85,0,680.0,delivered,Credit Card,2023-02-24
+603,ORD-10603,66,Office Chair,9,8999,0,80991.0,cancelled,Bank Transfer,2023-05-28
+604,ORD-10604,55,Monitor 24in,8,12999,0,103992.0,pending,Credit Card,2023-04-22
+605,ORD-10605,82,Monitor 24in,9,12999,0,116991.0,pending,Credit Card,2023-02-11
+606,ORD-10606,88,Webcam HD,8,2899,0,23192.0,pending,Cash on Delivery,2023-08-12
+607,ORD-10607,95,Laptop Stand,7,1899,15,11299.05,delivered,GCash,2023-03-29
+608,ORD-10608,44,Stapler,9,199,0,1791.0,pending,Credit Card,2023-11-17
+609,ORD-10609,38,Mechanical Keyboard,2,2499,0,4998.0,delivered,GCash,2023-11-07
+610,ORD-10610,39,Wireless Mouse,10,899,15,7641.5,returned,Credit Card,2023-10-04
+611,ORD-10611,19,Office Chair,5,8999,0,44995.0,returned,Credit Card,2023-02-16
+612,ORD-10612,6,Monitor 24in,9,12999,0,116991.0,delivered,Cash on Delivery,2023-01-11
+613,ORD-10613,76,USB-C Hub,8,1299,0,10392.0,pending,Credit Card,2023-05-21
+614,ORD-10614,23,Monitor 24in,9,12999,0,116991.0,cancelled,Bank Transfer,2023-09-13
+615,ORD-10615,89,Mechanical Keyboard,3,2499,10,6747.3,cancelled,Credit Card,2023-06-30
+616,ORD-10616,81,USB-C Hub,6,1299,0,7794.0,pending,GCash,2023-08-08
+617,ORD-10617,85,HDMI Cable,7,399,0,2793.0,cancelled,Credit Card,2023-10-30
+618,ORD-10618,22,Mechanical Keyboard,10,2499,0,24990.0,returned,Cash on Delivery,2023-10-14
+619,ORD-10619,73,Wireless Mouse,4,899,0,3596.0,delivered,Maya,2023-08-20
+620,ORD-10620,83,USB-C Hub,5,1299,0,6495.0,cancelled,Maya,2023-06-03
+621,ORD-10621,69,Mechanical Keyboard,2,2499,5,4748.1,pending,Bank Transfer,2023-08-26
+622,ORD-10622,48,Stapler,2,199,15,338.3,returned,Credit Card,2023-09-29
+623,ORD-10623,89,LED Desk Lamp,5,1299,0,6495.0,returned,GCash,2023-11-26
+624,ORD-10624,10,Stapler,7,199,15,1184.05,delivered,Bank Transfer,2023-07-04
+625,ORD-10625,2,Ballpen Box,7,120,15,714.0,returned,Maya,2023-06-29
+626,ORD-10626,32,Laptop Stand,3,1899,0,5697.0,pending,Cash on Delivery,2023-09-27
+627,ORD-10627,48,Ballpen Box,6,120,0,720.0,pending,Cash on Delivery,2023-09-18
+628,ORD-10628,56,Stapler,7,199,10,1253.7,pending,Cash on Delivery,2023-06-16
+629,ORD-10629,80,Webcam HD,2,2899,0,5798.0,delivered,Credit Card,2023-10-21
+630,ORD-10630,83,Ballpen Box,10,120,15,1020.0,returned,Cash on Delivery,2023-10-01
+631,ORD-10631,68,Monitor 24in,3,12999,15,33147.45,delivered,Cash on Delivery,2023-08-11
+632,ORD-10632,57,Mechanical Keyboard,6,2499,10,13494.6,delivered,Bank Transfer,2023-07-20
+633,ORD-10633,40,Ballpen Box,4,120,0,480.0,delivered,Bank Transfer,2023-03-20
+634,ORD-10634,51,USB-C Hub,10,1299,0,12990.0,cancelled,GCash,2023-10-15
+635,ORD-10635,41,LED Desk Lamp,5,1299,10,5845.5,delivered,Credit Card,2023-06-30
+636,ORD-10636,59,Webcam HD,8,2899,0,23192.0,pending,Credit Card,2023-09-23
+637,ORD-10637,90,Notebook A5,6,85,10,459.0,cancelled,Maya,2023-08-26
+638,ORD-10638,30,Webcam HD,7,2899,0,20293.0,pending,Bank Transfer,2023-09-05
+639,ORD-10639,9,Monitor 24in,6,12999,5,74094.3,delivered,Bank Transfer,2023-12-06
+640,ORD-10640,42,Monitor 24in,5,12999,5,61745.25,returned,Credit Card,2023-11-19
+641,ORD-10641,43,LED Desk Lamp,1,1299,0,1299.0,delivered,Cash on Delivery,2023-01-04
+642,ORD-10642,55,Mechanical Keyboard,10,2499,0,24990.0,delivered,Bank Transfer,2023-03-27
+643,ORD-10643,56,Ballpen Box,6,120,15,612.0,delivered,Credit Card,2023-11-07
+644,ORD-10644,72,Stapler,10,199,0,1990.0,returned,GCash,2023-01-06
+645,ORD-10645,21,Monitor 24in,2,12999,5,24698.1,pending,GCash,2023-03-21
+646,ORD-10646,46,HDMI Cable,3,399,0,1197.0,delivered,GCash,2023-01-26
+647,ORD-10647,69,Wireless Mouse,6,899,0,5394.0,delivered,Cash on Delivery,2023-04-29
+648,ORD-10648,47,Ballpen Box,7,120,10,756.0,delivered,Credit Card,2023-02-03
+649,ORD-10649,97,USB-C Hub,8,1299,5,9872.4,delivered,Cash on Delivery,2023-09-20
+650,ORD-10650,55,Stapler,1,199,0,199.0,returned,Credit Card,2023-01-31
+651,ORD-10651,79,Mechanical Keyboard,4,2499,5,9496.2,delivered,Bank Transfer,2023-08-19
+652,ORD-10652,75,Notebook A5,7,85,10,535.5,cancelled,GCash,2023-11-11
+653,ORD-10653,64,Mechanical Keyboard,5,2499,10,11245.5,returned,GCash,2023-03-24
+654,ORD-10654,53,Webcam HD,3,2899,0,8697.0,delivered,Bank Transfer,2023-08-08
+655,ORD-10655,45,Webcam HD,9,2899,0,26091.0,returned,Maya,2023-09-18
+656,ORD-10656,60,Laptop Stand,8,1899,15,12913.2,delivered,GCash,2023-08-03
+657,ORD-10657,9,Mechanical Keyboard,9,2499,15,19117.35,delivered,Cash on Delivery,2023-06-22
+658,ORD-10658,89,Wireless Mouse,7,899,0,6293.0,cancelled,Credit Card,2023-08-15
+659,ORD-10659,5,Laptop Stand,1,1899,10,1709.1,delivered,GCash,2023-06-26
+660,ORD-10660,3,Wireless Mouse,3,899,0,2697.0,returned,Cash on Delivery,2023-05-01
+661,ORD-10661,62,Office Chair,8,8999,10,64792.8,returned,GCash,2023-05-09
+662,ORD-10662,3,HDMI Cable,3,399,0,1197.0,returned,Bank Transfer,2023-12-20
+663,ORD-10663,64,Wireless Mouse,3,899,0,2697.0,cancelled,Cash on Delivery,2023-12-30
+664,ORD-10664,6,Office Chair,7,8999,10,56693.7,delivered,Bank Transfer,2023-01-13
+665,ORD-10665,88,Notebook A5,9,85,0,765.0,pending,Credit Card,2023-05-28
+666,ORD-10666,42,Mechanical Keyboard,10,2499,5,23740.5,pending,Cash on Delivery,2023-11-15
+667,ORD-10667,1,Stapler,3,199,15,507.45,cancelled,Bank Transfer,2023-10-07
+668,ORD-10668,10,USB-C Hub,9,1299,0,11691.0,delivered,GCash,2023-09-25
+669,ORD-10669,18,Monitor 24in,5,12999,5,61745.25,delivered,Cash on Delivery,2023-04-18
+670,ORD-10670,83,Wireless Mouse,2,899,5,1708.1,returned,Credit Card,2023-02-25
+671,ORD-10671,72,Laptop Stand,3,1899,15,4842.45,delivered,Cash on Delivery,2023-05-06
+672,ORD-10672,6,Webcam HD,4,2899,5,11016.2,returned,Maya,2023-01-10
+673,ORD-10673,93,Notebook A5,2,85,0,170.0,pending,Cash on Delivery,2023-01-16
+674,ORD-10674,54,HDMI Cable,6,399,0,2394.0,returned,Bank Transfer,2023-07-24
+675,ORD-10675,47,LED Desk Lamp,5,1299,15,5520.75,delivered,Credit Card,2023-01-28
+676,ORD-10676,39,LED Desk Lamp,5,1299,5,6170.25,delivered,Maya,2023-10-05
+677,ORD-10677,67,HDMI Cable,2,399,15,678.3,cancelled,Maya,2023-06-11
+678,ORD-10678,20,Monitor 24in,4,12999,5,49396.2,returned,Cash on Delivery,2023-09-27
+679,ORD-10679,77,Stapler,2,199,10,358.2,delivered,Maya,2023-03-20
+680,ORD-10680,83,Ballpen Box,9,120,10,972.0,returned,GCash,2023-11-26
+681,ORD-10681,69,Office Chair,9,8999,10,72891.9,delivered,Cash on Delivery,2023-01-25
+682,ORD-10682,46,LED Desk Lamp,2,1299,0,2598.0,delivered,Cash on Delivery,2023-03-07
+683,ORD-10683,54,HDMI Cable,2,399,15,678.3,delivered,Maya,2023-11-30
+684,ORD-10684,38,USB-C Hub,4,1299,10,4676.4,cancelled,Credit Card,2023-05-23
+685,ORD-10685,56,Ballpen Box,6,120,15,612.0,pending,Bank Transfer,2023-07-02
+686,ORD-10686,70,USB-C Hub,7,1299,0,9093.0,delivered,GCash,2023-07-02
+687,ORD-10687,68,Mechanical Keyboard,7,2499,0,17493.0,delivered,Bank Transfer,2023-03-01
+688,ORD-10688,85,Laptop Stand,4,1899,15,6456.6,delivered,Cash on Delivery,2023-01-13
+689,ORD-10689,91,Notebook A5,1,85,0,85.0,pending,Credit Card,2023-12-17
+690,ORD-10690,50,Webcam HD,8,2899,5,22032.4,pending,Cash on Delivery,2023-05-12
+691,ORD-10691,82,LED Desk Lamp,4,1299,5,4936.2,cancelled,Credit Card,2023-01-07
+692,ORD-10692,35,Stapler,1,199,5,189.05,delivered,GCash,2023-09-23
+693,ORD-10693,59,Ballpen Box,3,120,0,360.0,cancelled,Cash on Delivery,2023-03-07
+694,ORD-10694,20,Webcam HD,5,2899,10,13045.5,delivered,Credit Card,2023-01-17
+695,ORD-10695,50,Ballpen Box,6,120,5,684.0,pending,GCash,2023-07-01
+696,ORD-10696,11,Office Chair,5,8999,0,44995.0,cancelled,Bank Transfer,2023-10-21
+697,ORD-10697,91,Monitor 24in,6,12999,10,70194.6,pending,Cash on Delivery,2023-04-16
+698,ORD-10698,1,Wireless Mouse,4,899,10,3236.4,delivered,Cash on Delivery,2023-04-14
+699,ORD-10699,46,Monitor 24in,7,12999,15,77344.05,delivered,GCash,2023-03-02
+700,ORD-10700,8,Laptop Stand,6,1899,0,11394.0,delivered,Credit Card,2023-10-16
+701,ORD-10701,86,Laptop Stand,1,1899,5,1804.05,cancelled,Bank Transfer,2023-05-15
+702,ORD-10702,54,Mechanical Keyboard,6,2499,0,14994.0,returned,Credit Card,2023-10-24
+703,ORD-10703,3,USB-C Hub,2,1299,10,2338.2,cancelled,GCash,2023-08-30
+704,ORD-10704,26,Ballpen Box,7,120,5,798.0,cancelled,Maya,2023-10-24
+705,ORD-10705,9,Office Chair,9,8999,10,72891.9,returned,Credit Card,2023-09-28
+706,ORD-10706,30,Webcam HD,10,2899,5,27540.5,returned,Maya,2023-04-08
+707,ORD-10707,6,Stapler,9,199,0,1791.0,delivered,GCash,2023-05-08
+708,ORD-10708,24,Stapler,9,199,0,1791.0,cancelled,Maya,2023-10-13
+709,ORD-10709,32,LED Desk Lamp,1,1299,5,1234.05,delivered,GCash,2023-05-04
+710,ORD-10710,63,Mechanical Keyboard,5,2499,0,12495.0,returned,Maya,2023-10-22
+711,ORD-10711,19,Mechanical Keyboard,2,2499,15,4248.3,returned,Maya,2023-05-18
+712,ORD-10712,68,Wireless Mouse,7,899,0,6293.0,delivered,Maya,2023-09-06
+713,ORD-10713,78,Mechanical Keyboard,7,2499,5,16618.35,delivered,GCash,2023-08-11
+714,ORD-10714,51,HDMI Cable,8,399,0,3192.0,cancelled,Credit Card,2023-10-19
+715,ORD-10715,71,Webcam HD,2,2899,5,5508.1,cancelled,Credit Card,2023-04-13
+716,ORD-10716,66,USB-C Hub,10,1299,5,12340.5,cancelled,GCash,2023-12-03
+717,ORD-10717,90,Stapler,5,199,15,845.75,cancelled,Bank Transfer,2023-09-25
+718,ORD-10718,53,USB-C Hub,6,1299,10,7014.6,delivered,Bank Transfer,2023-03-19
+719,ORD-10719,78,Notebook A5,2,85,0,170.0,cancelled,GCash,2023-07-02
+720,ORD-10720,20,Mechanical Keyboard,4,2499,15,8496.6,returned,Bank Transfer,2023-01-23
+721,ORD-10721,87,Laptop Stand,4,1899,0,7596.0,pending,Credit Card,2023-08-18
+722,ORD-10722,7,Mechanical Keyboard,5,2499,0,12495.0,delivered,Cash on Delivery,2023-06-27
+723,ORD-10723,92,Office Chair,7,8999,10,56693.7,pending,Cash on Delivery,2023-10-15
+724,ORD-10724,10,Office Chair,7,8999,0,62993.0,pending,Cash on Delivery,2023-01-28
+725,ORD-10725,54,USB-C Hub,4,1299,10,4676.4,delivered,GCash,2023-01-02
+726,ORD-10726,5,Notebook A5,10,85,0,850.0,delivered,GCash,2023-06-03
+727,ORD-10727,88,Mechanical Keyboard,9,2499,0,22491.0,pending,GCash,2023-08-15
+728,ORD-10728,19,Webcam HD,10,2899,0,28990.0,returned,Credit Card,2023-04-18
+729,ORD-10729,67,USB-C Hub,3,1299,10,3507.3,delivered,Maya,2023-06-28
+730,ORD-10730,47,Laptop Stand,3,1899,0,5697.0,delivered,Cash on Delivery,2023-06-25
+731,ORD-10731,91,USB-C Hub,1,1299,0,1299.0,returned,Credit Card,2023-06-10
+732,ORD-10732,11,Laptop Stand,9,1899,10,15381.9,delivered,Credit Card,2023-12-10
+733,ORD-10733,71,HDMI Cable,6,399,0,2394.0,delivered,Bank Transfer,2023-10-27
+734,ORD-10734,3,Laptop Stand,6,1899,5,10824.3,delivered,Credit Card,2023-08-20
+735,ORD-10735,92,Stapler,3,199,10,537.3,returned,Maya,2023-08-11
+736,ORD-10736,95,Notebook A5,1,85,0,85.0,delivered,Maya,2023-01-31
+737,ORD-10737,60,USB-C Hub,9,1299,0,11691.0,returned,Credit Card,2023-03-18
+738,ORD-10738,24,Wireless Mouse,4,899,0,3596.0,cancelled,Credit Card,2023-01-02
+739,ORD-10739,23,Notebook A5,1,85,0,85.0,pending,Credit Card,2023-04-09
+740,ORD-10740,54,Mechanical Keyboard,7,2499,5,16618.35,delivered,Bank Transfer,2023-04-17
+741,ORD-10741,65,HDMI Cable,5,399,0,1995.0,cancelled,Credit Card,2023-12-20
+742,ORD-10742,67,Notebook A5,5,85,10,382.5,delivered,Credit Card,2023-02-12
+743,ORD-10743,22,Laptop Stand,9,1899,15,14527.35,returned,Bank Transfer,2023-12-03
+744,ORD-10744,43,Stapler,9,199,5,1701.45,delivered,Maya,2023-10-22
+745,ORD-10745,51,Laptop Stand,7,1899,5,12628.35,cancelled,Credit Card,2023-05-24
+746,ORD-10746,51,Notebook A5,3,85,5,242.25,pending,Maya,2023-06-09
+747,ORD-10747,28,HDMI Cable,6,399,5,2274.3,delivered,Maya,2023-10-24
+748,ORD-10748,44,Wireless Mouse,4,899,0,3596.0,delivered,Cash on Delivery,2023-09-01
+749,ORD-10749,26,Mechanical Keyboard,9,2499,15,19117.35,cancelled,Cash on Delivery,2023-11-16
+750,ORD-10750,63,Office Chair,9,8999,0,80991.0,delivered,Maya,2023-11-11
+751,ORD-10751,54,Notebook A5,7,85,10,535.5,delivered,Bank Transfer,2023-09-17
+752,ORD-10752,84,LED Desk Lamp,1,1299,0,1299.0,delivered,GCash,2023-01-27
+753,ORD-10753,76,Office Chair,6,8999,0,53994.0,pending,Maya,2023-09-05
+754,ORD-10754,26,Monitor 24in,6,12999,0,77994.0,returned,Maya,2023-10-11
+755,ORD-10755,35,Monitor 24in,8,12999,0,103992.0,returned,Maya,2023-06-28
+756,ORD-10756,92,Notebook A5,3,85,0,255.0,delivered,GCash,2023-12-31
+757,ORD-10757,78,Office Chair,8,8999,15,61193.2,cancelled,Maya,2023-09-02
+758,ORD-10758,72,Ballpen Box,8,120,0,960.0,delivered,Bank Transfer,2023-05-20
+759,ORD-10759,55,Stapler,3,199,0,597.0,delivered,GCash,2023-04-09
+760,ORD-10760,55,Ballpen Box,10,120,5,1140.0,delivered,Maya,2023-10-25
+761,ORD-10761,10,USB-C Hub,7,1299,5,8638.35,delivered,Cash on Delivery,2023-10-20
+762,ORD-10762,77,HDMI Cable,7,399,0,2793.0,delivered,Cash on Delivery,2023-11-14
+763,ORD-10763,12,Monitor 24in,10,12999,0,129990.0,cancelled,GCash,2023-11-24
+764,ORD-10764,68,Webcam HD,3,2899,10,7827.3,delivered,GCash,2023-06-10
+765,ORD-10765,21,HDMI Cable,3,399,0,1197.0,cancelled,Cash on Delivery,2023-06-09
+766,ORD-10766,75,Wireless Mouse,10,899,0,8990.0,pending,Bank Transfer,2023-01-07
+767,ORD-10767,76,Ballpen Box,5,120,0,600.0,returned,Cash on Delivery,2023-03-13
+768,ORD-10768,99,LED Desk Lamp,7,1299,0,9093.0,delivered,GCash,2023-05-23
+769,ORD-10769,77,USB-C Hub,10,1299,10,11691.0,returned,Credit Card,2023-06-16
+770,ORD-10770,32,Ballpen Box,8,120,15,816.0,returned,Maya,2023-02-05
+771,ORD-10771,6,Mechanical Keyboard,9,2499,0,22491.0,delivered,GCash,2023-03-28
+772,ORD-10772,24,Stapler,2,199,0,398.0,delivered,Maya,2023-09-21
+773,ORD-10773,7,Mechanical Keyboard,2,2499,0,4998.0,delivered,Bank Transfer,2023-12-24
+774,ORD-10774,49,Wireless Mouse,2,899,0,1798.0,delivered,Credit Card,2023-09-25
+775,ORD-10775,25,Mechanical Keyboard,7,2499,0,17493.0,delivered,Cash on Delivery,2023-10-09
+776,ORD-10776,11,Monitor 24in,4,12999,10,46796.4,delivered,GCash,2023-05-15
+777,ORD-10777,66,Webcam HD,8,2899,5,22032.4,delivered,Cash on Delivery,2023-10-03
+778,ORD-10778,68,Webcam HD,8,2899,0,23192.0,delivered,GCash,2023-03-19
+779,ORD-10779,98,Stapler,10,199,0,1990.0,delivered,Credit Card,2023-06-13
+780,ORD-10780,33,Wireless Mouse,4,899,5,3416.2,delivered,Bank Transfer,2023-02-03
+781,ORD-10781,40,Webcam HD,4,2899,5,11016.2,pending,GCash,2023-07-12
+782,ORD-10782,31,LED Desk Lamp,4,1299,0,5196.0,pending,GCash,2023-09-27
+783,ORD-10783,43,Office Chair,6,8999,10,48594.6,pending,Cash on Delivery,2023-03-07
+784,ORD-10784,27,Laptop Stand,5,1899,0,9495.0,delivered,Maya,2023-07-13
+785,ORD-10785,74,Wireless Mouse,5,899,10,4045.5,returned,Maya,2023-02-14
+786,ORD-10786,64,Monitor 24in,10,12999,15,110491.5,cancelled,Credit Card,2023-11-07
+787,ORD-10787,59,Ballpen Box,1,120,0,120.0,cancelled,Cash on Delivery,2023-11-27
+788,ORD-10788,24,Ballpen Box,7,120,15,714.0,returned,Credit Card,2023-01-07
+789,ORD-10789,11,LED Desk Lamp,9,1299,10,10521.9,returned,GCash,2023-12-09
+790,ORD-10790,48,Webcam HD,8,2899,0,23192.0,pending,Bank Transfer,2023-08-16
+791,ORD-10791,23,Webcam HD,6,2899,0,17394.0,pending,GCash,2023-10-01
+792,ORD-10792,100,Notebook A5,7,85,0,595.0,delivered,Maya,2023-12-26
+793,ORD-10793,81,Notebook A5,10,85,0,850.0,cancelled,GCash,2023-01-01
+794,ORD-10794,44,Office Chair,5,8999,5,42745.25,cancelled,Credit Card,2023-03-15
+795,ORD-10795,16,Wireless Mouse,5,899,0,4495.0,delivered,Bank Transfer,2023-04-09
+796,ORD-10796,76,LED Desk Lamp,5,1299,0,6495.0,delivered,Maya,2023-02-16
+797,ORD-10797,68,Mechanical Keyboard,5,2499,5,11870.25,delivered,Bank Transfer,2023-06-29
+798,ORD-10798,26,Laptop Stand,8,1899,0,15192.0,cancelled,GCash,2023-01-24
+799,ORD-10799,35,Laptop Stand,10,1899,10,17091.0,pending,Credit Card,2023-10-31
+800,ORD-10800,80,Stapler,1,199,10,179.1,cancelled,Maya,2023-07-30
+801,ORD-10801,39,Ballpen Box,10,120,10,1080.0,cancelled,Bank Transfer,2023-10-03
+802,ORD-10802,52,HDMI Cable,9,399,5,3411.45,returned,Cash on Delivery,2023-04-11
+803,ORD-10803,73,LED Desk Lamp,8,1299,0,10392.0,cancelled,GCash,2023-12-13
+804,ORD-10804,76,USB-C Hub,1,1299,0,1299.0,delivered,Cash on Delivery,2023-12-22
+805,ORD-10805,89,Stapler,5,199,0,995.0,returned,GCash,2023-08-03
+806,ORD-10806,27,Monitor 24in,10,12999,0,129990.0,delivered,Maya,2023-07-17
+807,ORD-10807,94,Ballpen Box,4,120,0,480.0,delivered,Cash on Delivery,2023-12-04
+808,ORD-10808,67,Office Chair,1,8999,0,8999.0,pending,GCash,2023-02-13
+809,ORD-10809,64,Ballpen Box,7,120,0,840.0,delivered,Credit Card,2023-11-29
+810,ORD-10810,34,Ballpen Box,5,120,15,510.0,delivered,Cash on Delivery,2023-04-28
+811,ORD-10811,52,Mechanical Keyboard,8,2499,0,19992.0,delivered,Cash on Delivery,2023-06-12
+812,ORD-10812,9,Webcam HD,8,2899,5,22032.4,returned,Credit Card,2023-07-15
+813,ORD-10813,33,Stapler,5,199,5,945.25,pending,GCash,2023-06-14
+814,ORD-10814,14,Ballpen Box,10,120,0,1200.0,delivered,Bank Transfer,2023-10-04
+815,ORD-10815,77,Office Chair,10,8999,0,89990.0,cancelled,Cash on Delivery,2023-03-12
+816,ORD-10816,72,Monitor 24in,7,12999,0,90993.0,delivered,GCash,2023-03-31
+817,ORD-10817,56,Notebook A5,2,85,0,170.0,pending,Credit Card,2023-02-24
+818,ORD-10818,5,Mechanical Keyboard,6,2499,0,14994.0,returned,Bank Transfer,2023-01-02
+819,ORD-10819,98,Laptop Stand,1,1899,5,1804.05,cancelled,Bank Transfer,2023-07-26
+820,ORD-10820,28,USB-C Hub,7,1299,0,9093.0,delivered,Cash on Delivery,2023-10-10
+821,ORD-10821,48,LED Desk Lamp,9,1299,0,11691.0,returned,GCash,2023-07-09
+822,ORD-10822,85,USB-C Hub,3,1299,10,3507.3,delivered,Credit Card,2023-09-08
+823,ORD-10823,73,Monitor 24in,9,12999,5,111141.45,cancelled,GCash,2023-10-04
+824,ORD-10824,17,Wireless Mouse,5,899,0,4495.0,returned,GCash,2023-03-20
+825,ORD-10825,41,Monitor 24in,2,12999,0,25998.0,delivered,Cash on Delivery,2023-05-27
+826,ORD-10826,1,Ballpen Box,3,120,5,342.0,pending,Cash on Delivery,2023-10-06
+827,ORD-10827,29,Laptop Stand,8,1899,5,14432.4,returned,Maya,2023-11-26
+828,ORD-10828,90,Laptop Stand,6,1899,0,11394.0,returned,Bank Transfer,2023-10-23
+829,ORD-10829,66,LED Desk Lamp,7,1299,0,9093.0,delivered,Maya,2023-03-03
+830,ORD-10830,2,Mechanical Keyboard,4,2499,5,9496.2,cancelled,Maya,2023-04-14
+831,ORD-10831,20,Mechanical Keyboard,1,2499,0,2499.0,returned,GCash,2023-03-21
+832,ORD-10832,10,Stapler,4,199,0,796.0,pending,Bank Transfer,2023-01-07
+833,ORD-10833,58,Ballpen Box,4,120,15,408.0,delivered,Cash on Delivery,2023-10-16
+834,ORD-10834,82,Mechanical Keyboard,2,2499,0,4998.0,returned,Maya,2023-11-21
+835,ORD-10835,81,LED Desk Lamp,4,1299,0,5196.0,delivered,Credit Card,2023-03-13
+836,ORD-10836,99,USB-C Hub,10,1299,0,12990.0,delivered,GCash,2023-06-24
+837,ORD-10837,42,Wireless Mouse,2,899,10,1618.2,delivered,Bank Transfer,2023-02-23
+838,ORD-10838,44,HDMI Cable,7,399,5,2653.35,cancelled,Bank Transfer,2023-11-25
+839,ORD-10839,91,Laptop Stand,9,1899,15,14527.35,delivered,Credit Card,2023-07-29
+840,ORD-10840,87,Laptop Stand,3,1899,0,5697.0,returned,Bank Transfer,2023-09-05
+841,ORD-10841,65,Notebook A5,4,85,15,289.0,returned,Maya,2023-05-21
+842,ORD-10842,53,Office Chair,1,8999,15,7649.15,delivered,Bank Transfer,2023-01-28
+843,ORD-10843,40,Webcam HD,2,2899,0,5798.0,delivered,GCash,2023-12-14
+844,ORD-10844,25,HDMI Cable,1,399,0,399.0,delivered,Maya,2023-01-16
+845,ORD-10845,78,Webcam HD,6,2899,5,16524.3,returned,Maya,2023-10-28
+846,ORD-10846,38,Webcam HD,2,2899,5,5508.1,delivered,Credit Card,2023-12-11
+847,ORD-10847,100,Wireless Mouse,6,899,15,4584.9,cancelled,Bank Transfer,2023-03-13
+848,ORD-10848,37,Stapler,5,199,5,945.25,delivered,GCash,2023-08-07
+849,ORD-10849,36,LED Desk Lamp,9,1299,10,10521.9,delivered,Maya,2023-03-15
+850,ORD-10850,82,Wireless Mouse,8,899,5,6832.4,cancelled,Cash on Delivery,2023-07-09
+851,ORD-10851,22,Wireless Mouse,2,899,0,1798.0,pending,Bank Transfer,2023-10-01
+852,ORD-10852,77,HDMI Cable,7,399,0,2793.0,delivered,Bank Transfer,2023-12-20
+853,ORD-10853,30,Mechanical Keyboard,8,2499,10,17992.8,pending,Credit Card,2023-09-21
+854,ORD-10854,75,Monitor 24in,7,12999,0,90993.0,pending,Bank Transfer,2023-03-08
+855,ORD-10855,21,Laptop Stand,1,1899,0,1899.0,delivered,Maya,2023-09-18
+856,ORD-10856,12,Wireless Mouse,5,899,0,4495.0,delivered,GCash,2023-03-07
+857,ORD-10857,56,USB-C Hub,5,1299,5,6170.25,returned,Cash on Delivery,2023-01-29
+858,ORD-10858,27,Webcam HD,8,2899,10,20872.8,pending,Maya,2023-07-03
+859,ORD-10859,59,Wireless Mouse,4,899,15,3056.6,pending,GCash,2023-11-03
+860,ORD-10860,35,Webcam HD,1,2899,0,2899.0,pending,Maya,2023-07-25
+861,ORD-10861,43,Office Chair,6,8999,15,45894.9,delivered,Credit Card,2023-03-01
+862,ORD-10862,64,Office Chair,3,8999,15,22947.45,delivered,Cash on Delivery,2023-12-29
+863,ORD-10863,33,Laptop Stand,2,1899,5,3608.1,delivered,Cash on Delivery,2023-12-21
+864,ORD-10864,70,LED Desk Lamp,3,1299,0,3897.0,delivered,Bank Transfer,2023-02-18
+865,ORD-10865,33,Office Chair,4,8999,15,30596.6,returned,GCash,2023-05-27
+866,ORD-10866,44,HDMI Cable,2,399,0,798.0,returned,Bank Transfer,2023-08-14
+867,ORD-10867,89,HDMI Cable,8,399,5,3032.4,returned,GCash,2023-08-28
+868,ORD-10868,51,Mechanical Keyboard,1,2499,15,2124.15,returned,GCash,2023-03-08
+869,ORD-10869,91,Notebook A5,9,85,10,688.5,delivered,Maya,2023-07-15
+870,ORD-10870,73,Stapler,10,199,15,1691.5,pending,Maya,2023-06-21
+871,ORD-10871,48,LED Desk Lamp,6,1299,5,7404.3,cancelled,Maya,2023-10-05
+872,ORD-10872,28,LED Desk Lamp,5,1299,0,6495.0,delivered,Credit Card,2023-08-17
+873,ORD-10873,70,Ballpen Box,1,120,0,120.0,delivered,Credit Card,2023-06-25
+874,ORD-10874,75,Wireless Mouse,4,899,10,3236.4,delivered,Credit Card,2023-12-10
+875,ORD-10875,53,HDMI Cable,9,399,15,3052.35,delivered,GCash,2023-02-12
+876,ORD-10876,28,USB-C Hub,10,1299,0,12990.0,delivered,GCash,2023-06-10
+877,ORD-10877,52,Webcam HD,4,2899,0,11596.0,delivered,Cash on Delivery,2023-01-29
+878,ORD-10878,95,Webcam HD,3,2899,10,7827.3,pending,Cash on Delivery,2023-08-07
+879,ORD-10879,46,Mechanical Keyboard,9,2499,10,20241.9,returned,Cash on Delivery,2023-01-05
+880,ORD-10880,99,USB-C Hub,4,1299,10,4676.4,returned,Maya,2023-01-03
+881,ORD-10881,41,LED Desk Lamp,1,1299,0,1299.0,delivered,Maya,2023-05-23
+882,ORD-10882,29,Ballpen Box,7,120,15,714.0,delivered,Cash on Delivery,2023-01-30
+883,ORD-10883,59,Mechanical Keyboard,8,2499,15,16993.2,pending,Maya,2023-05-03
+884,ORD-10884,4,Wireless Mouse,4,899,0,3596.0,delivered,Cash on Delivery,2023-01-06
+885,ORD-10885,7,Ballpen Box,1,120,0,120.0,returned,Bank Transfer,2023-08-13
+886,ORD-10886,76,LED Desk Lamp,6,1299,15,6624.9,cancelled,Bank Transfer,2023-05-31
+887,ORD-10887,89,Laptop Stand,8,1899,0,15192.0,pending,Maya,2023-04-03
+888,ORD-10888,25,Mechanical Keyboard,3,2499,0,7497.0,delivered,GCash,2023-04-30
+889,ORD-10889,43,Office Chair,7,8999,10,56693.7,delivered,Cash on Delivery,2023-02-25
+890,ORD-10890,63,Mechanical Keyboard,2,2499,0,4998.0,delivered,Cash on Delivery,2023-06-18
+891,ORD-10891,90,Monitor 24in,5,12999,5,61745.25,delivered,Bank Transfer,2023-04-16
+892,ORD-10892,80,Ballpen Box,10,120,5,1140.0,returned,Bank Transfer,2023-05-20
+893,ORD-10893,2,Notebook A5,10,85,0,850.0,returned,Cash on Delivery,2023-06-11
+894,ORD-10894,26,Ballpen Box,8,120,15,816.0,delivered,Bank Transfer,2023-08-01
+895,ORD-10895,87,LED Desk Lamp,7,1299,0,9093.0,cancelled,GCash,2023-11-08
+896,ORD-10896,88,Mechanical Keyboard,3,2499,10,6747.3,returned,GCash,2023-09-11
+897,ORD-10897,70,USB-C Hub,4,1299,10,4676.4,delivered,Bank Transfer,2023-02-12
+898,ORD-10898,71,Webcam HD,2,2899,10,5218.2,pending,GCash,2023-01-18
+899,ORD-10899,43,Office Chair,6,8999,0,53994.0,cancelled,Bank Transfer,2023-05-08
+900,ORD-10900,73,LED Desk Lamp,4,1299,0,5196.0,pending,GCash,2023-09-08
+901,ORD-10901,39,Ballpen Box,7,120,0,840.0,cancelled,GCash,2023-05-18
+902,ORD-10902,41,LED Desk Lamp,10,1299,5,12340.5,delivered,Bank Transfer,2023-03-22
+903,ORD-10903,39,Webcam HD,1,2899,10,2609.1,pending,Credit Card,2023-02-15
+904,ORD-10904,52,Webcam HD,10,2899,0,28990.0,delivered,GCash,2023-05-19
+905,ORD-10905,75,Monitor 24in,10,12999,0,129990.0,pending,Bank Transfer,2023-01-12
+906,ORD-10906,94,LED Desk Lamp,8,1299,15,8833.2,delivered,Cash on Delivery,2023-08-24
+907,ORD-10907,96,LED Desk Lamp,3,1299,0,3897.0,delivered,Maya,2023-01-14
+908,ORD-10908,78,Laptop Stand,4,1899,5,7216.2,delivered,GCash,2023-06-28
+909,ORD-10909,42,Ballpen Box,2,120,0,240.0,delivered,Maya,2023-09-13
+910,ORD-10910,24,Stapler,10,199,15,1691.5,pending,Bank Transfer,2023-06-15
+911,ORD-10911,13,Stapler,2,199,5,378.1,delivered,Bank Transfer,2023-02-08
+912,ORD-10912,91,HDMI Cable,4,399,15,1356.6,pending,Bank Transfer,2023-06-26
+913,ORD-10913,30,Stapler,6,199,0,1194.0,delivered,Credit Card,2023-08-23
+914,ORD-10914,28,Laptop Stand,6,1899,15,9684.9,pending,GCash,2023-04-02
+915,ORD-10915,94,Office Chair,3,8999,10,24297.3,delivered,Credit Card,2023-01-15
+916,ORD-10916,64,Webcam HD,9,2899,5,24786.45,pending,Cash on Delivery,2023-08-10
+917,ORD-10917,71,LED Desk Lamp,8,1299,0,10392.0,delivered,Credit Card,2023-07-10
+918,ORD-10918,24,Wireless Mouse,3,899,10,2427.3,delivered,Credit Card,2023-07-22
+919,ORD-10919,58,Ballpen Box,7,120,0,840.0,cancelled,Cash on Delivery,2023-07-21
+920,ORD-10920,76,Webcam HD,1,2899,10,2609.1,delivered,Cash on Delivery,2023-08-10
+921,ORD-10921,65,LED Desk Lamp,3,1299,0,3897.0,cancelled,Cash on Delivery,2023-07-17
+922,ORD-10922,71,Office Chair,9,8999,10,72891.9,returned,Credit Card,2023-02-07
+923,ORD-10923,22,Office Chair,8,8999,0,71992.0,delivered,Bank Transfer,2023-12-12
+924,ORD-10924,67,LED Desk Lamp,4,1299,5,4936.2,delivered,Maya,2023-11-13
+925,ORD-10925,14,Office Chair,10,8999,0,89990.0,cancelled,Bank Transfer,2023-07-20
+926,ORD-10926,16,Wireless Mouse,4,899,0,3596.0,delivered,Bank Transfer,2023-10-05
+927,ORD-10927,74,Office Chair,6,8999,15,45894.9,pending,Cash on Delivery,2023-01-12
+928,ORD-10928,22,USB-C Hub,7,1299,5,8638.35,cancelled,GCash,2023-10-17
+929,ORD-10929,39,Stapler,5,199,5,945.25,delivered,Cash on Delivery,2023-05-11
+930,ORD-10930,38,Monitor 24in,2,12999,0,25998.0,cancelled,Credit Card,2023-10-02
+931,ORD-10931,84,Mechanical Keyboard,2,2499,0,4998.0,delivered,Maya,2023-01-20
+932,ORD-10932,53,Ballpen Box,5,120,0,600.0,delivered,Maya,2023-07-12
+933,ORD-10933,31,LED Desk Lamp,6,1299,0,7794.0,delivered,Credit Card,2023-06-21
+934,ORD-10934,36,Office Chair,5,8999,0,44995.0,returned,Cash on Delivery,2023-02-07
+935,ORD-10935,67,Stapler,4,199,0,796.0,cancelled,Cash on Delivery,2023-01-26
+936,ORD-10936,53,USB-C Hub,9,1299,15,9937.35,delivered,Credit Card,2023-01-03
+937,ORD-10937,80,USB-C Hub,3,1299,5,3702.15,delivered,Credit Card,2023-09-27
+938,ORD-10938,29,Notebook A5,3,85,10,229.5,delivered,Cash on Delivery,2023-12-20
+939,ORD-10939,83,Ballpen Box,6,120,0,720.0,returned,Bank Transfer,2023-10-24
+940,ORD-10940,6,Laptop Stand,10,1899,15,16141.5,delivered,Bank Transfer,2023-01-27
+941,ORD-10941,92,Laptop Stand,6,1899,0,11394.0,delivered,Bank Transfer,2023-09-26
+942,ORD-10942,99,LED Desk Lamp,5,1299,0,6495.0,delivered,Credit Card,2023-11-30
+943,ORD-10943,65,Wireless Mouse,7,899,0,6293.0,delivered,Credit Card,2023-08-29
+944,ORD-10944,88,Laptop Stand,8,1899,0,15192.0,cancelled,Cash on Delivery,2023-02-19
+945,ORD-10945,72,Laptop Stand,6,1899,0,11394.0,returned,Cash on Delivery,2023-08-26
+946,ORD-10946,55,Mechanical Keyboard,10,2499,0,24990.0,pending,Cash on Delivery,2023-06-03
+947,ORD-10947,87,Wireless Mouse,6,899,15,4584.9,delivered,Credit Card,2023-12-14
+948,ORD-10948,31,LED Desk Lamp,6,1299,10,7014.6,pending,GCash,2023-07-02
+949,ORD-10949,69,Mechanical Keyboard,4,2499,0,9996.0,delivered,Bank Transfer,2023-04-05
+950,ORD-10950,32,HDMI Cable,1,399,10,359.1,returned,Credit Card,2023-04-08
+951,ORD-10951,73,Laptop Stand,1,1899,5,1804.05,delivered,Credit Card,2023-11-18
+952,ORD-10952,7,Laptop Stand,7,1899,0,13293.0,returned,GCash,2023-07-07
+953,ORD-10953,86,LED Desk Lamp,2,1299,10,2338.2,cancelled,Credit Card,2023-03-13
+954,ORD-10954,44,Office Chair,4,8999,10,32396.4,delivered,Bank Transfer,2023-03-07
+955,ORD-10955,38,Stapler,9,199,0,1791.0,returned,Credit Card,2023-04-05
+956,ORD-10956,62,Office Chair,1,8999,0,8999.0,pending,Bank Transfer,2023-11-05
+957,ORD-10957,87,Monitor 24in,4,12999,15,44196.6,returned,Cash on Delivery,2023-08-16
+958,ORD-10958,58,Mechanical Keyboard,1,2499,15,2124.15,delivered,Bank Transfer,2023-04-27
+959,ORD-10959,6,HDMI Cable,6,399,0,2394.0,cancelled,GCash,2023-09-08
+960,ORD-10960,56,LED Desk Lamp,5,1299,0,6495.0,delivered,GCash,2023-03-19
+961,ORD-10961,28,Notebook A5,8,85,10,612.0,delivered,GCash,2023-10-17
+962,ORD-10962,4,Webcam HD,9,2899,0,26091.0,delivered,GCash,2023-04-24
+963,ORD-10963,26,Ballpen Box,9,120,10,972.0,delivered,Credit Card,2023-07-12
+964,ORD-10964,92,Mechanical Keyboard,5,2499,15,10620.75,delivered,Bank Transfer,2023-06-05
+965,ORD-10965,90,Laptop Stand,4,1899,0,7596.0,returned,Maya,2023-09-07
+966,ORD-10966,27,Webcam HD,5,2899,0,14495.0,delivered,Maya,2023-12-31
+967,ORD-10967,31,USB-C Hub,7,1299,10,8183.7,returned,Bank Transfer,2023-06-19
+968,ORD-10968,55,USB-C Hub,2,1299,0,2598.0,delivered,Cash on Delivery,2023-07-05
+969,ORD-10969,75,Mechanical Keyboard,10,2499,5,23740.5,pending,GCash,2023-05-10
+970,ORD-10970,75,Laptop Stand,2,1899,0,3798.0,cancelled,Credit Card,2023-09-05
+971,ORD-10971,13,HDMI Cable,9,399,0,3591.0,delivered,GCash,2023-11-25
+972,ORD-10972,62,Ballpen Box,5,120,5,570.0,returned,Credit Card,2023-09-14
+973,ORD-10973,24,Stapler,4,199,0,796.0,delivered,Bank Transfer,2023-06-20
+974,ORD-10974,69,HDMI Cable,8,399,0,3192.0,pending,Bank Transfer,2023-10-17
+975,ORD-10975,70,Stapler,7,199,0,1393.0,delivered,Bank Transfer,2023-06-17
+976,ORD-10976,86,Webcam HD,8,2899,10,20872.8,delivered,Credit Card,2023-08-20
+977,ORD-10977,56,Ballpen Box,5,120,0,600.0,cancelled,Cash on Delivery,2023-03-19
+978,ORD-10978,71,Monitor 24in,8,12999,15,88393.2,delivered,Bank Transfer,2023-11-14
+979,ORD-10979,90,USB-C Hub,6,1299,15,6624.9,delivered,GCash,2023-08-14
+980,ORD-10980,88,Wireless Mouse,7,899,15,5349.05,cancelled,Credit Card,2023-12-01
+981,ORD-10981,57,Ballpen Box,1,120,5,114.0,cancelled,Credit Card,2023-05-07
+982,ORD-10982,11,LED Desk Lamp,3,1299,10,3507.3,pending,Bank Transfer,2023-05-25
+983,ORD-10983,51,Laptop Stand,1,1899,0,1899.0,pending,Credit Card,2023-03-03
+984,ORD-10984,35,Webcam HD,6,2899,15,14784.9,delivered,Credit Card,2023-10-06
+985,ORD-10985,88,Mechanical Keyboard,5,2499,0,12495.0,cancelled,Credit Card,2023-01-26
+986,ORD-10986,65,USB-C Hub,6,1299,0,7794.0,cancelled,GCash,2023-10-08
+987,ORD-10987,79,Ballpen Box,4,120,15,408.0,delivered,GCash,2023-12-28
+988,ORD-10988,37,Notebook A5,3,85,5,242.25,delivered,Bank Transfer,2023-05-13
+989,ORD-10989,18,Laptop Stand,6,1899,15,9684.9,delivered,Maya,2023-08-28
+990,ORD-10990,7,Laptop Stand,1,1899,10,1709.1,returned,Credit Card,2023-06-14
+991,ORD-10991,59,Ballpen Box,4,120,0,480.0,pending,Credit Card,2023-01-14
+992,ORD-10992,13,HDMI Cable,2,399,0,798.0,delivered,Credit Card,2023-09-04
+993,ORD-10993,3,Office Chair,9,8999,0,80991.0,pending,GCash,2023-09-12
+994,ORD-10994,60,Mechanical Keyboard,1,2499,0,2499.0,delivered,Credit Card,2023-12-07
+995,ORD-10995,59,Stapler,9,199,0,1791.0,delivered,Maya,2023-04-20
+996,ORD-10996,24,Mechanical Keyboard,3,2499,15,6372.45,delivered,Bank Transfer,2023-06-12
+997,ORD-10997,66,LED Desk Lamp,7,1299,0,9093.0,cancelled,GCash,2023-06-11
+998,ORD-10998,62,Notebook A5,2,85,0,170.0,pending,Bank Transfer,2023-10-09
+999,ORD-10999,25,Wireless Mouse,7,899,5,5978.35,delivered,GCash,2023-03-24
+1000,ORD-11000,25,Notebook A5,8,85,15,578.0,delivered,Maya,2023-07-01
