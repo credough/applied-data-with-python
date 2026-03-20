@@ -1,0 +1,11 @@
+airline_id,airline_name,iata_code,hub_city,airline_type,founded_year
+1,Philippine Airlines,PAL,Manila,Full Service,1941
+2,Cebu Pacific,CEB,Pasay,Low Cost,1996
+3,AirAsia Philippines,AAP,Pasay,Low Cost,2012
+4,Royal Air Philippines,RAP,Manila,Regional,2022
+5,SkyJet Airlines,SKY,Pasay,Regional,2009
+6,Cebgo,CBO,Pasay,Low Cost,2015
+7,Air Swift,T6,El Nido,Regional,2014
+8,PAL Express,PLEx,Manila,Full Service,1996
+9,Sunlight Air,SLR,Cebu City,Regional,2000
+10,chartered,CHT,Various,Charter,2005

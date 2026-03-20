@@ -2,3 +2,7 @@
 *.db
 *.pyc
 __pycache__/
+employees.sqlite
+hospital.sqlite
+inventory.sqlite
+sales.sqlite
