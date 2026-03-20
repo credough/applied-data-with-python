@@ -1,0 +1,1001 @@
+emp_id,employee_code,full_name,email,dept_id,position,salary,performance_score,absences,overtime_hrs,status,hire_date
+1,EMP-2001,Carlo Go,carlo.go@company.com,7,Senior Data Analyst,78608.61,2.02,27,71,active,2018-04-19
+2,EMP-2002,Donna Diaz,donna.diaz@company.com,3,CFO,202257.51,1.28,11,21,active,2023-01-11
+3,EMP-2003,Donna Gomez,donna.gomez@company.com,9,Legal Associate,53208.75,4.92,11,3,active,2019-04-23
+4,EMP-2004,Cedric Tan,cedric.tan@company.com,8,Senior Support,37361.21,2.93,9,25,active,2021-10-09
+5,EMP-2005,Carlo Tan,carlo.tan@company.com,6,Operations Manager,83809.63,1.31,2,51,active,2019-07-22
+6,EMP-2006,Juan Castro,juan.castro@company.com,2,Marketing Manager,66843.57,1.23,12,71,on_leave,2019-08-27
+7,EMP-2007,Ana Castro,ana.castro@company.com,7,Data Engineer,89129.66,4.16,28,27,active,2019-03-01
+8,EMP-2008,Juan Mendoza,juan.mendoza@company.com,5,Sales Associate,25676.37,3.33,14,43,active,2018-08-10
+9,EMP-2009,Sofia Morales,sofia.morales@company.com,3,Finance Manager,89967.35,2.37,26,46,active,2016-03-04
+10,EMP-2010,Juan Flores,juan.flores@company.com,1,Senior Developer,83413.67,3.7,22,23,on_leave,2021-03-07
+11,EMP-2011,Ana Ramos,ana.ramos@company.com,7,Data Analyst,46200.51,3.81,29,72,resigned,2018-05-22
+12,EMP-2012,Rachel Reyes,rachel.reyes@company.com,1,Software Architect,168968.05,1.7,17,61,active,2015-12-31
+13,EMP-2013,Kevin Castro,kevin.castro@company.com,2,Marketing Manager,65849.92,2.08,2,44,active,2017-05-19
+14,EMP-2014,Miguel Aquino,miguel.aquino@company.com,4,HR Specialist,42262.43,4.12,26,15,resigned,2015-10-18
+15,EMP-2015,Miguel Lim,miguel.lim@company.com,9,Senior Associate,82741.37,3.98,25,71,active,2018-01-01
+16,EMP-2016,Carmen Garcia,carmen.garcia@company.com,2,Marketing Manager,63514.25,2.19,30,2,on_leave,2022-09-28
+17,EMP-2017,Carlo Flores,carlo.flores@company.com,8,Support Manager,54724.17,1.38,6,26,on_leave,2022-04-02
+18,EMP-2018,Ivan Rivera,ivan.rivera@company.com,9,Legal Manager,111295.45,1.99,17,51,active,2021-10-31
+19,EMP-2019,Bianca Reyes,bianca.reyes@company.com,7,Data Analyst,53357.27,2.16,30,28,active,2022-12-20
+20,EMP-2020,Elena Aquino,elena.aquino@company.com,9,Legal Manager,135385.39,1.67,8,18,active,2022-12-14
+21,EMP-2021,Lisa Reyes,lisa.reyes@company.com,7,Data Science Lead,159180.54,4.59,26,49,on_leave,2021-02-09
+22,EMP-2022,Rafael Gomez,rafael.gomez@company.com,10,CEO,469171.77,1.17,7,67,resigned,2021-01-13
+23,EMP-2023,Ivan Ortiz,ivan.ortiz@company.com,8,Support Associate,24470.76,1.74,10,34,active,2016-07-03
+24,EMP-2024,Bianca Tan,bianca.tan@company.com,7,Data Science Lead,114039.76,1.33,24,40,active,2020-05-08
+25,EMP-2025,Mark Go,mark.go@company.com,2,Marketing Associate,26087.72,4.83,27,40,resigned,2015-06-09
+26,EMP-2026,Lucia Morales,lucia.morales@company.com,4,HR Associate,30164.53,3.28,19,67,active,2015-02-09
+27,EMP-2027,Andrei Villanueva,andrei.villanueva@company.com,9,Senior Associate,75166.39,2.57,6,39,active,2022-02-23
+28,EMP-2028,Ivan Morales,ivan.morales@company.com,9,General Counsel,184537.1,4.85,19,64,active,2016-09-30
+29,EMP-2029,Andrei Garcia,andrei.garcia@company.com,1,Tech Lead,119218.09,4.43,6,17,active,2017-03-21
+30,EMP-2030,Bianca Villanueva,bianca.villanueva@company.com,6,Operations Specialist,46351.84,2.96,16,44,resigned,2019-01-15
+31,EMP-2031,Paolo Reyes,paolo.reyes@company.com,10,CEO,394293.29,3.16,9,56,active,2018-03-05
+32,EMP-2032,Jose Castro,jose.castro@company.com,4,HR Associate,30855.93,3.09,22,53,active,2016-11-25
+33,EMP-2033,Mark Ramos,mark.ramos@company.com,8,Senior Support,29408.88,4.53,5,6,active,2020-02-06
+34,EMP-2034,Jose Gomez,jose.gomez@company.com,10,VP,193729.01,2.54,12,15,active,2021-01-29
+35,EMP-2035,Juan Morales,juan.morales@company.com,5,Sales Associate,30804.77,1.01,12,32,active,2016-10-14
+36,EMP-2036,Lisa Go,lisa.go@company.com,2,Marketing Specialist,44225.32,4.82,14,62,active,2022-07-21
+37,EMP-2037,Jose Diaz,jose.diaz@company.com,2,Marketing Specialist,36206.85,3.31,30,3,active,2016-08-05
+38,EMP-2038,Jasmine Flores,jasmine.flores@company.com,10,C-Suite,340250.76,1.15,16,53,resigned,2023-03-07
+39,EMP-2039,Diego Tan,diego.tan@company.com,6,Operations Analyst,33515.38,3.22,4,24,on_leave,2020-02-28
+40,EMP-2040,Mark Aquino,mark.aquino@company.com,5,Sales Manager,70293.49,3.46,30,17,on_leave,2021-04-24
+41,EMP-2041,Donna dela Cruz,donna.delacruz@company.com,6,COO,197383.77,4.8,25,60,active,2022-01-28
+42,EMP-2042,Mark Gomez,mark.gomez@company.com,4,HR Director,77764.61,3.74,18,75,resigned,2021-08-24
+43,EMP-2043,Sofia Reyes,sofia.reyes@company.com,3,Finance Manager,82776.29,3.59,8,73,resigned,2019-04-21
+44,EMP-2044,Diego dela Cruz,diego.delacruz@company.com,7,Data Analyst,40707.13,2.88,10,49,resigned,2016-06-07
+45,EMP-2045,Juan Reyes,juan.reyes@company.com,3,CFO,209655.43,3.33,0,55,resigned,2020-05-22
+46,EMP-2046,Miguel Mendoza,miguel.mendoza@company.com,6,Operations Analyst,38624.32,1.99,30,5,active,2022-01-29
+47,EMP-2047,Mark Flores,mark.flores@company.com,7,Data Science Lead,156507.38,3.7,12,66,active,2019-05-24
+48,EMP-2048,Ana Reyes,ana.reyes@company.com,9,Legal Associate,49856.05,1.9,9,6,active,2022-09-03
+49,EMP-2049,Rafael Villanueva,rafael.villanueva@company.com,10,SVP,254578.82,4.48,6,30,active,2022-01-16
+50,EMP-2050,Lucia Torres,lucia.torres@company.com,9,General Counsel,171134.94,3.0,1,7,on_leave,2019-01-25
+51,EMP-2051,Jose Ramos,jose.ramos@company.com,5,Sales Specialist,44818.38,3.09,25,6,active,2022-02-09
+52,EMP-2052,Cedric Flores,cedric.flores@company.com,4,HR Manager,69690.79,2.31,20,1,active,2015-10-13
+53,EMP-2053,Faith Gomez,faith.gomez@company.com,4,HR Manager,64753.51,4.03,25,37,active,2019-04-04
+54,EMP-2054,Mark Morales,mark.morales@company.com,10,C-Suite,284739.92,3.27,21,70,active,2018-06-24
+55,EMP-2055,Nina Flores,nina.flores@company.com,2,Marketing Associate,29063.52,4.41,11,40,active,2017-03-03
+56,EMP-2056,Gelo Aquino,gelo.aquino@company.com,5,Sales Specialist,52734.65,4.33,30,11,active,2015-01-05
+57,EMP-2057,Rosa Gomez,rosa.gomez@company.com,5,Sales Director,99644.11,2.2,24,30,active,2018-03-12
+58,EMP-2058,Rosa Ortiz,rosa.ortiz@company.com,9,Legal Manager,126735.67,1.07,21,14,active,2017-02-06
+59,EMP-2059,Rafael Rivera,rafael.rivera@company.com,2,Marketing Specialist,50958.67,4.5,14,39,active,2020-04-12
+60,EMP-2060,Rosa Morales,rosa.morales@company.com,5,Sales Specialist,36849.83,3.79,26,54,active,2016-04-20
+61,EMP-2061,Donna Mendoza,donna.mendoza@company.com,5,Sales Specialist,35736.13,1.13,25,11,active,2016-03-11
+62,EMP-2062,Diego Morales,diego.morales@company.com,8,Senior Support,37519.08,4.32,15,32,active,2018-09-24
+63,EMP-2063,Ana Villanueva,ana.villanueva@company.com,4,HR Director,100259.64,4.83,26,28,active,2022-01-10
+64,EMP-2064,Elena Rivera,elena.rivera@company.com,6,Operations Specialist,54738.32,3.56,3,12,on_leave,2021-09-17
+65,EMP-2065,Diego Tan,diego.tan@company.com,8,Support Manager,45915.43,2.33,12,18,active,2021-04-03
+66,EMP-2066,Gelo Mendoza,gelo.mendoza@company.com,2,Marketing Associate,28459.28,2.75,16,46,active,2015-06-13
+67,EMP-2067,Ivan Diaz,ivan.diaz@company.com,2,Brand Director,90178.17,1.35,17,36,active,2019-07-21
+68,EMP-2068,Faith Diaz,faith.diaz@company.com,10,SVP,262428.42,2.79,13,72,active,2022-04-28
+69,EMP-2069,Lisa Villanueva,lisa.villanueva@company.com,3,Senior Analyst,57091.76,4.31,13,40,active,2017-09-24
+70,EMP-2070,Edgar Mendoza,edgar.mendoza@company.com,8,Support Manager,43580.28,1.8,27,53,active,2015-11-10
+71,EMP-2071,Edgar Rivera,edgar.rivera@company.com,4,HR Manager,69943.25,2.62,19,32,active,2019-09-26
+72,EMP-2072,Miguel Garcia,miguel.garcia@company.com,10,SVP,226481.28,1.79,22,77,on_leave,2018-10-28
+73,EMP-2073,Donna Morales,donna.morales@company.com,5,Sales Associate,32689.09,4.22,18,57,active,2023-01-01
+74,EMP-2074,Ivan Ortiz,ivan.ortiz@company.com,8,Support Manager,52944.12,3.64,19,49,active,2018-04-30
+75,EMP-2075,Rafael Flores,rafael.flores@company.com,6,COO,147668.02,4.13,6,39,active,2018-02-21
+76,EMP-2076,Paolo Aquino,paolo.aquino@company.com,7,Senior Data Analyst,71828.72,3.49,27,22,on_leave,2018-03-12
+77,EMP-2077,Carlo Bautista,carlo.bautista@company.com,8,Support Director,69627.75,2.45,20,30,on_leave,2019-04-30
+78,EMP-2078,Ana Reyes,ana.reyes@company.com,7,Data Analyst,53190.08,2.59,17,55,active,2022-06-30
+79,EMP-2079,Diego Tan,diego.tan@company.com,4,HR Associate,24415.64,3.9,22,18,resigned,2020-06-05
+80,EMP-2080,Carlo Diaz,carlo.diaz@company.com,4,HR Associate,29872.32,4.25,4,41,on_leave,2016-07-25
+81,EMP-2081,Andrei Reyes,andrei.reyes@company.com,7,Senior Data Analyst,73358.03,4.83,22,65,resigned,2020-03-04
+82,EMP-2082,Carlo Go,carlo.go@company.com,4,HR Specialist,35381.76,2.12,3,59,resigned,2019-09-08
+83,EMP-2083,Rachel Mendoza,rachel.mendoza@company.com,2,Brand Director,80617.64,3.92,29,63,active,2019-09-20
+84,EMP-2084,Carmen Santos,carmen.santos@company.com,10,C-Suite,340126.81,2.13,10,66,active,2020-11-04
+85,EMP-2085,Hannah Diaz,hannah.diaz@company.com,8,Support Associate,20372.06,1.76,29,37,on_leave,2015-09-21
+86,EMP-2086,Edgar Ortiz,edgar.ortiz@company.com,8,Support Manager,46060.49,2.62,29,17,active,2015-03-19
+87,EMP-2087,Andrei Tan,andrei.tan@company.com,9,Senior Associate,84005.05,2.61,1,30,active,2019-02-05
+88,EMP-2088,Gelo Reyes,gelo.reyes@company.com,9,Legal Associate,42595.41,4.52,20,50,resigned,2016-02-17
+89,EMP-2089,Ivan Ortiz,ivan.ortiz@company.com,1,Software Architect,154110.45,4.78,28,73,active,2021-09-13
+90,EMP-2090,Rosa Tan,rosa.tan@company.com,6,Operations Specialist,43890.73,3.04,9,60,resigned,2020-04-04
+91,EMP-2091,Juan Mendoza,juan.mendoza@company.com,1,Senior Developer,77828.04,3.02,24,68,active,2017-08-28
+92,EMP-2092,Paolo Reyes,paolo.reyes@company.com,9,Legal Associate,63975.38,2.91,26,11,active,2021-04-15
+93,EMP-2093,Rosa dela Cruz,rosa.delacruz@company.com,6,COO,143941.66,4.31,1,20,active,2022-12-18
+94,EMP-2094,Faith Torres,faith.torres@company.com,6,COO,185975.39,3.93,0,68,active,2018-02-21
+95,EMP-2095,Miguel Diaz,miguel.diaz@company.com,10,SVP,204886.79,4.02,25,10,resigned,2022-06-23
+96,EMP-2096,Diego Go,diego.go@company.com,10,CEO,474964.62,3.01,19,18,active,2016-10-30
+97,EMP-2097,Gelo Lim,gelo.lim@company.com,9,Senior Associate,76083.87,1.74,9,47,active,2020-12-11
+98,EMP-2098,Ana Rivera,ana.rivera@company.com,4,HR Associate,22346.87,4.26,7,38,active,2021-02-25
+99,EMP-2099,Hannah Flores,hannah.flores@company.com,9,General Counsel,160620.07,4.53,26,1,resigned,2017-01-19
+100,EMP-2100,Rosa Lim,rosa.lim@company.com,9,Legal Manager,107967.56,3.48,9,23,active,2015-10-07
+101,EMP-2101,Jasmine Rivera,jasmine.rivera@company.com,8,Support Associate,20720.78,1.49,15,9,resigned,2023-02-08
+102,EMP-2102,Sofia Flores,sofia.flores@company.com,9,Senior Associate,67230.04,3.42,1,12,on_leave,2019-01-21
+103,EMP-2103,Faith Gomez,faith.gomez@company.com,6,Operations Specialist,58257.6,1.82,1,77,active,2017-12-23
+104,EMP-2104,Kevin Garcia,kevin.garcia@company.com,5,Sales Director,103110.85,3.21,3,29,active,2020-04-14
+105,EMP-2105,Cedric Bautista,cedric.bautista@company.com,10,C-Suite,316774.98,1.68,4,71,resigned,2015-06-29
+106,EMP-2106,Juan Diaz,juan.diaz@company.com,9,Senior Associate,89356.92,4.17,21,9,resigned,2015-06-18
+107,EMP-2107,Paolo Reyes,paolo.reyes@company.com,8,Senior Support,36112.66,2.6,0,76,active,2019-04-01
+108,EMP-2108,Andrei Morales,andrei.morales@company.com,6,Operations Analyst,41142.7,2.04,15,0,active,2018-06-25
+109,EMP-2109,Diego Torres,diego.torres@company.com,4,HR Manager,50598.68,3.27,15,5,active,2018-07-04
+110,EMP-2110,Cedric Torres,cedric.torres@company.com,1,Software Architect,166789.97,3.1,30,50,active,2016-06-24
+111,EMP-2111,Faith Go,faith.go@company.com,3,CFO,213517.02,3.2,14,50,on_leave,2018-03-02
+112,EMP-2112,Sofia Santos,sofia.santos@company.com,5,Sales Director,126483.73,2.62,17,65,active,2018-10-08
+113,EMP-2113,Hannah Villanueva,hannah.villanueva@company.com,5,Sales Specialist,40912.64,1.04,15,51,active,2016-06-13
+114,EMP-2114,Rafael Lim,rafael.lim@company.com,5,Sales Associate,25089.32,3.44,6,9,active,2018-05-07
+115,EMP-2115,Ivan Morales,ivan.morales@company.com,2,Brand Director,103553.61,3.93,7,73,resigned,2018-05-03
+116,EMP-2116,Paolo Ortiz,paolo.ortiz@company.com,8,Senior Support,32362.98,4.58,0,37,resigned,2018-11-14
+117,EMP-2117,Maria Morales,maria.morales@company.com,3,Senior Analyst,57148.82,4.21,24,32,on_leave,2021-01-31
+118,EMP-2118,Diego Castro,diego.castro@company.com,4,HR Associate,30262.27,1.65,21,28,on_leave,2016-05-15
+119,EMP-2119,Lucia Castro,lucia.castro@company.com,5,Sales Director,96621.02,4.07,11,51,active,2016-10-09
+120,EMP-2120,Miguel Bautista,miguel.bautista@company.com,5,Sales Associate,33703.1,4.75,26,49,active,2016-07-31
+121,EMP-2121,Kevin Aquino,kevin.aquino@company.com,8,Support Director,85239.93,2.72,28,77,active,2023-03-03
+122,EMP-2122,Cedric Reyes,cedric.reyes@company.com,8,Support Manager,59719.9,3.93,15,74,active,2022-07-05
+123,EMP-2123,Nina Bautista,nina.bautista@company.com,8,Support Director,73496.25,1.31,12,9,on_leave,2016-10-11
+124,EMP-2124,Rafael Mendoza,rafael.mendoza@company.com,1,Tech Lead,117122.46,2.01,16,64,active,2021-12-22
+125,EMP-2125,Maria Ramos,maria.ramos@company.com,10,CEO,394503.5,4.16,14,37,resigned,2021-07-06
+126,EMP-2126,Carmen Torres,carmen.torres@company.com,4,HR Specialist,32125.41,2.66,18,1,active,2023-01-08
+127,EMP-2127,Rafael Ortiz,rafael.ortiz@company.com,10,SVP,265373.8,2.19,5,49,active,2015-04-23
+128,EMP-2128,Jose Aquino,jose.aquino@company.com,6,Operations Specialist,58196.23,4.95,19,76,active,2021-07-23
+129,EMP-2129,Nina Torres,nina.torres@company.com,8,Support Director,75391.82,1.66,11,8,active,2020-10-10
+130,EMP-2130,Carlo Castro,carlo.castro@company.com,1,Tech Lead,93691.9,1.7,2,30,active,2020-03-24
+131,EMP-2131,Sofia Bautista,sofia.bautista@company.com,3,CFO,239057.37,2.57,18,31,active,2015-09-23
+132,EMP-2132,Antonio Lim,antonio.lim@company.com,8,Support Associate,23535.12,3.61,20,68,resigned,2021-02-11
+133,EMP-2133,Ivan Castro,ivan.castro@company.com,1,Senior Developer,63531.19,1.78,28,25,resigned,2019-09-04
+134,EMP-2134,Carmen Gomez,carmen.gomez@company.com,4,HR Manager,70312.29,1.68,8,51,active,2016-07-02
+135,EMP-2135,Rachel Castro,rachel.castro@company.com,5,Sales Associate,31678.31,4.42,14,11,on_leave,2018-06-22
+136,EMP-2136,Rosa Go,rosa.go@company.com,6,Operations Specialist,43407.83,1.36,15,6,on_leave,2019-02-02
+137,EMP-2137,Cedric Castro,cedric.castro@company.com,1,Junior Developer,44193.35,2.39,15,33,resigned,2017-05-18
+138,EMP-2138,Diego Ramos,diego.ramos@company.com,2,Marketing Specialist,44574.86,3.82,9,11,active,2018-10-18
+139,EMP-2139,Diego Morales,diego.morales@company.com,1,Software Architect,159543.0,4.78,12,71,resigned,2017-04-22
+140,EMP-2140,Ivan Mendoza,ivan.mendoza@company.com,5,Sales Manager,80633.48,4.78,14,50,active,2021-01-22
+141,EMP-2141,Faith Mendoza,faith.mendoza@company.com,8,Support Associate,23451.31,1.59,9,71,active,2020-04-30
+142,EMP-2142,Juan Santos,juan.santos@company.com,3,Finance Manager,82014.47,3.76,14,13,active,2018-03-17
+143,EMP-2143,Jasmine Lim,jasmine.lim@company.com,7,Data Analyst,54554.85,1.34,0,59,active,2017-08-24
+144,EMP-2144,Edgar Ramos,edgar.ramos@company.com,1,Junior Developer,36391.3,1.95,1,21,resigned,2018-02-28
+145,EMP-2145,Nina Flores,nina.flores@company.com,1,Junior Developer,44513.88,3.28,10,39,active,2022-07-18
+146,EMP-2146,Rosa Lim,rosa.lim@company.com,10,C-Suite,352585.13,4.61,4,44,active,2019-05-01
+147,EMP-2147,Cedric Flores,cedric.flores@company.com,10,CEO,407587.35,3.6,3,61,on_leave,2015-08-13
+148,EMP-2148,Juan Bautista,juan.bautista@company.com,5,Sales Specialist,38633.93,3.66,30,21,on_leave,2019-06-11
+149,EMP-2149,Elena Aquino,elena.aquino@company.com,2,Marketing Specialist,50249.68,4.6,29,47,active,2020-04-27
+150,EMP-2150,Antonio Garcia,antonio.garcia@company.com,2,Brand Director,112512.88,4.24,20,1,on_leave,2015-03-14
+151,EMP-2151,Antonio dela Cruz,antonio.delacruz@company.com,5,Sales Specialist,49147.35,2.09,18,2,active,2020-08-20
+152,EMP-2152,Ivan Santos,ivan.santos@company.com,7,Senior Data Analyst,84372.0,4.06,26,25,resigned,2018-12-27
+153,EMP-2153,Sofia Castro,sofia.castro@company.com,8,Support Associate,18008.13,3.82,24,27,active,2021-12-19
+154,EMP-2154,Faith Ortiz,faith.ortiz@company.com,7,Data Science Lead,120634.64,3.89,18,52,active,2019-03-31
+155,EMP-2155,Paolo Torres,paolo.torres@company.com,8,Senior Support,32172.55,2.15,17,28,active,2017-11-21
+156,EMP-2156,Miguel Rivera,miguel.rivera@company.com,4,HR Director,102605.65,3.93,12,12,resigned,2023-02-26
+157,EMP-2157,Rachel Go,rachel.go@company.com,9,Senior Associate,84260.7,2.96,16,77,active,2022-10-17
+158,EMP-2158,Diego Villanueva,diego.villanueva@company.com,2,Marketing Specialist,47435.02,4.79,12,5,on_leave,2020-06-21
+159,EMP-2159,Maria Mendoza,maria.mendoza@company.com,5,Sales Director,115378.33,4.28,30,41,active,2019-03-26
+160,EMP-2160,Maria Garcia,maria.garcia@company.com,8,Support Director,93761.87,2.31,13,74,active,2023-03-06
+161,EMP-2161,Rachel Torres,rachel.torres@company.com,7,Senior Data Analyst,66684.01,4.92,25,48,on_leave,2022-03-31
+162,EMP-2162,Elena Lim,elena.lim@company.com,7,Data Analyst,42183.97,4.14,13,65,on_leave,2016-12-23
+163,EMP-2163,Elena Ramos,elena.ramos@company.com,7,Data Engineer,102420.99,1.09,17,36,active,2019-08-09
+164,EMP-2164,Sofia Tan,sofia.tan@company.com,1,Software Architect,162559.14,3.79,13,72,active,2015-08-09
+165,EMP-2165,Carmen Gomez,carmen.gomez@company.com,10,VP,179052.69,3.78,8,52,resigned,2015-12-14
+166,EMP-2166,Rachel Tan,rachel.tan@company.com,5,Sales Director,108742.95,2.28,21,78,active,2020-11-01
+167,EMP-2167,Rachel Tan,rachel.tan@company.com,5,Sales Director,97153.04,4.36,26,11,active,2015-10-06
+168,EMP-2168,Kevin Rivera,kevin.rivera@company.com,8,Support Manager,63002.14,4.66,23,34,active,2017-07-25
+169,EMP-2169,Gelo Lim,gelo.lim@company.com,5,Sales Specialist,46727.79,3.95,24,64,on_leave,2017-01-15
+170,EMP-2170,Maria Morales,maria.morales@company.com,3,Finance Manager,98601.98,4.27,18,47,active,2016-10-16
+171,EMP-2171,Rosa Gomez,rosa.gomez@company.com,6,Operations Manager,75571.51,4.68,26,43,active,2022-05-27
+172,EMP-2172,Nina Morales,nina.morales@company.com,6,Operations Manager,61949.87,4.14,3,2,on_leave,2019-02-06
+173,EMP-2173,Kevin Morales,kevin.morales@company.com,1,Tech Lead,98824.54,4.91,5,80,active,2019-06-06
+174,EMP-2174,Edgar Villanueva,edgar.villanueva@company.com,10,VP,173048.03,3.25,8,75,active,2021-09-26
+175,EMP-2175,Bianca Aquino,bianca.aquino@company.com,10,SVP,254996.91,3.65,17,66,active,2022-09-12
+176,EMP-2176,Rafael Castro,rafael.castro@company.com,2,Brand Director,92932.47,1.89,4,77,on_leave,2017-01-04
+177,EMP-2177,Miguel Bautista,miguel.bautista@company.com,1,Junior Developer,39463.39,4.75,28,30,active,2018-10-19
+178,EMP-2178,Kevin Ramos,kevin.ramos@company.com,8,Senior Support,36142.36,4.41,15,11,active,2019-03-06
+179,EMP-2179,Juan Mendoza,juan.mendoza@company.com,6,Operations Manager,76633.67,2.66,24,51,active,2020-07-21
+180,EMP-2180,Diego Reyes,diego.reyes@company.com,8,Support Associate,19447.56,1.69,24,24,on_leave,2019-11-30
+181,EMP-2181,Lucia dela Cruz,lucia.delacruz@company.com,7,Data Engineer,108357.64,3.06,17,30,active,2018-06-10
+182,EMP-2182,Lucia Bautista,lucia.bautista@company.com,7,Senior Data Analyst,66779.19,3.42,9,30,active,2016-03-13
+183,EMP-2183,Jose Reyes,jose.reyes@company.com,9,Legal Manager,110095.54,2.75,14,76,active,2022-01-26
+184,EMP-2184,Faith Lim,faith.lim@company.com,10,SVP,208225.98,4.49,14,74,on_leave,2016-03-30
+185,EMP-2185,Mark Ortiz,mark.ortiz@company.com,3,Finance Manager,94717.51,3.63,19,18,active,2022-12-15
+186,EMP-2186,Rafael Morales,rafael.morales@company.com,2,Marketing Specialist,41249.56,2.4,1,15,active,2019-04-06
+187,EMP-2187,Diego Lim,diego.lim@company.com,6,Operations Specialist,55845.0,4.47,14,19,on_leave,2015-10-24
+188,EMP-2188,Edgar Ramos,edgar.ramos@company.com,10,VP,193761.61,2.07,20,39,active,2016-04-09
+189,EMP-2189,Rosa Reyes,rosa.reyes@company.com,9,Legal Associate,53804.67,2.58,0,12,resigned,2016-07-27
+190,EMP-2190,Ivan Flores,ivan.flores@company.com,6,Operations Analyst,33784.25,4.0,16,19,active,2015-07-24
+191,EMP-2191,Andrei Garcia,andrei.garcia@company.com,8,Support Director,78190.36,1.26,19,58,on_leave,2020-08-22
+192,EMP-2192,Diego Villanueva,diego.villanueva@company.com,9,Legal Manager,137498.3,4.2,13,33,active,2022-01-29
+193,EMP-2193,Juan Castro,juan.castro@company.com,8,Support Associate,18381.3,3.74,3,3,active,2015-06-13
+194,EMP-2194,Ana dela Cruz,ana.delacruz@company.com,4,HR Manager,63135.83,1.16,5,29,active,2016-10-31
+195,EMP-2195,Faith Ortiz,faith.ortiz@company.com,6,Operations Manager,61651.38,2.67,21,34,active,2020-03-27
+196,EMP-2196,Andrei Ortiz,andrei.ortiz@company.com,10,C-Suite,321334.64,2.92,21,27,active,2019-12-04
+197,EMP-2197,Juan Diaz,juan.diaz@company.com,8,Senior Support,37928.55,3.83,9,9,active,2019-11-08
+198,EMP-2198,Jose Castro,jose.castro@company.com,1,Junior Developer,39299.45,2.74,21,60,on_leave,2017-10-25
+199,EMP-2199,Ana Diaz,ana.diaz@company.com,3,Finance Manager,89628.77,3.0,11,9,active,2017-06-27
+200,EMP-2200,Lucia Tan,lucia.tan@company.com,7,Data Engineer,75613.36,2.21,2,51,on_leave,2022-05-23
+201,EMP-2201,Elena Go,elena.go@company.com,10,CEO,465453.68,4.77,24,78,active,2019-01-06
+202,EMP-2202,Elena Mendoza,elena.mendoza@company.com,6,COO,195492.25,1.88,22,63,active,2017-09-17
+203,EMP-2203,Rachel Mendoza,rachel.mendoza@company.com,1,Junior Developer,41025.0,1.12,6,75,active,2021-10-07
+204,EMP-2204,Carlo Diaz,carlo.diaz@company.com,7,Data Analyst,43326.31,4.21,3,63,active,2015-08-15
+205,EMP-2205,Rachel Villanueva,rachel.villanueva@company.com,9,Legal Manager,101489.93,1.23,11,35,active,2018-08-30
+206,EMP-2206,Hannah Ramos,hannah.ramos@company.com,9,Legal Associate,46201.67,4.29,23,61,resigned,2016-11-05
+207,EMP-2207,Sofia Reyes,sofia.reyes@company.com,8,Support Director,77687.35,1.66,21,20,active,2021-05-08
+208,EMP-2208,Elena Santos,elena.santos@company.com,10,VP,186988.49,2.34,24,11,active,2019-12-01
+209,EMP-2209,Paolo Torres,paolo.torres@company.com,6,Operations Manager,77984.18,1.09,27,59,resigned,2018-04-02
+210,EMP-2210,Jose Go,jose.go@company.com,5,Sales Specialist,42605.94,1.13,19,59,active,2023-01-18
+211,EMP-2211,Jose Go,jose.go@company.com,2,Brand Director,98476.66,4.46,26,70,active,2016-12-11
+212,EMP-2212,Nina Mendoza,nina.mendoza@company.com,6,Operations Analyst,28532.63,4.53,22,27,active,2023-02-10
+213,EMP-2213,Carmen Garcia,carmen.garcia@company.com,3,Senior Analyst,77428.28,4.78,9,32,active,2015-11-26
+214,EMP-2214,Ivan Bautista,ivan.bautista@company.com,7,Senior Data Analyst,63184.47,3.97,22,66,active,2020-07-30
+215,EMP-2215,Faith Ramos,faith.ramos@company.com,2,Brand Director,99324.16,3.83,24,49,active,2017-05-20
+216,EMP-2216,Miguel Villanueva,miguel.villanueva@company.com,6,Operations Analyst,32328.83,2.43,17,80,on_leave,2018-06-22
+217,EMP-2217,Carmen Ramos,carmen.ramos@company.com,5,Sales Specialist,52260.04,3.24,14,61,active,2021-03-20
+218,EMP-2218,Paolo Ramos,paolo.ramos@company.com,4,HR Specialist,42545.67,1.09,25,39,active,2018-08-21
+219,EMP-2219,Diego Lim,diego.lim@company.com,2,Brand Director,90517.53,2.85,10,74,active,2015-10-10
+220,EMP-2220,Jasmine Mendoza,jasmine.mendoza@company.com,1,Senior Developer,78702.38,1.69,24,5,on_leave,2021-04-08
+221,EMP-2221,Lisa Gomez,lisa.gomez@company.com,3,Finance Manager,102370.99,2.41,23,77,on_leave,2016-07-08
+222,EMP-2222,Hannah Santos,hannah.santos@company.com,9,General Counsel,152058.89,3.92,26,2,active,2020-06-19
+223,EMP-2223,Lisa Morales,lisa.morales@company.com,7,Senior Data Analyst,59080.71,3.17,19,27,active,2019-12-13
+224,EMP-2224,Faith Aquino,faith.aquino@company.com,7,Data Analyst,41067.78,2.34,13,37,resigned,2019-05-02
+225,EMP-2225,Antonio dela Cruz,antonio.delacruz@company.com,6,Operations Specialist,52545.43,4.17,24,69,active,2016-11-04
+226,EMP-2226,Edgar Tan,edgar.tan@company.com,2,Marketing Specialist,39084.38,4.21,29,59,resigned,2015-06-28
+227,EMP-2227,Rachel Tan,rachel.tan@company.com,9,Legal Associate,44585.91,2.53,15,44,active,2016-06-29
+228,EMP-2228,Faith Flores,faith.flores@company.com,3,Financial Analyst,54934.4,4.39,29,31,resigned,2021-01-30
+229,EMP-2229,Bianca Flores,bianca.flores@company.com,3,Financial Analyst,35930.11,3.9,12,80,active,2021-03-11
+230,EMP-2230,Miguel Go,miguel.go@company.com,6,Operations Specialist,59012.43,2.95,19,30,active,2015-04-17
+231,EMP-2231,Miguel Go,miguel.go@company.com,7,Senior Data Analyst,62873.76,3.2,16,75,on_leave,2019-08-09
+232,EMP-2232,Gelo Torres,gelo.torres@company.com,8,Support Associate,19663.93,4.33,16,28,active,2021-01-30
+233,EMP-2233,Rosa Gomez,rosa.gomez@company.com,8,Support Manager,54725.44,2.21,22,26,on_leave,2020-09-15
+234,EMP-2234,Paolo Go,paolo.go@company.com,6,Operations Manager,68344.4,1.37,18,73,resigned,2022-05-16
+235,EMP-2235,Sofia dela Cruz,sofia.delacruz@company.com,10,SVP,257180.13,3.66,15,7,active,2021-05-19
+236,EMP-2236,Juan Reyes,juan.reyes@company.com,5,Sales Specialist,40413.15,2.05,22,58,active,2021-07-20
+237,EMP-2237,Hannah Ortiz,hannah.ortiz@company.com,7,Data Engineer,91227.37,3.24,11,57,active,2018-12-30
+238,EMP-2238,Bianca Aquino,bianca.aquino@company.com,4,HR Manager,74539.22,3.51,26,12,on_leave,2021-07-02
+239,EMP-2239,Gelo Ramos,gelo.ramos@company.com,10,SVP,251159.63,3.14,19,16,on_leave,2019-10-22
+240,EMP-2240,Paolo Bautista,paolo.bautista@company.com,1,Tech Lead,110310.67,2.74,3,49,active,2015-11-29
+241,EMP-2241,Carlo Rivera,carlo.rivera@company.com,9,Senior Associate,75619.09,2.59,6,67,active,2022-03-14
+242,EMP-2242,Ivan Gomez,ivan.gomez@company.com,3,Finance Manager,98866.7,1.94,17,42,resigned,2020-06-29
+243,EMP-2243,Rachel Castro,rachel.castro@company.com,6,Operations Manager,60491.16,3.36,0,22,on_leave,2016-12-04
+244,EMP-2244,Ana Torres,ana.torres@company.com,6,Operations Analyst,35251.35,1.73,11,9,active,2015-09-18
+245,EMP-2245,Sofia Morales,sofia.morales@company.com,3,Financial Analyst,45368.22,4.45,16,31,active,2015-07-17
+246,EMP-2246,Mark Torres,mark.torres@company.com,2,Marketing Associate,26363.94,3.55,13,77,active,2022-01-28
+247,EMP-2247,Mark Reyes,mark.reyes@company.com,6,Operations Specialist,47052.15,2.81,30,3,active,2019-05-03
+248,EMP-2248,Lucia Ortiz,lucia.ortiz@company.com,1,Senior Developer,84574.18,4.09,29,48,active,2019-12-18
+249,EMP-2249,Nina dela Cruz,nina.delacruz@company.com,6,Operations Specialist,52379.22,1.91,26,0,active,2018-10-28
+250,EMP-2250,Gelo Tan,gelo.tan@company.com,1,Tech Lead,117702.67,3.44,0,31,active,2021-11-30
+251,EMP-2251,Ana Lim,ana.lim@company.com,3,CFO,155394.83,1.08,3,61,active,2018-05-09
+252,EMP-2252,Antonio Morales,antonio.morales@company.com,9,Senior Associate,66975.04,2.31,6,51,on_leave,2018-10-22
+253,EMP-2253,Elena Morales,elena.morales@company.com,3,Senior Analyst,65125.21,4.83,28,80,resigned,2018-03-15
+254,EMP-2254,Juan Garcia,juan.garcia@company.com,2,Marketing Manager,64628.0,1.42,6,76,active,2015-04-11
+255,EMP-2255,Rafael Torres,rafael.torres@company.com,4,HR Director,80613.66,3.14,17,28,active,2020-09-21
+256,EMP-2256,Faith dela Cruz,faith.delacruz@company.com,5,Sales Associate,31506.83,2.91,5,73,active,2023-02-05
+257,EMP-2257,Carlo Tan,carlo.tan@company.com,3,Finance Manager,83499.43,3.94,14,26,on_leave,2021-03-15
+258,EMP-2258,Antonio Go,antonio.go@company.com,1,Tech Lead,125639.93,1.13,30,78,on_leave,2016-06-02
+259,EMP-2259,Donna Torres,donna.torres@company.com,6,Operations Analyst,29544.03,4.6,21,63,active,2015-05-02
+260,EMP-2260,Carlo Villanueva,carlo.villanueva@company.com,10,CEO,471800.07,1.39,26,21,active,2019-10-20
+261,EMP-2261,Diego Bautista,diego.bautista@company.com,4,HR Specialist,41902.82,3.4,27,39,resigned,2016-06-18
+262,EMP-2262,Ana Go,ana.go@company.com,7,Data Engineer,71863.09,1.25,13,31,active,2016-01-31
+263,EMP-2263,Bianca Torres,bianca.torres@company.com,4,HR Associate,23336.84,3.68,24,50,active,2022-09-03
+264,EMP-2264,Hannah dela Cruz,hannah.delacruz@company.com,7,Data Analyst,41522.98,4.35,19,19,active,2017-03-23
+265,EMP-2265,Cedric Tan,cedric.tan@company.com,7,Senior Data Analyst,81841.6,1.48,6,63,on_leave,2020-07-12
+266,EMP-2266,Donna Go,donna.go@company.com,5,Sales Specialist,42011.92,3.93,7,75,active,2020-08-05
+267,EMP-2267,Mark Ramos,mark.ramos@company.com,8,Support Manager,63567.48,4.04,20,11,active,2018-08-19
+268,EMP-2268,Lisa Gomez,lisa.gomez@company.com,3,Financial Analyst,53659.05,3.38,2,48,resigned,2020-09-29
+269,EMP-2269,Hannah Ramos,hannah.ramos@company.com,8,Senior Support,33929.9,1.16,16,31,active,2023-01-19
+270,EMP-2270,Ana Aquino,ana.aquino@company.com,2,Brand Director,81200.61,2.33,5,13,active,2022-12-08
+271,EMP-2271,Gelo Garcia,gelo.garcia@company.com,6,Operations Manager,72940.96,3.56,20,45,active,2019-06-30
+272,EMP-2272,Diego Rivera,diego.rivera@company.com,10,VP,191055.23,2.43,1,73,active,2016-08-10
+273,EMP-2273,Miguel Torres,miguel.torres@company.com,5,Sales Director,116277.42,2.61,19,79,active,2021-08-28
+274,EMP-2274,Antonio Lim,antonio.lim@company.com,9,Legal Manager,96116.99,2.34,8,0,on_leave,2022-01-26
+275,EMP-2275,Cedric Go,cedric.go@company.com,8,Support Director,70711.17,4.73,25,17,active,2019-06-19
+276,EMP-2276,Maria Torres,maria.torres@company.com,8,Senior Support,33729.64,1.37,11,77,active,2018-08-19
+277,EMP-2277,Hannah Tan,hannah.tan@company.com,10,CEO,425899.43,1.68,26,75,on_leave,2020-12-06
+278,EMP-2278,Antonio Tan,antonio.tan@company.com,5,Sales Associate,33177.22,2.16,20,0,on_leave,2016-07-04
+279,EMP-2279,Andrei Diaz,andrei.diaz@company.com,5,Sales Manager,64013.78,2.64,16,79,active,2019-10-21
+280,EMP-2280,Juan dela Cruz,juan.delacruz@company.com,4,HR Manager,67604.57,1.65,1,28,active,2020-06-21
+281,EMP-2281,Ana Diaz,ana.diaz@company.com,2,Marketing Manager,79056.98,4.1,11,67,active,2023-03-06
+282,EMP-2282,Maria Ortiz,maria.ortiz@company.com,5,Sales Associate,30795.27,1.58,17,12,active,2016-12-22
+283,EMP-2283,Rafael Lim,rafael.lim@company.com,1,Junior Developer,37927.93,3.0,7,52,on_leave,2021-06-07
+284,EMP-2284,Rosa Go,rosa.go@company.com,9,Legal Manager,129350.74,3.57,25,27,resigned,2021-11-22
+285,EMP-2285,Ana Garcia,ana.garcia@company.com,7,Data Engineer,79700.17,1.12,11,18,active,2020-07-13
+286,EMP-2286,Carlo Go,carlo.go@company.com,7,Data Engineer,95234.62,2.87,22,60,active,2020-02-08
+287,EMP-2287,Rachel Ortiz,rachel.ortiz@company.com,10,CEO,405606.93,3.47,21,23,active,2018-11-04
+288,EMP-2288,Faith Castro,faith.castro@company.com,8,Support Manager,53113.15,4.18,7,16,active,2019-05-05
+289,EMP-2289,Sofia Aquino,sofia.aquino@company.com,4,HR Manager,63393.61,3.18,5,30,active,2016-01-16
+290,EMP-2290,Jose Rivera,jose.rivera@company.com,10,SVP,240235.58,1.35,18,69,active,2022-08-15
+291,EMP-2291,Faith Diaz,faith.diaz@company.com,4,HR Associate,27825.53,2.01,16,44,resigned,2018-07-28
+292,EMP-2292,Gelo Diaz,gelo.diaz@company.com,5,Sales Director,125051.7,3.63,2,78,active,2023-02-02
+293,EMP-2293,Juan Gomez,juan.gomez@company.com,7,Data Science Lead,117873.58,4.2,20,28,resigned,2016-02-05
+294,EMP-2294,Bianca Gomez,bianca.gomez@company.com,6,Operations Specialist,59502.67,1.09,24,15,resigned,2018-06-15
+295,EMP-2295,Hannah Torres,hannah.torres@company.com,4,HR Associate,24944.43,3.04,8,16,on_leave,2020-07-28
+296,EMP-2296,Rosa Aquino,rosa.aquino@company.com,4,HR Director,97414.1,2.73,12,26,resigned,2017-07-10
+297,EMP-2297,Lisa Santos,lisa.santos@company.com,1,Junior Developer,34474.17,1.42,28,19,on_leave,2020-12-05
+298,EMP-2298,Ana Lim,ana.lim@company.com,9,General Counsel,158976.04,2.85,30,75,active,2020-09-11
+299,EMP-2299,Ivan Mendoza,ivan.mendoza@company.com,8,Support Manager,49410.19,2.86,19,56,on_leave,2017-04-29
+300,EMP-2300,Maria Bautista,maria.bautista@company.com,3,CFO,200657.08,1.35,1,33,on_leave,2018-02-23
+301,EMP-2301,Andrei Morales,andrei.morales@company.com,2,Marketing Specialist,53460.24,1.96,1,62,on_leave,2016-05-04
+302,EMP-2302,Jose Diaz,jose.diaz@company.com,4,HR Associate,30217.7,4.39,11,9,active,2016-07-21
+303,EMP-2303,Kevin Tan,kevin.tan@company.com,1,Software Architect,132292.93,4.91,29,53,active,2016-05-26
+304,EMP-2304,Lucia Villanueva,lucia.villanueva@company.com,6,Operations Manager,81678.52,4.31,11,23,active,2018-12-23
+305,EMP-2305,Edgar Rivera,edgar.rivera@company.com,4,HR Associate,31537.88,1.39,2,10,on_leave,2017-06-14
+306,EMP-2306,Bianca Torres,bianca.torres@company.com,10,C-Suite,368384.82,1.48,17,2,active,2015-02-23
+307,EMP-2307,Sofia Flores,sofia.flores@company.com,1,Software Architect,161492.06,4.64,30,32,active,2020-04-14
+308,EMP-2308,Juan Villanueva,juan.villanueva@company.com,1,Junior Developer,38798.25,3.11,18,4,active,2019-03-21
+309,EMP-2309,Rachel Torres,rachel.torres@company.com,10,C-Suite,334960.7,4.59,16,37,active,2022-05-04
+310,EMP-2310,Faith Morales,faith.morales@company.com,7,Data Analyst,42883.98,1.76,6,16,on_leave,2022-06-06
+311,EMP-2311,Gelo dela Cruz,gelo.delacruz@company.com,4,HR Associate,30478.8,4.21,8,10,active,2017-11-08
+312,EMP-2312,Bianca Bautista,bianca.bautista@company.com,1,Software Architect,154964.36,2.46,22,67,active,2019-04-07
+313,EMP-2313,Miguel Tan,miguel.tan@company.com,8,Support Associate,24943.73,1.72,16,16,active,2015-11-17
+314,EMP-2314,Jose Santos,jose.santos@company.com,8,Senior Support,31976.27,1.9,0,40,active,2022-08-04
+315,EMP-2315,Rachel Diaz,rachel.diaz@company.com,1,Senior Developer,68574.16,3.53,13,37,on_leave,2018-08-08
+316,EMP-2316,Sofia Villanueva,sofia.villanueva@company.com,1,Software Architect,166009.75,1.61,0,73,on_leave,2020-08-29
+317,EMP-2317,Miguel Go,miguel.go@company.com,9,General Counsel,179733.45,3.46,7,14,on_leave,2018-09-29
+318,EMP-2318,Donna Ortiz,donna.ortiz@company.com,4,HR Specialist,47613.95,1.82,28,50,active,2016-12-17
+319,EMP-2319,Cedric dela Cruz,cedric.delacruz@company.com,3,Financial Analyst,42696.33,4.4,8,80,on_leave,2020-01-04
+320,EMP-2320,Sofia Villanueva,sofia.villanueva@company.com,6,COO,143920.22,2.17,12,70,active,2015-01-10
+321,EMP-2321,Gelo Flores,gelo.flores@company.com,9,Senior Associate,78686.14,3.95,23,41,resigned,2018-08-12
+322,EMP-2322,Rachel Morales,rachel.morales@company.com,7,Data Science Lead,110600.06,3.71,10,25,on_leave,2020-08-18
+323,EMP-2323,Rosa Flores,rosa.flores@company.com,2,Marketing Associate,27997.76,1.56,27,1,active,2016-11-05
+324,EMP-2324,Carlo Bautista,carlo.bautista@company.com,9,Senior Associate,76625.7,3.46,5,41,active,2015-07-09
+325,EMP-2325,Jose Morales,jose.morales@company.com,4,HR Manager,59416.84,4.92,5,6,active,2023-03-08
+326,EMP-2326,Ivan Mendoza,ivan.mendoza@company.com,10,VP,197841.52,2.17,27,77,active,2022-07-22
+327,EMP-2327,Andrei Castro,andrei.castro@company.com,6,Operations Specialist,42439.56,1.64,16,50,resigned,2021-03-06
+328,EMP-2328,Lisa Lim,lisa.lim@company.com,9,Legal Associate,50373.19,4.96,12,21,active,2015-08-28
+329,EMP-2329,Jose Villanueva,jose.villanueva@company.com,1,Tech Lead,127492.26,3.29,21,16,active,2022-11-01
+330,EMP-2330,Jasmine Reyes,jasmine.reyes@company.com,2,Marketing Manager,76522.22,3.81,26,76,active,2021-06-04
+331,EMP-2331,Ana Gomez,ana.gomez@company.com,5,Sales Associate,24896.22,3.12,12,63,active,2015-09-17
+332,EMP-2332,Juan Morales,juan.morales@company.com,7,Data Analyst,47466.66,3.72,20,13,active,2017-02-15
+333,EMP-2333,Bianca dela Cruz,bianca.delacruz@company.com,4,HR Manager,58132.38,4.05,4,41,on_leave,2018-09-21
+334,EMP-2334,Rosa Lim,rosa.lim@company.com,6,Operations Manager,87161.15,1.92,19,16,active,2015-07-02
+335,EMP-2335,Carmen Garcia,carmen.garcia@company.com,4,HR Associate,24465.06,3.16,10,39,resigned,2016-08-06
+336,EMP-2336,Rachel Diaz,rachel.diaz@company.com,5,Sales Manager,66956.73,4.79,22,66,active,2015-11-26
+337,EMP-2337,Lisa dela Cruz,lisa.delacruz@company.com,10,CEO,493372.65,2.65,5,5,resigned,2018-01-15
+338,EMP-2338,Cedric Villanueva,cedric.villanueva@company.com,7,Data Science Lead,150492.76,3.45,26,74,on_leave,2019-05-26
+339,EMP-2339,Rosa Go,rosa.go@company.com,2,Marketing Associate,30390.75,3.85,25,73,active,2019-03-21
+340,EMP-2340,Lucia Torres,lucia.torres@company.com,1,Tech Lead,125075.82,3.61,14,46,resigned,2019-06-06
+341,EMP-2341,Jasmine Ramos,jasmine.ramos@company.com,3,Senior Analyst,66179.06,3.85,3,30,active,2018-11-23
+342,EMP-2342,Sofia Torres,sofia.torres@company.com,9,Senior Associate,93251.97,4.25,15,67,active,2015-12-31
+343,EMP-2343,Rachel Castro,rachel.castro@company.com,6,Operations Manager,68245.62,3.97,10,32,active,2017-11-02
+344,EMP-2344,Hannah Reyes,hannah.reyes@company.com,2,Marketing Associate,25321.37,4.2,13,20,active,2022-03-13
+345,EMP-2345,Maria Reyes,maria.reyes@company.com,7,Data Engineer,109996.9,4.12,26,2,active,2018-01-10
+346,EMP-2346,Miguel Mendoza,miguel.mendoza@company.com,9,General Counsel,165466.99,1.86,7,7,active,2018-08-17
+347,EMP-2347,Paolo Aquino,paolo.aquino@company.com,10,VP,154793.38,4.07,27,18,active,2019-12-04
+348,EMP-2348,Jose Bautista,jose.bautista@company.com,4,HR Specialist,33525.91,1.93,1,33,resigned,2017-08-04
+349,EMP-2349,Paolo Ortiz,paolo.ortiz@company.com,1,Tech Lead,101457.33,3.59,24,26,active,2018-01-08
+350,EMP-2350,Cedric Bautista,cedric.bautista@company.com,8,Senior Support,33241.46,3.0,20,66,on_leave,2018-03-25
+351,EMP-2351,Lucia Aquino,lucia.aquino@company.com,1,Software Architect,133868.06,2.77,14,60,active,2020-06-24
+352,EMP-2352,Edgar Garcia,edgar.garcia@company.com,9,Legal Associate,40971.98,3.59,10,72,resigned,2020-02-05
+353,EMP-2353,Diego Go,diego.go@company.com,9,Senior Associate,84245.01,4.29,26,51,active,2021-04-21
+354,EMP-2354,Paolo Gomez,paolo.gomez@company.com,5,Sales Associate,32592.8,3.95,19,66,active,2015-10-10
+355,EMP-2355,Carmen Lim,carmen.lim@company.com,8,Support Associate,19205.04,2.53,2,47,resigned,2022-05-10
+356,EMP-2356,Diego Santos,diego.santos@company.com,10,C-Suite,295662.12,4.86,27,14,active,2018-11-10
+357,EMP-2357,Ivan Aquino,ivan.aquino@company.com,3,Finance Manager,90864.45,2.86,8,62,active,2017-05-30
+358,EMP-2358,Antonio Tan,antonio.tan@company.com,10,CEO,456992.17,1.65,20,53,on_leave,2020-11-23
+359,EMP-2359,Diego Gomez,diego.gomez@company.com,1,Tech Lead,90709.34,2.49,8,27,active,2020-03-01
+360,EMP-2360,Ivan Tan,ivan.tan@company.com,3,Senior Analyst,72369.56,1.56,21,73,on_leave,2021-06-15
+361,EMP-2361,Lisa Santos,lisa.santos@company.com,1,Software Architect,130571.57,4.45,7,14,active,2015-09-02
+362,EMP-2362,Hannah Ramos,hannah.ramos@company.com,1,Software Architect,139184.8,4.99,5,22,on_leave,2017-04-08
+363,EMP-2363,Ivan Castro,ivan.castro@company.com,6,Operations Specialist,48052.46,3.21,27,60,active,2015-04-09
+364,EMP-2364,Carmen Tan,carmen.tan@company.com,7,Data Analyst,49323.26,2.47,5,36,resigned,2021-02-12
+365,EMP-2365,Mark Rivera,mark.rivera@company.com,7,Data Science Lead,119374.93,1.0,27,77,on_leave,2022-10-03
+366,EMP-2366,Diego Rivera,diego.rivera@company.com,4,HR Director,90432.96,3.85,24,33,active,2015-01-24
+367,EMP-2367,Carlo Flores,carlo.flores@company.com,9,Legal Associate,51538.12,1.81,3,43,on_leave,2021-08-14
+368,EMP-2368,Faith Garcia,faith.garcia@company.com,7,Data Analyst,46011.24,4.44,11,57,active,2020-08-05
+369,EMP-2369,Lucia Bautista,lucia.bautista@company.com,8,Support Director,81090.44,4.65,1,0,active,2016-11-28
+370,EMP-2370,Bianca Tan,bianca.tan@company.com,2,Marketing Associate,31315.34,3.65,6,50,active,2021-08-18
+371,EMP-2371,Carlo Castro,carlo.castro@company.com,10,SVP,237018.2,3.88,12,71,active,2022-12-30
+372,EMP-2372,Miguel Tan,miguel.tan@company.com,2,Marketing Manager,63033.05,1.87,30,79,active,2019-11-27
+373,EMP-2373,Hannah Tan,hannah.tan@company.com,4,HR Specialist,49428.19,3.54,5,41,active,2016-12-25
+374,EMP-2374,Jose dela Cruz,jose.delacruz@company.com,1,Tech Lead,125560.69,1.3,9,43,resigned,2022-05-10
+375,EMP-2375,Elena Ramos,elena.ramos@company.com,5,Sales Manager,84596.64,1.6,16,5,resigned,2017-12-24
+376,EMP-2376,Donna Torres,donna.torres@company.com,4,HR Associate,24650.5,3.15,14,8,active,2015-09-14
+377,EMP-2377,Juan Bautista,juan.bautista@company.com,4,HR Specialist,32616.41,3.5,19,7,active,2019-07-10
+378,EMP-2378,Lisa Diaz,lisa.diaz@company.com,2,Marketing Specialist,45563.14,4.61,19,42,on_leave,2022-05-30
+379,EMP-2379,Hannah Garcia,hannah.garcia@company.com,7,Senior Data Analyst,66885.11,1.88,23,66,resigned,2017-05-14
+380,EMP-2380,Carlo Mendoza,carlo.mendoza@company.com,1,Tech Lead,120660.11,3.32,5,4,active,2022-02-20
+381,EMP-2381,Donna Ramos,donna.ramos@company.com,6,Operations Manager,66955.21,1.42,17,48,resigned,2021-01-12
+382,EMP-2382,Donna Reyes,donna.reyes@company.com,8,Senior Support,39723.23,1.5,13,64,active,2021-10-13
+383,EMP-2383,Elena Flores,elena.flores@company.com,10,C-Suite,281540.17,1.45,23,49,active,2017-09-13
+384,EMP-2384,Faith Diaz,faith.diaz@company.com,7,Data Science Lead,128507.58,4.5,7,51,active,2017-04-25
+385,EMP-2385,Faith Rivera,faith.rivera@company.com,4,HR Specialist,46424.0,4.56,0,41,resigned,2022-08-31
+386,EMP-2386,Diego Aquino,diego.aquino@company.com,9,Senior Associate,74844.01,3.94,10,60,active,2017-11-14
+387,EMP-2387,Carlo Ramos,carlo.ramos@company.com,9,Senior Associate,89086.08,4.16,28,44,resigned,2018-08-06
+388,EMP-2388,Carlo Diaz,carlo.diaz@company.com,3,Financial Analyst,44380.38,3.13,20,26,active,2022-12-11
+389,EMP-2389,Lucia Lim,lucia.lim@company.com,6,Operations Specialist,44076.7,3.05,0,20,on_leave,2018-12-20
+390,EMP-2390,Rachel Villanueva,rachel.villanueva@company.com,1,Senior Developer,78699.68,3.52,15,4,active,2021-11-11
+391,EMP-2391,Jose dela Cruz,jose.delacruz@company.com,2,Marketing Associate,28284.57,4.83,0,76,active,2022-06-01
+392,EMP-2392,Carlo Torres,carlo.torres@company.com,2,Marketing Specialist,40878.8,1.59,24,76,active,2018-04-01
+393,EMP-2393,Bianca Castro,bianca.castro@company.com,4,HR Specialist,43269.57,2.54,1,9,on_leave,2017-10-26
+394,EMP-2394,Rachel Flores,rachel.flores@company.com,5,Sales Manager,82737.57,1.59,15,35,active,2019-08-08
+395,EMP-2395,Andrei Diaz,andrei.diaz@company.com,1,Junior Developer,30412.06,3.95,23,53,active,2017-09-30
+396,EMP-2396,Rafael Flores,rafael.flores@company.com,3,Finance Manager,95204.99,2.28,19,75,active,2022-08-27
+397,EMP-2397,Ivan Gomez,ivan.gomez@company.com,9,Legal Associate,45759.8,2.1,5,69,active,2016-03-13
+398,EMP-2398,Maria dela Cruz,maria.delacruz@company.com,6,Operations Manager,75887.82,2.45,20,25,active,2018-06-07
+399,EMP-2399,Jasmine Diaz,jasmine.diaz@company.com,10,C-Suite,340321.08,4.29,9,40,active,2019-03-28
+400,EMP-2400,Elena dela Cruz,elena.delacruz@company.com,1,Software Architect,135302.9,3.02,13,76,on_leave,2021-09-21
+401,EMP-2401,Lucia dela Cruz,lucia.delacruz@company.com,2,Marketing Associate,28873.91,4.48,17,54,on_leave,2018-09-06
+402,EMP-2402,Ivan Torres,ivan.torres@company.com,8,Support Manager,51559.7,2.06,16,47,on_leave,2022-07-03
+403,EMP-2403,Ana Garcia,ana.garcia@company.com,3,Finance Manager,99346.9,4.41,12,38,resigned,2015-05-07
+404,EMP-2404,Andrei Go,andrei.go@company.com,10,CEO,481611.85,3.83,21,63,active,2019-07-19
+405,EMP-2405,Bianca Ortiz,bianca.ortiz@company.com,1,Software Architect,161164.28,3.22,14,57,on_leave,2017-01-20
+406,EMP-2406,Kevin Reyes,kevin.reyes@company.com,5,Sales Director,129500.52,1.2,16,3,active,2018-10-05
+407,EMP-2407,Carmen Ramos,carmen.ramos@company.com,9,Legal Associate,51450.09,2.91,23,72,active,2022-07-05
+408,EMP-2408,Ana Flores,ana.flores@company.com,6,Operations Specialist,57962.66,1.21,20,65,resigned,2017-10-10
+409,EMP-2409,Lisa Torres,lisa.torres@company.com,6,Operations Manager,67604.56,4.59,11,43,active,2022-11-02
+410,EMP-2410,Rosa Diaz,rosa.diaz@company.com,9,General Counsel,161144.44,2.49,1,16,active,2017-04-28
+411,EMP-2411,Donna Villanueva,donna.villanueva@company.com,10,SVP,252150.55,1.05,26,39,active,2020-05-07
+412,EMP-2412,Elena Torres,elena.torres@company.com,2,Brand Director,106940.47,4.29,28,79,on_leave,2018-04-19
+413,EMP-2413,Miguel Aquino,miguel.aquino@company.com,1,Senior Developer,64143.43,3.92,16,57,active,2019-02-22
+414,EMP-2414,Rafael Aquino,rafael.aquino@company.com,2,Brand Director,110184.65,3.01,19,59,resigned,2015-11-21
+415,EMP-2415,Ana Tan,ana.tan@company.com,8,Senior Support,28796.14,1.48,0,71,active,2020-12-23
+416,EMP-2416,Lucia Flores,lucia.flores@company.com,1,Software Architect,131561.39,1.5,17,60,on_leave,2017-02-20
+417,EMP-2417,Cedric Flores,cedric.flores@company.com,10,CEO,385984.44,4.44,30,33,active,2016-07-06
+418,EMP-2418,Elena Torres,elena.torres@company.com,10,C-Suite,310589.64,3.45,13,61,active,2017-06-26
+419,EMP-2419,Carlo Mendoza,carlo.mendoza@company.com,8,Support Associate,25713.85,4.86,4,62,resigned,2016-06-21
+420,EMP-2420,Ivan Ortiz,ivan.ortiz@company.com,1,Senior Developer,70738.38,3.19,10,56,active,2016-09-04
+421,EMP-2421,Rosa Reyes,rosa.reyes@company.com,10,SVP,249283.55,2.83,25,17,on_leave,2015-06-17
+422,EMP-2422,Antonio Villanueva,antonio.villanueva@company.com,4,HR Associate,28234.14,4.82,18,48,active,2020-09-20
+423,EMP-2423,Bianca Reyes,bianca.reyes@company.com,9,Legal Associate,44500.07,1.35,15,50,resigned,2020-05-26
+424,EMP-2424,Donna Bautista,donna.bautista@company.com,7,Senior Data Analyst,65669.54,3.45,15,20,on_leave,2015-02-09
+425,EMP-2425,Juan Villanueva,juan.villanueva@company.com,4,HR Associate,28574.87,2.44,26,47,active,2015-02-13
+426,EMP-2426,Ivan Morales,ivan.morales@company.com,8,Support Director,92894.57,4.61,18,8,active,2017-09-04
+427,EMP-2427,Donna Villanueva,donna.villanueva@company.com,1,Tech Lead,123967.73,3.75,28,22,active,2016-05-31
+428,EMP-2428,Juan Aquino,juan.aquino@company.com,6,Operations Specialist,51365.01,3.85,20,30,active,2019-09-25
+429,EMP-2429,Diego Tan,diego.tan@company.com,9,Legal Associate,50704.69,2.05,2,56,active,2022-08-20
+430,EMP-2430,Nina Castro,nina.castro@company.com,9,General Counsel,152915.25,3.99,11,51,resigned,2018-02-27
+431,EMP-2431,Mark Villanueva,mark.villanueva@company.com,3,Financial Analyst,35150.07,4.45,8,13,active,2021-09-04
+432,EMP-2432,Elena Aquino,elena.aquino@company.com,5,Sales Associate,22689.42,2.98,10,12,active,2018-03-01
+433,EMP-2433,Carmen Bautista,carmen.bautista@company.com,6,COO,159403.18,4.5,18,18,resigned,2021-08-05
+434,EMP-2434,Elena Aquino,elena.aquino@company.com,9,Legal Manager,105846.79,4.95,7,53,active,2020-06-20
+435,EMP-2435,Nina Aquino,nina.aquino@company.com,9,Legal Manager,117353.85,1.25,21,19,active,2017-09-19
+436,EMP-2436,Lucia Garcia,lucia.garcia@company.com,1,Senior Developer,65967.89,3.26,4,18,on_leave,2019-10-05
+437,EMP-2437,Rafael Santos,rafael.santos@company.com,3,Financial Analyst,39449.03,1.2,17,2,active,2020-02-20
+438,EMP-2438,Diego Diaz,diego.diaz@company.com,1,Software Architect,157737.17,1.97,4,10,active,2015-03-29
+439,EMP-2439,Donna Ortiz,donna.ortiz@company.com,10,SVP,244908.5,1.98,22,6,active,2020-03-23
+440,EMP-2440,Gelo Garcia,gelo.garcia@company.com,2,Marketing Specialist,43054.8,3.97,26,43,on_leave,2017-11-16
+441,EMP-2441,Donna Reyes,donna.reyes@company.com,10,CEO,484217.72,3.07,19,61,active,2016-08-01
+442,EMP-2442,Maria Mendoza,maria.mendoza@company.com,7,Data Analyst,39489.41,2.95,8,36,resigned,2021-05-17
+443,EMP-2443,Cedric Torres,cedric.torres@company.com,8,Support Director,89523.31,4.51,20,38,active,2018-09-10
+444,EMP-2444,Antonio Morales,antonio.morales@company.com,7,Data Science Lead,113845.77,2.29,12,7,active,2019-03-07
+445,EMP-2445,Faith Garcia,faith.garcia@company.com,8,Support Director,72783.27,4.44,6,56,on_leave,2015-01-26
+446,EMP-2446,Nina Go,nina.go@company.com,1,Software Architect,143389.54,3.47,27,62,active,2016-03-21
+447,EMP-2447,Carlo Bautista,carlo.bautista@company.com,7,Senior Data Analyst,57071.28,1.09,1,28,on_leave,2019-03-01
+448,EMP-2448,Sofia Ramos,sofia.ramos@company.com,7,Data Analyst,37963.31,2.79,10,23,active,2022-01-04
+449,EMP-2449,Rachel Bautista,rachel.bautista@company.com,3,CFO,211570.29,2.63,19,79,active,2016-12-19
+450,EMP-2450,Mark Gomez,mark.gomez@company.com,1,Junior Developer,39887.04,4.69,14,65,active,2015-05-16
+451,EMP-2451,Jasmine Flores,jasmine.flores@company.com,9,Senior Associate,66607.58,4.72,30,62,active,2020-03-09
+452,EMP-2452,Jose Ramos,jose.ramos@company.com,8,Support Associate,24175.03,3.08,21,46,on_leave,2018-05-06
+453,EMP-2453,Rachel Rivera,rachel.rivera@company.com,3,CFO,193726.98,3.74,29,2,active,2016-04-25
+454,EMP-2454,Faith Bautista,faith.bautista@company.com,4,HR Specialist,46788.82,2.74,22,64,active,2016-04-04
+455,EMP-2455,Lucia Torres,lucia.torres@company.com,7,Data Analyst,38684.89,1.45,22,11,active,2016-05-05
+456,EMP-2456,Lucia Morales,lucia.morales@company.com,5,Sales Specialist,40561.14,2.59,5,58,on_leave,2015-04-11
+457,EMP-2457,Carmen Aquino,carmen.aquino@company.com,3,Finance Manager,83648.43,4.84,13,23,active,2021-01-27
+458,EMP-2458,Antonio Ramos,antonio.ramos@company.com,3,Finance Manager,87413.17,2.79,15,22,active,2018-04-09
+459,EMP-2459,Elena Torres,elena.torres@company.com,9,General Counsel,146751.88,1.06,24,23,active,2017-04-16
+460,EMP-2460,Cedric Castro,cedric.castro@company.com,3,Financial Analyst,45892.73,3.75,19,4,active,2019-11-12
+461,EMP-2461,Sofia Torres,sofia.torres@company.com,9,Legal Manager,119595.59,2.65,10,67,active,2018-10-18
+462,EMP-2462,Ana Go,ana.go@company.com,6,COO,149627.48,4.96,24,49,resigned,2023-01-29
+463,EMP-2463,Antonio Tan,antonio.tan@company.com,6,Operations Manager,89298.18,3.86,17,3,on_leave,2021-04-26
+464,EMP-2464,Antonio Diaz,antonio.diaz@company.com,4,HR Specialist,43536.97,3.38,23,14,active,2017-11-20
+465,EMP-2465,Rafael Go,rafael.go@company.com,6,Operations Analyst,41430.13,4.52,0,56,active,2021-04-19
+466,EMP-2466,Ivan Ramos,ivan.ramos@company.com,7,Data Engineer,85104.73,3.07,16,75,resigned,2018-09-06
+467,EMP-2467,Sofia Ramos,sofia.ramos@company.com,7,Data Analyst,52697.08,4.52,24,70,active,2017-11-07
+468,EMP-2468,Nina Ramos,nina.ramos@company.com,7,Senior Data Analyst,80885.47,3.88,1,46,active,2018-01-16
+469,EMP-2469,Bianca Garcia,bianca.garcia@company.com,10,VP,183324.18,3.76,19,54,on_leave,2016-04-09
+470,EMP-2470,Cedric Bautista,cedric.bautista@company.com,2,Brand Director,85383.02,3.34,3,42,active,2015-08-03
+471,EMP-2471,Carlo Morales,carlo.morales@company.com,3,Finance Manager,104480.86,3.76,9,66,active,2020-11-20
+472,EMP-2472,Rafael Santos,rafael.santos@company.com,4,HR Specialist,38918.47,4.95,28,39,active,2023-03-18
+473,EMP-2473,Lucia Flores,lucia.flores@company.com,8,Senior Support,41722.14,2.14,0,34,active,2016-05-20
+474,EMP-2474,Carmen Lim,carmen.lim@company.com,9,Legal Manager,127851.06,1.26,27,46,resigned,2021-10-05
+475,EMP-2475,Ivan Flores,ivan.flores@company.com,10,CEO,408681.29,4.44,1,70,resigned,2019-11-23
+476,EMP-2476,Elena Ramos,elena.ramos@company.com,3,Senior Analyst,62753.02,4.18,18,70,active,2023-02-01
+477,EMP-2477,Sofia Santos,sofia.santos@company.com,9,General Counsel,173013.81,1.68,1,58,active,2022-08-12
+478,EMP-2478,Carmen Morales,carmen.morales@company.com,1,Senior Developer,73950.15,1.55,9,37,on_leave,2015-03-08
+479,EMP-2479,Diego Morales,diego.morales@company.com,7,Data Engineer,76560.52,1.02,21,2,on_leave,2016-04-26
+480,EMP-2480,Andrei Flores,andrei.flores@company.com,2,Marketing Manager,66250.18,4.57,22,68,resigned,2020-01-17
+481,EMP-2481,Paolo Torres,paolo.torres@company.com,7,Data Engineer,92957.1,3.04,2,54,active,2021-11-01
+482,EMP-2482,Andrei Flores,andrei.flores@company.com,6,Operations Analyst,32491.07,2.03,11,79,active,2018-09-01
+483,EMP-2483,Donna Ortiz,donna.ortiz@company.com,9,Senior Associate,91205.4,2.0,11,74,active,2021-05-04
+484,EMP-2484,Mark Ramos,mark.ramos@company.com,2,Marketing Specialist,51344.22,4.17,13,77,active,2019-06-04
+485,EMP-2485,Jasmine Reyes,jasmine.reyes@company.com,2,Marketing Associate,33533.38,3.09,27,4,on_leave,2023-02-03
+486,EMP-2486,Faith Aquino,faith.aquino@company.com,6,COO,175592.97,3.52,2,11,active,2020-01-04
+487,EMP-2487,Ana Mendoza,ana.mendoza@company.com,7,Senior Data Analyst,68816.25,1.95,18,22,active,2015-05-30
+488,EMP-2488,Nina Bautista,nina.bautista@company.com,2,Marketing Manager,73056.08,3.92,23,63,active,2020-04-28
+489,EMP-2489,Jasmine Go,jasmine.go@company.com,10,CEO,472568.99,4.29,20,51,resigned,2015-02-22
+490,EMP-2490,Ivan Flores,ivan.flores@company.com,5,Sales Associate,28432.26,3.87,10,6,active,2021-06-05
+491,EMP-2491,Faith Tan,faith.tan@company.com,9,General Counsel,170853.4,2.22,28,75,active,2023-02-16
+492,EMP-2492,Diego Ramos,diego.ramos@company.com,5,Sales Manager,58542.22,4.2,11,18,active,2016-11-23
+493,EMP-2493,Faith Torres,faith.torres@company.com,8,Support Manager,55038.9,4.42,10,32,active,2019-10-26
+494,EMP-2494,Rosa Santos,rosa.santos@company.com,8,Support Director,92892.24,2.38,4,37,on_leave,2018-06-15
+495,EMP-2495,Rachel Aquino,rachel.aquino@company.com,2,Marketing Associate,25400.97,2.01,17,47,active,2018-01-06
+496,EMP-2496,Edgar Villanueva,edgar.villanueva@company.com,8,Support Director,65829.21,4.54,13,73,active,2019-05-14
+497,EMP-2497,Ivan Flores,ivan.flores@company.com,3,Finance Manager,95109.59,4.36,21,33,active,2020-05-19
+498,EMP-2498,Rosa Bautista,rosa.bautista@company.com,8,Support Manager,48368.1,4.78,10,65,active,2023-02-09
+499,EMP-2499,Juan Mendoza,juan.mendoza@company.com,4,HR Director,98390.32,1.99,21,4,on_leave,2018-03-03
+500,EMP-2500,Juan Bautista,juan.bautista@company.com,4,HR Specialist,44507.01,4.09,10,52,on_leave,2015-08-14
+501,EMP-2501,Nina Flores,nina.flores@company.com,5,Sales Associate,27077.61,3.76,19,33,on_leave,2015-03-14
+502,EMP-2502,Rafael Diaz,rafael.diaz@company.com,7,Data Engineer,73624.39,3.41,29,12,on_leave,2021-06-20
+503,EMP-2503,Paolo Villanueva,paolo.villanueva@company.com,9,Senior Associate,94679.75,2.3,9,18,resigned,2016-02-23
+504,EMP-2504,Cedric Flores,cedric.flores@company.com,3,CFO,227817.72,1.96,29,69,on_leave,2017-01-13
+505,EMP-2505,Ivan Garcia,ivan.garcia@company.com,3,Finance Manager,104121.62,1.99,8,67,active,2017-02-14
+506,EMP-2506,Jose Flores,jose.flores@company.com,7,Senior Data Analyst,71972.67,3.43,8,48,active,2021-11-05
+507,EMP-2507,Kevin Gomez,kevin.gomez@company.com,5,Sales Director,105422.21,4.22,15,14,resigned,2022-05-09
+508,EMP-2508,Bianca Mendoza,bianca.mendoza@company.com,9,General Counsel,155758.77,2.75,20,48,active,2019-01-01
+509,EMP-2509,Juan Villanueva,juan.villanueva@company.com,7,Data Engineer,92696.76,4.0,8,64,on_leave,2017-05-09
+510,EMP-2510,Juan Gomez,juan.gomez@company.com,6,Operations Manager,86335.09,2.16,6,55,resigned,2019-11-16
+511,EMP-2511,Antonio Torres,antonio.torres@company.com,2,Brand Director,103759.29,3.94,10,33,on_leave,2021-09-25
+512,EMP-2512,Nina Castro,nina.castro@company.com,6,COO,216874.27,2.6,29,55,active,2021-03-12
+513,EMP-2513,Andrei Go,andrei.go@company.com,1,Software Architect,178444.68,1.09,30,16,active,2022-08-19
+514,EMP-2514,Ana Gomez,ana.gomez@company.com,10,C-Suite,320088.52,2.46,14,11,active,2017-06-06
+515,EMP-2515,Juan Ramos,juan.ramos@company.com,5,Sales Manager,82991.43,1.58,27,52,active,2018-01-26
+516,EMP-2516,Jasmine Bautista,jasmine.bautista@company.com,3,CFO,186794.91,3.98,2,62,active,2022-08-17
+517,EMP-2517,Carmen Rivera,carmen.rivera@company.com,2,Marketing Manager,66910.07,4.29,9,23,active,2021-09-30
+518,EMP-2518,Sofia Tan,sofia.tan@company.com,7,Data Engineer,88573.05,3.19,9,66,active,2016-01-08
+519,EMP-2519,Faith Go,faith.go@company.com,3,Senior Analyst,60263.14,4.53,7,30,active,2023-03-08
+520,EMP-2520,Andrei Torres,andrei.torres@company.com,10,SVP,275259.86,3.47,10,65,active,2023-01-17
+521,EMP-2521,Rachel Bautista,rachel.bautista@company.com,5,Sales Manager,70591.1,4.93,12,6,active,2021-03-17
+522,EMP-2522,Mark Reyes,mark.reyes@company.com,7,Senior Data Analyst,58859.44,3.19,5,78,active,2017-10-28
+523,EMP-2523,Edgar Mendoza,edgar.mendoza@company.com,9,Senior Associate,75713.88,1.21,11,33,active,2021-12-09
+524,EMP-2524,Lisa Morales,lisa.morales@company.com,3,CFO,182780.76,1.11,27,45,active,2017-08-14
+525,EMP-2525,Jose Aquino,jose.aquino@company.com,9,Legal Associate,48560.49,2.87,13,2,active,2021-11-26
+526,EMP-2526,Sofia Ortiz,sofia.ortiz@company.com,2,Marketing Associate,30947.98,1.89,9,35,active,2022-01-15
+527,EMP-2527,Sofia Castro,sofia.castro@company.com,2,Marketing Specialist,50128.04,4.95,30,18,active,2020-11-06
+528,EMP-2528,Juan Morales,juan.morales@company.com,2,Brand Director,95477.17,1.81,16,49,active,2021-05-03
+529,EMP-2529,Ivan Ortiz,ivan.ortiz@company.com,3,Financial Analyst,51309.94,3.84,21,44,resigned,2018-08-26
+530,EMP-2530,Paolo Tan,paolo.tan@company.com,5,Sales Specialist,50018.5,4.36,27,38,active,2017-12-04
+531,EMP-2531,Miguel Flores,miguel.flores@company.com,6,COO,168187.18,2.53,16,4,active,2016-11-09
+532,EMP-2532,Faith Castro,faith.castro@company.com,8,Support Manager,53605.84,3.17,5,29,resigned,2016-02-07
+533,EMP-2533,Hannah Rivera,hannah.rivera@company.com,3,CFO,189401.41,4.35,8,62,resigned,2016-01-27
+534,EMP-2534,Maria Ramos,maria.ramos@company.com,6,COO,148087.29,4.35,28,51,on_leave,2017-07-20
+535,EMP-2535,Carlo Flores,carlo.flores@company.com,4,HR Associate,22911.52,4.84,15,36,on_leave,2015-07-15
+536,EMP-2536,Rafael Santos,rafael.santos@company.com,2,Marketing Associate,30611.25,3.89,27,30,active,2017-10-29
+537,EMP-2537,Kevin Gomez,kevin.gomez@company.com,3,Financial Analyst,47717.14,4.89,30,34,active,2017-06-05
+538,EMP-2538,Mark Go,mark.go@company.com,1,Software Architect,173270.05,3.27,2,8,active,2015-08-26
+539,EMP-2539,Ana Flores,ana.flores@company.com,3,Senior Analyst,64966.17,1.78,29,9,resigned,2021-07-28
+540,EMP-2540,Miguel Lim,miguel.lim@company.com,4,HR Associate,30062.46,2.49,17,62,resigned,2017-05-22
+541,EMP-2541,Jose Reyes,jose.reyes@company.com,8,Support Manager,46302.61,4.97,20,3,resigned,2020-06-06
+542,EMP-2542,Andrei Tan,andrei.tan@company.com,3,Finance Manager,87909.26,3.76,5,68,active,2017-11-07
+543,EMP-2543,Juan Villanueva,juan.villanueva@company.com,1,Tech Lead,109196.21,1.94,16,40,active,2021-02-21
+544,EMP-2544,Rafael Garcia,rafael.garcia@company.com,7,Senior Data Analyst,69451.62,2.19,1,45,on_leave,2020-02-08
+545,EMP-2545,Paolo Diaz,paolo.diaz@company.com,8,Support Director,86603.45,2.15,8,71,active,2019-09-30
+546,EMP-2546,Ana Morales,ana.morales@company.com,10,SVP,264581.78,3.86,15,24,resigned,2017-08-23
+547,EMP-2547,Rosa Santos,rosa.santos@company.com,10,VP,170579.08,2.78,12,3,resigned,2021-08-16
+548,EMP-2548,Ana dela Cruz,ana.delacruz@company.com,6,COO,177647.13,3.05,30,17,active,2021-05-06
+549,EMP-2549,Rachel Flores,rachel.flores@company.com,2,Marketing Manager,68306.17,4.17,23,11,active,2019-03-09
+550,EMP-2550,Ana Villanueva,ana.villanueva@company.com,10,C-Suite,285922.27,2.5,29,16,active,2017-10-28
+551,EMP-2551,Donna Gomez,donna.gomez@company.com,7,Data Engineer,84904.0,1.35,28,3,active,2020-07-07
+552,EMP-2552,Rosa Rivera,rosa.rivera@company.com,6,COO,191341.25,4.29,6,42,resigned,2022-06-04
+553,EMP-2553,Ivan Tan,ivan.tan@company.com,4,HR Associate,31019.39,2.86,29,27,active,2022-07-04
+554,EMP-2554,Elena Gomez,elena.gomez@company.com,3,Financial Analyst,41383.11,1.53,1,76,active,2020-11-21
+555,EMP-2555,Cedric Villanueva,cedric.villanueva@company.com,3,Finance Manager,100080.76,1.12,18,41,active,2019-12-08
+556,EMP-2556,Lisa Reyes,lisa.reyes@company.com,1,Software Architect,131137.03,3.04,24,3,on_leave,2020-07-31
+557,EMP-2557,Maria Garcia,maria.garcia@company.com,8,Support Director,86245.75,3.27,24,4,on_leave,2016-07-08
+558,EMP-2558,Rosa Gomez,rosa.gomez@company.com,2,Marketing Associate,26416.67,4.42,14,58,active,2023-02-17
+559,EMP-2559,Paolo dela Cruz,paolo.delacruz@company.com,9,Legal Associate,57496.26,3.29,28,43,active,2015-10-25
+560,EMP-2560,Juan Flores,juan.flores@company.com,1,Software Architect,132298.38,1.06,14,4,resigned,2021-07-24
+561,EMP-2561,Elena Torres,elena.torres@company.com,6,COO,193833.51,3.65,22,10,active,2019-09-19
+562,EMP-2562,Hannah Ramos,hannah.ramos@company.com,4,HR Associate,23501.22,3.53,28,19,active,2022-04-23
+563,EMP-2563,Juan Go,juan.go@company.com,8,Support Director,67539.04,4.68,6,19,active,2019-01-25
+564,EMP-2564,Carmen dela Cruz,carmen.delacruz@company.com,7,Senior Data Analyst,68505.11,1.61,14,65,resigned,2017-01-05
+565,EMP-2565,Gelo Ortiz,gelo.ortiz@company.com,4,HR Director,81509.31,3.69,11,5,on_leave,2017-03-30
+566,EMP-2566,Mark Morales,mark.morales@company.com,8,Senior Support,40337.86,4.17,3,47,active,2021-12-15
+567,EMP-2567,Carmen Diaz,carmen.diaz@company.com,3,CFO,234627.76,2.98,23,43,active,2016-10-15
+568,EMP-2568,Miguel Flores,miguel.flores@company.com,9,Legal Associate,63838.67,2.44,23,50,active,2016-04-18
+569,EMP-2569,Ana Morales,ana.morales@company.com,8,Support Associate,23146.99,3.41,30,0,active,2017-09-27
+570,EMP-2570,Miguel Garcia,miguel.garcia@company.com,2,Marketing Associate,34001.23,2.05,2,1,resigned,2017-11-26
+571,EMP-2571,Hannah Gomez,hannah.gomez@company.com,9,Senior Associate,69662.9,2.53,28,38,active,2022-12-17
+572,EMP-2572,Hannah Santos,hannah.santos@company.com,4,HR Specialist,33084.39,4.01,23,37,resigned,2015-12-13
+573,EMP-2573,Ivan Ramos,ivan.ramos@company.com,10,C-Suite,325160.41,1.58,30,39,active,2023-03-02
+574,EMP-2574,Donna Gomez,donna.gomez@company.com,3,Financial Analyst,39568.09,2.53,8,35,active,2017-07-05
+575,EMP-2575,Maria Santos,maria.santos@company.com,7,Data Science Lead,115317.96,3.69,21,42,active,2022-05-04
+576,EMP-2576,Lisa Aquino,lisa.aquino@company.com,8,Support Manager,63563.29,2.26,19,28,resigned,2015-11-29
+577,EMP-2577,Gelo Villanueva,gelo.villanueva@company.com,6,Operations Analyst,34936.2,4.37,9,1,active,2016-12-05
+578,EMP-2578,Nina dela Cruz,nina.delacruz@company.com,1,Tech Lead,118376.51,3.85,3,28,active,2015-08-03
+579,EMP-2579,Hannah Lim,hannah.lim@company.com,4,HR Director,86805.5,2.24,3,69,resigned,2022-10-02
+580,EMP-2580,Ana Flores,ana.flores@company.com,2,Brand Director,113822.58,3.65,8,9,active,2020-09-20
+581,EMP-2581,Kevin Ramos,kevin.ramos@company.com,10,VP,165916.47,1.66,8,0,on_leave,2017-04-17
+582,EMP-2582,Lisa Garcia,lisa.garcia@company.com,7,Senior Data Analyst,60322.83,4.73,19,56,active,2022-12-19
+583,EMP-2583,Elena Rivera,elena.rivera@company.com,10,C-Suite,287949.91,1.12,2,5,active,2022-10-21
+584,EMP-2584,Cedric Lim,cedric.lim@company.com,3,Finance Manager,90351.05,3.15,8,62,active,2020-02-25
+585,EMP-2585,Cedric Santos,cedric.santos@company.com,3,Financial Analyst,48942.99,1.23,9,57,on_leave,2017-08-29
+586,EMP-2586,Donna Tan,donna.tan@company.com,9,General Counsel,167593.17,2.0,28,26,active,2016-06-21
+587,EMP-2587,Ana Flores,ana.flores@company.com,9,General Counsel,147184.89,4.76,17,13,active,2017-12-17
+588,EMP-2588,Hannah Villanueva,hannah.villanueva@company.com,7,Data Science Lead,117816.91,2.96,20,37,resigned,2021-07-07
+589,EMP-2589,Lucia Flores,lucia.flores@company.com,8,Support Associate,27244.76,4.81,12,75,active,2017-08-22
+590,EMP-2590,Bianca Diaz,bianca.diaz@company.com,8,Support Director,93832.49,2.98,0,42,resigned,2020-05-03
+591,EMP-2591,Kevin Ortiz,kevin.ortiz@company.com,2,Marketing Manager,63778.39,2.09,2,76,active,2022-02-08
+592,EMP-2592,Rafael Castro,rafael.castro@company.com,5,Sales Associate,27159.05,4.54,27,0,on_leave,2018-01-28
+593,EMP-2593,Nina Flores,nina.flores@company.com,6,Operations Analyst,36196.77,4.65,29,59,resigned,2020-08-13
+594,EMP-2594,Andrei Diaz,andrei.diaz@company.com,5,Sales Associate,23120.16,3.72,7,66,active,2019-11-05
+595,EMP-2595,Hannah Santos,hannah.santos@company.com,8,Support Director,76294.63,4.39,29,76,active,2020-09-19
+596,EMP-2596,Maria Reyes,maria.reyes@company.com,7,Data Analyst,50382.64,3.97,28,4,active,2019-07-30
+597,EMP-2597,Diego Go,diego.go@company.com,3,Financial Analyst,46022.48,2.27,29,58,active,2020-06-23
+598,EMP-2598,Sofia dela Cruz,sofia.delacruz@company.com,4,HR Associate,30142.52,1.78,5,68,active,2020-11-14
+599,EMP-2599,Lucia Morales,lucia.morales@company.com,10,C-Suite,291892.68,2.05,15,64,on_leave,2022-11-01
+600,EMP-2600,Paolo Ramos,paolo.ramos@company.com,7,Data Analyst,43196.01,4.28,4,32,active,2023-01-22
+601,EMP-2601,Rachel Go,rachel.go@company.com,10,CEO,437492.23,3.31,18,1,active,2015-07-10
+602,EMP-2602,Juan Rivera,juan.rivera@company.com,7,Data Science Lead,120333.41,4.38,15,35,active,2021-10-25
+603,EMP-2603,Antonio Santos,antonio.santos@company.com,7,Senior Data Analyst,82869.36,4.45,0,53,active,2015-12-16
+604,EMP-2604,Carlo Bautista,carlo.bautista@company.com,6,Operations Specialist,51249.3,3.73,30,72,active,2015-01-07
+605,EMP-2605,Edgar Aquino,edgar.aquino@company.com,1,Junior Developer,33618.91,3.99,4,18,active,2016-01-21
+606,EMP-2606,Mark dela Cruz,mark.delacruz@company.com,4,HR Associate,26560.79,4.65,29,54,active,2017-07-17
+607,EMP-2607,Faith Villanueva,faith.villanueva@company.com,8,Support Director,87005.81,4.92,7,68,active,2022-11-20
+608,EMP-2608,Ivan Rivera,ivan.rivera@company.com,6,Operations Specialist,52745.46,2.89,16,41,active,2015-06-02
+609,EMP-2609,Ana Reyes,ana.reyes@company.com,2,Marketing Specialist,49420.7,4.94,7,34,on_leave,2022-10-27
+610,EMP-2610,Antonio Garcia,antonio.garcia@company.com,9,General Counsel,146661.0,3.97,23,59,active,2020-07-16
+611,EMP-2611,Edgar Aquino,edgar.aquino@company.com,10,CEO,438856.52,3.38,2,35,active,2016-01-31
+612,EMP-2612,Diego Ramos,diego.ramos@company.com,8,Support Associate,19820.1,4.15,14,73,on_leave,2015-02-27
+613,EMP-2613,Ana Rivera,ana.rivera@company.com,6,Operations Specialist,43194.42,2.13,14,46,active,2018-08-14
+614,EMP-2614,Rachel Torres,rachel.torres@company.com,4,HR Associate,30445.26,4.26,23,54,active,2018-01-25
+615,EMP-2615,Juan Ramos,juan.ramos@company.com,9,Legal Associate,46975.8,4.29,15,26,resigned,2016-06-06
+616,EMP-2616,Juan Garcia,juan.garcia@company.com,7,Senior Data Analyst,77264.29,3.98,27,17,active,2021-05-30
+617,EMP-2617,Elena Ramos,elena.ramos@company.com,10,VP,154512.59,4.77,16,47,on_leave,2020-05-18
+618,EMP-2618,Mark Lim,mark.lim@company.com,3,Senior Analyst,67518.81,3.33,2,33,on_leave,2020-05-28
+619,EMP-2619,Rafael Tan,rafael.tan@company.com,9,Legal Manager,130736.13,1.19,26,77,on_leave,2021-02-18
+620,EMP-2620,Gelo Aquino,gelo.aquino@company.com,1,Software Architect,161117.05,1.4,21,42,active,2017-07-06
+621,EMP-2621,Elena Villanueva,elena.villanueva@company.com,3,Senior Analyst,78696.77,3.35,6,62,on_leave,2020-03-05
+622,EMP-2622,Mark Villanueva,mark.villanueva@company.com,6,Operations Analyst,30641.82,4.24,4,30,on_leave,2018-06-30
+623,EMP-2623,Lisa Torres,lisa.torres@company.com,5,Sales Manager,58863.39,3.74,11,69,on_leave,2021-03-05
+624,EMP-2624,Hannah Castro,hannah.castro@company.com,3,CFO,221278.07,3.58,20,39,resigned,2015-08-06
+625,EMP-2625,Hannah Bautista,hannah.bautista@company.com,8,Senior Support,30012.08,4.61,26,70,resigned,2022-12-07
+626,EMP-2626,Lucia Bautista,lucia.bautista@company.com,4,HR Director,86870.93,3.94,8,29,resigned,2019-08-04
+627,EMP-2627,Sofia Go,sofia.go@company.com,3,Finance Manager,105375.64,1.01,14,3,active,2021-07-20
+628,EMP-2628,Nina Rivera,nina.rivera@company.com,3,CFO,192232.54,3.09,9,11,active,2021-08-31
+629,EMP-2629,Mark Morales,mark.morales@company.com,4,HR Specialist,37140.01,4.77,7,7,on_leave,2022-10-13
+630,EMP-2630,Sofia Gomez,sofia.gomez@company.com,10,SVP,250254.06,1.02,10,14,resigned,2021-06-28
+631,EMP-2631,Hannah Torres,hannah.torres@company.com,10,VP,188500.31,1.07,2,14,resigned,2016-04-14
+632,EMP-2632,Carlo Flores,carlo.flores@company.com,7,Senior Data Analyst,81741.97,2.22,5,50,active,2023-01-15
+633,EMP-2633,Miguel Go,miguel.go@company.com,10,VP,163468.4,3.65,4,79,resigned,2015-08-02
+634,EMP-2634,Jasmine Flores,jasmine.flores@company.com,5,Sales Director,100398.23,2.2,2,32,active,2020-11-21
+635,EMP-2635,Faith Ramos,faith.ramos@company.com,2,Marketing Specialist,37143.66,3.25,28,30,active,2017-06-08
+636,EMP-2636,Antonio Mendoza,antonio.mendoza@company.com,4,HR Specialist,38861.65,4.69,27,25,active,2018-11-17
+637,EMP-2637,Andrei Santos,andrei.santos@company.com,4,HR Manager,61794.8,4.52,7,27,active,2021-04-01
+638,EMP-2638,Maria Morales,maria.morales@company.com,3,Finance Manager,87594.92,4.94,0,32,active,2020-07-05
+639,EMP-2639,Juan Go,juan.go@company.com,10,C-Suite,360284.77,4.86,7,1,active,2015-05-07
+640,EMP-2640,Nina Santos,nina.santos@company.com,9,Senior Associate,89548.59,2.15,30,47,active,2018-10-31
+641,EMP-2641,Elena Go,elena.go@company.com,8,Support Manager,55607.12,3.31,14,80,active,2020-12-16
+642,EMP-2642,Edgar Gomez,edgar.gomez@company.com,3,Financial Analyst,39468.22,4.97,24,9,active,2016-04-20
+643,EMP-2643,Paolo Gomez,paolo.gomez@company.com,1,Senior Developer,63530.98,4.83,6,58,resigned,2017-02-16
+644,EMP-2644,Lucia Torres,lucia.torres@company.com,8,Support Associate,19166.06,4.2,22,53,resigned,2022-03-18
+645,EMP-2645,Lucia Go,lucia.go@company.com,7,Data Analyst,44101.13,4.09,5,69,on_leave,2021-05-02
+646,EMP-2646,Mark Castro,mark.castro@company.com,4,HR Specialist,49714.21,3.26,27,41,active,2017-07-26
+647,EMP-2647,Maria Tan,maria.tan@company.com,3,Finance Manager,86008.47,2.05,19,35,resigned,2015-07-01
+648,EMP-2648,Rafael Aquino,rafael.aquino@company.com,7,Data Science Lead,113625.75,2.34,10,6,active,2016-09-21
+649,EMP-2649,Donna Ortiz,donna.ortiz@company.com,7,Data Science Lead,121139.28,4.55,12,70,active,2021-12-06
+650,EMP-2650,Andrei Morales,andrei.morales@company.com,9,Senior Associate,73790.17,2.49,21,54,active,2020-10-23
+651,EMP-2651,Kevin Lim,kevin.lim@company.com,1,Software Architect,148220.21,2.26,30,51,on_leave,2019-05-03
+652,EMP-2652,Maria dela Cruz,maria.delacruz@company.com,2,Brand Director,109305.75,3.91,8,11,active,2018-01-27
+653,EMP-2653,Juan Ortiz,juan.ortiz@company.com,10,CEO,399172.67,2.45,30,53,on_leave,2015-05-13
+654,EMP-2654,Rosa Bautista,rosa.bautista@company.com,4,HR Manager,66912.19,3.8,18,76,active,2021-06-02
+655,EMP-2655,Rafael Villanueva,rafael.villanueva@company.com,4,HR Associate,29070.39,2.16,21,51,resigned,2017-12-30
+656,EMP-2656,Rosa Ortiz,rosa.ortiz@company.com,9,Legal Manager,117691.97,4.17,24,79,resigned,2016-03-12
+657,EMP-2657,Rachel Ramos,rachel.ramos@company.com,3,Financial Analyst,39858.16,3.36,8,32,resigned,2022-06-10
+658,EMP-2658,Donna Reyes,donna.reyes@company.com,6,COO,188297.77,2.49,30,5,active,2022-04-04
+659,EMP-2659,Kevin Villanueva,kevin.villanueva@company.com,2,Marketing Manager,71215.22,2.26,15,70,resigned,2022-08-06
+660,EMP-2660,Donna Ortiz,donna.ortiz@company.com,7,Senior Data Analyst,55601.04,4.86,10,61,active,2017-12-11
+661,EMP-2661,Paolo Flores,paolo.flores@company.com,2,Brand Director,118674.93,3.96,23,4,active,2021-01-11
+662,EMP-2662,Rachel Ramos,rachel.ramos@company.com,8,Senior Support,32641.64,2.02,16,19,on_leave,2019-01-02
+663,EMP-2663,Antonio dela Cruz,antonio.delacruz@company.com,3,Senior Analyst,56229.03,3.69,12,30,active,2018-12-16
+664,EMP-2664,Gelo Flores,gelo.flores@company.com,9,Legal Associate,49662.43,2.6,13,49,active,2016-01-06
+665,EMP-2665,Rachel dela Cruz,rachel.delacruz@company.com,5,Sales Associate,34882.9,1.28,28,29,active,2017-11-09
+666,EMP-2666,Bianca Go,bianca.go@company.com,8,Support Manager,63934.56,3.28,2,29,on_leave,2018-08-07
+667,EMP-2667,Lisa Flores,lisa.flores@company.com,2,Marketing Manager,76063.03,4.13,17,41,active,2022-03-04
+668,EMP-2668,Lucia Gomez,lucia.gomez@company.com,8,Senior Support,34654.46,4.38,29,27,on_leave,2016-12-29
+669,EMP-2669,Paolo Flores,paolo.flores@company.com,9,General Counsel,169969.3,4.74,18,47,active,2018-07-11
+670,EMP-2670,Jasmine Aquino,jasmine.aquino@company.com,6,Operations Analyst,32066.04,3.94,16,30,active,2020-06-26
+671,EMP-2671,Lucia Castro,lucia.castro@company.com,8,Support Director,73652.64,4.73,19,44,active,2021-07-03
+672,EMP-2672,Hannah Torres,hannah.torres@company.com,2,Brand Director,108398.54,3.44,23,75,active,2016-10-17
+673,EMP-2673,Elena Flores,elena.flores@company.com,1,Software Architect,164739.04,2.49,18,39,resigned,2020-08-21
+674,EMP-2674,Ana Castro,ana.castro@company.com,8,Support Associate,25061.13,2.0,19,54,active,2017-07-02
+675,EMP-2675,Andrei dela Cruz,andrei.delacruz@company.com,5,Sales Manager,60689.89,2.75,13,34,resigned,2018-12-24
+676,EMP-2676,Kevin Rivera,kevin.rivera@company.com,7,Data Engineer,73468.01,4.03,18,31,active,2018-08-03
+677,EMP-2677,Gelo Aquino,gelo.aquino@company.com,3,Financial Analyst,52293.58,1.8,13,62,resigned,2021-02-07
+678,EMP-2678,Carmen Reyes,carmen.reyes@company.com,3,CFO,193661.82,2.92,23,76,active,2015-10-29
+679,EMP-2679,Miguel Gomez,miguel.gomez@company.com,3,CFO,150332.45,2.4,0,6,active,2021-08-16
+680,EMP-2680,Carlo Ortiz,carlo.ortiz@company.com,2,Marketing Specialist,48301.02,3.49,2,15,active,2022-04-24
+681,EMP-2681,Maria Go,maria.go@company.com,9,General Counsel,184285.15,3.46,27,63,active,2022-03-22
+682,EMP-2682,Paolo Rivera,paolo.rivera@company.com,2,Marketing Specialist,50000.15,3.76,10,57,active,2020-06-20
+683,EMP-2683,Paolo Mendoza,paolo.mendoza@company.com,9,General Counsel,166019.59,1.81,15,24,active,2022-11-04
+684,EMP-2684,Nina Tan,nina.tan@company.com,4,HR Associate,30683.13,2.54,17,72,active,2020-06-20
+685,EMP-2685,Rafael Castro,rafael.castro@company.com,4,HR Specialist,38937.85,3.1,1,66,active,2018-10-30
+686,EMP-2686,Miguel Morales,miguel.morales@company.com,6,Operations Analyst,36585.31,4.78,21,61,on_leave,2021-06-24
+687,EMP-2687,Rachel Tan,rachel.tan@company.com,2,Marketing Specialist,48212.8,2.34,15,7,active,2022-09-03
+688,EMP-2688,Sofia Santos,sofia.santos@company.com,6,Operations Manager,68659.5,3.78,16,19,active,2019-10-07
+689,EMP-2689,Maria Santos,maria.santos@company.com,7,Data Engineer,99949.16,4.11,22,36,active,2018-02-02
+690,EMP-2690,Rafael Mendoza,rafael.mendoza@company.com,3,CFO,181077.49,3.88,7,61,on_leave,2016-08-29
+691,EMP-2691,Cedric Rivera,cedric.rivera@company.com,4,HR Associate,31279.42,2.49,13,63,resigned,2015-11-26
+692,EMP-2692,Lisa Aquino,lisa.aquino@company.com,4,HR Manager,72886.99,1.39,0,19,active,2016-06-23
+693,EMP-2693,Gelo Gomez,gelo.gomez@company.com,8,Support Associate,26129.26,1.32,9,29,active,2020-02-23
+694,EMP-2694,Elena Reyes,elena.reyes@company.com,9,Legal Associate,51502.16,1.08,29,17,active,2017-05-15
+695,EMP-2695,Lisa Torres,lisa.torres@company.com,2,Marketing Associate,28184.75,1.16,4,20,active,2018-03-28
+696,EMP-2696,Donna Lim,donna.lim@company.com,2,Marketing Manager,68084.68,4.77,3,12,active,2016-12-16
+697,EMP-2697,Lucia Morales,lucia.morales@company.com,1,Tech Lead,97265.63,3.88,11,25,active,2017-07-24
+698,EMP-2698,Mark Garcia,mark.garcia@company.com,5,Sales Associate,26949.36,4.95,10,59,active,2017-06-07
+699,EMP-2699,Antonio Tan,antonio.tan@company.com,8,Senior Support,37064.02,3.41,5,1,active,2022-06-24
+700,EMP-2700,Lisa Villanueva,lisa.villanueva@company.com,4,HR Director,100309.28,2.18,15,64,active,2018-06-08
+701,EMP-2701,Donna Lim,donna.lim@company.com,3,CFO,229585.59,2.89,6,16,on_leave,2021-06-13
+702,EMP-2702,Sofia Go,sofia.go@company.com,5,Sales Specialist,36796.16,4.09,22,1,active,2017-10-01
+703,EMP-2703,Faith Castro,faith.castro@company.com,5,Sales Associate,24023.83,4.2,3,60,resigned,2020-06-11
+704,EMP-2704,Jasmine Flores,jasmine.flores@company.com,5,Sales Director,105834.71,3.33,7,61,on_leave,2019-08-21
+705,EMP-2705,Kevin dela Cruz,kevin.delacruz@company.com,10,SVP,273690.77,3.86,22,77,active,2018-08-18
+706,EMP-2706,Jose Reyes,jose.reyes@company.com,6,Operations Analyst,31344.32,2.64,5,3,active,2017-01-28
+707,EMP-2707,Maria Torres,maria.torres@company.com,7,Senior Data Analyst,75003.5,1.82,5,64,active,2020-12-20
+708,EMP-2708,Sofia Flores,sofia.flores@company.com,6,Operations Specialist,57643.07,1.31,3,37,on_leave,2021-09-03
+709,EMP-2709,Carmen Rivera,carmen.rivera@company.com,4,HR Specialist,34220.77,3.8,18,8,active,2018-11-01
+710,EMP-2710,Ana Mendoza,ana.mendoza@company.com,5,Sales Director,108173.28,4.56,16,50,resigned,2022-02-08
+711,EMP-2711,Rafael dela Cruz,rafael.delacruz@company.com,6,Operations Specialist,44278.34,2.6,29,73,active,2022-05-14
+712,EMP-2712,Kevin Lim,kevin.lim@company.com,3,Finance Manager,106265.87,2.08,7,1,active,2015-10-13
+713,EMP-2713,Paolo Garcia,paolo.garcia@company.com,7,Data Analyst,49744.17,2.63,22,35,active,2017-10-09
+714,EMP-2714,Rafael Lim,rafael.lim@company.com,6,Operations Manager,80176.53,4.74,24,23,active,2016-03-09
+715,EMP-2715,Jose Tan,jose.tan@company.com,9,General Counsel,177958.45,1.55,8,61,active,2016-07-25
+716,EMP-2716,Sofia Castro,sofia.castro@company.com,3,CFO,234552.08,3.41,9,80,active,2016-12-21
+717,EMP-2717,Carlo Garcia,carlo.garcia@company.com,9,Senior Associate,86761.01,1.4,2,73,active,2022-02-21
+718,EMP-2718,Lucia Lim,lucia.lim@company.com,1,Tech Lead,103279.11,4.17,25,61,on_leave,2020-09-08
+719,EMP-2719,Juan Lim,juan.lim@company.com,2,Marketing Associate,28942.12,2.26,3,76,active,2020-01-19
+720,EMP-2720,Faith Castro,faith.castro@company.com,6,COO,182385.62,4.36,1,65,resigned,2019-09-04
+721,EMP-2721,Nina Torres,nina.torres@company.com,10,VP,150186.64,2.26,10,15,active,2020-02-16
+722,EMP-2722,Jose Castro,jose.castro@company.com,8,Support Manager,48799.38,3.83,25,53,active,2022-03-27
+723,EMP-2723,Sofia Flores,sofia.flores@company.com,10,C-Suite,328933.87,4.67,25,73,active,2022-01-06
+724,EMP-2724,Ivan Castro,ivan.castro@company.com,7,Data Science Lead,110866.06,2.71,0,35,active,2021-09-02
+725,EMP-2725,Jose Ortiz,jose.ortiz@company.com,4,HR Manager,65191.91,4.84,8,14,active,2016-12-06
+726,EMP-2726,Lucia Tan,lucia.tan@company.com,3,Finance Manager,109050.49,2.74,3,50,active,2022-01-24
+727,EMP-2727,Sofia Ortiz,sofia.ortiz@company.com,6,Operations Manager,78124.42,1.64,13,27,active,2022-06-27
+728,EMP-2728,Edgar Santos,edgar.santos@company.com,9,Legal Associate,57014.33,4.57,4,26,active,2022-05-18
+729,EMP-2729,Gelo Reyes,gelo.reyes@company.com,4,HR Associate,29364.14,2.89,24,49,on_leave,2020-04-04
+730,EMP-2730,Jose Reyes,jose.reyes@company.com,9,Senior Associate,84292.27,4.92,0,63,on_leave,2017-05-07
+731,EMP-2731,Carmen Torres,carmen.torres@company.com,3,Financial Analyst,48720.03,2.39,6,77,active,2015-01-22
+732,EMP-2732,Mark Go,mark.go@company.com,2,Marketing Manager,64475.14,1.16,15,26,active,2019-05-24
+733,EMP-2733,Sofia Garcia,sofia.garcia@company.com,1,Software Architect,179061.22,2.09,1,32,active,2020-07-09
+734,EMP-2734,Edgar Go,edgar.go@company.com,8,Senior Support,29086.61,2.4,25,25,active,2020-04-09
+735,EMP-2735,Diego Rivera,diego.rivera@company.com,1,Senior Developer,73006.18,3.89,2,37,active,2022-12-22
+736,EMP-2736,Gelo Garcia,gelo.garcia@company.com,10,VP,174468.41,1.52,24,4,active,2020-12-01
+737,EMP-2737,Ivan Villanueva,ivan.villanueva@company.com,7,Data Science Lead,150726.25,3.06,3,58,active,2017-09-20
+738,EMP-2738,Faith Mendoza,faith.mendoza@company.com,10,SVP,263767.44,1.93,26,10,on_leave,2021-09-12
+739,EMP-2739,Rachel Garcia,rachel.garcia@company.com,3,Senior Analyst,57421.15,4.08,10,0,active,2017-04-27
+740,EMP-2740,Bianca Rivera,bianca.rivera@company.com,8,Support Associate,20427.68,1.58,1,76,active,2017-12-22
+741,EMP-2741,Cedric Reyes,cedric.reyes@company.com,2,Marketing Associate,25529.57,4.06,9,65,active,2022-04-19
+742,EMP-2742,Mark Diaz,mark.diaz@company.com,2,Brand Director,118260.34,4.86,6,19,resigned,2018-07-24
+743,EMP-2743,Hannah Diaz,hannah.diaz@company.com,8,Senior Support,38365.37,2.19,22,62,resigned,2022-12-14
+744,EMP-2744,Jose Aquino,jose.aquino@company.com,6,Operations Specialist,55519.29,1.53,27,75,active,2021-07-25
+745,EMP-2745,Elena dela Cruz,elena.delacruz@company.com,1,Senior Developer,66170.15,3.52,24,69,active,2020-08-10
+746,EMP-2746,Rosa Lim,rosa.lim@company.com,7,Data Science Lead,115319.9,2.72,8,29,resigned,2021-12-31
+747,EMP-2747,Andrei Villanueva,andrei.villanueva@company.com,8,Support Manager,47845.61,4.16,8,11,resigned,2017-05-16
+748,EMP-2748,Antonio Torres,antonio.torres@company.com,8,Support Director,94206.61,3.78,28,66,active,2018-10-17
+749,EMP-2749,Bianca Morales,bianca.morales@company.com,3,Financial Analyst,37456.85,2.65,5,48,active,2018-03-23
+750,EMP-2750,Rachel dela Cruz,rachel.delacruz@company.com,5,Sales Manager,79792.44,1.46,28,12,active,2018-09-09
+751,EMP-2751,Rosa Lim,rosa.lim@company.com,2,Brand Director,98760.15,3.18,23,8,active,2017-07-29
+752,EMP-2752,Nina Santos,nina.santos@company.com,8,Senior Support,34527.1,3.99,29,41,resigned,2020-11-25
+753,EMP-2753,Sofia Bautista,sofia.bautista@company.com,8,Support Director,80740.1,1.67,14,14,active,2022-08-15
+754,EMP-2754,Lisa Gomez,lisa.gomez@company.com,7,Data Engineer,101903.83,1.86,29,18,active,2023-01-18
+755,EMP-2755,Lisa Bautista,lisa.bautista@company.com,4,HR Director,81433.93,4.25,9,8,active,2022-07-30
+756,EMP-2756,Rafael Morales,rafael.morales@company.com,7,Data Science Lead,153381.73,2.09,21,8,on_leave,2016-08-20
+757,EMP-2757,Nina Villanueva,nina.villanueva@company.com,6,Operations Specialist,46471.85,4.98,4,34,active,2020-05-18
+758,EMP-2758,Rosa Aquino,rosa.aquino@company.com,5,Sales Director,103073.37,3.3,17,51,active,2020-11-17
+759,EMP-2759,Faith Lim,faith.lim@company.com,3,Financial Analyst,45900.38,1.52,22,74,active,2017-05-10
+760,EMP-2760,Elena dela Cruz,elena.delacruz@company.com,8,Support Associate,20294.67,4.15,5,72,active,2015-08-22
+761,EMP-2761,Carmen Ortiz,carmen.ortiz@company.com,8,Senior Support,30062.94,2.1,25,16,active,2018-04-19
+762,EMP-2762,Lisa Gomez,lisa.gomez@company.com,8,Support Associate,21287.54,2.84,10,57,on_leave,2015-09-23
+763,EMP-2763,Jose Ramos,jose.ramos@company.com,4,HR Manager,56485.71,4.69,29,3,active,2021-02-12
+764,EMP-2764,Edgar Ramos,edgar.ramos@company.com,6,Operations Manager,64500.55,1.16,13,57,active,2022-12-02
+765,EMP-2765,Hannah Flores,hannah.flores@company.com,6,Operations Analyst,29261.56,1.19,7,8,active,2021-04-27
+766,EMP-2766,Rachel Garcia,rachel.garcia@company.com,8,Senior Support,38564.77,1.87,27,44,resigned,2020-05-29
+767,EMP-2767,Ana Tan,ana.tan@company.com,6,COO,187699.31,3.2,12,46,active,2022-08-13
+768,EMP-2768,Kevin dela Cruz,kevin.delacruz@company.com,6,Operations Specialist,44883.84,4.18,6,49,resigned,2017-05-12
+769,EMP-2769,Faith Bautista,faith.bautista@company.com,7,Data Science Lead,114476.32,2.51,27,70,active,2022-11-30
+770,EMP-2770,Maria Ortiz,maria.ortiz@company.com,6,Operations Specialist,56319.77,4.04,29,11,active,2016-08-28
+771,EMP-2771,Nina Villanueva,nina.villanueva@company.com,2,Marketing Manager,79833.29,2.8,5,4,active,2022-12-23
+772,EMP-2772,Lucia Tan,lucia.tan@company.com,7,Senior Data Analyst,80964.06,1.21,24,61,resigned,2021-12-26
+773,EMP-2773,Rosa Lim,rosa.lim@company.com,4,HR Specialist,47470.74,3.23,11,67,active,2019-10-12
+774,EMP-2774,Jasmine Aquino,jasmine.aquino@company.com,10,C-Suite,298985.97,4.54,1,12,active,2016-04-20
+775,EMP-2775,Ana Garcia,ana.garcia@company.com,9,Senior Associate,92767.11,4.63,4,52,active,2016-02-17
+776,EMP-2776,Mark Villanueva,mark.villanueva@company.com,1,Tech Lead,105620.23,3.7,2,66,on_leave,2016-01-26
+777,EMP-2777,Kevin dela Cruz,kevin.delacruz@company.com,1,Tech Lead,113725.82,2.18,1,71,active,2021-10-02
+778,EMP-2778,Faith Villanueva,faith.villanueva@company.com,8,Senior Support,41849.25,2.0,26,65,active,2015-09-11
+779,EMP-2779,Andrei Garcia,andrei.garcia@company.com,6,Operations Specialist,55460.1,1.05,24,13,active,2019-11-12
+780,EMP-2780,Faith Garcia,faith.garcia@company.com,3,Finance Manager,87482.48,4.58,24,50,active,2015-04-15
+781,EMP-2781,Ana Santos,ana.santos@company.com,3,CFO,152123.67,2.74,27,24,active,2018-01-02
+782,EMP-2782,Carmen Flores,carmen.flores@company.com,1,Tech Lead,126328.91,3.34,0,18,active,2016-04-22
+783,EMP-2783,Mark Castro,mark.castro@company.com,9,Legal Associate,54872.84,4.75,28,6,active,2022-02-24
+784,EMP-2784,Edgar Garcia,edgar.garcia@company.com,10,C-Suite,350491.02,1.33,2,8,on_leave,2022-01-12
+785,EMP-2785,Bianca Torres,bianca.torres@company.com,3,CFO,188194.75,2.57,2,61,active,2021-08-17
+786,EMP-2786,Rachel Diaz,rachel.diaz@company.com,8,Senior Support,37893.66,3.5,27,47,on_leave,2021-01-20
+787,EMP-2787,Miguel Go,miguel.go@company.com,6,COO,200648.0,4.74,4,18,resigned,2021-05-31
+788,EMP-2788,Rachel Aquino,rachel.aquino@company.com,7,Data Analyst,48212.05,1.96,15,28,active,2015-03-08
+789,EMP-2789,Bianca dela Cruz,bianca.delacruz@company.com,3,Senior Analyst,67998.51,1.33,15,74,active,2022-12-10
+790,EMP-2790,Rafael Castro,rafael.castro@company.com,6,COO,163134.24,1.6,6,14,active,2015-12-24
+791,EMP-2791,Andrei Go,andrei.go@company.com,5,Sales Specialist,39868.71,1.76,0,69,on_leave,2022-01-20
+792,EMP-2792,Maria dela Cruz,maria.delacruz@company.com,1,Software Architect,141966.02,4.16,27,46,resigned,2020-11-03
+793,EMP-2793,Paolo Mendoza,paolo.mendoza@company.com,6,Operations Manager,84933.28,2.36,14,39,active,2020-11-06
+794,EMP-2794,Kevin Go,kevin.go@company.com,2,Marketing Specialist,53953.39,1.98,8,60,active,2020-11-23
+795,EMP-2795,Elena Go,elena.go@company.com,9,Legal Associate,58113.47,4.94,18,52,active,2022-03-04
+796,EMP-2796,Miguel Ortiz,miguel.ortiz@company.com,4,HR Associate,23572.77,3.11,20,33,on_leave,2020-11-13
+797,EMP-2797,Diego Villanueva,diego.villanueva@company.com,5,Sales Specialist,51875.0,3.5,24,79,on_leave,2018-10-30
+798,EMP-2798,Gelo Ortiz,gelo.ortiz@company.com,1,Junior Developer,40440.52,2.9,8,54,active,2022-08-09
+799,EMP-2799,Carmen Gomez,carmen.gomez@company.com,9,Legal Manager,99678.48,2.15,9,19,active,2020-11-15
+800,EMP-2800,Miguel Bautista,miguel.bautista@company.com,8,Support Director,77088.28,2.82,17,10,active,2023-03-01
+801,EMP-2801,Diego Rivera,diego.rivera@company.com,10,SVP,242300.02,4.46,1,29,active,2022-01-25
+802,EMP-2802,Ana Go,ana.go@company.com,7,Data Science Lead,148353.35,3.72,4,5,on_leave,2020-07-28
+803,EMP-2803,Ivan Castro,ivan.castro@company.com,2,Brand Director,112699.92,2.15,4,50,resigned,2018-01-30
+804,EMP-2804,Diego Ramos,diego.ramos@company.com,9,Legal Associate,62963.32,4.94,11,42,resigned,2019-07-31
+805,EMP-2805,Rafael Torres,rafael.torres@company.com,9,Legal Associate,56784.04,2.51,18,71,active,2020-07-06
+806,EMP-2806,Elena Mendoza,elena.mendoza@company.com,1,Junior Developer,39709.75,2.4,27,3,active,2018-02-21
+807,EMP-2807,Donna Morales,donna.morales@company.com,4,HR Associate,22038.55,3.3,16,71,active,2022-08-19
+808,EMP-2808,Gelo Lim,gelo.lim@company.com,2,Marketing Associate,32387.78,1.1,0,14,on_leave,2020-04-25
+809,EMP-2809,Hannah Aquino,hannah.aquino@company.com,1,Tech Lead,122249.27,1.68,5,56,on_leave,2015-09-16
+810,EMP-2810,Faith Santos,faith.santos@company.com,7,Data Analyst,45993.79,3.96,3,65,active,2018-08-10
+811,EMP-2811,Antonio Santos,antonio.santos@company.com,3,Finance Manager,85223.98,2.35,19,67,active,2018-06-18
+812,EMP-2812,Jose Reyes,jose.reyes@company.com,10,VP,193286.07,4.04,10,50,active,2022-10-04
+813,EMP-2813,Cedric Torres,cedric.torres@company.com,10,C-Suite,281545.77,3.83,18,73,active,2020-11-19
+814,EMP-2814,Kevin Mendoza,kevin.mendoza@company.com,6,Operations Analyst,29367.11,3.19,24,75,active,2020-01-30
+815,EMP-2815,Rachel Go,rachel.go@company.com,3,Senior Analyst,65462.06,2.06,11,74,active,2016-04-25
+816,EMP-2816,Bianca Diaz,bianca.diaz@company.com,10,VP,174453.96,1.72,10,58,resigned,2020-04-02
+817,EMP-2817,Sofia Reyes,sofia.reyes@company.com,3,CFO,168166.21,1.92,18,58,active,2015-06-19
+818,EMP-2818,Andrei Garcia,andrei.garcia@company.com,2,Marketing Associate,32400.18,1.88,23,11,resigned,2022-09-08
+819,EMP-2819,Elena Aquino,elena.aquino@company.com,10,VP,185579.64,3.96,15,32,on_leave,2019-04-26
+820,EMP-2820,Hannah Diaz,hannah.diaz@company.com,10,CEO,433035.01,1.77,16,50,resigned,2016-02-29
+821,EMP-2821,Rachel Reyes,rachel.reyes@company.com,2,Brand Director,112137.42,2.28,23,3,active,2019-04-22
+822,EMP-2822,Kevin Ramos,kevin.ramos@company.com,8,Support Director,70307.59,2.03,2,62,resigned,2021-06-09
+823,EMP-2823,Lucia Diaz,lucia.diaz@company.com,6,Operations Analyst,41040.35,3.41,24,17,on_leave,2022-02-14
+824,EMP-2824,Hannah Ortiz,hannah.ortiz@company.com,6,Operations Analyst,39684.45,2.07,17,67,resigned,2019-12-04
+825,EMP-2825,Miguel Morales,miguel.morales@company.com,7,Data Science Lead,129213.82,1.42,23,1,active,2018-08-05
+826,EMP-2826,Cedric Lim,cedric.lim@company.com,6,COO,149837.93,3.35,17,3,active,2016-03-19
+827,EMP-2827,Jasmine Flores,jasmine.flores@company.com,7,Data Engineer,98049.02,4.5,13,40,active,2019-12-23
+828,EMP-2828,Maria Aquino,maria.aquino@company.com,4,HR Director,95814.13,3.01,17,74,on_leave,2021-03-28
+829,EMP-2829,Hannah Go,hannah.go@company.com,1,Tech Lead,93162.92,4.12,5,29,resigned,2021-04-02
+830,EMP-2830,Jose Reyes,jose.reyes@company.com,7,Data Science Lead,135019.54,3.45,21,45,resigned,2019-09-28
+831,EMP-2831,Lucia Villanueva,lucia.villanueva@company.com,1,Senior Developer,75242.69,2.31,29,69,active,2021-06-21
+832,EMP-2832,Faith Torres,faith.torres@company.com,4,HR Specialist,39363.99,4.02,29,25,active,2015-08-28
+833,EMP-2833,Rosa Ramos,rosa.ramos@company.com,6,Operations Analyst,32130.21,4.56,13,66,on_leave,2017-04-09
+834,EMP-2834,Edgar Rivera,edgar.rivera@company.com,7,Data Analyst,43895.42,2.76,26,54,resigned,2016-11-19
+835,EMP-2835,Jasmine Santos,jasmine.santos@company.com,3,Financial Analyst,35531.82,1.65,7,48,on_leave,2015-09-03
+836,EMP-2836,Gelo Reyes,gelo.reyes@company.com,1,Tech Lead,114696.32,3.2,24,56,on_leave,2015-05-13
+837,EMP-2837,Cedric Garcia,cedric.garcia@company.com,10,C-Suite,307315.57,1.47,8,67,resigned,2015-04-15
+838,EMP-2838,Paolo Flores,paolo.flores@company.com,3,Senior Analyst,78470.97,4.01,0,12,on_leave,2015-04-25
+839,EMP-2839,Nina Garcia,nina.garcia@company.com,8,Support Associate,22846.16,3.83,17,7,active,2016-01-27
+840,EMP-2840,Donna Tan,donna.tan@company.com,5,Sales Director,112667.39,1.59,17,27,active,2018-04-18
+841,EMP-2841,Ana Ortiz,ana.ortiz@company.com,10,CEO,395111.66,1.24,21,5,active,2015-07-10
+842,EMP-2842,Bianca Mendoza,bianca.mendoza@company.com,3,Financial Analyst,46659.6,1.83,0,30,resigned,2022-08-29
+843,EMP-2843,Miguel Bautista,miguel.bautista@company.com,7,Data Science Lead,142827.18,2.79,0,39,active,2020-05-17
+844,EMP-2844,Antonio Santos,antonio.santos@company.com,9,Legal Manager,125811.62,2.45,8,62,on_leave,2022-07-27
+845,EMP-2845,Elena Rivera,elena.rivera@company.com,2,Brand Director,115971.66,1.44,24,63,on_leave,2021-07-06
+846,EMP-2846,Faith Garcia,faith.garcia@company.com,6,Operations Analyst,34291.06,3.82,24,23,active,2020-03-06
+847,EMP-2847,Carmen Go,carmen.go@company.com,10,CEO,457686.81,1.18,10,48,resigned,2022-07-02
+848,EMP-2848,Carmen Castro,carmen.castro@company.com,5,Sales Manager,67757.63,1.67,5,75,resigned,2022-03-22
+849,EMP-2849,Ivan Santos,ivan.santos@company.com,1,Senior Developer,79640.39,1.12,8,20,active,2021-07-07
+850,EMP-2850,Ivan Aquino,ivan.aquino@company.com,10,VP,199945.35,4.28,11,80,active,2017-06-21
+851,EMP-2851,Kevin Rivera,kevin.rivera@company.com,6,COO,184394.02,2.52,9,68,active,2015-08-13
+852,EMP-2852,Rachel Castro,rachel.castro@company.com,6,Operations Analyst,28636.69,1.94,27,63,resigned,2016-02-26
+853,EMP-2853,Juan Diaz,juan.diaz@company.com,6,Operations Manager,71457.75,4.23,11,31,active,2021-09-19
+854,EMP-2854,Carlo Castro,carlo.castro@company.com,3,Finance Manager,100327.24,3.9,29,24,active,2016-11-30
+855,EMP-2855,Andrei Castro,andrei.castro@company.com,8,Support Associate,18295.73,1.3,15,59,resigned,2020-12-06
+856,EMP-2856,Nina dela Cruz,nina.delacruz@company.com,4,HR Director,98534.36,3.13,4,32,resigned,2017-12-19
+857,EMP-2857,Jasmine Ramos,jasmine.ramos@company.com,7,Data Analyst,51098.12,1.78,14,11,active,2022-11-12
+858,EMP-2858,Lucia Torres,lucia.torres@company.com,5,Sales Associate,34409.84,4.3,26,17,on_leave,2015-03-20
+859,EMP-2859,Paolo Aquino,paolo.aquino@company.com,9,General Counsel,147772.95,3.82,6,10,active,2018-07-31
+860,EMP-2860,Edgar Morales,edgar.morales@company.com,5,Sales Associate,23961.45,2.86,1,28,active,2022-02-15
+861,EMP-2861,Gelo Diaz,gelo.diaz@company.com,5,Sales Manager,76577.34,3.39,16,17,active,2022-06-05
+862,EMP-2862,Nina Flores,nina.flores@company.com,3,CFO,249461.64,1.67,24,1,resigned,2020-06-08
+863,EMP-2863,Rafael Santos,rafael.santos@company.com,5,Sales Associate,23137.23,2.82,29,44,on_leave,2019-08-10
+864,EMP-2864,Carmen Bautista,carmen.bautista@company.com,7,Data Analyst,53046.49,1.73,14,26,active,2017-08-17
+865,EMP-2865,Ana Aquino,ana.aquino@company.com,5,Sales Associate,28968.24,4.59,11,60,active,2022-07-18
+866,EMP-2866,Andrei Reyes,andrei.reyes@company.com,9,General Counsel,170299.82,3.75,28,37,active,2021-04-09
+867,EMP-2867,Faith Santos,faith.santos@company.com,10,CEO,422390.72,2.03,3,2,active,2018-01-30
+868,EMP-2868,Jose Go,jose.go@company.com,10,CEO,490583.12,3.3,26,36,active,2021-01-25
+869,EMP-2869,Ivan Bautista,ivan.bautista@company.com,3,CFO,179793.61,3.87,8,32,active,2023-02-21
+870,EMP-2870,Ana Gomez,ana.gomez@company.com,6,Operations Manager,75907.18,1.66,22,76,resigned,2015-06-08
+871,EMP-2871,Antonio Castro,antonio.castro@company.com,1,Senior Developer,74874.01,1.04,22,65,active,2017-09-10
+872,EMP-2872,Gelo Reyes,gelo.reyes@company.com,2,Brand Director,95709.56,2.97,5,49,resigned,2022-01-19
+873,EMP-2873,Lisa Morales,lisa.morales@company.com,6,COO,199148.77,1.34,21,62,active,2020-03-03
+874,EMP-2874,Lucia Go,lucia.go@company.com,10,SVP,233920.93,4.15,9,65,active,2023-02-23
+875,EMP-2875,Diego dela Cruz,diego.delacruz@company.com,4,HR Director,81779.64,3.23,14,3,resigned,2016-07-06
+876,EMP-2876,Rafael Villanueva,rafael.villanueva@company.com,6,Operations Analyst,36270.11,1.45,9,2,resigned,2022-02-11
+877,EMP-2877,Sofia Diaz,sofia.diaz@company.com,8,Senior Support,38696.68,1.03,28,28,active,2021-10-01
+878,EMP-2878,Diego Ramos,diego.ramos@company.com,7,Senior Data Analyst,80737.56,4.19,17,26,active,2020-09-15
+879,EMP-2879,Lisa Bautista,lisa.bautista@company.com,10,VP,159190.89,1.4,18,44,on_leave,2018-10-29
+880,EMP-2880,Donna Villanueva,donna.villanueva@company.com,5,Sales Manager,78490.24,3.16,9,4,active,2022-10-17
+881,EMP-2881,Antonio Tan,antonio.tan@company.com,1,Tech Lead,126382.53,4.9,27,66,active,2016-11-04
+882,EMP-2882,Ana Diaz,ana.diaz@company.com,1,Senior Developer,71016.91,1.95,11,69,resigned,2018-03-03
+883,EMP-2883,Jasmine Go,jasmine.go@company.com,7,Senior Data Analyst,68887.5,2.49,16,32,resigned,2015-04-07
+884,EMP-2884,Carlo Bautista,carlo.bautista@company.com,2,Brand Director,109127.58,4.19,8,53,active,2017-06-25
+885,EMP-2885,Elena Go,elena.go@company.com,4,HR Specialist,48205.74,2.39,4,5,active,2020-03-06
+886,EMP-2886,Sofia Ortiz,sofia.ortiz@company.com,4,HR Specialist,43420.4,3.38,6,80,active,2018-05-25
+887,EMP-2887,Rosa Santos,rosa.santos@company.com,4,HR Director,87868.36,4.82,7,21,active,2018-04-09
+888,EMP-2888,Jose Lim,jose.lim@company.com,2,Brand Director,111264.98,2.89,20,25,resigned,2019-03-15
+889,EMP-2889,Jose Ramos,jose.ramos@company.com,7,Data Analyst,36798.23,3.83,18,63,on_leave,2017-12-25
+890,EMP-2890,Ana Mendoza,ana.mendoza@company.com,9,Senior Associate,85100.65,3.2,25,49,active,2017-03-25
+891,EMP-2891,Diego Reyes,diego.reyes@company.com,7,Data Analyst,54553.5,2.12,25,46,on_leave,2017-10-27
+892,EMP-2892,Kevin Reyes,kevin.reyes@company.com,2,Marketing Specialist,49258.9,2.92,23,9,on_leave,2020-11-22
+893,EMP-2893,Elena Bautista,elena.bautista@company.com,5,Sales Specialist,41525.89,3.72,14,6,active,2022-10-20
+894,EMP-2894,Sofia Diaz,sofia.diaz@company.com,1,Junior Developer,32014.94,4.32,2,75,active,2021-03-09
+895,EMP-2895,Lucia dela Cruz,lucia.delacruz@company.com,1,Junior Developer,40750.88,4.39,11,46,active,2016-09-29
+896,EMP-2896,Sofia Diaz,sofia.diaz@company.com,10,VP,164920.25,3.65,0,76,active,2021-09-11
+897,EMP-2897,Diego Flores,diego.flores@company.com,5,Sales Director,87252.21,2.98,18,4,resigned,2019-06-04
+898,EMP-2898,Diego Torres,diego.torres@company.com,9,Senior Associate,82191.1,2.45,6,15,resigned,2022-07-03
+899,EMP-2899,Ana Castro,ana.castro@company.com,1,Tech Lead,107644.29,4.67,14,9,resigned,2019-06-18
+900,EMP-2900,Cedric Villanueva,cedric.villanueva@company.com,6,Operations Manager,74223.6,1.61,9,32,active,2020-04-19
+901,EMP-2901,Andrei Diaz,andrei.diaz@company.com,2,Marketing Manager,62730.22,4.32,0,24,active,2015-02-23
+902,EMP-2902,Faith Gomez,faith.gomez@company.com,2,Brand Director,112259.27,2.0,28,57,active,2022-12-22
+903,EMP-2903,Cedric Diaz,cedric.diaz@company.com,6,Operations Specialist,59415.62,2.26,6,58,active,2017-10-27
+904,EMP-2904,Sofia Ortiz,sofia.ortiz@company.com,3,Senior Analyst,71233.94,4.22,17,58,on_leave,2019-08-23
+905,EMP-2905,Ana Lim,ana.lim@company.com,2,Brand Director,86494.81,4.83,22,34,active,2018-03-04
+906,EMP-2906,Jasmine Ortiz,jasmine.ortiz@company.com,1,Senior Developer,72367.08,2.15,26,40,on_leave,2015-06-13
+907,EMP-2907,Jasmine Ramos,jasmine.ramos@company.com,10,C-Suite,335646.33,4.98,15,13,on_leave,2020-05-12
+908,EMP-2908,Cedric Torres,cedric.torres@company.com,9,Senior Associate,75665.72,1.0,27,35,resigned,2020-10-30
+909,EMP-2909,Carlo Ortiz,carlo.ortiz@company.com,8,Support Associate,18793.22,2.45,10,42,active,2018-10-01
+910,EMP-2910,Lucia Torres,lucia.torres@company.com,6,Operations Manager,68869.79,1.59,24,76,active,2022-03-22
+911,EMP-2911,Ivan Castro,ivan.castro@company.com,3,CFO,176725.62,3.21,15,63,active,2020-11-29
+912,EMP-2912,Diego Diaz,diego.diaz@company.com,9,Legal Manager,114570.14,1.64,21,12,active,2020-09-16
+913,EMP-2913,Maria Ortiz,maria.ortiz@company.com,2,Brand Director,96224.74,3.06,0,2,active,2018-12-02
+914,EMP-2914,Carmen Rivera,carmen.rivera@company.com,10,SVP,255120.89,2.43,9,64,resigned,2016-11-11
+915,EMP-2915,Bianca Bautista,bianca.bautista@company.com,7,Data Science Lead,130979.66,4.75,12,37,active,2023-02-28
+916,EMP-2916,Rosa dela Cruz,rosa.delacruz@company.com,10,CEO,424945.67,3.65,5,13,active,2019-11-03
+917,EMP-2917,Ana Morales,ana.morales@company.com,10,VP,152719.68,3.16,22,74,resigned,2016-01-25
+918,EMP-2918,Jasmine Gomez,jasmine.gomez@company.com,1,Junior Developer,34192.61,3.69,13,3,active,2016-04-03
+919,EMP-2919,Rafael Rivera,rafael.rivera@company.com,5,Sales Director,113723.95,2.42,21,55,active,2015-04-03
+920,EMP-2920,Juan Morales,juan.morales@company.com,2,Marketing Manager,65389.92,4.24,22,21,active,2017-07-20
+921,EMP-2921,Mark Castro,mark.castro@company.com,5,Sales Associate,28147.76,2.24,10,57,active,2015-03-23
+922,EMP-2922,Donna Ramos,donna.ramos@company.com,6,Operations Specialist,46501.23,2.63,16,12,resigned,2021-06-11
+923,EMP-2923,Nina Diaz,nina.diaz@company.com,5,Sales Director,110545.53,4.05,4,55,resigned,2022-10-14
+924,EMP-2924,Andrei Ortiz,andrei.ortiz@company.com,4,HR Director,77337.0,4.27,18,55,active,2019-06-28
+925,EMP-2925,Diego Bautista,diego.bautista@company.com,9,Senior Associate,88506.58,1.93,0,72,resigned,2015-05-01
+926,EMP-2926,Gelo Morales,gelo.morales@company.com,2,Brand Director,99170.52,3.81,20,6,resigned,2021-01-16
+927,EMP-2927,Bianca Go,bianca.go@company.com,9,Senior Associate,93365.66,2.63,29,64,active,2019-02-09
+928,EMP-2928,Sofia Morales,sofia.morales@company.com,3,Financial Analyst,41869.44,3.87,28,70,active,2020-09-27
+929,EMP-2929,Carmen Gomez,carmen.gomez@company.com,8,Senior Support,38649.54,4.1,15,39,active,2017-07-12
+930,EMP-2930,Carmen Bautista,carmen.bautista@company.com,1,Junior Developer,33712.28,1.94,13,6,active,2015-12-11
+931,EMP-2931,Juan Lim,juan.lim@company.com,6,COO,141471.11,3.93,22,50,active,2015-03-27
+932,EMP-2932,Lucia Morales,lucia.morales@company.com,9,Legal Associate,56928.32,1.82,0,10,active,2016-11-10
+933,EMP-2933,Rosa Go,rosa.go@company.com,9,Senior Associate,69309.36,2.06,21,10,on_leave,2022-02-09
+934,EMP-2934,Carlo Bautista,carlo.bautista@company.com,2,Brand Director,111549.77,3.06,2,39,active,2019-11-20
+935,EMP-2935,Carlo Flores,carlo.flores@company.com,5,Sales Associate,23794.55,4.74,2,28,active,2017-11-15
+936,EMP-2936,Andrei Lim,andrei.lim@company.com,2,Marketing Manager,73292.16,2.59,1,65,active,2017-11-17
+937,EMP-2937,Faith Castro,faith.castro@company.com,5,Sales Specialist,40843.08,1.24,8,32,active,2019-06-24
+938,EMP-2938,Rosa Aquino,rosa.aquino@company.com,2,Marketing Associate,34092.88,1.93,1,10,resigned,2018-10-28
+939,EMP-2939,Carmen Mendoza,carmen.mendoza@company.com,1,Senior Developer,69142.42,4.56,4,63,active,2017-02-18
+940,EMP-2940,Sofia Flores,sofia.flores@company.com,10,CEO,481175.03,4.8,11,58,active,2017-06-22
+941,EMP-2941,Bianca Diaz,bianca.diaz@company.com,9,Legal Manager,101056.21,1.99,29,76,resigned,2019-08-07
+942,EMP-2942,Lucia Garcia,lucia.garcia@company.com,5,Sales Director,127109.4,1.64,14,40,active,2019-04-14
+943,EMP-2943,Carmen Garcia,carmen.garcia@company.com,2,Marketing Associate,27314.67,4.62,25,49,resigned,2015-11-05
+944,EMP-2944,Jasmine Gomez,jasmine.gomez@company.com,2,Brand Director,110850.12,1.89,21,44,active,2016-05-01
+945,EMP-2945,Carlo Ramos,carlo.ramos@company.com,10,SVP,237535.47,1.21,17,47,active,2021-05-18
+946,EMP-2946,Hannah Castro,hannah.castro@company.com,7,Data Analyst,50902.36,1.44,26,26,resigned,2015-10-08
+947,EMP-2947,Hannah Reyes,hannah.reyes@company.com,1,Tech Lead,118583.23,3.58,0,67,resigned,2019-01-06
+948,EMP-2948,Lucia Ortiz,lucia.ortiz@company.com,9,Legal Manager,135018.56,4.24,5,65,active,2015-08-25
+949,EMP-2949,Elena Diaz,elena.diaz@company.com,10,VP,192495.19,3.89,5,16,active,2017-06-04
+950,EMP-2950,Maria Santos,maria.santos@company.com,9,Senior Associate,94581.47,3.58,12,52,on_leave,2017-11-02
+951,EMP-2951,Gelo Morales,gelo.morales@company.com,2,Marketing Associate,25499.9,4.62,2,42,active,2016-12-18
+952,EMP-2952,Andrei Rivera,andrei.rivera@company.com,7,Data Engineer,80695.32,4.04,9,9,on_leave,2020-01-05
+953,EMP-2953,Nina Mendoza,nina.mendoza@company.com,10,SVP,206803.6,3.85,2,33,active,2021-12-09
+954,EMP-2954,Diego Morales,diego.morales@company.com,9,Legal Associate,61800.47,2.1,19,55,on_leave,2015-07-08
+955,EMP-2955,Carlo Flores,carlo.flores@company.com,6,Operations Manager,68565.55,1.38,1,37,active,2021-04-10
+956,EMP-2956,Diego Gomez,diego.gomez@company.com,7,Data Science Lead,159405.86,3.75,5,35,resigned,2022-05-16
+957,EMP-2957,Juan Mendoza,juan.mendoza@company.com,3,Senior Analyst,62925.82,2.65,5,68,active,2017-11-27
+958,EMP-2958,Bianca Torres,bianca.torres@company.com,10,SVP,250521.39,4.8,27,32,active,2016-11-09
+959,EMP-2959,Hannah Go,hannah.go@company.com,10,CEO,406047.02,1.41,7,80,active,2018-03-22
+960,EMP-2960,Diego Garcia,diego.garcia@company.com,2,Marketing Specialist,37108.75,1.86,13,15,active,2021-08-24
+961,EMP-2961,Kevin Mendoza,kevin.mendoza@company.com,5,Sales Specialist,50592.54,2.52,13,50,active,2015-11-02
+962,EMP-2962,Miguel Tan,miguel.tan@company.com,4,HR Specialist,48819.19,4.96,9,31,active,2022-02-27
+963,EMP-2963,Faith Diaz,faith.diaz@company.com,8,Support Director,81793.85,2.49,26,69,active,2022-10-31
+964,EMP-2964,Nina Castro,nina.castro@company.com,1,Junior Developer,37576.96,4.1,30,78,active,2022-03-31
+965,EMP-2965,Bianca Morales,bianca.morales@company.com,2,Marketing Associate,34773.82,3.19,23,10,active,2017-07-22
+966,EMP-2966,Edgar Aquino,edgar.aquino@company.com,4,HR Specialist,35774.69,4.31,28,55,resigned,2019-02-08
+967,EMP-2967,Gelo Rivera,gelo.rivera@company.com,6,Operations Analyst,29317.3,5.0,16,77,active,2020-06-21
+968,EMP-2968,Bianca Morales,bianca.morales@company.com,7,Data Analyst,44853.18,4.68,1,3,active,2016-12-04
+969,EMP-2969,Jose Diaz,jose.diaz@company.com,9,General Counsel,171167.42,4.75,14,29,on_leave,2018-11-13
+970,EMP-2970,Carlo Tan,carlo.tan@company.com,8,Support Director,90018.4,2.46,22,18,resigned,2017-09-03
+971,EMP-2971,Hannah Go,hannah.go@company.com,5,Sales Specialist,37908.47,3.27,20,21,resigned,2017-09-26
+972,EMP-2972,Jose Gomez,jose.gomez@company.com,8,Support Associate,27448.28,2.14,29,14,active,2020-01-14
+973,EMP-2973,Lucia Bautista,lucia.bautista@company.com,7,Data Engineer,93857.83,1.1,30,48,on_leave,2021-04-22
+974,EMP-2974,Antonio Lim,antonio.lim@company.com,9,Legal Associate,50929.23,3.03,18,9,resigned,2015-09-20
+975,EMP-2975,Carlo Ramos,carlo.ramos@company.com,4,HR Specialist,46053.92,2.31,23,44,on_leave,2016-09-01
+976,EMP-2976,Maria Diaz,maria.diaz@company.com,7,Data Science Lead,132225.25,4.74,21,33,active,2015-12-20
+977,EMP-2977,Hannah Santos,hannah.santos@company.com,1,Senior Developer,87149.93,1.41,24,57,resigned,2021-02-23
+978,EMP-2978,Faith dela Cruz,faith.delacruz@company.com,1,Tech Lead,126037.28,3.2,26,10,resigned,2017-08-28
+979,EMP-2979,Maria Rivera,maria.rivera@company.com,5,Sales Director,106188.81,1.58,20,0,active,2019-12-14
+980,EMP-2980,Miguel Bautista,miguel.bautista@company.com,7,Data Analyst,36904.72,1.17,21,32,active,2018-09-20
+981,EMP-2981,Hannah Castro,hannah.castro@company.com,6,Operations Specialist,46250.51,3.84,26,57,active,2020-11-16
+982,EMP-2982,Lisa Flores,lisa.flores@company.com,9,General Counsel,143195.6,2.27,8,67,on_leave,2020-06-17
+983,EMP-2983,Antonio Garcia,antonio.garcia@company.com,2,Brand Director,81629.47,4.39,23,22,active,2017-02-08
+984,EMP-2984,Donna Gomez,donna.gomez@company.com,2,Marketing Specialist,41438.11,1.52,10,42,active,2021-03-23
+985,EMP-2985,Lucia Mendoza,lucia.mendoza@company.com,6,COO,148299.47,3.81,11,78,on_leave,2019-09-29
+986,EMP-2986,Rachel Lim,rachel.lim@company.com,2,Marketing Associate,31175.26,2.22,6,59,on_leave,2019-04-05
+987,EMP-2987,Juan Morales,juan.morales@company.com,7,Data Engineer,83943.14,1.76,9,41,active,2020-01-30
+988,EMP-2988,Antonio Bautista,antonio.bautista@company.com,5,Sales Director,120297.37,1.4,16,24,on_leave,2017-04-30
+989,EMP-2989,Diego Lim,diego.lim@company.com,8,Support Manager,56408.84,2.77,11,72,on_leave,2020-06-14
+990,EMP-2990,Cedric Morales,cedric.morales@company.com,8,Support Manager,58409.1,1.52,27,49,on_leave,2022-07-12
+991,EMP-2991,Edgar Aquino,edgar.aquino@company.com,3,CFO,201759.85,3.86,4,57,active,2022-11-12
+992,EMP-2992,Juan Tan,juan.tan@company.com,8,Support Manager,43074.71,1.19,22,40,active,2017-07-10
+993,EMP-2993,Jose Lim,jose.lim@company.com,5,Sales Manager,60409.1,1.38,25,38,active,2015-03-14
+994,EMP-2994,Hannah Castro,hannah.castro@company.com,3,Finance Manager,96521.4,4.0,17,72,on_leave,2015-01-27
+995,EMP-2995,Lisa Garcia,lisa.garcia@company.com,5,Sales Manager,68840.82,1.64,20,78,active,2016-11-08
+996,EMP-2996,Nina Lim,nina.lim@company.com,1,Junior Developer,42212.67,3.53,19,36,active,2017-10-30
+997,EMP-2997,Paolo Reyes,paolo.reyes@company.com,3,Finance Manager,96243.7,2.65,19,22,active,2018-10-20
+998,EMP-2998,Nina Aquino,nina.aquino@company.com,3,Finance Manager,90753.6,2.98,19,15,active,2022-07-10
+999,EMP-2999,Sofia Flores,sofia.flores@company.com,2,Marketing Manager,77449.13,2.25,0,62,on_leave,2015-10-21
+1000,EMP-3000,Hannah Mendoza,hannah.mendoza@company.com,10,SVP,248100.01,2.94,26,76,active,2015-07-15

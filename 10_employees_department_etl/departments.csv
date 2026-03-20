@@ -1,0 +1,11 @@
+dept_id,dept_name,division,office_location,headcount,avg_salary_budget
+1,Engineering,Technology,Makati,50,150000
+2,Marketing,Business,BGC,30,80000
+3,Finance,Business,Makati,25,120000
+4,Human Resources,Operations,Ortigas,20,70000
+5,Sales,Business,Quezon City,40,90000
+6,Operations,Operations,Pasig,35,75000
+7,Data & Analytics,Technology,BGC,20,160000
+8,Customer Support,Operations,Quezon City,45,60000
+9,Legal,Corporate,Makati,10,130000
+10,Executive,Corporate,BGC,5,200000
