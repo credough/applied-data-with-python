@@ -1,0 +1,21 @@
+course_id,course_name,department,units,type,year_level
+1,Introduction to Programming,IT,3,Lec,1
+2,Data Structures and Algorithms,IT,3,Lec,2
+3,Database Management Systems,IT,3,Lec,2
+4,Web Development,IT,3,Lec/Lab,2
+5,Network Fundamentals,IT,3,Lec,2
+6,Operating Systems,IT,3,Lec,3
+7,Software Engineering,IT,3,Lec,3
+8,Information Security,IT,3,Lec,3
+9,Calculus I,Math,3,Lec,1
+10,Discrete Mathematics,Math,3,Lec,1
+11,Linear Algebra,Math,3,Lec,2
+12,Statistics and Probability,Math,3,Lec,2
+13,Technical Writing,GE,3,Lec,1
+14,Ethics in Technology,GE,3,Lec,2
+15,Physical Education 1,PE,2,Lab,1
+16,Physical Education 2,PE,2,Lab,2
+17,Filipino 1,GE,3,Lec,1
+18,English Communication,GE,3,Lec,1
+19,Capstone Project 1,IT,3,Lab,4
+20,Capstone Project 2,IT,3,Lab,4
