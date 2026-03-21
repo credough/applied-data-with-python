@@ -1,0 +1,1001 @@
+book_id,isbn,title,author_id,genre,language,format,pages,price,copies_sold,rating,status,publish_date
+1,ISBN-100001,A Thousand Miles 838,16,Self-Help,Filipino,Paperback,778,737.22,141577,1.81,out_of_print,2016-04-03
+2,ISBN-100002,The Silent Storm 438,24,Self-Help,Japanese,Audiobook,561,2089.12,341647,2.32,upcoming,2013-04-29
+3,ISBN-100003,The Burning Sky 7,21,Fantasy,English,Audiobook,830,1745.85,202465,2.8,published,2007-05-19
+4,ISBN-100004,Into the Unknown 433,17,Fantasy,French,E-Book,494,901.74,256931,3.79,out_of_print,2014-01-10
+5,ISBN-100005,The Missing Piece 714,20,Self-Help,French,Audiobook,412,1535.78,324186,2.74,out_of_print,1982-01-24
+6,ISBN-100006,The Final Chapter 938,49,History,Filipino,Paperback,244,2422.83,324214,2.19,out_of_print,1991-10-07
+7,ISBN-100007,Shattered Illusions 859,3,History,English,E-Book,470,577.25,486467,1.78,published,1993-05-14
+8,ISBN-100008,Falling into Place 247,17,Fantasy,Filipino,E-Book,108,679.14,232883,1.07,published,2015-12-05
+9,ISBN-100009,Dark Reflections 130,12,Biography,Filipino,Hardcover,194,385.68,282252,3.4,out_of_print,1990-09-27
+10,ISBN-100010,Beyond the Horizon 432,10,Fiction,French,Hardcover,485,1354.64,98616,3.65,published,1982-10-05
+11,ISBN-100011,When Stars Fall 552,41,History,French,Paperback,391,2389.73,92500,2.93,published,2015-08-30
+12,ISBN-100012,When Stars Fall 812,17,Fantasy,Japanese,Hardcover,162,1293.95,473991,2.09,published,2013-04-20
+13,ISBN-100013,Searching for Light 165,45,Mystery,Spanish,Audiobook,696,2428.04,49160,1.45,published,2004-11-29
+14,ISBN-100014,Whispers of Time 696,36,Mystery,Japanese,Audiobook,653,1894.72,47568,2.64,out_of_print,1995-12-23
+15,ISBN-100015,When Stars Fall 716,47,Biography,Japanese,Hardcover,792,408.72,483180,4.16,upcoming,1986-09-14
+16,ISBN-100016,Into the Unknown 905,16,Self-Help,English,Paperback,450,2449.87,388035,3.55,upcoming,2000-11-10
+17,ISBN-100017,The Golden Age 508,5,History,Filipino,Hardcover,605,430.57,168717,4.31,published,2000-05-12
+18,ISBN-100018,The Endless Road 228,7,History,French,E-Book,872,1361.51,277433,1.44,published,1980-06-13
+19,ISBN-100019,The Perfect Storm 85,24,Self-Help,French,Audiobook,545,1213.04,339581,4.41,out_of_print,1993-12-26
+20,ISBN-100020,The Open Door 342,31,Non-Fiction,Spanish,E-Book,196,792.47,239937,3.27,upcoming,2013-11-23
+21,ISBN-100021,The Unseen Path 225,29,Self-Help,Japanese,Audiobook,823,2295.42,352690,3.8,out_of_print,1983-09-12
+22,ISBN-100022,Fragments of Hope 547,23,Science Fiction,French,E-Book,502,1352.04,290907,4.51,published,2014-11-08
+23,ISBN-100023,Beyond the Horizon 224,49,History,Spanish,Audiobook,94,1115.06,409842,1.47,out_of_print,2006-08-02
+24,ISBN-100024,The Turning Point 457,38,Fantasy,Japanese,E-Book,767,909.95,283425,4.17,out_of_print,2004-11-16
+25,ISBN-100025,Searching for Light 435,36,Mystery,French,Audiobook,348,2341.9,375841,1.48,published,2002-07-23
+26,ISBN-100026,The Missing Piece 628,39,History,English,Paperback,528,1680.64,38312,4.04,published,1998-09-03
+27,ISBN-100027,A Thousand Miles 237,42,Fantasy,Spanish,Hardcover,435,2253.18,24998,3.19,published,2015-12-05
+28,ISBN-100028,The Perfect Storm 514,49,History,Filipino,E-Book,694,670.48,93451,3.03,published,1996-06-10
+29,ISBN-100029,Shattered Illusions 631,1,Science Fiction,English,Hardcover,606,928.55,72964,4.45,published,1991-06-22
+30,ISBN-100030,Beneath the Surface 686,40,History,Japanese,E-Book,661,782.34,470020,3.33,published,1992-06-22
+31,ISBN-100031,Broken Silence 901,46,Non-Fiction,English,E-Book,470,241.7,208664,2.62,upcoming,1992-07-16
+32,ISBN-100032,The Perfect Storm 941,43,Science Fiction,Filipino,E-Book,844,1480.97,126848,1.28,out_of_print,2008-12-13
+33,ISBN-100033,Racing Against Time 136,38,Fantasy,Japanese,Audiobook,638,2316.92,192808,1.71,out_of_print,1987-03-18
+34,ISBN-100034,The Lost Kingdom 819,41,History,English,Paperback,489,1038.46,359683,2.37,upcoming,2004-11-22
+35,ISBN-100035,Beyond the Clouds 973,35,History,English,Paperback,564,1801.36,317946,1.24,published,2019-05-06
+36,ISBN-100036,The Unfinished Story 374,16,Self-Help,French,Audiobook,851,1662.34,265593,4.47,upcoming,1999-09-06
+37,ISBN-100037,Dark Reflections 272,48,Mystery,English,Audiobook,490,1925.67,130371,4.13,upcoming,1986-02-12
+38,ISBN-100038,Through the Fire 416,49,History,Filipino,Paperback,459,2368.85,419784,1.25,published,1991-05-15
+39,ISBN-100039,Shattered Illusions 136,48,Mystery,Spanish,Audiobook,91,849.41,261708,3.32,out_of_print,1990-08-17
+40,ISBN-100040,The Unfinished Story 151,10,Fiction,Spanish,Paperback,569,1472.94,317748,4.34,out_of_print,1996-06-14
+41,ISBN-100041,The Wandering Soul 918,3,History,English,E-Book,196,1816.95,78823,3.08,published,2015-07-06
+42,ISBN-100042,The Turning Point 22,33,Non-Fiction,Japanese,Audiobook,550,1711.24,364223,3.03,published,2013-09-27
+43,ISBN-100043,The Open Door 709,3,History,Japanese,Hardcover,742,1769.96,191920,4.18,upcoming,1989-09-14
+44,ISBN-100044,Broken Silence 327,6,History,English,Audiobook,368,358.26,457784,4.02,published,2010-02-19
+45,ISBN-100045,When Stars Fall 351,50,Self-Help,Japanese,Paperback,241,1812.42,337955,1.14,published,1996-07-07
+46,ISBN-100046,Beneath the Surface 351,22,Self-Help,Filipino,E-Book,717,1650.1,305436,4.6,published,2019-02-07
+47,ISBN-100047,The Unseen Path 826,37,Mystery,Japanese,Hardcover,508,1068.04,55295,2.81,published,2004-05-10
+48,ISBN-100048,Shadows of Tomorrow 69,36,Mystery,English,Hardcover,103,829.56,140814,4.47,published,1983-09-01
+49,ISBN-100049,Falling into Place 327,12,Biography,French,Paperback,835,1259.45,495080,4.95,published,2010-09-24
+50,ISBN-100050,The Silent Storm 812,23,Science Fiction,English,Paperback,577,2453.84,400876,2.78,published,2010-09-21
+51,ISBN-100051,The Golden Age 972,39,History,French,Audiobook,805,1973.6,127550,2.66,out_of_print,2014-08-31
+52,ISBN-100052,Searching for Light 100,46,Non-Fiction,Spanish,E-Book,195,1603.62,76143,1.42,published,2010-07-03
+53,ISBN-100053,Forgotten Dreams 421,47,Biography,Filipino,E-Book,412,502.87,430595,1.68,upcoming,1999-04-18
+54,ISBN-100054,Broken Silence 838,33,Non-Fiction,French,Hardcover,88,437.82,349770,3.31,published,2010-01-21
+55,ISBN-100055,Racing Against Time 701,42,Fantasy,French,Hardcover,328,1238.05,367618,3.28,published,1994-10-20
+56,ISBN-100056,Searching for Light 742,27,Mystery,French,E-Book,390,1244.07,497129,1.41,upcoming,1980-01-24
+57,ISBN-100057,The Silent Storm 940,7,History,French,Paperback,599,2490.99,488836,1.23,out_of_print,2011-04-23
+58,ISBN-100058,The Last Sunrise 978,15,Mystery,English,E-Book,87,322.92,229178,3.05,upcoming,1992-05-14
+59,ISBN-100059,The Long Walk Home 792,12,Biography,Filipino,Audiobook,568,1089.53,360820,2.67,published,2012-06-25
+60,ISBN-100060,Searching for Light 683,38,Fantasy,Filipino,Hardcover,620,897.46,404389,3.7,published,2010-02-26
+61,ISBN-100061,The Golden Age 737,5,History,Spanish,Hardcover,257,2045.61,203643,1.02,out_of_print,2019-08-09
+62,ISBN-100062,The Endless Road 499,21,Fantasy,Filipino,Audiobook,289,2395.12,470127,3.48,out_of_print,1985-12-08
+63,ISBN-100063,The Golden Age 759,2,Science Fiction,Filipino,Paperback,724,579.54,424213,3.91,upcoming,1995-02-07
+64,ISBN-100064,The Last Sunrise 453,5,History,Japanese,Audiobook,477,2158.65,361366,1.26,upcoming,2019-10-27
+65,ISBN-100065,Dark Reflections 152,23,Science Fiction,Filipino,E-Book,80,2168.6,433109,4.34,published,2023-07-15
+66,ISBN-100066,When Stars Fall 654,6,History,French,E-Book,176,688.11,3321,1.72,published,2019-11-21
+67,ISBN-100067,The Turning Point 166,24,Self-Help,Japanese,Audiobook,128,1803.99,472880,4.18,published,2008-09-10
+68,ISBN-100068,The Wandering Soul 487,28,Fiction,Japanese,E-Book,564,1772.76,350632,3.74,published,1987-07-22
+69,ISBN-100069,A New Beginning 204,28,Fiction,Japanese,Hardcover,886,1423.21,225921,2.36,published,1986-02-06
+70,ISBN-100070,Racing Against Time 695,28,Fiction,French,E-Book,532,922.08,330401,2.23,published,1990-04-02
+71,ISBN-100071,Shattered Illusions 404,3,History,French,E-Book,683,1256.11,182901,2.72,published,2022-10-28
+72,ISBN-100072,The Last Sunrise 855,18,History,Japanese,Audiobook,798,474.92,171941,2.22,published,2016-07-02
+73,ISBN-100073,Letters to Nobody 471,6,History,Filipino,E-Book,163,440.24,157064,3.4,published,1984-01-05
+74,ISBN-100074,The Endless Road 612,45,Mystery,Filipino,E-Book,806,674.82,47867,1.21,published,1997-01-16
+75,ISBN-100075,The Turning Point 697,7,History,Spanish,Audiobook,656,402.57,4599,2.94,published,2021-03-20
+76,ISBN-100076,The Turning Point 169,43,Science Fiction,French,Hardcover,464,1042.83,420449,4.13,out_of_print,1988-02-24
+77,ISBN-100077,The Golden Age 660,46,Non-Fiction,Spanish,Audiobook,758,423.22,34886,2.95,out_of_print,2008-10-21
+78,ISBN-100078,The Endless Road 189,22,Self-Help,French,E-Book,506,740.75,497678,1.78,published,1989-06-11
+79,ISBN-100079,The Unseen Path 780,26,Mystery,Japanese,Hardcover,795,850.97,388799,4.04,published,1985-07-10
+80,ISBN-100080,Dark Reflections 839,49,History,French,E-Book,587,700.64,27467,3.21,out_of_print,2023-04-22
+81,ISBN-100081,Beyond the Clouds 131,19,Mystery,Japanese,Audiobook,305,2008.55,406507,2.79,upcoming,1994-09-18
+82,ISBN-100082,Dark Reflections 666,19,Mystery,Japanese,Hardcover,287,1906.2,398142,2.18,out_of_print,2021-12-01
+83,ISBN-100083,Racing Against Time 610,10,Fiction,English,Paperback,246,2260.24,207130,4.46,published,2020-09-28
+84,ISBN-100084,Fragments of Hope 671,11,Self-Help,Spanish,Paperback,544,1003.65,7131,2.19,published,1985-07-17
+85,ISBN-100085,The Unseen Path 465,12,Biography,Japanese,Paperback,279,830.46,22213,2.88,published,2010-04-02
+86,ISBN-100086,Beneath the Surface 911,48,Mystery,Spanish,Hardcover,496,2413.39,173163,1.69,upcoming,1987-08-05
+87,ISBN-100087,The Perfect Storm 936,17,Fantasy,Spanish,Hardcover,105,751.57,339505,4.43,upcoming,2009-05-08
+88,ISBN-100088,The Last Sunrise 883,50,Self-Help,Japanese,Audiobook,536,1203.89,137581,2.67,published,2022-01-23
+89,ISBN-100089,The Awakening 454,44,Science Fiction,Spanish,E-Book,173,1675.08,149224,1.6,upcoming,2010-04-17
+90,ISBN-100090,Into the Unknown 778,4,Non-Fiction,English,Audiobook,784,1486.25,302175,4.43,published,2013-07-08
+91,ISBN-100091,The Lost Kingdom 827,19,Mystery,Spanish,Audiobook,635,550.49,397798,2.44,out_of_print,1993-07-28
+92,ISBN-100092,The Last Sunrise 627,9,Non-Fiction,English,Audiobook,303,1883.31,57988,4.22,published,1998-11-09
+93,ISBN-100093,Dark Reflections 510,42,Fantasy,Spanish,Hardcover,159,294.73,278322,2.26,published,1997-07-25
+94,ISBN-100094,Shadows of Tomorrow 285,47,Biography,French,Hardcover,379,1244.36,197293,3.61,out_of_print,1989-08-29
+95,ISBN-100095,The Wandering Soul 150,30,Fiction,English,Audiobook,89,2400.66,357635,3.49,out_of_print,2006-03-02
+96,ISBN-100096,Dark Reflections 729,6,History,Japanese,Audiobook,326,839.08,270039,2.71,out_of_print,2013-01-11
+97,ISBN-100097,The Long Walk Home 744,6,History,Filipino,Paperback,820,1083.59,492865,2.25,upcoming,1992-07-13
+98,ISBN-100098,Beyond the Horizon 302,15,Mystery,Spanish,Paperback,510,979.7,304307,2.4,out_of_print,2021-09-07
+99,ISBN-100099,Voices from the Past 943,10,Fiction,Filipino,Hardcover,410,1987.32,135943,2.37,published,1988-03-05
+100,ISBN-100100,The Empty Canvas 34,24,Self-Help,Filipino,Hardcover,854,1076.06,285005,3.57,out_of_print,2016-03-21
+101,ISBN-100101,The Final Chapter 678,9,Non-Fiction,Spanish,Hardcover,691,1989.82,239081,2.86,upcoming,2016-11-09
+102,ISBN-100102,Shattered Illusions 874,43,Science Fiction,Japanese,Paperback,649,1466.7,249405,1.8,upcoming,1984-02-10
+103,ISBN-100103,The Empty Canvas 179,32,Self-Help,Spanish,Hardcover,517,2492.16,351403,3.38,upcoming,2009-10-04
+104,ISBN-100104,A Thousand Miles 659,48,Mystery,French,Audiobook,778,1366.27,6413,3.07,published,2019-04-19
+105,ISBN-100105,Through the Fire 530,1,Science Fiction,Japanese,E-Book,413,2002.93,140283,1.35,published,1996-05-03
+106,ISBN-100106,Letters to Nobody 826,15,Mystery,French,E-Book,676,1878.06,349713,2.98,published,1998-06-28
+107,ISBN-100107,Falling into Place 231,27,Mystery,Japanese,Hardcover,842,2464.01,391610,3.22,published,2005-05-17
+108,ISBN-100108,The Empty Canvas 667,29,Self-Help,Filipino,Audiobook,330,1897.91,383056,2.49,published,2011-10-23
+109,ISBN-100109,The Unseen Path 724,30,Fiction,French,Audiobook,817,604.16,141668,3.14,published,1993-11-04
+110,ISBN-100110,A Thousand Miles 38,8,Science Fiction,French,Hardcover,539,2073.64,243908,4.12,published,2013-05-24
+111,ISBN-100111,The Broken Mirror 732,16,Self-Help,Spanish,Paperback,351,883.88,375641,3.62,out_of_print,1985-02-26
+112,ISBN-100112,Letters to Nobody 3,17,Fantasy,English,Audiobook,765,1766.9,2062,4.14,published,1999-08-22
+113,ISBN-100113,A New Beginning 56,23,Science Fiction,Filipino,Audiobook,116,962.33,344106,4.97,published,1981-07-17
+114,ISBN-100114,The Golden Age 905,28,Fiction,Japanese,Hardcover,548,1105.39,30318,4.92,out_of_print,1999-02-19
+115,ISBN-100115,The Last Sunrise 262,47,Biography,English,Paperback,712,820.29,176047,2.18,published,1987-11-27
+116,ISBN-100116,Searching for Light 37,1,Science Fiction,English,E-Book,308,718.73,209171,3.72,published,1982-11-24
+117,ISBN-100117,Through the Fire 840,15,Mystery,Spanish,E-Book,665,2314.88,217126,1.0,upcoming,2018-11-23
+118,ISBN-100118,Beyond the Clouds 276,47,Biography,Filipino,Audiobook,305,658.46,313073,2.73,out_of_print,1991-06-26
+119,ISBN-100119,The Awakening 125,9,Non-Fiction,Spanish,E-Book,813,1733.65,147755,3.61,upcoming,2019-05-23
+120,ISBN-100120,The Missing Piece 588,1,Science Fiction,Japanese,E-Book,173,444.78,322349,4.58,published,1980-02-17
+121,ISBN-100121,Beneath the Surface 947,40,History,French,Hardcover,720,2097.2,452540,2.11,upcoming,2001-07-31
+122,ISBN-100122,The Lost Kingdom 796,37,Mystery,French,Paperback,325,2430.05,115245,3.04,upcoming,1984-04-11
+123,ISBN-100123,Searching for Light 508,48,Mystery,Filipino,E-Book,744,712.18,22099,3.6,out_of_print,1991-08-05
+124,ISBN-100124,The Broken Mirror 187,35,History,French,E-Book,852,2488.9,250521,2.6,published,2011-06-03
+125,ISBN-100125,Shadows of Tomorrow 176,20,Self-Help,Japanese,Paperback,91,844.66,173877,1.0,upcoming,2019-09-16
+126,ISBN-100126,Letters to Nobody 336,42,Fantasy,French,E-Book,166,657.84,70070,4.04,published,2015-08-07
+127,ISBN-100127,The Wandering Soul 45,24,Self-Help,Spanish,Audiobook,829,1501.29,30750,4.46,out_of_print,2007-04-14
+128,ISBN-100128,Into the Unknown 818,47,Biography,French,Hardcover,95,1497.16,44468,4.82,upcoming,1989-05-04
+129,ISBN-100129,The Burning Sky 305,13,Self-Help,Spanish,Paperback,99,1196.39,111204,1.57,upcoming,2023-08-21
+130,ISBN-100130,Broken Silence 31,6,History,Filipino,Audiobook,649,823.01,424458,1.64,upcoming,2001-03-17
+131,ISBN-100131,Searching for Light 423,46,Non-Fiction,Filipino,Paperback,140,1400.35,138779,4.61,published,2005-12-05
+132,ISBN-100132,The Endless Road 708,11,Self-Help,French,Audiobook,134,1273.59,487198,1.42,upcoming,1985-12-07
+133,ISBN-100133,Voices from the Past 948,29,Self-Help,English,Audiobook,365,293.77,277429,2.74,published,1999-08-02
+134,ISBN-100134,The Empty Canvas 335,3,History,English,Paperback,348,692.88,356319,2.31,published,2015-06-29
+135,ISBN-100135,A New Beginning 946,18,History,French,Hardcover,696,1940.8,13485,2.48,published,2021-03-05
+136,ISBN-100136,Shadows of Tomorrow 478,37,Mystery,English,E-Book,825,976.27,242081,2.48,out_of_print,1990-01-18
+137,ISBN-100137,The Final Chapter 899,21,Fantasy,Filipino,Audiobook,98,2131.62,404063,3.18,published,2012-07-06
+138,ISBN-100138,Shadows of Tomorrow 321,41,History,English,Paperback,411,569.69,393756,2.6,upcoming,1991-08-17
+139,ISBN-100139,Shadows of Tomorrow 346,39,History,Filipino,Paperback,594,716.21,305648,2.24,out_of_print,1986-11-16
+140,ISBN-100140,The Turning Point 68,15,Mystery,French,Hardcover,623,1633.63,460822,4.28,out_of_print,1997-11-28
+141,ISBN-100141,Falling into Place 380,38,Fantasy,French,E-Book,870,1546.1,214266,2.39,upcoming,2006-01-23
+142,ISBN-100142,Voices from the Past 828,32,Self-Help,Filipino,Hardcover,360,1722.88,119668,2.9,published,2003-07-27
+143,ISBN-100143,The Unseen Path 870,27,Mystery,English,Paperback,394,1374.93,426589,3.38,published,2020-11-24
+144,ISBN-100144,The Last Sunrise 441,39,History,Spanish,E-Book,639,1402.94,180662,1.8,published,2005-07-22
+145,ISBN-100145,Broken Silence 602,9,Non-Fiction,English,Audiobook,93,598.79,210994,1.03,published,1991-03-22
+146,ISBN-100146,The Missing Piece 750,33,Non-Fiction,Filipino,Audiobook,231,1784.21,427224,4.85,upcoming,1982-04-06
+147,ISBN-100147,Through the Fire 358,14,Fantasy,French,Audiobook,397,1346.43,71707,2.87,published,2011-11-24
+148,ISBN-100148,Whispers of Time 336,39,History,French,E-Book,649,451.57,387439,1.24,published,1983-05-05
+149,ISBN-100149,The Perfect Storm 499,31,Non-Fiction,French,Paperback,127,2177.7,494507,2.07,published,2008-09-28
+150,ISBN-100150,Falling into Place 208,11,Self-Help,Spanish,Hardcover,299,1297.91,440176,2.45,published,2015-11-25
+151,ISBN-100151,The Golden Age 899,3,History,French,Audiobook,739,1352.95,459115,4.87,published,2011-11-12
+152,ISBN-100152,Letters to Nobody 392,31,Non-Fiction,Filipino,Audiobook,431,1219.34,205219,1.7,upcoming,1981-05-22
+153,ISBN-100153,The Last Sunrise 288,26,Mystery,Spanish,Hardcover,697,1849.09,6654,4.4,published,1998-04-04
+154,ISBN-100154,The Wandering Soul 450,43,Science Fiction,Spanish,Paperback,874,919.57,383204,3.44,upcoming,1993-10-16
+155,ISBN-100155,The Last Sunrise 384,19,Mystery,English,E-Book,253,239.18,194902,3.44,published,2011-05-02
+156,ISBN-100156,The Hidden Truth 594,49,History,French,Audiobook,659,1988.59,292517,2.8,upcoming,2019-11-03
+157,ISBN-100157,Shattered Illusions 828,34,Fantasy,English,E-Book,315,249.57,376524,1.09,out_of_print,1997-08-31
+158,ISBN-100158,Shadows of Tomorrow 802,27,Mystery,Japanese,Hardcover,647,1738.16,430413,2.26,published,1997-01-22
+159,ISBN-100159,The Perfect Storm 452,48,Mystery,English,Audiobook,851,1361.01,90350,2.28,out_of_print,1998-07-29
+160,ISBN-100160,Beyond the Horizon 867,27,Mystery,English,Hardcover,643,1928.93,87418,4.68,out_of_print,1984-05-04
+161,ISBN-100161,The Empty Canvas 822,33,Non-Fiction,Spanish,Paperback,304,920.67,208854,1.88,published,1994-07-28
+162,ISBN-100162,Forgotten Dreams 322,26,Mystery,Filipino,Paperback,852,1905.12,235797,1.84,published,2002-06-27
+163,ISBN-100163,The Broken Mirror 448,4,Non-Fiction,Spanish,Audiobook,656,1912.96,435199,1.93,published,1983-09-13
+164,ISBN-100164,Through the Fire 976,22,Self-Help,Filipino,Hardcover,767,777.6,128641,4.25,published,2000-08-10
+165,ISBN-100165,Beneath the Surface 28,7,History,French,E-Book,194,2138.04,24615,4.32,published,2012-02-08
+166,ISBN-100166,Whispers of Time 393,30,Fiction,Spanish,Paperback,646,778.54,24022,2.21,published,2013-04-23
+167,ISBN-100167,The Unseen Path 812,7,History,Filipino,E-Book,858,491.83,324543,4.57,published,2016-01-15
+168,ISBN-100168,The Final Chapter 714,11,Self-Help,Japanese,Paperback,756,2291.83,27662,1.5,upcoming,2021-05-05
+169,ISBN-100169,Beyond the Clouds 342,35,History,French,Hardcover,881,2051.24,309001,2.83,out_of_print,2019-02-04
+170,ISBN-100170,The Open Door 5,9,Non-Fiction,Filipino,Hardcover,314,1558.37,33952,2.63,published,1991-07-06
+171,ISBN-100171,The Wandering Soul 827,44,Science Fiction,French,Hardcover,328,2198.96,375137,1.88,published,1992-01-28
+172,ISBN-100172,Dark Reflections 500,49,History,Japanese,E-Book,648,2305.59,357731,1.66,published,1996-03-16
+173,ISBN-100173,Falling into Place 370,21,Fantasy,Spanish,Audiobook,301,2227.83,148316,4.74,published,1999-02-14
+174,ISBN-100174,Shadows of Tomorrow 41,3,History,Filipino,Hardcover,773,2129.2,126894,3.33,published,1982-01-04
+175,ISBN-100175,The Missing Piece 732,48,Mystery,Spanish,Hardcover,100,930.75,351259,1.44,published,2002-08-10
+176,ISBN-100176,Shattered Illusions 411,6,History,French,Hardcover,410,566.21,69229,3.62,published,1981-03-31
+177,ISBN-100177,The Broken Mirror 697,26,Mystery,Spanish,Audiobook,698,1287.93,131381,2.62,published,1991-07-24
+178,ISBN-100178,The Unseen Path 711,20,Self-Help,Filipino,Paperback,551,1879.43,351595,4.69,published,2009-02-05
+179,ISBN-100179,Beyond the Horizon 783,40,History,English,Hardcover,776,949.5,50581,4.52,published,1989-06-20
+180,ISBN-100180,Broken Silence 564,37,Mystery,English,Audiobook,776,1159.49,373418,1.44,upcoming,2002-09-26
+181,ISBN-100181,The Final Chapter 110,34,Fantasy,English,Hardcover,749,1092.21,99432,2.48,published,1997-11-03
+182,ISBN-100182,The Endless Road 667,4,Non-Fiction,English,Hardcover,127,1557.95,256871,3.31,published,2006-03-12
+183,ISBN-100183,Echoes in the Dark 681,50,Self-Help,Japanese,E-Book,200,1727.77,331753,1.88,upcoming,2016-07-12
+184,ISBN-100184,Letters to Nobody 76,41,History,English,Audiobook,618,1857.86,232529,1.48,published,2009-09-09
+185,ISBN-100185,The Burning Sky 74,1,Science Fiction,Japanese,Paperback,372,244.97,160693,1.57,published,2021-11-30
+186,ISBN-100186,Racing Against Time 571,44,Science Fiction,French,E-Book,505,898.04,320586,2.69,published,1980-04-02
+187,ISBN-100187,Echoes in the Dark 727,23,Science Fiction,Spanish,E-Book,387,1697.64,213669,1.04,published,1987-06-29
+188,ISBN-100188,The Unseen Path 748,22,Self-Help,English,E-Book,99,1232.41,447402,4.59,published,1983-10-06
+189,ISBN-100189,Into the Unknown 263,50,Self-Help,Spanish,Hardcover,95,775.21,462805,4.51,published,2022-09-25
+190,ISBN-100190,The Hidden Truth 339,9,Non-Fiction,English,E-Book,604,430.21,471979,1.22,out_of_print,2007-05-31
+191,ISBN-100191,Voices from the Past 612,35,History,French,Audiobook,668,1586.1,336544,1.35,published,1986-03-04
+192,ISBN-100192,Shadows of Tomorrow 248,45,Mystery,Spanish,Paperback,97,2356.28,62871,2.28,published,1985-01-14
+193,ISBN-100193,Whispers of Time 365,8,Science Fiction,English,Paperback,140,2277.51,435001,3.09,published,1999-08-01
+194,ISBN-100194,Beneath the Surface 612,30,Fiction,English,E-Book,841,1107.26,33097,1.72,published,2011-12-14
+195,ISBN-100195,The Silent Storm 836,42,Fantasy,French,Paperback,722,1331.88,25176,2.97,out_of_print,1988-11-13
+196,ISBN-100196,Dark Reflections 807,7,History,French,Audiobook,292,324.34,311116,1.17,published,1990-06-27
+197,ISBN-100197,The Perfect Storm 836,6,History,Spanish,Hardcover,454,1821.11,449638,4.49,published,2001-01-27
+198,ISBN-100198,The Final Chapter 76,8,Science Fiction,English,E-Book,284,1813.33,321020,3.66,published,2013-03-07
+199,ISBN-100199,The Unseen Path 645,6,History,French,Hardcover,526,883.16,144955,2.3,published,2021-07-23
+200,ISBN-100200,Letters to Nobody 582,42,Fantasy,Japanese,Hardcover,349,1944.37,332120,3.58,published,2015-01-10
+201,ISBN-100201,The Final Chapter 500,31,Non-Fiction,Japanese,Paperback,413,1127.37,432987,2.99,published,1988-07-06
+202,ISBN-100202,Into the Unknown 257,46,Non-Fiction,Filipino,Hardcover,127,2147.28,485325,2.75,published,1999-02-10
+203,ISBN-100203,Beneath the Surface 954,18,History,Filipino,Audiobook,611,2413.47,211559,4.7,published,1994-10-20
+204,ISBN-100204,The Broken Mirror 709,16,Self-Help,French,Hardcover,160,1965.64,115566,1.11,out_of_print,1997-10-08
+205,ISBN-100205,The Lost Kingdom 335,50,Self-Help,Spanish,Hardcover,632,2352.61,284241,2.47,published,1988-03-05
+206,ISBN-100206,The Final Chapter 320,17,Fantasy,English,Hardcover,454,1299.84,488076,4.28,published,2008-10-23
+207,ISBN-100207,Forgotten Dreams 659,6,History,English,Audiobook,135,384.25,12075,3.24,out_of_print,2014-04-29
+208,ISBN-100208,The Broken Mirror 691,42,Fantasy,Filipino,Hardcover,291,2067.16,451045,4.22,published,1985-11-18
+209,ISBN-100209,Whispers of Time 535,4,Non-Fiction,English,Paperback,760,611.09,385592,1.65,out_of_print,2011-07-10
+210,ISBN-100210,Through the Fire 812,28,Fiction,English,Hardcover,197,985.1,112419,3.71,published,2007-03-18
+211,ISBN-100211,The Silent Storm 208,4,Non-Fiction,French,E-Book,870,1719.78,129580,4.03,published,2020-10-29
+212,ISBN-100212,Broken Silence 460,38,Fantasy,Spanish,E-Book,173,1629.96,285158,3.37,out_of_print,2020-07-06
+213,ISBN-100213,Beyond the Clouds 447,34,Fantasy,Filipino,Hardcover,90,715.17,244163,2.78,published,2013-02-05
+214,ISBN-100214,Shadows of Tomorrow 365,24,Self-Help,French,Hardcover,322,2254.43,181960,1.99,published,2019-03-15
+215,ISBN-100215,Beyond the Horizon 706,19,Mystery,English,Paperback,253,2176.99,286747,1.6,published,1983-12-24
+216,ISBN-100216,The Empty Canvas 83,36,Mystery,French,Paperback,467,367.3,268513,1.22,published,2021-03-15
+217,ISBN-100217,Racing Against Time 313,39,History,English,Paperback,559,1985.57,235926,4.79,published,2000-04-15
+218,ISBN-100218,The Endless Road 332,29,Self-Help,Spanish,E-Book,84,717.31,315931,3.51,upcoming,2021-05-16
+219,ISBN-100219,Voices from the Past 125,19,Mystery,English,Audiobook,608,524.15,225030,4.73,upcoming,2011-08-11
+220,ISBN-100220,The Final Chapter 989,12,Biography,Spanish,Audiobook,828,1275.72,56461,2.97,out_of_print,2019-09-21
+221,ISBN-100221,Racing Against Time 838,2,Science Fiction,Filipino,Audiobook,702,2286.26,88247,3.71,published,1997-02-26
+222,ISBN-100222,The Last Sunrise 546,32,Self-Help,Spanish,Paperback,475,1324.52,266478,2.15,out_of_print,2003-02-25
+223,ISBN-100223,The Awakening 69,29,Self-Help,Filipino,E-Book,205,897.74,251621,1.9,out_of_print,2021-03-23
+224,ISBN-100224,When Stars Fall 826,15,Mystery,Japanese,Audiobook,189,2253.54,154028,3.42,published,2005-07-01
+225,ISBN-100225,The Unfinished Story 46,1,Science Fiction,Japanese,Paperback,152,1067.87,265037,4.13,out_of_print,1990-01-04
+226,ISBN-100226,Into the Unknown 319,6,History,Filipino,E-Book,331,1408.45,460930,1.34,published,1996-10-25
+227,ISBN-100227,Searching for Light 456,17,Fantasy,Filipino,E-Book,859,2158.45,441891,2.84,published,1992-02-10
+228,ISBN-100228,The Wandering Soul 522,2,Science Fiction,Filipino,E-Book,602,1845.62,137059,1.05,published,2019-06-03
+229,ISBN-100229,The Long Walk Home 74,28,Fiction,Japanese,Hardcover,117,2205.96,140362,2.21,published,2020-09-02
+230,ISBN-100230,The Endless Road 249,46,Non-Fiction,Spanish,Hardcover,900,1025.56,194193,2.4,published,2007-01-18
+231,ISBN-100231,Shattered Illusions 554,32,Self-Help,Spanish,Hardcover,830,862.65,320376,2.9,published,1984-12-31
+232,ISBN-100232,The Wandering Soul 415,22,Self-Help,French,E-Book,424,662.79,478216,3.88,out_of_print,1994-09-15
+233,ISBN-100233,Beyond the Horizon 814,34,Fantasy,English,E-Book,855,2063.59,34298,3.05,out_of_print,2010-10-23
+234,ISBN-100234,Voices from the Past 735,5,History,French,Paperback,467,1997.68,55119,1.04,published,1998-03-02
+235,ISBN-100235,Dark Reflections 103,34,Fantasy,French,Paperback,674,319.23,33928,4.36,published,2001-10-16
+236,ISBN-100236,Beneath the Surface 785,9,Non-Fiction,English,Audiobook,539,1208.16,489098,2.13,published,2014-08-19
+237,ISBN-100237,Echoes in the Dark 793,47,Biography,Japanese,Audiobook,834,2165.94,383381,3.95,published,2018-05-17
+238,ISBN-100238,The Missing Piece 824,19,Mystery,Spanish,Paperback,595,1790.58,405659,3.99,upcoming,1994-11-30
+239,ISBN-100239,Whispers of Time 48,19,Mystery,Filipino,Paperback,388,2248.25,89861,3.46,out_of_print,2017-08-06
+240,ISBN-100240,The Golden Age 546,33,Non-Fiction,French,Hardcover,571,1920.98,344868,4.07,upcoming,1985-04-13
+241,ISBN-100241,Dark Reflections 205,2,Science Fiction,Japanese,Paperback,572,1695.25,499046,2.42,upcoming,1991-01-13
+242,ISBN-100242,Shattered Illusions 747,47,Biography,French,Audiobook,431,1064.31,3264,2.97,published,2021-03-23
+243,ISBN-100243,Into the Unknown 168,2,Science Fiction,English,Paperback,628,179.27,343632,2.6,published,1999-05-25
+244,ISBN-100244,Whispers of Time 258,33,Non-Fiction,Filipino,Hardcover,543,752.54,123922,2.75,published,1988-10-29
+245,ISBN-100245,Voices from the Past 173,10,Fiction,Japanese,E-Book,240,2242.45,258895,1.26,published,2010-10-08
+246,ISBN-100246,The Missing Piece 750,20,Self-Help,French,Paperback,706,1804.92,415752,1.16,upcoming,2009-12-28
+247,ISBN-100247,The Unfinished Story 507,20,Self-Help,English,Audiobook,750,1478.71,275990,3.46,published,2013-12-24
+248,ISBN-100248,Whispers of Time 116,12,Biography,Spanish,Hardcover,98,2223.88,448324,3.53,published,1989-05-04
+249,ISBN-100249,The Turning Point 509,11,Self-Help,Japanese,E-Book,479,460.32,244939,1.93,upcoming,1993-02-04
+250,ISBN-100250,The Unfinished Story 106,1,Science Fiction,French,Audiobook,180,2319.87,197814,4.38,out_of_print,2004-05-20
+251,ISBN-100251,Searching for Light 799,9,Non-Fiction,English,E-Book,724,700.92,459902,2.9,published,2008-08-10
+252,ISBN-100252,The Lost Kingdom 125,15,Mystery,Spanish,Paperback,550,710.59,124370,3.36,published,1984-01-22
+253,ISBN-100253,The Open Door 758,26,Mystery,English,Hardcover,323,1952.29,345383,2.14,published,1999-06-14
+254,ISBN-100254,Whispers of Time 66,26,Mystery,Japanese,Audiobook,861,1905.88,91021,2.08,published,1993-06-10
+255,ISBN-100255,Beyond the Clouds 844,36,Mystery,French,Hardcover,691,1878.35,312867,3.34,upcoming,2016-02-01
+256,ISBN-100256,Beyond the Horizon 205,9,Non-Fiction,Filipino,Hardcover,388,1813.22,104102,4.48,published,2004-10-26
+257,ISBN-100257,The Awakening 909,2,Science Fiction,Japanese,E-Book,730,2006.38,231881,4.27,published,2014-10-04
+258,ISBN-100258,Letters to Nobody 765,31,Non-Fiction,Filipino,Hardcover,445,1015.95,396293,1.42,upcoming,1982-05-10
+259,ISBN-100259,Dark Reflections 23,27,Mystery,Japanese,Audiobook,320,416.38,279982,1.55,upcoming,2000-08-15
+260,ISBN-100260,The Long Walk Home 710,44,Science Fiction,Spanish,Audiobook,274,2313.15,344878,2.27,upcoming,2015-06-04
+261,ISBN-100261,The Final Chapter 527,4,Non-Fiction,Spanish,E-Book,713,2152.7,123442,3.17,published,2001-04-15
+262,ISBN-100262,The Turning Point 129,17,Fantasy,Japanese,E-Book,897,408.95,355081,3.81,out_of_print,2020-07-13
+263,ISBN-100263,The Perfect Storm 717,24,Self-Help,English,Audiobook,327,849.31,299772,3.94,out_of_print,2018-12-18
+264,ISBN-100264,The Golden Age 687,24,Self-Help,French,Hardcover,396,1067.34,203008,1.91,upcoming,1983-02-25
+265,ISBN-100265,Broken Silence 953,35,History,Filipino,Hardcover,659,1967.56,459205,2.88,published,1993-02-21
+266,ISBN-100266,Beyond the Clouds 415,3,History,French,Hardcover,424,838.45,222463,3.4,out_of_print,2015-09-20
+267,ISBN-100267,The Missing Piece 558,17,Fantasy,French,E-Book,852,342.91,289318,4.57,out_of_print,1998-10-09
+268,ISBN-100268,Beneath the Surface 930,5,History,Japanese,Hardcover,705,888.96,429594,1.15,published,1996-02-20
+269,ISBN-100269,A New Beginning 783,32,Self-Help,English,Hardcover,706,1885.6,415634,4.18,upcoming,2017-08-31
+270,ISBN-100270,Fragments of Hope 362,39,History,Japanese,Paperback,753,1500.14,306697,1.18,published,2022-11-17
+271,ISBN-100271,The Endless Road 435,5,History,Spanish,E-Book,793,1998.36,260144,2.74,published,2023-04-05
+272,ISBN-100272,Into the Unknown 915,42,Fantasy,Spanish,Hardcover,135,2415.78,449532,2.69,out_of_print,2021-10-09
+273,ISBN-100273,Whispers of Time 172,34,Fantasy,English,Audiobook,885,222.94,200385,1.13,out_of_print,1998-02-14
+274,ISBN-100274,Shadows of Tomorrow 823,25,Biography,English,Paperback,215,2318.95,407159,2.97,published,2017-05-21
+275,ISBN-100275,The Unfinished Story 979,10,Fiction,English,Hardcover,457,1118.16,312838,2.27,out_of_print,1988-10-11
+276,ISBN-100276,Into the Unknown 546,48,Mystery,Japanese,Paperback,730,461.28,107056,4.16,upcoming,1994-12-22
+277,ISBN-100277,Shattered Illusions 915,40,History,Filipino,Paperback,847,1075.59,171955,1.04,out_of_print,2008-11-13
+278,ISBN-100278,Letters to Nobody 113,18,History,English,E-Book,691,1131.91,447848,4.52,out_of_print,1982-08-25
+279,ISBN-100279,The Awakening 456,8,Science Fiction,French,E-Book,873,1352.38,250719,1.01,published,1996-12-17
+280,ISBN-100280,The Missing Piece 358,19,Mystery,English,E-Book,550,505.41,62794,1.26,published,2007-08-09
+281,ISBN-100281,Beyond the Horizon 767,1,Science Fiction,Filipino,Paperback,740,2017.07,72323,4.48,published,2003-03-30
+282,ISBN-100282,Fragments of Hope 672,29,Self-Help,French,Paperback,663,874.9,349902,3.63,published,2006-03-29
+283,ISBN-100283,A Thousand Miles 588,14,Fantasy,Spanish,Hardcover,644,2276.7,277877,4.95,upcoming,2005-11-17
+284,ISBN-100284,The Awakening 651,39,History,French,Audiobook,301,757.07,150828,3.92,published,1996-08-22
+285,ISBN-100285,The Missing Piece 371,40,History,Filipino,Hardcover,212,380.66,388280,3.99,published,2018-03-26
+286,ISBN-100286,Echoes in the Dark 881,8,Science Fiction,Japanese,Audiobook,133,2330.54,330544,3.29,out_of_print,2011-03-11
+287,ISBN-100287,Whispers of Time 240,19,Mystery,Japanese,Hardcover,600,2375.57,280471,2.69,upcoming,1996-01-13
+288,ISBN-100288,The Unfinished Story 637,28,Fiction,Japanese,Audiobook,350,763.16,45302,3.47,published,2000-01-24
+289,ISBN-100289,Beyond the Horizon 526,19,Mystery,Japanese,E-Book,335,2493.7,438545,1.2,published,1997-01-27
+290,ISBN-100290,The Burning Sky 695,42,Fantasy,English,Audiobook,341,2307.64,73048,3.48,published,2013-02-26
+291,ISBN-100291,Whispers of Time 657,17,Fantasy,Japanese,Hardcover,682,1703.11,408925,3.49,out_of_print,2006-05-18
+292,ISBN-100292,Letters to Nobody 503,18,History,French,Hardcover,519,422.4,205275,3.98,out_of_print,2009-04-21
+293,ISBN-100293,The Hidden Truth 849,44,Science Fiction,French,E-Book,317,659.98,459814,2.42,published,2007-12-11
+294,ISBN-100294,The Turning Point 838,26,Mystery,Filipino,Paperback,224,460.97,409110,1.64,published,1982-09-19
+295,ISBN-100295,Through the Fire 609,25,Biography,Filipino,Audiobook,328,2189.27,28691,2.27,published,1989-11-11
+296,ISBN-100296,The Wandering Soul 589,40,History,English,Audiobook,200,366.78,36637,3.98,published,1981-06-09
+297,ISBN-100297,The Unseen Path 194,43,Science Fiction,English,Hardcover,116,2308.55,492434,1.52,out_of_print,2013-03-02
+298,ISBN-100298,Letters to Nobody 379,11,Self-Help,English,E-Book,239,2025.79,380623,2.72,published,1987-09-11
+299,ISBN-100299,The Unseen Path 909,10,Fiction,English,Audiobook,304,1597.31,416571,2.39,upcoming,1985-11-09
+300,ISBN-100300,When Stars Fall 252,44,Science Fiction,English,Paperback,552,428.34,85443,4.3,published,1987-12-28
+301,ISBN-100301,The Hidden Truth 596,7,History,Spanish,Paperback,288,310.43,312915,2.85,published,2011-03-23
+302,ISBN-100302,Beyond the Clouds 850,5,History,French,E-Book,554,636.27,169145,2.0,published,2011-12-08
+303,ISBN-100303,Beyond the Horizon 555,35,History,Filipino,Hardcover,589,1842.29,473434,4.78,published,2002-08-30
+304,ISBN-100304,A New Beginning 457,6,History,Japanese,Audiobook,713,1733.06,93194,2.52,published,2021-02-22
+305,ISBN-100305,A Thousand Miles 147,45,Mystery,Japanese,Audiobook,889,1117.61,304492,3.1,published,2018-04-23
+306,ISBN-100306,A Thousand Miles 985,1,Science Fiction,French,Hardcover,598,932.11,465909,4.33,upcoming,2008-12-13
+307,ISBN-100307,The Silent Storm 209,10,Fiction,French,Audiobook,192,1743.55,442917,1.86,published,1994-02-22
+308,ISBN-100308,Letters to Nobody 304,4,Non-Fiction,Spanish,E-Book,696,1739.5,235768,3.27,upcoming,2023-10-04
+309,ISBN-100309,Whispers of Time 881,14,Fantasy,French,Audiobook,348,566.29,218496,3.64,upcoming,2004-04-23
+310,ISBN-100310,Beneath the Surface 243,29,Self-Help,Spanish,Audiobook,200,2148.24,462282,4.82,published,1995-11-30
+311,ISBN-100311,A New Beginning 110,21,Fantasy,Spanish,Audiobook,432,437.37,84145,2.5,published,2019-10-15
+312,ISBN-100312,Whispers of Time 143,37,Mystery,Spanish,Paperback,198,714.98,121287,2.92,upcoming,1992-12-17
+313,ISBN-100313,The Wandering Soul 439,23,Science Fiction,Spanish,Hardcover,824,682.5,174594,4.79,out_of_print,1993-03-09
+314,ISBN-100314,Shattered Illusions 57,12,Biography,English,Hardcover,319,2230.08,218041,1.23,published,2010-11-18
+315,ISBN-100315,The Final Chapter 29,5,History,French,Paperback,317,895.76,314546,2.82,published,1987-04-12
+316,ISBN-100316,A Thousand Miles 79,30,Fiction,Spanish,Audiobook,620,2044.4,53094,4.39,published,2012-07-07
+317,ISBN-100317,Searching for Light 169,6,History,Spanish,Hardcover,340,538.11,102194,1.48,published,2003-08-01
+318,ISBN-100318,The Hidden Truth 719,18,History,Filipino,E-Book,225,2081.82,144850,3.13,published,2007-09-21
+319,ISBN-100319,The Unseen Path 94,35,History,Spanish,E-Book,504,1271.96,199590,3.8,published,1994-04-25
+320,ISBN-100320,The Turning Point 565,31,Non-Fiction,English,Paperback,213,2037.18,115426,4.66,out_of_print,2015-04-16
+321,ISBN-100321,The Lost Kingdom 109,50,Self-Help,English,E-Book,602,609.45,346407,4.29,upcoming,2004-10-09
+322,ISBN-100322,The Broken Mirror 636,9,Non-Fiction,Spanish,Hardcover,513,1816.23,473231,3.8,published,2004-03-27
+323,ISBN-100323,The Missing Piece 404,39,History,Filipino,E-Book,456,531.3,425658,2.03,published,1992-11-12
+324,ISBN-100324,Letters to Nobody 845,10,Fiction,French,Hardcover,622,403.9,211653,4.58,published,2023-10-05
+325,ISBN-100325,The Awakening 638,18,History,French,Paperback,696,2277.58,264508,1.57,upcoming,2006-05-15
+326,ISBN-100326,Forgotten Dreams 552,18,History,French,Audiobook,532,2136.4,17688,3.96,published,2023-06-09
+327,ISBN-100327,Voices from the Past 243,17,Fantasy,Filipino,E-Book,842,691.28,97776,2.17,upcoming,2011-10-14
+328,ISBN-100328,Voices from the Past 256,10,Fiction,French,Audiobook,820,2271.04,443480,2.57,published,2021-12-10
+329,ISBN-100329,Letters to Nobody 486,1,Science Fiction,Filipino,E-Book,271,1315.41,408809,3.81,published,1987-11-19
+330,ISBN-100330,Racing Against Time 297,24,Self-Help,Japanese,Audiobook,856,2225.74,183887,2.37,published,1991-02-02
+331,ISBN-100331,When Stars Fall 289,16,Self-Help,Filipino,Hardcover,632,221.79,236158,3.97,published,1992-03-22
+332,ISBN-100332,Shadows of Tomorrow 138,28,Fiction,English,Hardcover,226,1085.4,412325,1.71,published,1982-06-23
+333,ISBN-100333,The Missing Piece 38,16,Self-Help,Filipino,E-Book,706,914.76,397250,1.39,upcoming,2006-06-30
+334,ISBN-100334,The Turning Point 808,14,Fantasy,French,Audiobook,226,283.44,178617,4.55,upcoming,1987-08-21
+335,ISBN-100335,The Last Sunrise 262,41,History,Japanese,Hardcover,858,1750.32,124397,1.42,published,2007-03-16
+336,ISBN-100336,The Long Walk Home 676,6,History,Japanese,E-Book,332,1288.34,450854,2.61,out_of_print,2015-10-31
+337,ISBN-100337,The Open Door 707,6,History,English,Audiobook,395,538.2,497153,3.01,published,2005-08-19
+338,ISBN-100338,Shattered Illusions 366,23,Science Fiction,Japanese,Hardcover,142,1728.38,274346,1.95,published,1988-08-29
+339,ISBN-100339,The Unseen Path 321,14,Fantasy,English,Hardcover,487,1241.91,186614,2.12,published,1987-07-19
+340,ISBN-100340,Echoes in the Dark 835,11,Self-Help,Filipino,E-Book,182,2146.94,199989,4.22,out_of_print,1986-10-16
+341,ISBN-100341,Shattered Illusions 379,15,Mystery,Japanese,E-Book,377,430.28,233820,3.93,published,2022-01-01
+342,ISBN-100342,Fragments of Hope 307,16,Self-Help,French,Audiobook,776,1234.31,408862,1.83,published,2016-04-17
+343,ISBN-100343,A New Beginning 425,8,Science Fiction,Japanese,Audiobook,150,631.44,22714,2.33,published,1981-06-25
+344,ISBN-100344,Letters to Nobody 148,50,Self-Help,English,Paperback,844,855.25,397063,4.89,published,2005-09-21
+345,ISBN-100345,Falling into Place 682,50,Self-Help,Japanese,E-Book,256,1600.2,59872,4.73,published,1989-12-08
+346,ISBN-100346,Broken Silence 517,5,History,Japanese,Audiobook,563,1699.8,5630,2.23,published,1992-07-16
+347,ISBN-100347,Forgotten Dreams 295,32,Self-Help,Spanish,Paperback,585,934.98,157695,1.62,published,2020-12-22
+348,ISBN-100348,The Missing Piece 460,43,Science Fiction,Filipino,E-Book,103,904.12,209718,4.81,published,2003-09-10
+349,ISBN-100349,Voices from the Past 541,33,Non-Fiction,French,Hardcover,683,1688.77,53506,3.7,published,2013-04-24
+350,ISBN-100350,Forgotten Dreams 954,36,Mystery,Filipino,Audiobook,199,223.22,9177,2.75,published,2001-01-20
+351,ISBN-100351,Shattered Illusions 788,13,Self-Help,French,Paperback,202,368.08,232691,2.63,published,1998-06-28
+352,ISBN-100352,The Turning Point 346,47,Biography,English,Paperback,160,1190.44,201515,3.18,published,1981-07-14
+353,ISBN-100353,The Silent Storm 168,1,Science Fiction,Spanish,Audiobook,496,1750.61,342658,4.09,published,2013-09-10
+354,ISBN-100354,Shadows of Tomorrow 956,16,Self-Help,Filipino,Audiobook,446,1289.27,433128,3.65,upcoming,1996-03-10
+355,ISBN-100355,Voices from the Past 32,2,Science Fiction,Japanese,Paperback,483,270.43,496899,2.38,upcoming,2013-01-20
+356,ISBN-100356,The Unfinished Story 708,29,Self-Help,Filipino,Audiobook,631,2351.18,183650,1.71,out_of_print,2005-03-22
+357,ISBN-100357,Whispers of Time 235,44,Science Fiction,Filipino,Audiobook,793,1295.88,154559,2.4,published,1986-08-24
+358,ISBN-100358,The Lost Kingdom 68,20,Self-Help,Spanish,Audiobook,840,233.99,387992,3.44,published,1985-12-21
+359,ISBN-100359,Beneath the Surface 573,1,Science Fiction,Spanish,Hardcover,804,1756.78,344826,1.13,published,2008-12-06
+360,ISBN-100360,Voices from the Past 755,42,Fantasy,English,Hardcover,181,1322.05,194830,1.54,published,1983-03-15
+361,ISBN-100361,The Broken Mirror 17,10,Fiction,French,Paperback,214,2038.05,215306,4.0,published,2018-03-23
+362,ISBN-100362,Whispers of Time 560,24,Self-Help,English,Audiobook,532,681.43,236304,3.27,published,2015-08-28
+363,ISBN-100363,The Long Walk Home 517,32,Self-Help,French,Hardcover,751,795.6,109659,4.43,published,1981-09-30
+364,ISBN-100364,The Awakening 786,6,History,Filipino,Audiobook,759,1409.26,114252,1.1,published,2022-12-21
+365,ISBN-100365,Through the Fire 641,18,History,English,Hardcover,571,2084.03,96220,4.31,published,2017-04-27
+366,ISBN-100366,The Awakening 763,31,Non-Fiction,French,Audiobook,378,701.85,266353,1.4,published,2013-10-03
+367,ISBN-100367,Beyond the Horizon 86,35,History,French,E-Book,300,2446.47,289336,3.44,published,2003-01-09
+368,ISBN-100368,When Stars Fall 923,10,Fiction,English,Paperback,196,169.47,167356,4.15,upcoming,2004-06-25
+369,ISBN-100369,Beneath the Surface 187,30,Fiction,English,Hardcover,413,2391.31,398744,2.22,published,2013-05-02
+370,ISBN-100370,The Missing Piece 396,47,Biography,English,Audiobook,121,1052.15,405737,3.94,published,2016-02-29
+371,ISBN-100371,The Empty Canvas 327,3,History,English,E-Book,494,1207.7,188675,1.8,upcoming,2001-07-22
+372,ISBN-100372,Shattered Illusions 575,40,History,Japanese,Audiobook,888,1556.94,171893,3.2,published,2018-11-11
+373,ISBN-100373,The Open Door 57,43,Science Fiction,French,E-Book,579,579.8,206789,2.72,published,2020-03-09
+374,ISBN-100374,The Unseen Path 108,9,Non-Fiction,Japanese,Paperback,708,1236.98,392466,4.31,upcoming,1997-06-30
+375,ISBN-100375,Voices from the Past 548,42,Fantasy,Filipino,Hardcover,570,2497.76,296975,2.93,out_of_print,2013-02-17
+376,ISBN-100376,The Unfinished Story 252,17,Fantasy,Spanish,Paperback,691,879.45,199371,1.15,published,1981-10-06
+377,ISBN-100377,The Last Sunrise 382,33,Non-Fiction,Filipino,Hardcover,557,1091.97,224406,4.85,published,1990-12-08
+378,ISBN-100378,Beyond the Horizon 877,24,Self-Help,Spanish,Hardcover,794,2078.25,267053,4.24,published,2005-05-17
+379,ISBN-100379,The Silent Storm 553,19,Mystery,Japanese,Audiobook,496,1534.36,306181,1.17,published,1984-05-28
+380,ISBN-100380,The Open Door 247,17,Fantasy,Spanish,Paperback,174,1325.11,389530,2.4,published,1983-02-14
+381,ISBN-100381,Forgotten Dreams 565,46,Non-Fiction,English,Hardcover,117,378.98,127657,4.9,published,2002-12-09
+382,ISBN-100382,Searching for Light 827,46,Non-Fiction,English,Paperback,650,1353.63,418480,1.58,out_of_print,2000-12-07
+383,ISBN-100383,Fragments of Hope 857,22,Self-Help,Spanish,Paperback,196,1975.55,328,4.5,published,1986-02-02
+384,ISBN-100384,Beyond the Horizon 753,38,Fantasy,Spanish,Audiobook,296,776.05,171001,4.3,published,1986-12-08
+385,ISBN-100385,The Broken Mirror 405,45,Mystery,English,Hardcover,161,1278.57,398038,2.21,out_of_print,1986-01-08
+386,ISBN-100386,Broken Silence 402,5,History,Japanese,Audiobook,517,1264.22,315895,1.02,out_of_print,2016-10-12
+387,ISBN-100387,Shadows of Tomorrow 55,6,History,Spanish,Audiobook,441,686.07,461746,1.02,out_of_print,2009-03-06
+388,ISBN-100388,The Perfect Storm 485,45,Mystery,French,Audiobook,242,835.13,401877,2.36,out_of_print,1980-06-26
+389,ISBN-100389,The Endless Road 910,5,History,Japanese,Audiobook,459,2496.47,166672,2.13,published,2007-05-09
+390,ISBN-100390,Beyond the Clouds 30,37,Mystery,English,Paperback,145,2048.81,333322,4.77,published,1995-01-17
+391,ISBN-100391,The Golden Age 679,23,Science Fiction,English,Paperback,766,1106.15,480603,1.43,published,2008-07-25
+392,ISBN-100392,The Turning Point 570,37,Mystery,English,Audiobook,680,1113.4,319217,4.98,out_of_print,2020-05-11
+393,ISBN-100393,Shadows of Tomorrow 511,23,Science Fiction,Filipino,Audiobook,879,1116.47,309419,2.03,upcoming,2004-02-26
+394,ISBN-100394,Falling into Place 186,31,Non-Fiction,Spanish,Hardcover,431,2234.33,153074,1.35,published,2001-07-19
+395,ISBN-100395,Dark Reflections 755,46,Non-Fiction,Japanese,E-Book,330,1978.06,194035,1.42,upcoming,1989-10-02
+396,ISBN-100396,Broken Silence 940,4,Non-Fiction,Spanish,Paperback,396,1718.48,361571,3.4,upcoming,1993-10-23
+397,ISBN-100397,Falling into Place 362,31,Non-Fiction,English,Audiobook,569,1503.09,492221,2.82,published,2013-12-08
+398,ISBN-100398,Searching for Light 629,31,Non-Fiction,Japanese,Hardcover,130,523.81,396331,4.82,published,1981-03-19
+399,ISBN-100399,Letters to Nobody 711,13,Self-Help,French,Paperback,503,744.07,409526,2.28,upcoming,2010-02-16
+400,ISBN-100400,Dark Reflections 423,31,Non-Fiction,Japanese,Paperback,846,1583.0,160947,2.96,upcoming,2007-06-20
+401,ISBN-100401,Beyond the Horizon 605,31,Non-Fiction,French,E-Book,140,1290.35,456548,3.83,upcoming,1999-06-01
+402,ISBN-100402,When Stars Fall 63,15,Mystery,Japanese,Hardcover,770,1192.04,54795,4.53,published,1983-01-11
+403,ISBN-100403,Fragments of Hope 795,12,Biography,French,Audiobook,288,1729.0,317372,2.09,published,1982-03-15
+404,ISBN-100404,The Empty Canvas 242,24,Self-Help,French,Audiobook,85,1612.08,212512,2.1,out_of_print,1984-11-08
+405,ISBN-100405,The Last Sunrise 500,18,History,French,Hardcover,194,952.38,64236,2.84,out_of_print,1996-07-25
+406,ISBN-100406,The Unfinished Story 131,50,Self-Help,English,Audiobook,695,2029.56,27395,2.16,published,1995-12-02
+407,ISBN-100407,When Stars Fall 592,25,Biography,Japanese,Paperback,733,739.31,26658,2.25,published,1991-06-09
+408,ISBN-100408,The Unseen Path 911,15,Mystery,Spanish,Hardcover,140,935.95,247401,4.43,upcoming,2020-01-24
+409,ISBN-100409,The Final Chapter 708,43,Science Fiction,Japanese,Audiobook,855,2452.28,54952,1.27,published,2006-01-13
+410,ISBN-100410,The Long Walk Home 625,50,Self-Help,English,Paperback,383,423.46,412351,3.45,out_of_print,2023-08-05
+411,ISBN-100411,The Empty Canvas 116,41,History,Filipino,Audiobook,227,720.44,383384,1.03,published,1994-06-28
+412,ISBN-100412,When Stars Fall 789,23,Science Fiction,Japanese,Paperback,395,988.42,47638,2.09,published,2003-05-18
+413,ISBN-100413,The Turning Point 595,30,Fiction,English,Paperback,747,1503.92,463064,2.8,upcoming,1984-07-21
+414,ISBN-100414,Shattered Illusions 855,26,Mystery,Spanish,E-Book,571,469.49,2779,3.02,out_of_print,1982-08-10
+415,ISBN-100415,The Lost Kingdom 960,32,Self-Help,French,Paperback,438,707.95,423622,4.79,published,1988-01-24
+416,ISBN-100416,Beyond the Clouds 615,6,History,English,Hardcover,862,2098.85,297204,2.65,published,2019-06-17
+417,ISBN-100417,The Last Sunrise 323,3,History,Japanese,Paperback,628,2194.28,499954,3.19,published,1995-03-08
+418,ISBN-100418,Falling into Place 624,28,Fiction,Spanish,E-Book,774,699.98,104198,2.94,published,2018-07-20
+419,ISBN-100419,The Unfinished Story 237,41,History,English,E-Book,457,1623.05,329087,1.05,out_of_print,2022-01-28
+420,ISBN-100420,The Open Door 807,49,History,English,Audiobook,407,1833.07,132420,2.29,upcoming,1980-01-24
+421,ISBN-100421,Falling into Place 359,21,Fantasy,Japanese,Audiobook,565,1199.57,188129,2.54,out_of_print,2014-06-10
+422,ISBN-100422,The Awakening 619,35,History,Filipino,Hardcover,651,633.47,265294,1.0,out_of_print,1993-07-29
+423,ISBN-100423,The Silent Storm 57,19,Mystery,English,Hardcover,750,1512.25,337804,1.46,upcoming,1995-04-14
+424,ISBN-100424,The Golden Age 708,15,Mystery,Japanese,Paperback,666,1203.89,68411,1.66,published,1985-07-09
+425,ISBN-100425,The Last Sunrise 194,43,Science Fiction,Filipino,E-Book,126,1135.59,185464,1.42,published,1999-01-10
+426,ISBN-100426,Searching for Light 12,38,Fantasy,Japanese,Paperback,405,759.72,148016,4.96,published,2011-09-21
+427,ISBN-100427,The Final Chapter 833,9,Non-Fiction,Filipino,Hardcover,508,362.54,26027,3.82,upcoming,1986-11-13
+428,ISBN-100428,Shadows of Tomorrow 346,40,History,French,Paperback,787,616.61,58169,4.84,published,2016-05-25
+429,ISBN-100429,Shadows of Tomorrow 556,41,History,Filipino,E-Book,329,1340.78,102443,3.34,published,1985-01-23
+430,ISBN-100430,Beyond the Clouds 217,34,Fantasy,Spanish,E-Book,557,2386.19,48839,2.39,out_of_print,2014-12-02
+431,ISBN-100431,The Lost Kingdom 109,36,Mystery,French,Hardcover,130,1202.13,369041,1.32,published,2013-12-27
+432,ISBN-100432,The Endless Road 60,48,Mystery,Japanese,E-Book,842,307.58,391405,3.58,upcoming,1993-09-25
+433,ISBN-100433,The Unseen Path 858,41,History,Spanish,E-Book,885,2038.43,90997,1.06,published,2002-06-11
+434,ISBN-100434,Dark Reflections 688,21,Fantasy,French,Audiobook,477,1744.46,55602,4.62,published,1999-06-17
+435,ISBN-100435,Forgotten Dreams 651,11,Self-Help,Japanese,Hardcover,738,1594.86,171772,3.98,published,1988-06-17
+436,ISBN-100436,Shadows of Tomorrow 306,26,Mystery,French,Hardcover,725,1023.13,178889,2.41,out_of_print,1987-07-08
+437,ISBN-100437,Racing Against Time 490,21,Fantasy,English,Audiobook,780,1282.14,326478,1.36,published,2010-06-21
+438,ISBN-100438,The Burning Sky 556,18,History,Japanese,Audiobook,825,286.09,435128,3.55,published,1984-11-05
+439,ISBN-100439,The Burning Sky 271,3,History,French,Paperback,435,1435.93,114907,1.32,published,2017-12-30
+440,ISBN-100440,Whispers of Time 273,15,Mystery,French,Paperback,550,514.03,212624,2.6,published,2011-02-10
+441,ISBN-100441,The Long Walk Home 608,5,History,Spanish,Audiobook,846,164.53,202193,2.87,published,2004-12-08
+442,ISBN-100442,Searching for Light 416,42,Fantasy,Japanese,E-Book,727,323.2,132727,3.92,upcoming,2019-07-10
+443,ISBN-100443,Through the Fire 385,27,Mystery,English,E-Book,434,1271.12,226395,3.41,upcoming,2015-09-08
+444,ISBN-100444,Into the Unknown 63,19,Mystery,English,Paperback,228,2152.38,278122,2.18,published,1982-12-02
+445,ISBN-100445,The Burning Sky 699,46,Non-Fiction,Filipino,Paperback,771,586.03,462856,1.99,published,1999-04-17
+446,ISBN-100446,Shadows of Tomorrow 444,38,Fantasy,Japanese,Hardcover,375,869.5,477078,3.6,upcoming,2009-02-11
+447,ISBN-100447,The Missing Piece 689,27,Mystery,Filipino,Hardcover,518,151.92,76642,1.44,published,2019-04-20
+448,ISBN-100448,The Last Sunrise 174,20,Self-Help,English,Hardcover,373,1008.47,114725,2.18,published,2023-09-01
+449,ISBN-100449,The Empty Canvas 120,2,Science Fiction,Japanese,Paperback,143,2281.79,232463,4.58,upcoming,1994-04-25
+450,ISBN-100450,Beyond the Horizon 265,42,Fantasy,English,Audiobook,576,2465.35,138327,1.28,published,1994-04-25
+451,ISBN-100451,The Burning Sky 558,12,Biography,Japanese,Paperback,640,420.71,106642,3.86,upcoming,1982-04-06
+452,ISBN-100452,Fragments of Hope 745,35,History,French,Hardcover,164,2093.75,111846,2.48,published,2016-10-01
+453,ISBN-100453,The Missing Piece 935,38,Fantasy,Filipino,E-Book,80,1296.68,27373,1.37,published,1998-02-04
+454,ISBN-100454,A Thousand Miles 188,17,Fantasy,French,Paperback,392,1970.94,179021,2.63,published,1999-08-29
+455,ISBN-100455,The Hidden Truth 766,19,Mystery,Spanish,Audiobook,748,1394.4,462305,3.08,out_of_print,2015-01-08
+456,ISBN-100456,The Unfinished Story 250,15,Mystery,French,Hardcover,500,455.05,311768,4.62,published,2006-03-24
+457,ISBN-100457,The Unseen Path 510,41,History,English,Audiobook,190,1027.92,220055,1.07,published,2003-03-14
+458,ISBN-100458,The Missing Piece 886,33,Non-Fiction,Filipino,Hardcover,651,2030.28,347643,1.21,upcoming,2020-04-12
+459,ISBN-100459,A Thousand Miles 933,39,History,Japanese,E-Book,843,1725.84,446265,4.82,out_of_print,1989-08-05
+460,ISBN-100460,The Silent Storm 891,29,Self-Help,Japanese,Audiobook,395,1666.36,86664,4.19,published,2023-05-07
+461,ISBN-100461,The Open Door 170,32,Self-Help,Japanese,E-Book,321,504.34,253753,1.5,out_of_print,2023-07-15
+462,ISBN-100462,Searching for Light 210,7,History,French,E-Book,598,1054.3,286966,1.98,published,1985-05-20
+463,ISBN-100463,The Final Chapter 623,23,Science Fiction,Japanese,Hardcover,772,1128.01,18138,2.67,upcoming,1985-04-06
+464,ISBN-100464,The Empty Canvas 90,30,Fiction,Filipino,Paperback,328,2476.11,260681,2.29,published,2005-10-11
+465,ISBN-100465,Broken Silence 901,30,Fiction,Japanese,Hardcover,635,2380.25,153496,3.54,published,1982-04-25
+466,ISBN-100466,The Missing Piece 331,39,History,Japanese,Paperback,193,554.86,111343,4.08,published,1982-01-28
+467,ISBN-100467,Into the Unknown 287,35,History,Japanese,Paperback,701,1167.38,38438,1.03,upcoming,2018-07-27
+468,ISBN-100468,Shadows of Tomorrow 919,4,Non-Fiction,Japanese,Hardcover,158,1841.1,12531,3.92,published,2005-02-19
+469,ISBN-100469,The Last Sunrise 346,4,Non-Fiction,Spanish,Paperback,819,1912.27,30555,3.75,published,1980-01-17
+470,ISBN-100470,The Open Door 713,5,History,Spanish,Paperback,449,492.12,229153,1.64,published,2012-12-20
+471,ISBN-100471,Forgotten Dreams 656,16,Self-Help,Spanish,Hardcover,329,2066.46,184992,4.83,published,1991-12-30
+472,ISBN-100472,A New Beginning 555,22,Self-Help,French,Paperback,549,326.73,362695,1.02,out_of_print,1988-01-21
+473,ISBN-100473,Searching for Light 883,37,Mystery,Filipino,Paperback,484,1818.91,163616,1.86,published,1982-07-18
+474,ISBN-100474,The Golden Age 705,47,Biography,Japanese,Paperback,264,2200.57,498545,4.47,out_of_print,1990-07-31
+475,ISBN-100475,The Burning Sky 800,39,History,Japanese,Audiobook,560,1405.36,426911,2.08,published,2007-12-05
+476,ISBN-100476,The Broken Mirror 155,10,Fiction,Japanese,Audiobook,666,633.33,267502,3.59,published,1999-04-09
+477,ISBN-100477,A New Beginning 187,6,History,English,E-Book,609,2026.02,355979,3.44,upcoming,2016-04-12
+478,ISBN-100478,Beyond the Horizon 422,47,Biography,French,E-Book,712,191.16,47198,3.42,published,2000-02-01
+479,ISBN-100479,The Last Sunrise 92,32,Self-Help,French,E-Book,688,2220.42,386347,1.61,upcoming,2013-05-17
+480,ISBN-100480,The Long Walk Home 722,18,History,French,Paperback,134,2357.2,425487,3.5,published,2020-06-28
+481,ISBN-100481,The Long Walk Home 937,18,History,Spanish,Hardcover,409,2071.89,466989,2.56,out_of_print,2005-11-10
+482,ISBN-100482,Fragments of Hope 380,11,Self-Help,French,Paperback,416,931.45,171036,1.61,out_of_print,2020-07-29
+483,ISBN-100483,Racing Against Time 809,34,Fantasy,English,Paperback,637,1753.12,94448,2.12,out_of_print,1990-01-23
+484,ISBN-100484,The Unseen Path 850,36,Mystery,Spanish,Audiobook,635,241.55,79616,1.63,out_of_print,1996-06-04
+485,ISBN-100485,The Last Sunrise 580,46,Non-Fiction,Filipino,Hardcover,426,174.98,163477,1.84,upcoming,1995-05-29
+486,ISBN-100486,The Endless Road 666,3,History,Filipino,Audiobook,879,551.3,183071,1.13,published,1993-08-03
+487,ISBN-100487,Into the Unknown 551,4,Non-Fiction,Spanish,Hardcover,510,2462.36,13662,4.25,upcoming,2023-08-14
+488,ISBN-100488,Dark Reflections 666,7,History,English,Paperback,262,1978.67,139192,3.67,upcoming,1982-10-02
+489,ISBN-100489,Into the Unknown 336,50,Self-Help,French,Audiobook,175,1859.77,214334,3.74,published,1981-06-28
+490,ISBN-100490,The Endless Road 389,43,Science Fiction,Spanish,Paperback,577,2123.47,417684,4.67,published,2021-12-20
+491,ISBN-100491,Letters to Nobody 659,43,Science Fiction,English,Audiobook,401,2196.11,314613,4.44,published,2012-01-04
+492,ISBN-100492,Letters to Nobody 544,4,Non-Fiction,English,Audiobook,124,1370.5,331874,1.19,published,2022-03-23
+493,ISBN-100493,The Unfinished Story 498,38,Fantasy,English,Paperback,348,2475.69,249344,4.43,published,1980-10-22
+494,ISBN-100494,A New Beginning 670,26,Mystery,Filipino,Audiobook,176,1097.78,97315,3.72,published,2005-11-06
+495,ISBN-100495,Through the Fire 492,10,Fiction,Filipino,Hardcover,422,1278.18,16279,1.59,out_of_print,2016-11-09
+496,ISBN-100496,The Burning Sky 541,37,Mystery,Spanish,E-Book,675,1109.21,371052,2.49,published,2019-11-05
+497,ISBN-100497,The Final Chapter 932,31,Non-Fiction,Filipino,E-Book,139,844.44,182016,2.67,out_of_print,2013-05-18
+498,ISBN-100498,Letters to Nobody 169,49,History,English,E-Book,334,269.06,37582,1.23,published,1988-07-09
+499,ISBN-100499,Voices from the Past 108,39,History,Japanese,Audiobook,323,1018.66,338372,1.55,upcoming,2013-06-05
+500,ISBN-100500,The Wandering Soul 438,6,History,Japanese,E-Book,460,1404.33,167695,2.99,published,1990-05-05
+501,ISBN-100501,The Empty Canvas 519,13,Self-Help,Japanese,E-Book,501,2331.28,370376,4.68,published,2011-08-02
+502,ISBN-100502,Beyond the Horizon 46,28,Fiction,Filipino,Hardcover,298,511.85,398196,3.79,published,1987-08-15
+503,ISBN-100503,The Last Sunrise 485,17,Fantasy,Spanish,E-Book,588,2156.78,231861,3.72,published,1981-07-27
+504,ISBN-100504,The Final Chapter 400,3,History,English,Paperback,676,357.5,97267,1.31,published,2022-05-31
+505,ISBN-100505,The Perfect Storm 62,15,Mystery,Spanish,Audiobook,225,255.3,307145,1.01,published,2010-06-01
+506,ISBN-100506,Searching for Light 636,40,History,Spanish,E-Book,294,856.96,451956,2.9,out_of_print,2010-10-09
+507,ISBN-100507,The Missing Piece 389,13,Self-Help,Filipino,E-Book,502,1468.59,148623,3.14,upcoming,2008-03-07
+508,ISBN-100508,Falling into Place 592,27,Mystery,French,Audiobook,824,1887.59,94313,1.62,upcoming,1998-07-27
+509,ISBN-100509,Shattered Illusions 474,26,Mystery,English,Hardcover,229,556.61,151091,3.26,published,2012-08-21
+510,ISBN-100510,Whispers of Time 546,20,Self-Help,Filipino,E-Book,637,1609.6,492312,3.92,out_of_print,2010-09-23
+511,ISBN-100511,The Turning Point 363,33,Non-Fiction,French,Paperback,577,1840.94,190519,4.95,published,1983-11-01
+512,ISBN-100512,The Broken Mirror 30,45,Mystery,Filipino,Audiobook,148,2346.59,64625,2.6,published,1998-12-02
+513,ISBN-100513,When Stars Fall 199,38,Fantasy,French,Paperback,835,2487.43,152090,4.29,published,1987-12-16
+514,ISBN-100514,Through the Fire 573,14,Fantasy,Japanese,Audiobook,801,754.79,114746,1.64,upcoming,1990-05-06
+515,ISBN-100515,Shattered Illusions 160,3,History,Spanish,Paperback,133,1629.12,146513,4.2,published,1988-03-31
+516,ISBN-100516,Fragments of Hope 512,28,Fiction,Japanese,Hardcover,534,1848.87,174955,1.7,published,1993-12-13
+517,ISBN-100517,Forgotten Dreams 710,3,History,Filipino,E-Book,105,1832.18,161603,4.51,out_of_print,2018-07-29
+518,ISBN-100518,Dark Reflections 194,26,Mystery,French,Hardcover,454,1392.32,92738,3.44,published,2014-05-21
+519,ISBN-100519,Broken Silence 551,50,Self-Help,Japanese,Hardcover,410,1095.77,243879,2.14,out_of_print,2015-02-01
+520,ISBN-100520,The Perfect Storm 815,1,Science Fiction,Spanish,E-Book,631,620.27,346918,1.28,out_of_print,1987-04-07
+521,ISBN-100521,The Wandering Soul 865,1,Science Fiction,Filipino,Audiobook,204,2152.63,453428,1.11,out_of_print,1988-11-14
+522,ISBN-100522,A New Beginning 438,42,Fantasy,Japanese,Audiobook,313,583.89,202843,4.47,published,2009-04-14
+523,ISBN-100523,The Golden Age 33,19,Mystery,French,Paperback,704,1413.2,350857,5.0,upcoming,2008-04-12
+524,ISBN-100524,Forgotten Dreams 149,14,Fantasy,Filipino,Paperback,310,1544.19,229326,1.65,published,2001-12-14
+525,ISBN-100525,A New Beginning 473,5,History,French,Paperback,198,1426.6,107449,4.15,upcoming,2009-07-02
+526,ISBN-100526,Beyond the Clouds 219,28,Fiction,Japanese,Audiobook,774,1842.79,136645,1.07,upcoming,2002-03-01
+527,ISBN-100527,The Burning Sky 964,8,Science Fiction,French,Audiobook,554,748.43,415210,3.83,upcoming,2004-01-15
+528,ISBN-100528,The Burning Sky 125,47,Biography,Filipino,Audiobook,705,306.31,484647,1.09,out_of_print,1991-12-11
+529,ISBN-100529,The Long Walk Home 532,11,Self-Help,Japanese,Paperback,530,2355.81,278306,2.47,upcoming,2013-07-23
+530,ISBN-100530,Searching for Light 52,1,Science Fiction,Japanese,E-Book,193,1263.45,18521,4.59,published,2014-05-02
+531,ISBN-100531,Letters to Nobody 813,18,History,Spanish,E-Book,522,1644.01,287376,3.09,published,1982-09-12
+532,ISBN-100532,The Perfect Storm 381,30,Fiction,Spanish,E-Book,859,1640.72,484041,2.93,published,2023-01-03
+533,ISBN-100533,The Unfinished Story 419,33,Non-Fiction,Japanese,Hardcover,387,657.61,390524,3.49,published,2002-06-20
+534,ISBN-100534,The Wandering Soul 742,49,History,Japanese,Audiobook,475,651.32,271531,2.57,published,2012-02-21
+535,ISBN-100535,The Unseen Path 123,15,Mystery,Spanish,Paperback,360,1857.25,254655,1.32,upcoming,2008-11-23
+536,ISBN-100536,Racing Against Time 169,38,Fantasy,Spanish,E-Book,556,1518.09,187012,4.47,published,2013-09-26
+537,ISBN-100537,The Unfinished Story 254,7,History,French,Hardcover,292,1031.4,193889,3.94,published,2021-07-18
+538,ISBN-100538,The Unfinished Story 745,22,Self-Help,Japanese,Audiobook,342,2427.25,308326,3.19,published,1990-02-04
+539,ISBN-100539,The Perfect Storm 371,17,Fantasy,Spanish,Audiobook,329,1317.47,282316,3.09,published,2007-09-06
+540,ISBN-100540,Racing Against Time 638,22,Self-Help,Japanese,Hardcover,671,1607.36,444523,4.77,upcoming,2021-02-15
+541,ISBN-100541,Beyond the Horizon 201,24,Self-Help,Japanese,Paperback,722,1290.38,69893,2.39,published,2010-04-03
+542,ISBN-100542,The Turning Point 365,35,History,English,Hardcover,672,1553.45,435305,3.86,upcoming,1993-06-25
+543,ISBN-100543,The Last Sunrise 75,50,Self-Help,Spanish,Audiobook,89,2464.14,275757,2.17,published,1994-07-21
+544,ISBN-100544,Whispers of Time 388,18,History,English,Paperback,808,2223.7,407501,4.26,upcoming,2019-06-14
+545,ISBN-100545,The Unseen Path 933,23,Science Fiction,Japanese,Hardcover,612,2083.67,144803,3.61,published,1992-04-22
+546,ISBN-100546,Through the Fire 804,47,Biography,English,Hardcover,155,1447.15,19397,2.31,published,1992-03-01
+547,ISBN-100547,The Missing Piece 668,32,Self-Help,French,Paperback,380,1564.08,312788,4.75,upcoming,2008-02-19
+548,ISBN-100548,The Awakening 54,19,Mystery,Japanese,E-Book,325,1738.8,125970,3.59,out_of_print,2010-04-25
+549,ISBN-100549,A Thousand Miles 961,25,Biography,Filipino,Hardcover,298,1806.62,252976,1.53,published,1984-01-22
+550,ISBN-100550,Into the Unknown 598,42,Fantasy,Filipino,Hardcover,859,422.29,113250,4.29,upcoming,2007-06-13
+551,ISBN-100551,A Thousand Miles 94,49,History,Spanish,Audiobook,231,2331.83,343508,1.24,out_of_print,2010-10-23
+552,ISBN-100552,The Perfect Storm 893,6,History,Filipino,Paperback,756,1562.36,441137,1.86,published,1990-11-01
+553,ISBN-100553,Shadows of Tomorrow 630,13,Self-Help,Filipino,Audiobook,170,2383.18,314798,1.22,out_of_print,2003-05-06
+554,ISBN-100554,The Broken Mirror 200,25,Biography,Spanish,Audiobook,154,2440.36,460580,1.45,upcoming,2005-04-19
+555,ISBN-100555,The Perfect Storm 601,1,Science Fiction,Spanish,Hardcover,570,1578.56,475138,4.39,published,1992-03-24
+556,ISBN-100556,The Long Walk Home 622,40,History,Japanese,Hardcover,864,1540.76,4595,4.61,upcoming,2022-06-27
+557,ISBN-100557,A New Beginning 626,47,Biography,French,Paperback,246,1406.61,413773,3.75,published,2015-03-04
+558,ISBN-100558,Fragments of Hope 180,44,Science Fiction,English,Hardcover,418,2135.3,467020,4.18,published,2015-11-04
+559,ISBN-100559,When Stars Fall 282,5,History,English,Audiobook,595,2446.91,384429,2.27,published,2000-12-11
+560,ISBN-100560,The Hidden Truth 358,43,Science Fiction,French,E-Book,164,438.04,136336,3.08,published,1999-06-10
+561,ISBN-100561,The Wandering Soul 854,25,Biography,Japanese,Paperback,900,715.69,245420,3.41,out_of_print,2019-11-16
+562,ISBN-100562,The Awakening 568,7,History,Spanish,Paperback,581,1445.6,4897,1.8,published,1999-04-09
+563,ISBN-100563,A New Beginning 965,31,Non-Fiction,French,Audiobook,468,377.32,90346,1.6,out_of_print,1985-12-07
+564,ISBN-100564,The Golden Age 251,42,Fantasy,Filipino,Audiobook,122,1997.02,453274,1.5,published,2015-03-14
+565,ISBN-100565,The Golden Age 670,6,History,Japanese,E-Book,583,1231.44,205850,3.62,published,1991-12-31
+566,ISBN-100566,The Open Door 172,29,Self-Help,Japanese,Paperback,784,1285.14,133219,1.83,upcoming,2008-01-09
+567,ISBN-100567,Voices from the Past 747,29,Self-Help,Filipino,Hardcover,403,757.62,236228,3.6,out_of_print,2017-05-30
+568,ISBN-100568,Broken Silence 495,4,Non-Fiction,French,Paperback,92,2255.66,181761,1.56,out_of_print,2021-09-22
+569,ISBN-100569,A New Beginning 418,3,History,Filipino,Paperback,690,664.13,241380,2.82,published,2010-07-30
+570,ISBN-100570,The Empty Canvas 550,14,Fantasy,English,Paperback,788,807.98,112821,1.46,out_of_print,1985-11-11
+571,ISBN-100571,The Broken Mirror 647,20,Self-Help,English,Paperback,572,261.96,363852,3.06,published,1981-11-22
+572,ISBN-100572,Forgotten Dreams 66,12,Biography,English,Hardcover,542,1260.84,114940,2.6,out_of_print,1987-09-24
+573,ISBN-100573,The Lost Kingdom 446,27,Mystery,English,Paperback,481,794.83,334835,2.31,upcoming,2009-11-23
+574,ISBN-100574,Shadows of Tomorrow 787,9,Non-Fiction,Japanese,Paperback,311,1349.37,368434,2.98,published,2009-07-19
+575,ISBN-100575,The Missing Piece 698,7,History,Japanese,Paperback,713,1195.24,243652,3.99,out_of_print,2006-04-01
+576,ISBN-100576,Shattered Illusions 830,13,Self-Help,Filipino,Paperback,346,1595.66,167968,1.07,published,2015-10-11
+577,ISBN-100577,Beyond the Horizon 306,30,Fiction,Filipino,Hardcover,624,768.24,493263,1.04,published,2013-11-25
+578,ISBN-100578,The Lost Kingdom 959,5,History,Spanish,Hardcover,253,2386.65,246120,3.11,published,1998-09-27
+579,ISBN-100579,The Silent Storm 471,24,Self-Help,Japanese,Hardcover,477,692.1,453233,2.77,published,2008-09-26
+580,ISBN-100580,Shattered Illusions 682,43,Science Fiction,French,Hardcover,477,876.61,220424,1.89,out_of_print,1988-08-04
+581,ISBN-100581,The Wandering Soul 631,23,Science Fiction,Filipino,E-Book,788,348.23,341361,2.1,published,2013-01-03
+582,ISBN-100582,Broken Silence 333,48,Mystery,French,Paperback,107,517.4,70267,2.52,upcoming,2000-10-12
+583,ISBN-100583,The Last Sunrise 83,1,Science Fiction,English,Hardcover,638,1857.08,183302,1.53,published,2006-05-21
+584,ISBN-100584,The Missing Piece 867,33,Non-Fiction,Filipino,Audiobook,692,1846.88,56927,1.1,out_of_print,1988-09-18
+585,ISBN-100585,The Long Walk Home 205,18,History,French,Hardcover,789,2355.93,376803,1.19,published,2002-01-13
+586,ISBN-100586,The Awakening 540,41,History,French,Audiobook,340,1463.52,43976,3.13,upcoming,2007-06-17
+587,ISBN-100587,The Turning Point 494,33,Non-Fiction,Spanish,Audiobook,229,445.58,72233,4.25,published,1984-05-22
+588,ISBN-100588,Through the Fire 604,11,Self-Help,Japanese,E-Book,759,2038.08,442301,2.62,out_of_print,1983-03-25
+589,ISBN-100589,The Empty Canvas 527,34,Fantasy,Filipino,E-Book,674,1651.33,119362,3.54,published,1989-07-12
+590,ISBN-100590,Beyond the Clouds 883,13,Self-Help,Filipino,Audiobook,228,1240.81,34912,2.87,upcoming,2000-09-27
+591,ISBN-100591,Fragments of Hope 640,46,Non-Fiction,Filipino,Audiobook,893,923.83,345313,4.94,published,2011-07-13
+592,ISBN-100592,Beyond the Horizon 534,26,Mystery,French,Paperback,474,821.08,358431,1.93,out_of_print,1989-12-04
+593,ISBN-100593,Shattered Illusions 284,5,History,English,Hardcover,327,977.33,60576,3.41,published,2022-10-28
+594,ISBN-100594,The Lost Kingdom 331,32,Self-Help,French,Hardcover,782,431.28,84506,4.06,out_of_print,1990-01-21
+595,ISBN-100595,Whispers of Time 967,17,Fantasy,French,Audiobook,261,2448.01,433251,2.0,published,2018-10-26
+596,ISBN-100596,The Endless Road 491,21,Fantasy,Filipino,E-Book,892,292.16,392129,3.75,published,1987-12-27
+597,ISBN-100597,The Burning Sky 872,10,Fiction,English,Paperback,860,1999.07,433866,3.24,published,1999-07-31
+598,ISBN-100598,Beneath the Surface 441,37,Mystery,English,Hardcover,107,1707.71,76918,4.64,published,2018-11-24
+599,ISBN-100599,The Golden Age 580,33,Non-Fiction,Filipino,Hardcover,837,2145.93,382720,3.39,upcoming,2003-06-06
+600,ISBN-100600,Beyond the Horizon 870,5,History,English,E-Book,172,2243.06,42912,4.4,out_of_print,2008-12-25
+601,ISBN-100601,Beyond the Horizon 652,35,History,Filipino,Audiobook,165,2114.7,141362,3.47,published,2010-12-23
+602,ISBN-100602,The Hidden Truth 559,35,History,Filipino,Paperback,440,461.76,309190,3.89,published,2001-07-19
+603,ISBN-100603,Shattered Illusions 306,5,History,French,Audiobook,835,2237.12,20640,2.96,published,2005-06-08
+604,ISBN-100604,Beneath the Surface 529,50,Self-Help,English,E-Book,107,948.28,34299,2.15,out_of_print,1994-08-06
+605,ISBN-100605,The Lost Kingdom 843,15,Mystery,Filipino,E-Book,885,465.64,43683,2.89,published,1988-04-08
+606,ISBN-100606,The Empty Canvas 704,15,Mystery,French,Hardcover,639,1139.61,125640,1.83,published,2010-06-08
+607,ISBN-100607,Falling into Place 626,27,Mystery,French,Audiobook,640,1006.05,131211,3.02,published,2011-11-03
+608,ISBN-100608,The Long Walk Home 37,8,Science Fiction,Japanese,Paperback,345,1779.97,197389,4.67,published,1983-05-29
+609,ISBN-100609,Fragments of Hope 928,42,Fantasy,French,Audiobook,461,1199.14,7357,4.62,published,2013-10-06
+610,ISBN-100610,Falling into Place 70,31,Non-Fiction,Filipino,Paperback,309,1984.29,499070,1.02,published,2015-05-15
+611,ISBN-100611,A Thousand Miles 791,48,Mystery,French,Audiobook,294,496.58,373383,2.47,published,1992-01-26
+612,ISBN-100612,The Broken Mirror 499,5,History,English,Hardcover,606,1955.88,295503,1.69,upcoming,1998-07-05
+613,ISBN-100613,The Golden Age 721,38,Fantasy,Spanish,E-Book,465,1282.04,415968,1.03,published,2004-02-10
+614,ISBN-100614,The Missing Piece 613,20,Self-Help,English,Hardcover,446,1945.19,56744,2.55,published,2008-05-02
+615,ISBN-100615,Broken Silence 752,30,Fiction,French,E-Book,285,2442.32,369736,3.77,upcoming,2010-04-29
+616,ISBN-100616,The Last Sunrise 584,44,Science Fiction,Filipino,Audiobook,814,523.22,82153,4.9,out_of_print,2014-06-22
+617,ISBN-100617,Whispers of Time 959,3,History,Filipino,E-Book,316,1598.49,252053,3.19,out_of_print,2009-04-29
+618,ISBN-100618,The Awakening 780,13,Self-Help,English,E-Book,821,2128.77,105321,1.54,published,1995-02-20
+619,ISBN-100619,Falling into Place 105,21,Fantasy,Japanese,Audiobook,895,731.09,163843,1.53,published,1990-04-20
+620,ISBN-100620,The Open Door 36,44,Science Fiction,Japanese,Audiobook,541,1702.39,71905,2.45,published,2003-10-02
+621,ISBN-100621,Letters to Nobody 609,50,Self-Help,Japanese,E-Book,529,244.26,237725,3.08,upcoming,1990-06-19
+622,ISBN-100622,The Endless Road 399,2,Science Fiction,Japanese,E-Book,351,882.97,391621,4.78,published,2023-06-16
+623,ISBN-100623,Beyond the Horizon 756,11,Self-Help,Filipino,Hardcover,210,298.45,117196,2.66,published,1992-10-02
+624,ISBN-100624,The Turning Point 978,48,Mystery,Japanese,Hardcover,204,1339.38,241468,4.84,published,2007-02-05
+625,ISBN-100625,The Unfinished Story 833,49,History,English,E-Book,811,703.33,88811,3.03,published,2007-09-04
+626,ISBN-100626,The Long Walk Home 417,39,History,Spanish,E-Book,216,2033.62,173634,1.01,published,1988-11-11
+627,ISBN-100627,The Burning Sky 312,43,Science Fiction,Spanish,Paperback,153,879.3,437310,4.09,published,2016-02-11
+628,ISBN-100628,The Missing Piece 167,5,History,English,Hardcover,699,2022.03,252082,2.06,published,2005-11-23
+629,ISBN-100629,The Open Door 721,15,Mystery,English,Hardcover,593,1080.32,290964,3.61,published,1997-11-28
+630,ISBN-100630,Voices from the Past 122,32,Self-Help,French,Hardcover,527,258.21,20458,2.58,published,2023-07-14
+631,ISBN-100631,Fragments of Hope 748,42,Fantasy,Spanish,E-Book,333,1033.15,292515,4.08,published,1984-01-18
+632,ISBN-100632,Whispers of Time 151,9,Non-Fiction,Filipino,Audiobook,815,556.85,438632,3.36,out_of_print,2009-07-08
+633,ISBN-100633,The Lost Kingdom 208,8,Science Fiction,Filipino,Paperback,83,1429.98,474024,2.75,out_of_print,1999-10-13
+634,ISBN-100634,A Thousand Miles 955,39,History,Spanish,Audiobook,765,998.85,313881,1.28,published,1989-08-16
+635,ISBN-100635,Forgotten Dreams 881,10,Fiction,English,E-Book,834,794.0,126568,1.42,published,1980-01-06
+636,ISBN-100636,The Long Walk Home 743,47,Biography,French,E-Book,706,606.04,215885,2.28,published,1991-01-03
+637,ISBN-100637,The Open Door 643,34,Fantasy,French,E-Book,793,1750.32,445110,4.96,published,1994-09-19
+638,ISBN-100638,Racing Against Time 708,38,Fantasy,Filipino,Paperback,830,1325.15,274996,3.28,published,1998-02-25
+639,ISBN-100639,The Last Sunrise 223,49,History,Japanese,E-Book,121,1816.43,127827,1.61,published,1999-08-03
+640,ISBN-100640,Forgotten Dreams 147,17,Fantasy,Spanish,Hardcover,746,1025.46,370872,3.45,out_of_print,1997-05-24
+641,ISBN-100641,The Unfinished Story 635,1,Science Fiction,Spanish,Hardcover,532,2197.86,244418,3.52,out_of_print,1991-10-22
+642,ISBN-100642,Falling into Place 568,11,Self-Help,English,E-Book,475,1654.11,233870,3.5,out_of_print,2016-11-13
+643,ISBN-100643,Whispers of Time 384,22,Self-Help,English,Audiobook,291,1695.82,59681,1.46,published,1990-04-30
+644,ISBN-100644,Broken Silence 228,13,Self-Help,Filipino,Audiobook,796,1731.76,126545,1.37,published,2016-07-17
+645,ISBN-100645,The Awakening 452,5,History,Filipino,Hardcover,821,2478.36,51636,3.49,upcoming,2017-01-01
+646,ISBN-100646,The Turning Point 183,22,Self-Help,Japanese,Hardcover,720,1681.17,317966,4.32,upcoming,2018-11-14
+647,ISBN-100647,Falling into Place 317,32,Self-Help,English,Paperback,112,1313.85,1427,2.38,published,2016-02-23
+648,ISBN-100648,The Broken Mirror 231,34,Fantasy,French,Audiobook,438,262.92,363383,1.42,published,1999-08-02
+649,ISBN-100649,The Hidden Truth 815,19,Mystery,Filipino,Audiobook,179,1114.82,282583,1.3,out_of_print,1993-06-24
+650,ISBN-100650,Falling into Place 791,17,Fantasy,French,Hardcover,613,882.9,72225,4.25,upcoming,1986-01-21
+651,ISBN-100651,The Silent Storm 687,36,Mystery,Filipino,E-Book,560,1297.07,47539,3.56,published,1991-04-20
+652,ISBN-100652,The Unfinished Story 624,40,History,French,E-Book,349,1941.26,108083,3.47,out_of_print,1980-05-08
+653,ISBN-100653,The Turning Point 952,19,Mystery,French,Hardcover,391,2388.79,394448,2.24,upcoming,2010-08-28
+654,ISBN-100654,The Golden Age 148,5,History,Spanish,Hardcover,636,2107.0,377927,1.71,published,2003-05-02
+655,ISBN-100655,Beyond the Clouds 93,27,Mystery,Filipino,Hardcover,830,1080.19,26840,2.86,published,2003-01-25
+656,ISBN-100656,The Turning Point 804,4,Non-Fiction,English,E-Book,743,1805.99,406377,3.46,upcoming,2020-05-29
+657,ISBN-100657,The Turning Point 2,33,Non-Fiction,Filipino,E-Book,811,2371.24,106789,1.31,published,1992-03-30
+658,ISBN-100658,The Long Walk Home 104,4,Non-Fiction,Spanish,Audiobook,518,605.67,491536,2.31,published,2001-03-10
+659,ISBN-100659,Beyond the Horizon 86,41,History,Filipino,Audiobook,599,1367.25,226874,1.8,out_of_print,1999-07-26
+660,ISBN-100660,Echoes in the Dark 823,41,History,Japanese,Paperback,80,2242.35,389018,2.6,upcoming,2022-05-02
+661,ISBN-100661,The Unseen Path 218,9,Non-Fiction,Japanese,Audiobook,426,1607.84,238512,2.48,upcoming,2022-10-09
+662,ISBN-100662,The Final Chapter 67,35,History,Spanish,Hardcover,677,1162.3,473607,1.5,published,2005-05-10
+663,ISBN-100663,The Open Door 578,2,Science Fiction,English,Paperback,674,2264.66,90031,3.85,upcoming,1995-01-04
+664,ISBN-100664,Shadows of Tomorrow 495,37,Mystery,Spanish,Paperback,742,2011.14,232250,1.07,published,1999-07-14
+665,ISBN-100665,The Last Sunrise 864,29,Self-Help,Spanish,E-Book,452,998.96,19333,2.99,published,2016-08-05
+666,ISBN-100666,The Long Walk Home 348,46,Non-Fiction,Spanish,Paperback,525,661.7,39132,2.48,published,2019-05-18
+667,ISBN-100667,The Unfinished Story 571,9,Non-Fiction,Japanese,Paperback,470,2202.44,18946,3.02,published,2005-10-03
+668,ISBN-100668,Echoes in the Dark 627,23,Science Fiction,Spanish,Audiobook,131,644.9,488012,4.99,upcoming,1980-10-21
+669,ISBN-100669,The Lost Kingdom 863,15,Mystery,Spanish,Hardcover,300,2232.86,469952,4.62,upcoming,1990-07-16
+670,ISBN-100670,The Turning Point 982,38,Fantasy,French,E-Book,273,1038.18,406026,1.44,published,1982-06-13
+671,ISBN-100671,The Missing Piece 680,29,Self-Help,French,E-Book,594,220.01,445445,2.72,published,1990-04-21
+672,ISBN-100672,Beneath the Surface 394,19,Mystery,Filipino,Paperback,84,1218.64,367857,4.15,published,2005-04-12
+673,ISBN-100673,A Thousand Miles 615,13,Self-Help,English,E-Book,517,1246.29,12315,4.8,published,2013-06-18
+674,ISBN-100674,The Final Chapter 788,7,History,Spanish,Paperback,352,1829.36,40490,1.57,published,2001-04-26
+675,ISBN-100675,The Long Walk Home 621,19,Mystery,Japanese,Audiobook,153,1885.47,329095,3.01,published,1997-05-22
+676,ISBN-100676,The Hidden Truth 504,33,Non-Fiction,Filipino,E-Book,478,169.39,405386,3.24,out_of_print,2003-01-25
+677,ISBN-100677,The Empty Canvas 396,9,Non-Fiction,English,E-Book,393,588.41,356061,3.99,published,1992-06-11
+678,ISBN-100678,The Wandering Soul 391,32,Self-Help,Japanese,Audiobook,174,1659.7,182816,2.47,published,2020-08-31
+679,ISBN-100679,Into the Unknown 864,9,Non-Fiction,Spanish,E-Book,726,1893.87,46974,1.01,upcoming,1999-03-02
+680,ISBN-100680,Shadows of Tomorrow 735,30,Fiction,English,Paperback,710,1633.04,261406,3.55,out_of_print,2007-02-16
+681,ISBN-100681,Beyond the Horizon 415,37,Mystery,Filipino,Paperback,301,816.07,346828,4.66,published,2018-08-27
+682,ISBN-100682,The Golden Age 132,26,Mystery,Filipino,E-Book,177,2469.14,311304,4.4,published,2012-01-14
+683,ISBN-100683,Beyond the Clouds 322,23,Science Fiction,Japanese,Audiobook,706,1764.44,364400,4.05,upcoming,2013-05-22
+684,ISBN-100684,The Turning Point 539,35,History,Japanese,Audiobook,894,358.38,448278,1.09,published,1990-04-03
+685,ISBN-100685,The Turning Point 592,4,Non-Fiction,French,Audiobook,704,2447.72,105777,3.66,upcoming,1999-08-01
+686,ISBN-100686,The Final Chapter 168,18,History,English,Hardcover,157,594.49,132335,2.72,upcoming,1994-07-19
+687,ISBN-100687,Fragments of Hope 453,5,History,Japanese,Audiobook,631,758.14,481899,1.38,published,2007-05-09
+688,ISBN-100688,Letters to Nobody 474,37,Mystery,Japanese,Audiobook,107,2090.65,427772,1.52,published,2023-04-25
+689,ISBN-100689,A Thousand Miles 223,24,Self-Help,Japanese,Paperback,119,2439.0,296631,3.63,upcoming,2018-03-11
+690,ISBN-100690,Letters to Nobody 295,39,History,Filipino,Audiobook,605,2197.52,181073,3.37,upcoming,2007-02-25
+691,ISBN-100691,The Missing Piece 841,39,History,Filipino,E-Book,841,1892.14,204418,2.97,published,1990-02-23
+692,ISBN-100692,The Burning Sky 400,13,Self-Help,English,Hardcover,640,856.35,397978,3.29,published,1988-05-10
+693,ISBN-100693,The Lost Kingdom 157,17,Fantasy,Japanese,Hardcover,143,2490.12,464842,3.32,upcoming,2004-12-30
+694,ISBN-100694,The Last Sunrise 703,7,History,Filipino,E-Book,465,1888.99,289730,3.0,upcoming,2004-09-14
+695,ISBN-100695,Voices from the Past 29,30,Fiction,French,Hardcover,597,1246.73,477127,4.99,published,2012-01-18
+696,ISBN-100696,Through the Fire 435,11,Self-Help,French,Hardcover,381,763.99,412250,1.44,upcoming,1982-02-02
+697,ISBN-100697,The Empty Canvas 291,10,Fiction,Japanese,E-Book,410,524.27,145283,1.27,published,2011-06-21
+698,ISBN-100698,The Awakening 457,7,History,Japanese,Audiobook,196,905.73,117783,3.52,published,2019-04-04
+699,ISBN-100699,A New Beginning 730,38,Fantasy,Filipino,Paperback,849,2382.48,288411,4.26,out_of_print,2007-12-16
+700,ISBN-100700,Whispers of Time 268,17,Fantasy,Filipino,E-Book,396,2337.78,391764,1.61,published,2021-10-04
+701,ISBN-100701,The Broken Mirror 479,30,Fiction,English,Paperback,100,282.89,67987,3.26,out_of_print,1990-05-12
+702,ISBN-100702,A New Beginning 741,14,Fantasy,French,Paperback,754,1210.87,115423,4.37,upcoming,2003-05-03
+703,ISBN-100703,The Missing Piece 640,42,Fantasy,English,Hardcover,525,2078.12,496940,1.75,out_of_print,2000-09-02
+704,ISBN-100704,The Open Door 674,39,History,English,Paperback,500,1243.03,269454,3.34,published,2007-07-07
+705,ISBN-100705,The Burning Sky 833,20,Self-Help,Filipino,Paperback,694,1002.87,420541,4.53,published,2008-07-24
+706,ISBN-100706,Forgotten Dreams 913,46,Non-Fiction,Japanese,Hardcover,791,1687.93,216187,4.33,upcoming,2017-07-13
+707,ISBN-100707,Forgotten Dreams 647,11,Self-Help,Filipino,Paperback,647,958.06,20750,3.55,published,2015-11-16
+708,ISBN-100708,The Turning Point 257,41,History,Japanese,Hardcover,715,1259.43,437433,1.13,out_of_print,2003-06-26
+709,ISBN-100709,The Empty Canvas 267,2,Science Fiction,French,Paperback,845,2480.06,137055,3.09,published,1989-11-06
+710,ISBN-100710,The Unseen Path 100,38,Fantasy,French,E-Book,486,1206.49,265373,3.81,out_of_print,2018-01-02
+711,ISBN-100711,Dark Reflections 745,21,Fantasy,Japanese,E-Book,137,1764.9,418899,2.34,upcoming,2014-06-03
+712,ISBN-100712,The Endless Road 505,18,History,Filipino,E-Book,861,2115.32,116316,1.29,upcoming,2020-08-17
+713,ISBN-100713,Fragments of Hope 767,37,Mystery,Japanese,Audiobook,328,599.5,10752,4.56,out_of_print,2018-09-08
+714,ISBN-100714,The Missing Piece 716,1,Science Fiction,Spanish,Audiobook,401,590.5,316401,2.22,published,2011-08-26
+715,ISBN-100715,Into the Unknown 552,45,Mystery,Filipino,Audiobook,316,462.5,88558,2.89,published,1987-04-08
+716,ISBN-100716,Beneath the Surface 507,48,Mystery,Spanish,Audiobook,879,1607.31,17840,1.58,published,2012-03-05
+717,ISBN-100717,The Endless Road 476,38,Fantasy,Filipino,Hardcover,889,1831.33,425654,3.62,published,2014-10-25
+718,ISBN-100718,A Thousand Miles 805,49,History,Spanish,Audiobook,158,1006.34,225529,3.6,upcoming,1981-06-20
+719,ISBN-100719,The Silent Storm 323,48,Mystery,Spanish,E-Book,400,642.95,476116,2.38,upcoming,1987-10-26
+720,ISBN-100720,The Long Walk Home 236,30,Fiction,Japanese,Paperback,297,900.87,264149,1.79,published,2017-04-22
+721,ISBN-100721,The Turning Point 404,7,History,Japanese,Hardcover,179,333.25,441717,3.21,published,2005-04-08
+722,ISBN-100722,Beneath the Surface 931,32,Self-Help,English,Hardcover,473,2014.73,338671,1.39,upcoming,2014-11-05
+723,ISBN-100723,Into the Unknown 138,44,Science Fiction,French,Paperback,689,2299.79,129153,3.32,upcoming,2006-07-15
+724,ISBN-100724,The Missing Piece 151,19,Mystery,English,E-Book,576,1961.2,189654,3.2,published,2014-12-20
+725,ISBN-100725,The Silent Storm 109,7,History,Japanese,E-Book,634,1156.48,42818,1.26,published,1992-05-13
+726,ISBN-100726,The Wandering Soul 523,29,Self-Help,English,Paperback,673,1543.71,180760,4.23,published,1999-12-02
+727,ISBN-100727,The Awakening 330,20,Self-Help,French,Audiobook,520,746.66,481063,1.22,out_of_print,1988-07-10
+728,ISBN-100728,Beneath the Surface 873,6,History,English,Paperback,424,1295.07,340850,4.13,published,2020-09-01
+729,ISBN-100729,The Hidden Truth 188,43,Science Fiction,Filipino,Hardcover,81,1516.44,105691,4.16,published,1992-03-31
+730,ISBN-100730,The Burning Sky 367,13,Self-Help,English,Hardcover,849,373.95,430131,1.3,published,1983-09-14
+731,ISBN-100731,The Open Door 802,40,History,Japanese,Audiobook,322,1399.38,345136,3.33,published,2011-05-29
+732,ISBN-100732,The Lost Kingdom 768,17,Fantasy,Filipino,E-Book,741,1035.41,262766,4.72,published,2012-04-24
+733,ISBN-100733,Echoes in the Dark 863,19,Mystery,Spanish,E-Book,662,389.92,178484,4.69,published,1999-07-08
+734,ISBN-100734,Whispers of Time 746,24,Self-Help,English,Paperback,757,729.78,448577,4.11,upcoming,2003-06-15
+735,ISBN-100735,The Hidden Truth 205,8,Science Fiction,French,E-Book,370,472.63,212552,4.25,published,2015-04-20
+736,ISBN-100736,The Turning Point 40,31,Non-Fiction,Filipino,Paperback,414,2273.58,12964,4.54,out_of_print,1995-12-27
+737,ISBN-100737,Falling into Place 748,31,Non-Fiction,English,E-Book,396,1699.36,64329,1.57,published,1990-04-11
+738,ISBN-100738,The Golden Age 994,37,Mystery,French,Audiobook,862,2475.55,403013,4.1,published,2010-09-01
+739,ISBN-100739,When Stars Fall 615,5,History,English,E-Book,264,287.08,476576,3.45,published,1989-07-08
+740,ISBN-100740,The Turning Point 293,45,Mystery,Filipino,E-Book,205,298.75,257412,1.3,published,2011-07-13
+741,ISBN-100741,When Stars Fall 622,48,Mystery,French,E-Book,741,1369.58,496001,3.11,upcoming,1996-01-13
+742,ISBN-100742,The Silent Storm 299,11,Self-Help,Japanese,Hardcover,623,725.52,175583,2.36,published,1989-11-23
+743,ISBN-100743,Forgotten Dreams 567,11,Self-Help,French,E-Book,242,526.77,258840,1.76,published,2004-12-15
+744,ISBN-100744,The Last Sunrise 531,14,Fantasy,Spanish,Hardcover,320,1029.77,169248,3.82,published,1998-02-03
+745,ISBN-100745,Echoes in the Dark 794,44,Science Fiction,French,Hardcover,401,1658.31,370242,1.8,published,1981-10-10
+746,ISBN-100746,The Burning Sky 449,23,Science Fiction,Filipino,Hardcover,832,983.67,370448,2.14,published,1991-10-02
+747,ISBN-100747,The Golden Age 967,13,Self-Help,Japanese,E-Book,899,423.31,400858,2.99,published,2012-03-04
+748,ISBN-100748,Into the Unknown 668,33,Non-Fiction,Japanese,E-Book,134,2314.36,250945,4.68,out_of_print,2020-09-23
+749,ISBN-100749,Echoes in the Dark 961,33,Non-Fiction,French,E-Book,712,1660.24,310517,4.19,out_of_print,2008-02-27
+750,ISBN-100750,Racing Against Time 104,21,Fantasy,French,E-Book,130,2402.06,434787,4.71,published,2007-02-24
+751,ISBN-100751,The Empty Canvas 771,50,Self-Help,Filipino,Hardcover,672,1149.26,240641,4.1,upcoming,1997-10-30
+752,ISBN-100752,The Golden Age 35,46,Non-Fiction,Japanese,Audiobook,706,1187.75,205940,1.01,published,1989-10-23
+753,ISBN-100753,The Unfinished Story 107,46,Non-Fiction,Spanish,E-Book,323,330.98,231995,2.6,upcoming,2007-11-05
+754,ISBN-100754,The Burning Sky 772,18,History,Filipino,Paperback,539,1942.34,12736,3.98,upcoming,2000-12-23
+755,ISBN-100755,Whispers of Time 901,46,Non-Fiction,Spanish,Paperback,245,415.92,28842,3.29,upcoming,1991-07-12
+756,ISBN-100756,When Stars Fall 223,1,Science Fiction,Japanese,Audiobook,755,722.88,236389,2.41,published,2020-11-26
+757,ISBN-100757,Dark Reflections 810,4,Non-Fiction,Spanish,Hardcover,154,171.57,326855,4.45,published,1987-07-05
+758,ISBN-100758,The Last Sunrise 752,40,History,Filipino,Hardcover,529,2486.58,402211,1.27,published,1985-03-25
+759,ISBN-100759,The Unseen Path 718,26,Mystery,English,Paperback,501,1926.74,33266,2.83,out_of_print,1995-03-08
+760,ISBN-100760,Dark Reflections 564,43,Science Fiction,Japanese,Paperback,124,1103.17,480339,1.71,published,1989-01-12
+761,ISBN-100761,The Hidden Truth 907,43,Science Fiction,Japanese,Audiobook,424,2010.47,187628,2.77,published,1985-09-08
+762,ISBN-100762,Dark Reflections 498,23,Science Fiction,English,Hardcover,289,1800.01,410190,1.36,out_of_print,2006-07-03
+763,ISBN-100763,The Unseen Path 11,22,Self-Help,Filipino,Hardcover,410,864.39,385859,4.98,out_of_print,1998-04-03
+764,ISBN-100764,The Wandering Soul 231,38,Fantasy,Filipino,Audiobook,869,310.84,484320,4.77,out_of_print,1980-06-16
+765,ISBN-100765,The Perfect Storm 390,25,Biography,English,Paperback,252,1224.61,303124,4.65,published,2006-04-14
+766,ISBN-100766,When Stars Fall 946,45,Mystery,Filipino,Paperback,360,652.04,120938,4.2,out_of_print,1990-07-03
+767,ISBN-100767,Into the Unknown 571,44,Science Fiction,Japanese,Audiobook,324,1641.97,1481,4.15,published,1984-01-15
+768,ISBN-100768,The Hidden Truth 500,23,Science Fiction,English,Hardcover,530,185.84,223545,1.37,out_of_print,1980-08-23
+769,ISBN-100769,The Empty Canvas 116,28,Fiction,Filipino,Paperback,128,1890.45,247016,1.46,out_of_print,2003-05-25
+770,ISBN-100770,Whispers of Time 51,41,History,Japanese,Paperback,191,1643.21,208325,3.47,upcoming,1994-08-19
+771,ISBN-100771,The Final Chapter 688,30,Fiction,English,E-Book,780,1793.81,209619,2.86,upcoming,1994-10-10
+772,ISBN-100772,A Thousand Miles 849,26,Mystery,English,Paperback,286,214.46,366182,3.46,upcoming,1980-01-27
+773,ISBN-100773,The Awakening 785,2,Science Fiction,Filipino,Hardcover,297,2276.32,214810,2.33,published,1981-01-06
+774,ISBN-100774,The Long Walk Home 165,4,Non-Fiction,French,Paperback,669,1807.39,53422,2.13,upcoming,1993-10-12
+775,ISBN-100775,Beyond the Clouds 23,26,Mystery,French,Audiobook,465,865.67,426676,4.75,out_of_print,2018-09-14
+776,ISBN-100776,A Thousand Miles 901,7,History,English,Audiobook,668,2159.87,97412,1.48,upcoming,2002-10-24
+777,ISBN-100777,The Burning Sky 119,8,Science Fiction,Filipino,Audiobook,320,1682.15,472600,2.83,published,2013-08-17
+778,ISBN-100778,The Awakening 939,8,Science Fiction,Japanese,Hardcover,290,2052.52,434214,1.27,published,1994-06-18
+779,ISBN-100779,The Final Chapter 212,19,Mystery,Filipino,Audiobook,871,1320.66,156259,3.55,out_of_print,2005-09-12
+780,ISBN-100780,The Long Walk Home 984,40,History,English,E-Book,810,1520.9,274142,3.99,out_of_print,2006-08-16
+781,ISBN-100781,A New Beginning 6,44,Science Fiction,Spanish,Paperback,848,1409.79,469811,2.01,out_of_print,1994-01-20
+782,ISBN-100782,Fragments of Hope 247,40,History,Spanish,E-Book,89,797.07,383892,4.78,out_of_print,1985-08-02
+783,ISBN-100783,The Wandering Soul 892,8,Science Fiction,Japanese,Paperback,150,297.91,65467,3.16,upcoming,1988-10-27
+784,ISBN-100784,Into the Unknown 340,45,Mystery,Japanese,E-Book,685,507.56,244752,1.3,published,1999-12-22
+785,ISBN-100785,Beyond the Clouds 863,47,Biography,Filipino,E-Book,648,2320.3,187447,1.81,published,2016-09-05
+786,ISBN-100786,The Long Walk Home 133,15,Mystery,English,E-Book,895,1024.62,37049,2.88,published,2023-09-29
+787,ISBN-100787,Shattered Illusions 486,29,Self-Help,Spanish,E-Book,369,1224.92,350371,1.72,upcoming,2015-04-16
+788,ISBN-100788,The Endless Road 400,41,History,Filipino,E-Book,456,1985.23,279455,3.82,published,1994-07-22
+789,ISBN-100789,The Long Walk Home 819,16,Self-Help,Filipino,E-Book,694,350.63,290165,3.46,out_of_print,1997-02-23
+790,ISBN-100790,Racing Against Time 2,3,History,Filipino,Hardcover,243,1421.06,313763,3.67,upcoming,1991-03-23
+791,ISBN-100791,Shadows of Tomorrow 784,2,Science Fiction,French,Audiobook,657,2263.95,61809,1.35,published,2019-06-08
+792,ISBN-100792,The Broken Mirror 309,34,Fantasy,Spanish,Paperback,827,2269.75,76694,3.17,published,2010-04-28
+793,ISBN-100793,Beneath the Surface 867,47,Biography,Spanish,Paperback,518,286.29,197870,1.94,out_of_print,2023-05-27
+794,ISBN-100794,The Unseen Path 772,37,Mystery,Japanese,Audiobook,327,1741.31,79979,4.95,published,2001-09-04
+795,ISBN-100795,When Stars Fall 465,26,Mystery,English,Paperback,823,1673.14,99929,2.3,upcoming,1985-07-02
+796,ISBN-100796,The Wandering Soul 651,33,Non-Fiction,Japanese,E-Book,842,2477.29,499689,3.46,published,1991-10-15
+797,ISBN-100797,Fragments of Hope 89,25,Biography,English,Audiobook,281,472.2,15707,1.05,out_of_print,2009-04-23
+798,ISBN-100798,Whispers of Time 243,29,Self-Help,Filipino,Audiobook,741,958.03,336060,4.6,published,2013-01-25
+799,ISBN-100799,Beyond the Clouds 57,37,Mystery,Japanese,Audiobook,832,750.42,10051,4.83,published,2008-02-12
+800,ISBN-100800,Whispers of Time 566,42,Fantasy,Japanese,Paperback,83,1013.78,334785,2.34,upcoming,2014-11-09
+801,ISBN-100801,The Golden Age 912,41,History,Spanish,Audiobook,882,1191.3,224724,4.04,out_of_print,2000-07-27
+802,ISBN-100802,Searching for Light 93,43,Science Fiction,Filipino,Hardcover,207,153.01,426272,4.29,published,2017-09-24
+803,ISBN-100803,The Awakening 615,38,Fantasy,English,E-Book,736,1989.61,243162,3.16,published,1991-06-01
+804,ISBN-100804,A Thousand Miles 509,30,Fiction,Filipino,Hardcover,759,187.7,145602,3.32,published,1990-07-01
+805,ISBN-100805,Beyond the Horizon 426,5,History,English,Hardcover,407,2419.36,199522,4.76,published,2001-01-22
+806,ISBN-100806,The Final Chapter 206,35,History,Filipino,Paperback,437,948.65,342577,3.31,upcoming,2009-12-24
+807,ISBN-100807,A Thousand Miles 895,4,Non-Fiction,English,Audiobook,722,1905.7,324851,4.5,published,1984-12-24
+808,ISBN-100808,The Empty Canvas 261,7,History,Filipino,Audiobook,100,541.12,26126,4.93,upcoming,2013-04-23
+809,ISBN-100809,The Awakening 395,26,Mystery,English,Audiobook,557,1977.91,318586,2.0,published,2000-07-11
+810,ISBN-100810,The Hidden Truth 221,29,Self-Help,French,Paperback,710,2013.92,295209,2.57,published,1985-10-06
+811,ISBN-100811,The Golden Age 665,39,History,Japanese,Hardcover,498,2432.14,357764,1.96,published,1983-11-01
+812,ISBN-100812,The Open Door 75,1,Science Fiction,Filipino,Hardcover,202,1595.44,390879,1.33,published,1986-08-16
+813,ISBN-100813,The Unfinished Story 508,24,Self-Help,French,Hardcover,358,2211.93,122458,2.22,published,2019-07-20
+814,ISBN-100814,The Golden Age 844,30,Fiction,Japanese,E-Book,468,284.6,428247,1.09,upcoming,1984-02-15
+815,ISBN-100815,The Empty Canvas 815,35,History,French,Hardcover,342,1250.72,126781,1.85,published,2013-05-15
+816,ISBN-100816,A New Beginning 597,2,Science Fiction,English,E-Book,193,2364.52,3931,3.26,out_of_print,1986-04-18
+817,ISBN-100817,Echoes in the Dark 260,18,History,Japanese,Paperback,652,2444.19,463570,3.66,published,2011-11-06
+818,ISBN-100818,Falling into Place 781,45,Mystery,Filipino,E-Book,649,2237.74,109002,1.34,published,2023-03-23
+819,ISBN-100819,The Silent Storm 981,11,Self-Help,French,Paperback,749,688.24,253836,4.34,upcoming,2023-04-28
+820,ISBN-100820,The Last Sunrise 142,15,Mystery,Japanese,Paperback,350,1224.68,459016,4.02,out_of_print,2006-05-05
+821,ISBN-100821,Shadows of Tomorrow 80,10,Fiction,Spanish,Hardcover,573,1619.05,287976,4.94,upcoming,2005-10-03
+822,ISBN-100822,The Wandering Soul 864,30,Fiction,Japanese,Paperback,749,1062.4,234993,2.54,published,1985-10-31
+823,ISBN-100823,The Awakening 863,30,Fiction,Filipino,E-Book,114,2018.66,181755,1.27,out_of_print,1986-06-20
+824,ISBN-100824,The Endless Road 241,4,Non-Fiction,Spanish,Hardcover,455,1261.58,392416,3.13,published,2018-12-26
+825,ISBN-100825,The Last Sunrise 451,22,Self-Help,Filipino,Paperback,98,1432.11,33776,1.67,upcoming,1989-08-08
+826,ISBN-100826,Echoes in the Dark 787,21,Fantasy,French,Paperback,563,890.66,370560,4.06,published,1988-07-24
+827,ISBN-100827,Fragments of Hope 239,35,History,Spanish,Paperback,517,1520.09,316521,1.0,upcoming,2012-04-18
+828,ISBN-100828,Shadows of Tomorrow 735,25,Biography,Filipino,E-Book,668,1806.05,261110,3.41,upcoming,2004-03-13
+829,ISBN-100829,The Empty Canvas 348,47,Biography,Japanese,Audiobook,761,1271.26,232365,3.08,published,1993-06-10
+830,ISBN-100830,A Thousand Miles 820,50,Self-Help,Filipino,Hardcover,528,1836.41,427628,2.89,published,2005-05-06
+831,ISBN-100831,Forgotten Dreams 650,7,History,Japanese,E-Book,622,1390.27,303348,2.52,published,2011-04-11
+832,ISBN-100832,The Turning Point 204,17,Fantasy,English,E-Book,438,2208.26,57761,1.84,published,2002-08-16
+833,ISBN-100833,Letters to Nobody 621,19,Mystery,Spanish,Audiobook,848,618.46,149099,1.94,published,2011-05-04
+834,ISBN-100834,The Unseen Path 485,14,Fantasy,Spanish,Paperback,380,1511.7,454367,1.56,published,1984-06-05
+835,ISBN-100835,Letters to Nobody 373,33,Non-Fiction,Spanish,E-Book,118,1909.99,302647,4.73,published,2023-01-24
+836,ISBN-100836,Racing Against Time 123,41,History,French,Audiobook,159,1079.77,455879,3.16,published,2002-11-19
+837,ISBN-100837,The Open Door 768,9,Non-Fiction,English,Hardcover,547,1805.51,310076,4.5,published,1996-07-24
+838,ISBN-100838,The Last Sunrise 642,39,History,Japanese,Hardcover,434,1647.25,319743,1.53,published,1992-08-31
+839,ISBN-100839,Shadows of Tomorrow 564,10,Fiction,French,Paperback,113,595.33,254248,3.2,published,2019-05-06
+840,ISBN-100840,A New Beginning 760,44,Science Fiction,Filipino,Hardcover,588,440.51,80491,3.94,out_of_print,2019-01-26
+841,ISBN-100841,The Empty Canvas 637,10,Fiction,Filipino,Audiobook,850,307.15,52295,4.35,published,2019-07-26
+842,ISBN-100842,Dark Reflections 223,15,Mystery,Japanese,Audiobook,326,1321.63,448966,4.43,published,1982-06-22
+843,ISBN-100843,Racing Against Time 982,44,Science Fiction,Japanese,Paperback,316,1389.59,166586,2.64,published,1996-03-20
+844,ISBN-100844,The Golden Age 812,50,Self-Help,English,Paperback,659,1664.79,403135,2.24,upcoming,2010-11-08
+845,ISBN-100845,Dark Reflections 32,18,History,Japanese,Hardcover,185,2287.18,275205,2.47,published,2011-03-09
+846,ISBN-100846,Racing Against Time 52,41,History,Spanish,Hardcover,837,1410.65,118572,2.84,published,2011-07-03
+847,ISBN-100847,The Endless Road 527,17,Fantasy,English,Audiobook,880,1457.85,37681,1.79,published,1997-07-06
+848,ISBN-100848,Racing Against Time 498,21,Fantasy,Spanish,Paperback,185,1026.54,16839,4.09,out_of_print,2018-04-11
+849,ISBN-100849,The Unfinished Story 751,29,Self-Help,Spanish,Paperback,264,233.26,112479,1.06,published,1991-07-10
+850,ISBN-100850,Searching for Light 770,23,Science Fiction,English,E-Book,839,924.37,145349,1.6,out_of_print,1994-06-05
+851,ISBN-100851,When Stars Fall 144,36,Mystery,Spanish,Paperback,81,1882.76,453575,2.55,published,2003-04-14
+852,ISBN-100852,The Last Sunrise 717,41,History,English,Hardcover,126,1452.89,83154,1.07,published,2015-06-03
+853,ISBN-100853,The Open Door 925,2,Science Fiction,Spanish,E-Book,634,1957.36,148129,2.51,published,2022-12-21
+854,ISBN-100854,When Stars Fall 870,14,Fantasy,Spanish,E-Book,205,2204.03,159453,1.4,published,2007-08-05
+855,ISBN-100855,Shadows of Tomorrow 848,45,Mystery,French,Hardcover,276,1362.34,339570,3.63,published,1996-10-04
+856,ISBN-100856,Beyond the Clouds 844,19,Mystery,Japanese,Hardcover,281,1426.83,282862,4.8,out_of_print,1981-03-05
+857,ISBN-100857,Through the Fire 272,29,Self-Help,Spanish,Paperback,156,2341.8,454780,1.32,upcoming,1980-09-21
+858,ISBN-100858,A Thousand Miles 914,2,Science Fiction,Spanish,Audiobook,179,1284.95,214439,3.72,upcoming,1982-08-09
+859,ISBN-100859,Beneath the Surface 784,33,Non-Fiction,Japanese,Paperback,101,2185.58,327340,1.3,out_of_print,1995-01-09
+860,ISBN-100860,The Unfinished Story 721,2,Science Fiction,English,Hardcover,481,1717.66,287544,1.38,out_of_print,2021-04-16
+861,ISBN-100861,A Thousand Miles 645,29,Self-Help,English,Paperback,311,1666.11,461025,3.2,out_of_print,1980-04-07
+862,ISBN-100862,The Broken Mirror 328,18,History,French,E-Book,761,286.97,21924,4.93,upcoming,1981-01-27
+863,ISBN-100863,The Burning Sky 488,37,Mystery,French,Hardcover,783,453.97,382470,1.63,out_of_print,1986-08-22
+864,ISBN-100864,The Final Chapter 290,2,Science Fiction,French,Audiobook,630,1532.16,289331,2.69,published,1999-05-12
+865,ISBN-100865,The Turning Point 630,22,Self-Help,Japanese,E-Book,510,2440.81,221658,2.88,upcoming,1980-08-02
+866,ISBN-100866,Echoes in the Dark 693,9,Non-Fiction,Japanese,Audiobook,588,1181.37,125315,3.03,published,1980-08-24
+867,ISBN-100867,Broken Silence 232,41,History,Filipino,Hardcover,180,985.74,193711,4.83,out_of_print,2012-04-29
+868,ISBN-100868,The Golden Age 339,12,Biography,Japanese,Audiobook,842,1308.58,260190,1.38,published,2022-07-17
+869,ISBN-100869,When Stars Fall 333,20,Self-Help,French,Audiobook,589,678.96,499026,3.27,published,1983-04-27
+870,ISBN-100870,Shadows of Tomorrow 894,44,Science Fiction,Spanish,Paperback,816,1945.73,102488,1.37,out_of_print,1985-05-18
+871,ISBN-100871,The Final Chapter 672,21,Fantasy,Spanish,Hardcover,798,1271.39,333109,1.41,published,1981-01-16
+872,ISBN-100872,The Broken Mirror 60,44,Science Fiction,English,E-Book,308,514.84,264711,4.71,published,1980-08-02
+873,ISBN-100873,Falling into Place 267,40,History,English,Paperback,775,1717.13,172434,3.25,out_of_print,1987-01-07
+874,ISBN-100874,The Unseen Path 670,41,History,French,Hardcover,256,2312.27,473726,3.7,upcoming,2011-09-06
+875,ISBN-100875,Whispers of Time 91,49,History,Spanish,Paperback,856,2030.05,177971,2.04,published,1994-05-04
+876,ISBN-100876,Through the Fire 198,46,Non-Fiction,English,Hardcover,127,2285.82,477331,2.61,upcoming,2005-07-09
+877,ISBN-100877,The Endless Road 442,43,Science Fiction,English,E-Book,784,2471.83,402840,1.38,upcoming,1994-07-19
+878,ISBN-100878,Shadows of Tomorrow 950,6,History,French,Hardcover,145,1354.32,115561,4.65,out_of_print,1991-12-19
+879,ISBN-100879,The Missing Piece 271,38,Fantasy,Spanish,E-Book,157,2215.55,434682,1.32,published,1994-03-22
+880,ISBN-100880,A Thousand Miles 18,22,Self-Help,Spanish,Paperback,664,1237.5,31652,3.86,upcoming,2013-08-10
+881,ISBN-100881,Echoes in the Dark 690,38,Fantasy,French,Audiobook,83,2275.48,471042,1.32,out_of_print,1989-04-13
+882,ISBN-100882,The Burning Sky 282,1,Science Fiction,English,E-Book,848,1452.23,451576,2.63,published,2005-03-02
+883,ISBN-100883,The Hidden Truth 722,30,Fiction,Filipino,E-Book,699,2112.61,166715,3.25,out_of_print,1987-08-16
+884,ISBN-100884,A New Beginning 841,25,Biography,Japanese,Audiobook,832,1649.3,174399,3.78,upcoming,1992-03-27
+885,ISBN-100885,The Burning Sky 709,31,Non-Fiction,Filipino,E-Book,397,1689.17,101681,4.18,upcoming,1993-09-18
+886,ISBN-100886,The Long Walk Home 587,12,Biography,Spanish,Paperback,752,482.54,303844,1.7,upcoming,1987-04-25
+887,ISBN-100887,Falling into Place 752,11,Self-Help,English,Audiobook,116,1109.0,99901,1.27,upcoming,2011-04-08
+888,ISBN-100888,The Long Walk Home 675,17,Fantasy,English,Paperback,469,238.37,395612,2.79,published,1990-01-31
+889,ISBN-100889,Falling into Place 587,27,Mystery,Japanese,Hardcover,262,624.08,99275,2.01,published,1996-05-10
+890,ISBN-100890,Racing Against Time 6,32,Self-Help,English,Hardcover,885,825.03,481703,2.33,upcoming,2011-10-15
+891,ISBN-100891,Shattered Illusions 793,17,Fantasy,Filipino,Hardcover,774,1236.94,54611,2.52,out_of_print,1995-09-27
+892,ISBN-100892,Forgotten Dreams 343,8,Science Fiction,Spanish,Audiobook,264,2173.15,281837,3.61,published,2005-03-07
+893,ISBN-100893,The Open Door 65,12,Biography,Japanese,E-Book,269,2445.63,413229,1.47,upcoming,1994-07-05
+894,ISBN-100894,Beyond the Horizon 681,36,Mystery,French,Audiobook,761,1552.43,422423,3.71,published,2020-08-11
+895,ISBN-100895,The Wandering Soul 373,32,Self-Help,Spanish,Audiobook,307,599.15,143750,4.72,published,1988-03-16
+896,ISBN-100896,The Turning Point 77,25,Biography,French,E-Book,836,1049.68,212500,3.14,out_of_print,2017-05-30
+897,ISBN-100897,The Unseen Path 81,19,Mystery,Filipino,Audiobook,777,1496.1,112308,2.41,published,2003-05-16
+898,ISBN-100898,A New Beginning 314,14,Fantasy,English,E-Book,443,1952.03,33684,2.76,published,1989-03-08
+899,ISBN-100899,Echoes in the Dark 772,43,Science Fiction,French,Paperback,599,1627.68,400544,4.3,out_of_print,1992-02-05
+900,ISBN-100900,Voices from the Past 926,42,Fantasy,Filipino,E-Book,144,1351.39,291529,3.99,published,1998-07-31
+901,ISBN-100901,Beneath the Surface 273,39,History,English,Hardcover,267,2276.55,343158,1.34,published,2023-06-28
+902,ISBN-100902,The Long Walk Home 363,3,History,Filipino,Hardcover,255,710.56,239357,3.63,upcoming,1998-09-17
+903,ISBN-100903,Falling into Place 93,39,History,Japanese,E-Book,115,2099.99,177654,3.17,published,2011-10-04
+904,ISBN-100904,Broken Silence 772,46,Non-Fiction,Filipino,Hardcover,733,794.17,375578,2.45,upcoming,1994-03-21
+905,ISBN-100905,The Lost Kingdom 222,39,History,Japanese,Paperback,227,2270.0,133088,2.43,published,2012-08-29
+906,ISBN-100906,Searching for Light 102,40,History,French,E-Book,348,918.14,388956,3.86,published,2014-06-29
+907,ISBN-100907,Beyond the Clouds 477,32,Self-Help,English,Audiobook,634,2200.55,178883,5.0,upcoming,2003-08-20
+908,ISBN-100908,Falling into Place 585,37,Mystery,Spanish,Hardcover,787,2347.26,265448,2.34,upcoming,1986-09-29
+909,ISBN-100909,Searching for Light 21,2,Science Fiction,English,E-Book,870,1601.79,216799,4.2,published,1981-04-08
+910,ISBN-100910,Echoes in the Dark 300,29,Self-Help,Filipino,Hardcover,342,790.24,22816,4.69,out_of_print,2015-06-03
+911,ISBN-100911,The Missing Piece 511,29,Self-Help,Spanish,E-Book,507,1598.94,82867,2.71,out_of_print,2006-05-11
+912,ISBN-100912,The Lost Kingdom 994,38,Fantasy,French,E-Book,140,229.35,231842,4.23,published,1997-02-26
+913,ISBN-100913,Beneath the Surface 762,24,Self-Help,Filipino,Hardcover,711,2077.26,76669,2.06,published,1999-06-13
+914,ISBN-100914,The Unfinished Story 270,32,Self-Help,Filipino,Paperback,608,1326.6,282602,2.07,upcoming,1988-07-15
+915,ISBN-100915,The Unseen Path 760,45,Mystery,English,Paperback,268,2490.29,166430,4.24,published,1982-05-04
+916,ISBN-100916,Into the Unknown 874,28,Fiction,Japanese,Hardcover,790,1588.58,327848,4.87,published,1995-07-15
+917,ISBN-100917,The Silent Storm 699,41,History,Spanish,Audiobook,455,447.8,412496,4.62,published,1991-03-30
+918,ISBN-100918,The Turning Point 106,23,Science Fiction,Filipino,Hardcover,467,1865.5,190762,1.27,upcoming,2002-06-29
+919,ISBN-100919,The Final Chapter 663,11,Self-Help,Spanish,Audiobook,611,612.48,52333,2.23,out_of_print,2004-07-08
+920,ISBN-100920,Echoes in the Dark 612,47,Biography,Japanese,E-Book,348,1270.85,44018,2.07,published,1995-02-02
+921,ISBN-100921,Falling into Place 346,36,Mystery,Spanish,Audiobook,171,2276.37,303613,2.3,published,2019-12-12
+922,ISBN-100922,Beyond the Horizon 627,42,Fantasy,Japanese,Audiobook,839,1338.79,121232,2.4,published,1986-06-29
+923,ISBN-100923,The Unfinished Story 511,16,Self-Help,Japanese,Hardcover,552,2315.03,118232,2.04,out_of_print,1985-03-26
+924,ISBN-100924,The Broken Mirror 36,43,Science Fiction,Filipino,Hardcover,659,542.16,409434,1.45,upcoming,1994-04-10
+925,ISBN-100925,The Missing Piece 854,31,Non-Fiction,Filipino,Audiobook,237,2136.9,10429,4.96,published,1988-11-20
+926,ISBN-100926,Falling into Place 830,5,History,Japanese,E-Book,189,1493.48,148679,4.4,published,1983-09-03
+927,ISBN-100927,A New Beginning 755,10,Fiction,Filipino,Hardcover,459,836.62,246044,4.59,published,1980-10-16
+928,ISBN-100928,The Turning Point 367,47,Biography,Japanese,Audiobook,740,550.01,57333,1.63,published,1999-09-11
+929,ISBN-100929,The Unseen Path 408,47,Biography,Japanese,Paperback,132,597.93,15552,2.27,upcoming,2011-03-02
+930,ISBN-100930,Forgotten Dreams 158,15,Mystery,English,E-Book,882,560.74,466165,4.73,published,2003-07-01
+931,ISBN-100931,The Missing Piece 135,35,History,English,E-Book,181,2145.94,23071,4.77,out_of_print,2017-11-09
+932,ISBN-100932,Shattered Illusions 527,28,Fiction,French,Paperback,197,1867.89,306198,2.16,published,1987-07-10
+933,ISBN-100933,Falling into Place 373,14,Fantasy,Spanish,Hardcover,506,1367.08,356045,3.52,published,1993-12-20
+934,ISBN-100934,The Endless Road 639,30,Fiction,French,Paperback,264,206.67,141351,3.58,published,2021-12-05
+935,ISBN-100935,The Long Walk Home 794,22,Self-Help,French,Hardcover,444,596.95,200625,3.4,published,1982-02-01
+936,ISBN-100936,Fragments of Hope 613,24,Self-Help,Spanish,Paperback,805,179.89,345085,2.51,upcoming,2010-02-15
+937,ISBN-100937,The Open Door 96,37,Mystery,English,Hardcover,761,204.54,104350,3.78,published,1996-08-25
+938,ISBN-100938,Beyond the Clouds 625,34,Fantasy,English,Paperback,867,1383.18,214143,3.02,published,2003-10-27
+939,ISBN-100939,The Turning Point 275,49,History,Japanese,E-Book,375,735.66,73664,2.05,published,1994-05-08
+940,ISBN-100940,A Thousand Miles 636,16,Self-Help,French,Hardcover,582,1052.57,228132,2.04,upcoming,2004-12-07
+941,ISBN-100941,The Burning Sky 331,21,Fantasy,French,Paperback,122,2134.96,313007,1.38,upcoming,2012-11-23
+942,ISBN-100942,The Unseen Path 265,27,Mystery,Spanish,E-Book,440,2401.02,131435,4.06,upcoming,2017-12-21
+943,ISBN-100943,The Awakening 813,21,Fantasy,English,Hardcover,413,1080.2,314298,2.8,out_of_print,1985-08-21
+944,ISBN-100944,Fragments of Hope 841,18,History,English,Paperback,688,756.61,367501,1.38,out_of_print,1985-12-11
+945,ISBN-100945,A Thousand Miles 481,3,History,Japanese,Audiobook,259,2398.29,284365,4.7,published,2008-03-19
+946,ISBN-100946,Echoes in the Dark 998,9,Non-Fiction,Spanish,Hardcover,321,187.48,482687,2.68,published,1990-06-20
+947,ISBN-100947,The Broken Mirror 856,1,Science Fiction,Spanish,E-Book,840,1721.71,70078,4.98,upcoming,2004-05-05
+948,ISBN-100948,The Broken Mirror 98,45,Mystery,English,Audiobook,388,2230.82,400588,2.49,published,2013-03-12
+949,ISBN-100949,When Stars Fall 64,17,Fantasy,Spanish,Hardcover,690,1545.86,427592,1.61,published,2009-12-21
+950,ISBN-100950,Shadows of Tomorrow 677,27,Mystery,French,E-Book,794,2050.78,459652,1.42,published,2011-01-09
+951,ISBN-100951,Letters to Nobody 10,18,History,French,Audiobook,894,1045.67,66441,2.76,upcoming,2003-02-10
+952,ISBN-100952,The Long Walk Home 460,42,Fantasy,Japanese,E-Book,626,726.31,299386,2.34,published,2018-05-23
+953,ISBN-100953,Broken Silence 409,49,History,Japanese,E-Book,87,541.6,10595,1.18,published,2019-09-18
+954,ISBN-100954,The Perfect Storm 654,2,Science Fiction,Filipino,E-Book,623,578.31,486652,1.99,published,1990-07-11
+955,ISBN-100955,The Long Walk Home 354,4,Non-Fiction,Japanese,Audiobook,861,2280.71,236450,1.58,upcoming,2005-04-10
+956,ISBN-100956,The Unfinished Story 673,50,Self-Help,Spanish,Hardcover,799,2143.54,138159,3.77,published,1997-09-12
+957,ISBN-100957,A New Beginning 695,5,History,Japanese,Paperback,111,1145.15,452211,2.24,out_of_print,1985-07-03
+958,ISBN-100958,Dark Reflections 259,34,Fantasy,English,Paperback,336,409.65,334103,2.61,published,1996-07-02
+959,ISBN-100959,Searching for Light 321,44,Science Fiction,Filipino,Audiobook,448,2259.84,235501,1.27,out_of_print,1986-12-08
+960,ISBN-100960,The Endless Road 6,30,Fiction,English,E-Book,549,1658.36,273371,2.81,upcoming,2000-10-17
+961,ISBN-100961,Fragments of Hope 793,17,Fantasy,English,Audiobook,215,799.48,98482,3.77,out_of_print,1987-01-09
+962,ISBN-100962,The Unfinished Story 89,17,Fantasy,French,Paperback,809,2342.48,195898,4.87,published,2012-05-14
+963,ISBN-100963,The Perfect Storm 970,12,Biography,Japanese,Paperback,369,1276.29,274059,1.87,published,2010-07-01
+964,ISBN-100964,Shadows of Tomorrow 217,23,Science Fiction,Spanish,E-Book,163,1627.51,281178,1.23,published,1996-02-24
+965,ISBN-100965,The Unseen Path 212,20,Self-Help,Japanese,Hardcover,173,1582.45,214412,3.17,published,1983-11-16
+966,ISBN-100966,The Lost Kingdom 287,13,Self-Help,English,Paperback,568,1017.17,251749,2.29,out_of_print,1987-12-05
+967,ISBN-100967,Beyond the Horizon 165,50,Self-Help,Japanese,Paperback,832,1168.36,154186,4.54,published,1984-02-20
+968,ISBN-100968,The Golden Age 474,43,Science Fiction,Filipino,Paperback,174,465.93,36624,3.97,published,1996-03-14
+969,ISBN-100969,The Burning Sky 642,25,Biography,French,E-Book,227,1953.12,130216,3.02,published,1984-08-03
+970,ISBN-100970,A Thousand Miles 232,43,Science Fiction,French,Audiobook,664,1983.67,406510,3.06,out_of_print,2008-12-09
+971,ISBN-100971,A Thousand Miles 289,46,Non-Fiction,English,Hardcover,756,340.71,114404,4.65,upcoming,2006-01-23
+972,ISBN-100972,The Perfect Storm 350,28,Fiction,Japanese,Hardcover,113,2298.08,496157,3.95,published,2022-06-06
+973,ISBN-100973,The Empty Canvas 261,22,Self-Help,English,Audiobook,158,1891.22,394376,3.14,published,2023-06-17
+974,ISBN-100974,The Unfinished Story 117,4,Non-Fiction,Spanish,Paperback,549,709.39,184418,1.67,upcoming,2011-03-03
+975,ISBN-100975,Shadows of Tomorrow 703,17,Fantasy,French,Paperback,108,160.5,407631,4.94,published,2010-12-31
+976,ISBN-100976,The Burning Sky 832,42,Fantasy,Japanese,E-Book,763,1814.83,296874,4.42,upcoming,2011-08-07
+977,ISBN-100977,The Endless Road 273,23,Science Fiction,Spanish,Hardcover,684,1597.07,44671,1.21,out_of_print,2021-12-16
+978,ISBN-100978,A New Beginning 396,47,Biography,English,Paperback,394,2080.47,223944,1.21,published,1995-05-29
+979,ISBN-100979,The Turning Point 148,7,History,French,Audiobook,605,2165.68,102881,3.13,published,2007-12-22
+980,ISBN-100980,Beyond the Horizon 706,44,Science Fiction,Spanish,Paperback,628,1699.02,406371,2.71,out_of_print,2000-05-17
+981,ISBN-100981,Dark Reflections 614,46,Non-Fiction,English,Audiobook,192,2449.21,46273,1.2,out_of_print,2004-10-08
+982,ISBN-100982,Beneath the Surface 365,4,Non-Fiction,Spanish,Audiobook,86,442.98,181653,3.81,published,2003-04-14
+983,ISBN-100983,Forgotten Dreams 357,42,Fantasy,Spanish,E-Book,107,898.3,378718,1.43,published,1993-05-23
+984,ISBN-100984,The Endless Road 355,22,Self-Help,Spanish,Hardcover,292,1084.57,324248,1.65,published,2022-05-02
+985,ISBN-100985,Beneath the Surface 235,6,History,English,Hardcover,884,2082.91,118300,4.78,out_of_print,2008-11-21
+986,ISBN-100986,Searching for Light 237,4,Non-Fiction,Spanish,Audiobook,276,542.77,29414,2.58,published,2019-12-26
+987,ISBN-100987,The Turning Point 733,17,Fantasy,French,Audiobook,591,306.11,186726,4.56,published,1980-08-19
+988,ISBN-100988,The Hidden Truth 122,2,Science Fiction,French,Hardcover,595,211.82,190026,4.66,upcoming,2012-05-24
+989,ISBN-100989,The Last Sunrise 383,50,Self-Help,English,Paperback,197,1254.7,228749,2.85,out_of_print,2002-01-11
+990,ISBN-100990,When Stars Fall 642,34,Fantasy,Spanish,Audiobook,575,1423.9,222615,3.65,published,1985-09-03
+991,ISBN-100991,The Unfinished Story 998,6,History,Spanish,Paperback,328,1089.59,268165,1.65,upcoming,1987-12-18
+992,ISBN-100992,Beyond the Clouds 87,18,History,English,E-Book,672,1767.47,419173,4.28,upcoming,2023-09-27
+993,ISBN-100993,The Awakening 253,32,Self-Help,Filipino,Paperback,611,694.92,164386,1.5,published,2014-12-03
+994,ISBN-100994,The Last Sunrise 528,22,Self-Help,Japanese,E-Book,682,1494.81,299242,2.35,upcoming,1985-09-19
+995,ISBN-100995,A Thousand Miles 219,32,Self-Help,Filipino,E-Book,153,2286.06,203131,3.72,out_of_print,1993-11-02
+996,ISBN-100996,The Missing Piece 989,45,Mystery,Filipino,Paperback,272,1626.96,432155,2.8,published,2002-07-16
+997,ISBN-100997,Racing Against Time 270,26,Mystery,French,E-Book,733,1386.56,379487,3.65,out_of_print,1986-05-25
+998,ISBN-100998,Into the Unknown 189,7,History,Filipino,E-Book,325,312.81,391406,1.9,published,2015-10-26
+999,ISBN-100999,Into the Unknown 790,7,History,Spanish,E-Book,150,806.73,263556,1.58,upcoming,2003-09-30
+1000,ISBN-101000,Echoes in the Dark 502,18,History,French,Hardcover,717,1936.92,17132,4.77,published,2011-10-24

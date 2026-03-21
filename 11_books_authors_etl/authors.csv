@@ -1,0 +1,51 @@
+author_id,author_name,nationality,primary_genre,birth_date,debut_date,books_published,total_sales,status
+1,Jose Rizal,British,Science Fiction,1975-08-29,1993-08-06,41,73045.09,active
+2,Nick Joaquin,Canadian,Science Fiction,1970-08-17,1999-09-13,15,4958711.18,active
+3,F. Sionil Jose,American,History,1952-08-12,1979-10-19,27,1619077.9,retired
+4,Lualhati Bautista,American,Non-Fiction,1952-07-06,1973-01-19,30,4125135.75,active
+5,Bob Ong,American,History,1945-05-30,1962-07-11,13,1097625.91,active
+6,Stephen King,Australian,History,1961-02-08,1989-04-27,34,126152.72,retired
+7,J.K. Rowling,Canadian,History,1973-11-29,1999-01-29,33,339091.22,active
+8,George Orwell,American,Science Fiction,1974-04-22,1988-04-19,28,4381654.29,active
+9,Agatha Christie,Australian,Non-Fiction,1951-12-02,1967-12-09,25,1429761.82,active
+10,Malcolm Gladwell,Australian,Fiction,1978-12-28,2000-11-15,30,3529594.77,deceased
+11,Paulo Coelho,Australian,Self-Help,1969-05-16,1996-08-04,11,1734786.99,retired
+12,Haruki Murakami,Australian,Biography,1986-08-06,2017-03-23,27,2378897.66,active
+13,Gabriel Marquez,American,Self-Help,1978-12-02,2010-07-16,23,173260.82,active
+14,Toni Morrison,Canadian,Fantasy,1961-08-11,1986-11-01,6,2776310.4,active
+15,Ernest Hemingway,British,Mystery,1952-08-30,1967-01-23,43,1105175.1,active
+16,Virginia Woolf,American,Self-Help,1979-02-21,2003-06-04,3,4858164.51,deceased
+17,Franz Kafka,Canadian,Fantasy,1952-02-25,1982-06-27,44,3074165.65,active
+18,Albert Camus,British,History,1948-01-26,1977-05-13,13,1342049.66,active
+19,Leo Tolstoy,American,Mystery,1943-10-29,1964-10-28,45,1952655.18,deceased
+20,Fyodor Dostoevsky,Australian,Self-Help,1956-04-04,1980-08-09,37,3451217.36,retired
+21,Anton Chekhov,Filipino,Fantasy,1962-02-15,1991-03-10,24,4961301.58,retired
+22,James Joyce,Canadian,Self-Help,1972-04-24,1994-04-14,45,3183612.67,deceased
+23,Oscar Wilde,Canadian,Science Fiction,1969-11-24,1997-01-11,20,971126.2,active
+24,Mark Twain,British,Self-Help,1967-01-23,1991-11-15,34,3677019.13,deceased
+25,Charles Dickens,Filipino,Biography,1977-08-24,1995-12-11,9,85631.69,active
+26,Jane Austen,British,Mystery,1980-05-21,2003-03-08,21,2261196.29,active
+27,Emily Bronte,American,Mystery,1982-11-26,2010-12-29,11,3378988.57,active
+28,Herman Melville,Australian,Fiction,1970-01-11,1998-12-10,8,1534111.92,active
+29,Victor Hugo,Australian,Self-Help,1960-04-22,1981-07-24,17,4710492.82,active
+30,Alexandre Dumas,Canadian,Fiction,1974-06-30,1996-11-06,20,2639403.76,active
+31,Honoré Balzac,Filipino,Non-Fiction,1946-06-23,1969-01-08,10,1579711.74,active
+32,Gustave Flaubert,British,Self-Help,1984-11-14,2016-04-09,29,3730111.49,retired
+33,Edgar Poe,American,Non-Fiction,1978-06-21,1994-11-15,27,1544378.65,active
+34,H.G. Wells,British,Fantasy,1966-06-06,1988-08-10,21,4973101.85,active
+35,Jules Verne,Australian,History,1956-01-02,1978-01-06,40,1069595.55,active
+36,Arthur Doyle,British,Mystery,1967-10-02,1983-05-10,34,3547692.23,active
+37,Rudyard Kipling,Canadian,Mystery,1976-02-16,1990-04-18,28,585338.2,active
+38,Walt Whitman,Australian,Fantasy,1942-02-11,1965-10-09,43,1471821.83,deceased
+39,Emily Dickinson,Filipino,History,1963-05-05,1985-05-07,13,1607647.02,active
+40,Robert Frost,Australian,History,1970-07-26,1990-12-23,35,2733786.98,active
+41,Alfred Tennyson,British,History,1941-05-20,1962-09-30,24,2907461.19,deceased
+42,William Shakespeare,American,Fantasy,1954-11-19,1984-06-12,3,417373.59,retired
+43,John Milton,Australian,Science Fiction,1943-11-22,1966-03-01,9,556459.25,active
+44,Thomas Hardy,British,Science Fiction,1977-11-09,2008-09-12,32,1138664.86,active
+45,Samuel Coleridge,Canadian,Mystery,1969-02-20,1987-09-28,2,4509999.55,active
+46,Percy Shelley,British,Non-Fiction,1963-08-21,1985-04-01,38,1063040.86,active
+47,George Eliot,British,Biography,1970-08-29,1999-09-01,31,1858835.06,active
+48,Lord Byron,Australian,Mystery,1985-08-04,2000-12-28,11,3271678.46,retired
+49,Oliver Goldsmith,Australian,History,1983-08-07,2016-01-07,14,4716885.97,active
+50,Charlotte Bronte,Canadian,Self-Help,1950-05-04,1964-05-23,9,3282694.13,retired
