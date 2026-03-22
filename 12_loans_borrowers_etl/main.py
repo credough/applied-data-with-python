@@ -25,7 +25,7 @@ def main ():
  print("\nHigh risk borrowers almost done paying:")
  print(df[(df["is_high_risk"] == True) & (df["repayment_status"] == "Almost Paid")][
             ["loan_code", "full_name", "loan_amount", "remaining_balance",
-            "repayment_pct", "loan_risk", "credit_rating"]
+            "repayment_%", "loan_risk", "credit_rating"]
         ])
 
 if __name__ == "__main__":

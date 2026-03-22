@@ -15,7 +15,7 @@ def transform(df_loans, df_borrowers):
     #date arithmetic (loan duration in years)
     df["loan_duration_years"] = (((df["end_date"] - df["start_date"]).dt.days) / 365).round(1)
     #date arithmetic (days remaining until loan ends) (fixed rereference date)
-    today = pd.Timestamp("2024-31-12")
+    today = pd.Timestamp("2024-12-31")
     df["days_remaining"] = (df["end_date"] - today).dt.days
     #add derived column- remaining balance (loan - paid)
     df["remaining_balance"] = df["loan_amount"] - df["amount_paid"]
@@ -30,9 +30,9 @@ def transform(df_loans, df_borrowers):
             score += 2
         elif row["credit_rating"] == "Fair":
             score += 1
-        if row["credit_rating"] == 0:
+        if row["existing_loans"] == 0:
             score += 1
-        elif row["credit_rating"] <= 2:
+        elif row["existing_loans"] <= 2:
             score +=2
         if score >= 4:
             return "Low Risk"
@@ -57,7 +57,7 @@ def transform(df_loans, df_borrowers):
         else:
             return "critical"
         
-    df["debt_burder"] = df.apply(debt_burden, axis=1)
+    df["debt_burden"] = df.apply(debt_burden, axis=1)
 
     #Classify repayment status
     def repayment_pct(x):
@@ -73,11 +73,11 @@ def transform(df_loans, df_borrowers):
     df["repayment_status"] = df["repayment_%"].apply(repayment_pct)
 
     #Boolean flags
-    df["is_overdue"] = (df["status" == "active"]) & (df["days_remaining"] < 0)
+    df["is_overdue"] = (df["status"] == "active") & (df["days_remaining"] < 0)
     df["is_high_risk"] = df["loan_risk"] == "HIgh Risk"
     df["is_large_loan"] = df["loan_amount"] > 1000000
-    df["is_critical_burden"] = df["debt_burdern"] == "critical"
+    df["is_critical_burden"] = df["debt_burden"] == "critical"
     #Filter: exclude paid loans
     df = df[df["status"] != "paid"]
-    
+
     return df
