@@ -1,0 +1,101 @@
+borrower_id,borrower_code,full_name,age,occupation,monthly_income,credit_rating,region,registration_date,existing_loans
+1,BRW-1001,Carmen Morales,55,Self-Employed,144798.63,Poor,Region III,2018-08-27,2
+2,BRW-1002,Juan Garcia,28,Self-Employed,120207.5,Fair,Region VII,2018-07-25,4
+3,BRW-1003,Miguel Mendoza,43,Government Worker,28607.38,Good,NCR,2019-08-03,4
+4,BRW-1004,Carlo Ortiz,27,Employee,64950.29,Fair,NCR,2019-10-08,2
+5,BRW-1005,Miguel Lim,51,Self-Employed,103079.7,Good,Region IV-A,2019-01-26,5
+6,BRW-1006,Rachel Santos,23,Freelancer,139637.61,Excellent,Region IV-A,2021-10-24,2
+7,BRW-1007,Lucia Gomez,58,Self-Employed,163363.03,Poor,Region VII,2018-11-05,5
+8,BRW-1008,Rosa Castro,23,Self-Employed,66424.37,Excellent,Region X,2018-01-20,4
+9,BRW-1009,Elena Ramos,39,Government Worker,199013.11,Good,Region VII,2020-01-01,0
+10,BRW-1010,Rosa Mendoza,28,Employee,170040.46,Poor,NCR,2021-05-27,5
+11,BRW-1011,Sofia Diaz,28,Employee,41396.25,Fair,NCR,2021-08-08,2
+12,BRW-1012,Carlo dela Cruz,48,Government Worker,65673.79,Good,NCR,2021-11-10,2
+13,BRW-1013,Lucia Villanueva,25,Business Owner,199367.09,Poor,NCR,2021-05-13,2
+14,BRW-1014,Lucia Go,46,Freelancer,89570.99,Excellent,Region IV-A,2021-01-25,2
+15,BRW-1015,Paolo Bautista,63,Freelancer,39496.15,Fair,Region VII,2020-06-23,0
+16,BRW-1016,Mark Ortiz,29,Government Worker,66540.02,Fair,Region III,2020-12-28,0
+17,BRW-1017,Rachel Ramos,52,Freelancer,28506.87,Good,Region VII,2019-07-11,2
+18,BRW-1018,Paolo Garcia,59,Business Owner,82666.25,Fair,Region VII,2018-08-20,1
+19,BRW-1019,Juan Reyes,46,Freelancer,188530.17,Poor,Region X,2021-10-31,5
+20,BRW-1020,Rafael Gomez,35,Self-Employed,55825.72,Excellent,Region IV-A,2021-11-17,2
+21,BRW-1021,Juan Ramos,65,Self-Employed,54195.81,Good,Region X,2018-09-22,0
+22,BRW-1022,Carlo Lim,27,Employee,87404.59,Fair,Region VII,2020-10-23,1
+23,BRW-1023,Mark Aquino,64,Business Owner,129551.14,Fair,Region X,2018-05-17,2
+24,BRW-1024,Juan Santos,34,Self-Employed,36673.15,Excellent,Region III,2018-02-02,4
+25,BRW-1025,Ana Aquino,48,Freelancer,144130.09,Fair,Region III,2019-07-14,4
+26,BRW-1026,Mark Bautista,40,Self-Employed,63722.97,Good,Region VII,2020-04-08,1
+27,BRW-1027,Lisa Gomez,52,Government Worker,102386.45,Poor,Region VII,2019-09-01,3
+28,BRW-1028,Lucia Gomez,28,Government Worker,163377.55,Good,Region IV-A,2019-07-25,1
+29,BRW-1029,Lucia Aquino,43,Freelancer,22660.42,Poor,Region IV-A,2019-04-06,0
+30,BRW-1030,Mark Ramos,65,Self-Employed,95861.24,Fair,NCR,2018-01-10,1
+31,BRW-1031,Kevin Mendoza,63,Freelancer,146435.35,Poor,NCR,2019-11-27,4
+32,BRW-1032,Diego Santos,39,Government Worker,46100.72,Fair,NCR,2019-04-01,2
+33,BRW-1033,Nina Santos,63,Employee,103291.77,Fair,Region VII,2021-11-19,0
+34,BRW-1034,Nina Gomez,37,Government Worker,26462.59,Excellent,Region IV-A,2019-04-18,0
+35,BRW-1035,Maria Santos,22,Government Worker,117109.92,Fair,Region VII,2021-12-31,0
+36,BRW-1036,Elena Mendoza,49,Government Worker,57352.51,Poor,NCR,2021-12-12,0
+37,BRW-1037,Juan Flores,22,Employee,168226.36,Excellent,Region X,2021-02-16,1
+38,BRW-1038,Sofia Ortiz,56,Employee,95304.26,Poor,Region VII,2021-11-19,4
+39,BRW-1039,Rafael Tan,25,Government Worker,113586.06,Good,Region III,2018-08-19,0
+40,BRW-1040,Mark Villanueva,38,Business Owner,57982.71,Excellent,Region X,2021-01-02,4
+41,BRW-1041,Miguel Ramos,22,Employee,76427.3,Poor,Region VII,2020-05-13,1
+42,BRW-1042,Juan Flores,36,Business Owner,51390.08,Poor,Region IV-A,2021-03-10,3
+43,BRW-1043,Jose Santos,46,Government Worker,75377.89,Fair,Region X,2021-07-22,2
+44,BRW-1044,Nina Santos,51,Government Worker,156073.24,Excellent,Region IV-A,2022-01-01,2
+45,BRW-1045,Rachel Go,57,Freelancer,125818.25,Excellent,Region X,2019-03-12,0
+46,BRW-1046,Kevin Diaz,40,Self-Employed,59231.13,Fair,Region III,2021-10-12,2
+47,BRW-1047,Juan dela Cruz,55,Government Worker,30956.46,Good,Region X,2020-08-24,1
+48,BRW-1048,Elena Tan,52,Government Worker,196784.25,Fair,Region III,2019-09-09,3
+49,BRW-1049,Lisa Ramos,60,Employee,89009.13,Fair,Region IV-A,2020-11-30,0
+50,BRW-1050,Maria Reyes,56,Freelancer,79468.12,Poor,Region IV-A,2018-02-16,5
+51,BRW-1051,Nina dela Cruz,31,Freelancer,62897.87,Excellent,Region IV-A,2022-02-03,4
+52,BRW-1052,Carlo dela Cruz,41,Business Owner,87186.52,Excellent,Region III,2021-08-06,0
+53,BRW-1053,Antonio Villanueva,33,Self-Employed,71887.24,Fair,Region VII,2018-03-08,3
+54,BRW-1054,Lisa Rivera,54,Employee,30892.48,Poor,Region III,2019-09-06,0
+55,BRW-1055,Antonio Flores,49,Self-Employed,158349.45,Good,Region IV-A,2021-10-25,5
+56,BRW-1056,Rosa Flores,22,Government Worker,43221.78,Poor,Region IV-A,2022-01-28,4
+57,BRW-1057,Miguel Santos,57,Freelancer,162198.85,Fair,NCR,2021-05-04,5
+58,BRW-1058,Rafael Rivera,27,Government Worker,78071.13,Poor,NCR,2018-12-26,5
+59,BRW-1059,Lisa Lim,53,Self-Employed,184932.26,Excellent,NCR,2018-04-15,5
+60,BRW-1060,Carlo Santos,32,Employee,38377.37,Poor,Region IV-A,2019-06-06,0
+61,BRW-1061,Kevin Morales,60,Self-Employed,20753.24,Poor,NCR,2021-02-06,0
+62,BRW-1062,Nina Lim,50,Self-Employed,83687.51,Fair,Region IV-A,2021-01-05,1
+63,BRW-1063,Carlo Diaz,23,Business Owner,23881.92,Fair,Region VII,2019-05-08,2
+64,BRW-1064,Antonio Ramos,39,Self-Employed,19660.96,Fair,Region X,2020-08-10,1
+65,BRW-1065,Jose Bautista,42,Employee,182422.52,Good,NCR,2022-01-31,4
+66,BRW-1066,Juan Rivera,39,Employee,124081.29,Poor,Region III,2020-06-08,5
+67,BRW-1067,Carlo Gomez,63,Government Worker,135359.71,Excellent,Region III,2018-03-30,1
+68,BRW-1068,Rosa Reyes,59,Employee,159421.38,Fair,NCR,2021-09-27,5
+69,BRW-1069,Carmen Lim,59,Business Owner,143577.81,Good,Region III,2019-12-06,1
+70,BRW-1070,Lisa Rivera,60,Employee,189217.12,Fair,Region IV-A,2018-11-21,5
+71,BRW-1071,Carlo Garcia,29,Freelancer,190112.45,Excellent,Region VII,2020-12-09,0
+72,BRW-1072,Lisa Garcia,60,Self-Employed,21772.67,Excellent,Region IV-A,2022-01-08,3
+73,BRW-1073,Diego Torres,33,Business Owner,58824.35,Excellent,Region IV-A,2018-12-15,5
+74,BRW-1074,Nina Rivera,35,Government Worker,147664.29,Fair,Region III,2018-04-20,0
+75,BRW-1075,Rachel Santos,53,Government Worker,17008.4,Fair,NCR,2019-09-03,3
+76,BRW-1076,Carmen Rivera,57,Government Worker,95059.45,Poor,Region IV-A,2021-01-17,5
+77,BRW-1077,Diego Morales,47,Employee,21431.71,Poor,Region VII,2020-05-25,5
+78,BRW-1078,Lucia Rivera,47,Freelancer,95534.86,Good,Region VII,2019-05-02,0
+79,BRW-1079,Kevin Bautista,32,Freelancer,41476.37,Excellent,Region VII,2020-11-20,0
+80,BRW-1080,Sofia Morales,53,Government Worker,198300.06,Poor,Region VII,2019-06-11,0
+81,BRW-1081,Rosa Morales,34,Self-Employed,29832.59,Fair,Region VII,2018-05-06,1
+82,BRW-1082,Jose Aquino,51,Employee,79658.97,Good,Region IV-A,2018-02-17,3
+83,BRW-1083,Sofia Ramos,45,Business Owner,182258.78,Good,Region III,2021-10-14,0
+84,BRW-1084,Rosa Mendoza,46,Employee,92523.76,Poor,Region VII,2020-01-12,4
+85,BRW-1085,Paolo Gomez,53,Self-Employed,44810.88,Fair,NCR,2021-10-12,3
+86,BRW-1086,Juan Garcia,47,Government Worker,71018.94,Good,Region IV-A,2020-07-03,3
+87,BRW-1087,Sofia Mendoza,31,Freelancer,188572.59,Fair,Region III,2019-03-12,5
+88,BRW-1088,Paolo Gomez,45,Self-Employed,26419.57,Poor,Region VII,2019-05-28,4
+89,BRW-1089,Juan Reyes,50,Business Owner,133794.01,Fair,Region X,2018-05-31,4
+90,BRW-1090,Juan Aquino,36,Self-Employed,177845.39,Excellent,Region X,2019-04-29,2
+91,BRW-1091,Rachel Ramos,48,Employee,176257.01,Excellent,NCR,2019-11-26,1
+92,BRW-1092,Lucia Ramos,30,Government Worker,127629.17,Fair,Region III,2020-08-27,5
+93,BRW-1093,Rosa Castro,58,Business Owner,173141.94,Excellent,Region IV-A,2018-02-24,1
+94,BRW-1094,Lisa Reyes,55,Employee,195294.41,Excellent,Region VII,2019-06-15,2
+95,BRW-1095,Juan Ramos,37,Government Worker,40956.47,Excellent,Region VII,2020-05-24,3
+96,BRW-1096,Rafael Bautista,44,Government Worker,74678.59,Excellent,Region X,2020-07-22,1
+97,BRW-1097,Sofia Go,40,Freelancer,105731.54,Fair,Region III,2020-03-21,1
+98,BRW-1098,Mark dela Cruz,52,Freelancer,16268.4,Excellent,Region X,2021-03-12,2
+99,BRW-1099,Jose Ortiz,31,Freelancer,127452.74,Fair,Region III,2020-10-27,2
+100,BRW-1100,Lucia Lim,42,Employee,135064.46,Good,Region III,2018-01-15,2
