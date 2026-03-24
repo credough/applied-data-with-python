@@ -1,0 +1,51 @@
+merchant_id,merchant_code,merchant_name,category,location,avg_transaction_value,monthly_transactions,registration_date,status
+1,MRC-1001,Jollibee,Food & Beverage,Region IV-A,16632.35,62,2019-06-25,active
+2,MRC-1002,SM Supermarket,Retail,NCR,14970.09,143,2019-08-12,inactive
+3,MRC-1003,National Bookstore,Electronics,Region III,28016.6,170,2016-05-02,inactive
+4,MRC-1004,Mercury Drug,Healthcare,Region IV-A,1903.39,128,2015-01-05,active
+5,MRC-1005,Grab,Transportation,Region III,25612.09,100,2019-06-11,active
+6,MRC-1006,Netflix PH,Entertainment,Region IV-A,6306.76,142,2016-11-09,active
+7,MRC-1007,Tutor PH,Education,Region VII,10646.33,50,2017-12-29,active
+8,MRC-1008,BDO,Financial Services,Region III,35012.91,113,2015-06-15,inactive
+9,MRC-1009,Ayala Land,Real Estate,Region X,4276.79,182,2018-12-13,active
+10,MRC-1010,Meralco,Utilities,Region IV-A,42562.34,25,2019-03-02,inactive
+11,MRC-1011,McDonald's,Food & Beverage,NCR,45884.62,138,2017-08-02,active
+12,MRC-1012,Robinsons Supermarket,Retail,Region VII,31539.92,142,2016-07-10,active
+13,MRC-1013,PowerMac Center,Electronics,Region X,3291.49,198,2016-12-20,suspended
+14,MRC-1014,Rose Pharmacy,Healthcare,Region X,47320.41,136,2019-03-19,active
+15,MRC-1015,Angkas,Transportation,Region X,23878.3,189,2016-03-24,active
+16,MRC-1016,Disney+,Entertainment,Region VII,1133.23,9,2019-04-23,active
+17,MRC-1017,Review Masters,Education,NCR,37418.92,195,2017-10-12,suspended
+18,MRC-1018,BPI,Financial Services,Region IV-A,49288.54,145,2015-08-30,suspended
+19,MRC-1019,SMDC,Real Estate,Region VII,41218.52,168,2015-04-25,active
+20,MRC-1020,Manila Water,Utilities,Region IV-A,26793.18,5,2015-10-29,suspended
+21,MRC-1021,Chowking,Food & Beverage,Region IV-A,46221.33,193,2020-02-18,suspended
+22,MRC-1022,Puregold,Retail,NCR,3578.81,124,2018-03-24,active
+23,MRC-1023,Villman Computers,Electronics,NCR,35199.49,62,2019-04-07,active
+24,MRC-1024,Watsons,Healthcare,Region VII,6116.05,100,2018-09-27,suspended
+25,MRC-1025,Move It,Transportation,Region III,12349.19,54,2015-07-31,active
+26,MRC-1026,Viu PH,Entertainment,Region III,7883.28,13,2015-11-27,active
+27,MRC-1027,Mapua Online,Education,Region X,38596.14,148,2018-10-05,inactive
+28,MRC-1028,Metrobank,Financial Services,Region VII,25566.32,154,2017-05-04,active
+29,MRC-1029,Filinvest,Real Estate,Region X,21043.26,139,2017-08-23,active
+30,MRC-1030,Maynilad,Utilities,Region VII,43757.84,5,2016-08-12,inactive
+31,MRC-1031,Mang Inasal,Food & Beverage,NCR,2264.76,189,2017-09-23,active
+32,MRC-1032,Walter Mart,Retail,NCR,33102.54,28,2015-01-19,inactive
+33,MRC-1033,Kimstore,Electronics,NCR,39063.09,43,2016-02-22,active
+34,MRC-1034,TGP Pharmacy,Healthcare,Region VII,14548.06,126,2020-05-02,inactive
+35,MRC-1035,Transportify,Transportation,Region VII,10102.72,167,2018-11-24,suspended
+36,MRC-1036,HBO Go,Entertainment,Region IV-A,14534.11,23,2019-09-28,inactive
+37,MRC-1037,Coursera PH,Education,Region IV-A,45736.99,199,2016-10-24,active
+38,MRC-1038,UnionBank,Financial Services,Region IV-A,37865.32,175,2020-06-09,suspended
+39,MRC-1039,Rockwell Land,Real Estate,Region X,19996.99,137,2019-03-15,suspended
+40,MRC-1040,Visayan Electric,Utilities,Region IV-A,19237.25,192,2020-06-07,inactive
+41,MRC-1041,KFC,Food & Beverage,Region IV-A,46282.63,71,2019-09-24,active
+42,MRC-1042,Ever Gotesco,Retail,Region III,18298.25,179,2015-10-25,active
+43,MRC-1043,Abenson,Electronics,Region X,31346.54,155,2016-03-10,inactive
+44,MRC-1044,Generika,Healthcare,Region X,1594.66,185,2015-04-27,inactive
+45,MRC-1045,Lalamove,Transportation,Region III,13911.45,42,2015-09-03,active
+46,MRC-1046,Prime Video,Entertainment,Region X,36753.25,150,2015-05-04,suspended
+47,MRC-1047,AHEAD Tutorial,Education,Region IV-A,4401.17,117,2015-06-27,inactive
+48,MRC-1048,Landbank,Financial Services,NCR,2834.31,192,2019-02-18,active
+49,MRC-1049,Megaworld,Real Estate,Region VII,39519.97,137,2017-10-11,active
+50,MRC-1050,VECO,Utilities,NCR,5923.74,97,2017-05-30,active
