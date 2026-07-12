@@ -43,7 +43,7 @@ python 01_etl_basics/pipeline.py
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | ETL Basics | ✅ Done |
-| 02 | SQL Queries | 🔄 In Progress |
+| 02 | SQL Queries | ✅ Done |
 | 03 | Pandas Transformations | 🔄 In Progress |
 | 04 | Pipeline Automation | ⏳ Upcoming |
 
