@@ -29,7 +29,7 @@ This repository documents my progression from Python fundamentals toward data. E
 Each folder is self-contained. To run any script:
 
 ```bash
-# Install dependencies
+# Install dependencies 
 pip install -r requirements.txt
 
 # Run a pipeline (sample)
@@ -42,7 +42,7 @@ python 01_etl_basics/pipeline.py
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | ETL Basics | ✅ Done |
+| 01 | ETL Basics | 🔄 In Progress |
 | 02 | SQL Queries | 🔄 In Progress |
 | 03 | Pandas Transformations | 🔄 In Progress |
 | 04 | Pipeline Automation | ⏳ Upcoming |
