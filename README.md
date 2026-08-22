@@ -29,7 +29,7 @@ This repository documents my progression from Python fundamentals toward data. E
 Each folder is self-contained. To run any script:
 
 ```bash
-# Install dependencies
+# Install dependencies 
 pip install -r requirements.txt
 
 # Run a pipeline (sample)
