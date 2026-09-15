@@ -1,0 +1,6 @@
+emp_id,first_name,last_name,department,salary,hire_date
+101, Alice , Smith ,Engineering,85400.50,2021-03-15
+102,BOB,Johnson,Marketing,62300.00,2019-11-01
+103, charlie , Brown ,Engineering,91200.75,2022-06-20
+104,Diana, Prince ,HR,54000.00,2018-01-10
+105,   EDWARD  ,Elric,Marketing,67800.25,2020-08-05
