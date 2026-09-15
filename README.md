@@ -46,9 +46,10 @@ python 01_etl_basics/pipeline.py
 | 02 | Basic SQL Queries | ✅ Done |
 | 03 | Intermediate SQL Queries | ✅ Done |
 | 04 | Scalar Functions | 🔄 In Progress |
-| 05 | Advance SQL Queries | 🔄 In Progress |
-| 06 | Pandas Transformations | 🔄 In Progress |
-| 07 | Pipeline Automation | 🔄 In Progress |
+| 05 | CTEs | 🔄 In Progress |
+| 06 | Advance SQL Queries | 🔄 In Progress |
+| 07 | Pandas Transformations | 🔄 In Progress |
+| 08 | Pipeline Automation | 🔄 In Progress |
 
 ---
 
