@@ -1,0 +1,3 @@
+-- Display the concatenated name of salesmen with the sum of their q1, q2, q3 sales (formatted) and their total years with the company. Include in the selection only those who had been with the company for 25 yrs and above.
+SELECT CONCAT(`First Name`,' ' , `Last Name`) AS salesman_name, FORMAT((Qtr1 + Qtr2 + Qtr3), 2) AS sales, timestampdiff(YEAR, Date_hired, CURRENT_DATE) AS Yrs_Service FROM sporting_goods
+WHERE timestampdiff(YEAR, Date_hired, CURRENT_DATE) >= 25
