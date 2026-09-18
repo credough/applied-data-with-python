@@ -1,0 +1,1 @@
+SELECT first_name, stipend, FORMAT(stipend, 6) AS formatted_stipend FROM students_data
