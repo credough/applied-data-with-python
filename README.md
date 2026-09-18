@@ -19,7 +19,7 @@ This repository documents my progression from Python fundamentals toward data. E
 - **Python** — core scripting language
 - **pandas** — data manipulation and transformation
 - **SQLAlchemy** — database interaction
-- **SQLite / PostgreSQL** — local and cloud databases
+- **SQLite / PostgreSQL / MySQL** — local and cloud databases
 - **SQL** — querying and aggregating data
 
 ---
