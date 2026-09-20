@@ -1,0 +1,6 @@
+project_id,first_name,last_name,score,start_date,proj_code,budget
+101,alex,smith,92,2021-06-15,dev-alpha,12000.50
+102,sarah,connor,88,2022-09-01,qa-beta,
+103,david,miller,65,2023-03-10,,8500.00
+104,emily,davis,98,2020-01-20,dev-gamma,15400.75
+105,brian,wilson,74,2024-02-14,ops-delta,
