@@ -1,0 +1,1 @@
+SELECT first_name, score, IF (score > 80, 'High Performance', 'Standard') FROM projects
