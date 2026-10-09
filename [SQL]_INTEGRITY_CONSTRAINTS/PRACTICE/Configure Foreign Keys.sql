@@ -1,0 +1,15 @@
+-- configure foreign keys
+ALTER TABLE sabado.order_details
+ADD CONSTRAINT FK_OrderDetails FOREIGN KEY (SKU) REFERENCES sabado.products (SKU)
+ON UPDATE CASCADE
+ON DELETE CASCADE;
+
+ALTER TABLE sabado.order_details
+ADD CONSTRAINT FK_details_orders FOREIGN KEY(OrderID) REFERENCES sabado.orders (OrderID)
+ON UPDATE CASCADE
+ON DELETE CASCADE;
+
+ALTER TABLE sabado.orders
+ADD CONSTRAINT FK_orders FOREIGN KEY(CustID) REFERENCES sabado.customers (CustID)
+ON DELETE SET NULL
+ON UPDATE CASCADE;
