@@ -1,4 +1,4 @@
--- 2. Display the client id and name of client together 
+-- 3. Display the client id and name of client together 
 -- with the invoice corresponding to the client. Display 
 -- the client info even if he didn’t make any purchase.
 
