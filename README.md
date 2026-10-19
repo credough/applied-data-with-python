@@ -42,7 +42,7 @@ python 01_etl_basics/pipeline.py
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | ETL Basics | 🔄 In Progress |
+| 01 | ETL Basics | ✅ Done |
 | 02 | Basic SQL Queries | ✅ Done |
 | 03 | Intermediate SQL Queries | ✅ Done |
 | 04 | Scalar Functions | ✅ Done |
