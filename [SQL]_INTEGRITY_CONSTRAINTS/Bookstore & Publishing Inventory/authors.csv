@@ -1,0 +1,10 @@
+AuthorID,FirstName,MidName,Surname,City,RoyaltyAdvance,AuthorMentor
+A1,Gabriel,Jose,Marquez,Manila,75000.00,
+A2,Haruki,Kenji,Murakami,Quezon City,60000.00,A1
+A3,Chimamanda,Ngozi,Adichie,Valenzuela,50000.00,A1
+A4,Kazuo,Tatsuo,Ishiguro,Pasig,80000.00,A2
+A5,Isabel,Carmen,Allende,Makati,45000.00,A2
+A6,George,Raymond,Martin,Taguig,95000.00,
+A7,Donna,Marie,Tartt,Mandaluyong,40000.00,A6
+A8,Neil,Richard,Gaiman,Caloocan,65000.00,A6
+A9,Zadie,Grace,Smith,Pasay,30000.00,
