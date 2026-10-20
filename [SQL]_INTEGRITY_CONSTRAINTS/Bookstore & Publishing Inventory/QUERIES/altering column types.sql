@@ -1,0 +1,30 @@
+use data;
+
+-- 1. Authors Table
+ALTER TABLE authors
+    MODIFY COLUMN AuthorID VARCHAR(10) NOT NULL,
+    MODIFY COLUMN FirstName VARCHAR(50),
+    MODIFY COLUMN MidName VARCHAR(50),
+    MODIFY COLUMN Surname VARCHAR(50),
+    MODIFY COLUMN City VARCHAR(50),
+    MODIFY COLUMN RoyaltyAdvance DECIMAL(10,2),
+    MODIFY COLUMN AuthorMentor VARCHAR(10) NULL;
+
+-- 2. Books Table
+ALTER TABLE books
+    MODIFY COLUMN BookCode VARCHAR(10) NOT NULL,
+    MODIFY COLUMN BookTitle VARCHAR(100),
+    MODIFY COLUMN Genre VARCHAR(50),
+    MODIFY COLUMN Price DECIMAL(10,2);
+
+-- 3. Sales Table
+ALTER TABLE sales
+    MODIFY COLUMN ReceiptNo INT NOT NULL,
+    MODIFY COLUMN AuthorID VARCHAR(10) NULL,
+    MODIFY COLUMN SaleDate DATE;
+
+-- 4. Sale Items Table (Both columns must be NOT NULL for composite PK)
+ALTER TABLE sale_items
+    MODIFY COLUMN ReceiptNo INT NOT NULL,
+    MODIFY COLUMN BookCode VARCHAR(10) NOT NULL,
+    MODIFY COLUMN Qty INT;
