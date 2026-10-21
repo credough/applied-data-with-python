@@ -8,8 +8,10 @@ SELECT s.ReceiptNo, s.SaleDate, b.Booktitle, si.Qty, b.Price, (si.Qty * b.Price)
 JOIN sale_items si ON s.ReceiptNo = si.ReceiptNo
 JOIN books b ON si.BookCode = b.BookCode
 
-
 -- Left Join (Inactive Authors): Display the AuthorID and Surname of all authors who have zero sales logged in the sales table.
+SELECT a.AuthorID, a.Surname FROM authors a
+LEFT JOIN sales s ON s.AuthorID = a.AuthorID
+WHERE s.ReceiptNo IS NULL;
 
 -- Left Join (Unsold Catalog Items): Display all book titles and their codes, showing all books even if they have never been ordered in sale_items.
 
