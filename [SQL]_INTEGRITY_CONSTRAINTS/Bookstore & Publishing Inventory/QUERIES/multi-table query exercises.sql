@@ -4,6 +4,10 @@ JOIN sales s ON a.AuthorID = s.AuthorID
 WHERE YEAR(saledate) = 2024;
 
 -- Multi-Table Line Total: Display each sale line showing ReceiptNo, SaleDate, BookTitle, Qty, Price, and calculated subtotal (Qty * Price) as SubTotal.
+SELECT s.ReceiptNo, s.SaleDate, b.Booktitle, si.Qty, b.Price, (si.Qty * b.Price) AS SubTotal FROM sales s
+JOIN sale_items si ON s.ReceiptNo = si.ReceiptNo
+JOIN books b ON si.BookCode = b.BookCode
+
 
 -- Left Join (Inactive Authors): Display the AuthorID and Surname of all authors who have zero sales logged in the sales table.
 
