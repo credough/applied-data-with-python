@@ -14,6 +14,8 @@ LEFT JOIN sales s ON s.AuthorID = a.AuthorID
 WHERE s.ReceiptNo IS NULL;
 
 -- Left Join (Unsold Catalog Items): Display all book titles and their codes, showing all books even if they have never been ordered in sale_items.
+SELECT b.booktitle, b.bookcode FROM books b
+LEFT JOIN sale_items si ON si.bookcode = b.bookcode;
 
 -- Invoice Total (Per Receipt): Display each author's AuthorID, ReceiptNo, and the computed Total Amount per Receipt.
 
