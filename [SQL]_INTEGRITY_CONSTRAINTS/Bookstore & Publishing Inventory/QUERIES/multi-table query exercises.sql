@@ -22,5 +22,9 @@ LEFT JOIN sale_items si ON si.bookcode = b.bookcode;
 -- Customer/Author Grand Total: Display each author's AuthorID, Surname, and their grand total sales volume (TotalRevenue) across all purchases, sorted from highest to lowest.
 
 -- Filter by Having: Count how many receipts each author has, and display only authors with more than 1 receipt.
+SELECT COUNT(sales.ReceiptNo) as no_of_receipts, authors.AuthorID, CONCAT(authors.Firstname,' ' ,authors.surname) AS full_name FROM authors
+JOIN sales ON sales.authorid = authors.authorid
+GROUP BY authors.authorID
+HAVING COUNT(sales.ReceiptNo) > 1
 
 -- Self-Join: Display the author's full name, author ID, mentor ID, and the mentor's full name (show authors even if they do not have a mentor).
