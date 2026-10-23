@@ -20,6 +20,12 @@ LEFT JOIN sale_items si ON si.bookcode = b.bookcode;
 -- Invoice Total (Per Receipt): Display each author's AuthorID, ReceiptNo, and the computed Total Amount per Receipt.
 
 -- Customer/Author Grand Total: Display each author's AuthorID, Surname, and their grand total sales volume (TotalRevenue) across all purchases, sorted from highest to lowest.
+SELECT a.authorid, a.surname, SUM(si.Qty * b.Price) AS TotalRevenue  FROM authors a
+JOIN sales s ON a.authorid = s.authorid
+JOIN sale_items si ON si.receiptno = s.receiptno
+JOIN books b ON b.bookcode = si.bookcode
+GROUP BY a.surname, a.authorid
+ORDER BY SUM(si.Qty * b.Price) DESC
 
 -- Filter by Having: Count how many receipts each author has, and display only authors with more than 1 receipt.
 SELECT COUNT(sales.ReceiptNo) as no_of_receipts, authors.AuthorID, CONCAT(authors.Firstname,' ' ,authors.surname) AS full_name FROM authors
