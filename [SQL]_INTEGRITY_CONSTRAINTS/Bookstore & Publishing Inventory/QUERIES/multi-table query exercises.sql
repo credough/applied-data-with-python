@@ -28,3 +28,5 @@ GROUP BY authors.authorID
 HAVING COUNT(sales.ReceiptNo) > 1
 
 -- Self-Join: Display the author's full name, author ID, mentor ID, and the mentor's full name (show authors even if they do not have a mentor).
+SELECT CONCAT(a.Firstname,' ' ,a.surname) AS authors_full_name, a.authorid, a.authormentor as mentorid, CONCAT(m.Firstname,' ' ,m.surname) as mentor_full_names FROM authors a
+LEFT JOIN authors m ON m.authorid = a.authormentor
